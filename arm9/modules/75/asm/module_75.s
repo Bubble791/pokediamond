@@ -1114,7 +1114,7 @@ _021E74AE:
 	ldr r0, [r0, #0x6c]
 	add r2, #1
 	add r3, sp, #0
-	bl FUN_0206F17C
+	bl Bag_GetFieldCursor
 	add r0, sp, #0
 	ldrb r0, [r0, #1]
 	cmp r0, #0
@@ -1139,7 +1139,7 @@ _021E74F2:
 	add r0, #0xc4
 	ldr r0, [r0]
 	ldr r0, [r0, #0x6c]
-	bl FUN_0206F18C
+	bl Bag_GetFieldPocket
 	mov r1, #0
 	mov r3, #0xc
 _021E7502:
@@ -1195,7 +1195,7 @@ _021E7540:
 	ldr r0, [r0, #0x6c]
 	lsr r2, r2, #0x18
 	lsr r3, r3, #0x18
-	bl FUN_0206F190
+	bl Bag_SetFieldCursor
 	add r4, r4, #1
 	add r5, #0xc
 	cmp r4, #8
@@ -1210,7 +1210,7 @@ _021E7568:
 	mul r1, r2
 	add r1, r7, r1
 	ldrb r1, [r1, #8]
-	bl FUN_0206F19C
+	bl Bag_SetFieldPocket
 _021E757E:
 	pop {r3, r4, r5, r6, r7, pc}
 	thumb_func_end MOD75_021E752C

@@ -3141,7 +3141,7 @@ _020369C6:
 	mov r1, #0x4
 	add r2, sp, #0x8
 	add r3, #0x1
-	bl FUN_0206F17C
+	bl Bag_GetFieldCursor
 	mov r0, #0x7e
 	add r2, sp, #0x8
 	lsl r0, r0, #0x2
@@ -3188,7 +3188,7 @@ FUN_02036A14: ; 0x02036A14
 	ldrb r3, [r3, #0x1]
 	ldr r0, [r0, #0x0]
 	mov r1, #0x4
-	bl FUN_0206F190
+	bl Bag_SetFieldCursor
 	mov r1, #0x7e
 	lsl r1, r1, #0x2
 	ldr r1, [r4, r1]

@@ -24,17 +24,17 @@ struct BagView
     u8 pocket;
 };
 
-struct UnkStruct_0206F164
+struct BagCursor
 {
-    u8 unk_00[8];
-    u8 unk_08[8];
-    u16 unk_10;
+    u8 field_src[8];
+    u8 field_pos[8];
+    u16 field_pocket;
     u8 filler_12[2];
-    u8 unk_14[5];
-    u8 unk_19[5];
-    u16 unk_1e;
-    u16 unk_20;
-    u16 unk_22;
+    u8 battle_src[5];
+    u8 battle_pos[5];
+    u16 battle_item;
+    u16 battle_page;
+    u16 battle_pocket;
 };
 
 u32 Sav2_Bag_sizeof(void);
@@ -62,18 +62,18 @@ void SortPocket(struct ItemSlot * slots, u32 count);
 struct BagView * CreateBagView(struct Bag * bag, const u8 * pockets, u32 heap_id);
 struct ItemSlot * Bag_GetPocketSlotN(struct Bag * bag, u32 pocket, u32 slot);
 struct Bag * Sav2_Bag_get(struct SaveBlock2 * sav2);
-struct UnkStruct_0206F164 * FUN_0206F164(u32 heap_id);
-void FUN_0206F17C(struct UnkStruct_0206F164 * a0, u32 a1, u8 * a2, u8 * a3);
-u16 FUN_0206F18C(struct UnkStruct_0206F164 * a0);
-void FUN_0206F190(struct UnkStruct_0206F164 * a0, u32 a1, u8 a2, u8 a3);
-void FUN_0206F19C(struct UnkStruct_0206F164 * a0, u16 a1);
-void FUN_0206F1A0(struct UnkStruct_0206F164 * a0, u32 a1, u8 * a2, u8 * a3);
-u16 FUN_0206F1AC(struct UnkStruct_0206F164 * a0);
-u16 FUN_0206F1B0(struct UnkStruct_0206F164 * a0);
-u16 FUN_0206F1B4(struct UnkStruct_0206F164 * a0);
-void FUN_0206F1B8(struct UnkStruct_0206F164 * a0, u32 a1, u8 a2, u8 a3);
-void FUN_0206F1C0(struct UnkStruct_0206F164 * a0);
-void FUN_0206F1E4(struct UnkStruct_0206F164 * a0, u16 a1, u16 a2);
-void FUN_0206F1EC(struct UnkStruct_0206F164 * a0, u16 a1);
+struct BagCursor * BagCursorAlloc(u32 heap_id);
+void Bag_GetFieldCursor(struct BagCursor * a0, u32 a1, u8 * a2, u8 * a3);
+u16 Bag_GetFieldPocket(struct BagCursor * a0);
+void Bag_SetFieldCursor(struct BagCursor * a0, u32 a1, u8 a2, u8 a3);
+void Bag_SetFieldPocket(struct BagCursor * a0, u16 a1);
+void Bag_GetBattleCursor(struct BagCursor * a0, u32 a1, u8 * a2, u8 * a3);
+u16 Bag_GetBattleLastItem(struct BagCursor * a0);
+u16 Bag_GetBattleLastPage(struct BagCursor * a0);
+u16 Bag_GetBattleLastPocket(struct BagCursor * a0);
+void Bag_SetBattleCursor(struct BagCursor * a0, u32 a1, u8 a2, u8 a3);
+void Bag_InitBattleCursor(struct BagCursor * a0);
+void Bag_SetBattleLastItem(struct BagCursor * a0, u16 a1, u16 a2);
+void Bag_SetBattleLastPocket(struct BagCursor * a0, u16 a1);
 
 #endif //POKEDIAMOND_BAG_H

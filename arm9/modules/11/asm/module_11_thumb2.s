@@ -33058,7 +33058,7 @@ _0223F598:
 	bl MOD11_02230218
 	ldrh r1, [r6]
 	ldrb r2, [r6, #2]
-	bl FUN_0206F1E4
+	bl Bag_SetBattleLastItem
 _0223F5D2:
 	ldrh r1, [r6]
 	mov r0, #0x4a

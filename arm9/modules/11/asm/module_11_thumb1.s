@@ -1039,7 +1039,7 @@ _0222DC42:
 	bl MOD11_0222FE94
 	add r0, r4, #0
 	bl MOD11_02230218
-	bl FUN_0206F1C0
+	bl Bag_InitBattleCursor
 	mov r0, #5
 	mov r1, #4
 	mov r2, #0

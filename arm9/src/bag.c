@@ -385,79 +385,79 @@ struct Bag * Sav2_Bag_get(struct SaveBlock2 * sav2)
     return (struct Bag *)SavArray_get(sav2, 3);
 }
 
-struct UnkStruct_0206F164 * FUN_0206F164(u32 heap_id)
+struct BagCursor * Bag_CursorAlloc(u32 heap_id)
 {
-    struct UnkStruct_0206F164 * ret = (struct UnkStruct_0206F164 *)AllocFromHeap(heap_id, sizeof(struct UnkStruct_0206F164));
-    MI_CpuClear16(ret, sizeof(struct UnkStruct_0206F164));
+    struct BagCursor * ret = (struct BagCursor *)AllocFromHeap(heap_id, sizeof(struct BagCursor));
+    MI_CpuClear16(ret, sizeof(struct BagCursor));
     return ret;
 }
 
-void FUN_0206F17C(struct UnkStruct_0206F164 * a0, u32 a1, u8 * a2, u8 * a3)
+void Bag_GetFieldCursor(struct BagCursor * a0, u32 a1, u8 * a2, u8 * a3)
 {
-    *a2 = a0->unk_08[a1];
-    *a3 = a0->unk_00[a1];
+    *a2 = a0->field_pos[a1];
+    *a3 = a0->field_src[a1];
 }
 
-u16 FUN_0206F18C(struct UnkStruct_0206F164 * a0)
+u16 Bag_GetFieldPocket(struct BagCursor * a0)
 {
-    return a0->unk_10;
+    return a0->field_pocket;
 }
 
-void FUN_0206F190(struct UnkStruct_0206F164 * a0, u32 a1, u8 a2, u8 a3)
+void Bag_SetFieldCursor(struct BagCursor * a0, u32 a1, u8 a2, u8 a3)
 {
-    a0->unk_08[a1] = a2;
-    a0->unk_00[a1] = a3;
+    a0->field_pos[a1] = a2;
+    a0->field_src[a1] = a3;
 }
 
-void FUN_0206F19C(struct UnkStruct_0206F164 * a0, u16 a1)
+void Bag_SetFieldPocket(struct BagCursor * a0, u16 a1)
 {
-    a0->unk_10 = a1;
+    a0->field_pocket = a1;
 }
 
-void FUN_0206F1A0(struct UnkStruct_0206F164 * a0, u32 a1, u8 * a2, u8 * a3)
+void Bag_GetBattleCursor(struct BagCursor * a0, u32 a1, u8 * a2, u8 * a3)
 {
-    *a2 = a0->unk_19[a1];
-    *a3 = a0->unk_14[a1];
+    *a2 = a0->battle_pos[a1];
+    *a3 = a0->battle_src[a1];
 }
 
-u16 FUN_0206F1AC(struct UnkStruct_0206F164 * a0)
+u16 Bag_GetBattleLastItem(struct BagCursor * a0)
 {
-    return a0->unk_1e;
+    return a0->battle_item;
 }
 
-u16 FUN_0206F1B0(struct UnkStruct_0206F164 * a0)
+u16 Bag_GetBattleLastPage(struct BagCursor * a0)
 {
-    return a0->unk_20;
+    return a0->battle_page;
 }
 
-u16 FUN_0206F1B4(struct UnkStruct_0206F164 * a0)
+u16 Bag_GetBattleLastPocket(struct BagCursor * a0)
 {
-    return a0->unk_22;
+    return a0->battle_pocket;
 }
 
-void FUN_0206F1B8(struct UnkStruct_0206F164 * a0, u32 a1, u8 a2, u8 a3)
+void Bag_SetBattleCursor(struct BagCursor * a0, u32 a1, u8 a2, u8 a3)
 {
-    a0->unk_19[a1] = a2;
-    a0->unk_14[a1] = a3;
+    a0->battle_pos[a1] = a2;
+    a0->battle_src[a1] = a3;
 }
 
-void FUN_0206F1C0(struct UnkStruct_0206F164 * a0)
+void Bag_InitBattleCursor(struct BagCursor * a0)
 {
     u32 i;
     for (i = 0; i < 5; i++)
     {
-        FUN_0206F1B8(a0, i, 0, 0);
+        Bag_SetBattleCursor(a0, i, 0, 0);
     }
-    FUN_0206F1EC(a0, 0);
+    Bag_SetBattleLastPocket(a0, 0);
 }
 
-void FUN_0206F1E4(struct UnkStruct_0206F164 * a0, u16 a1, u16 a2)
+void Bag_SetBattleLastItem(struct BagCursor * a0, u16 a1, u16 a2)
 {
-    a0->unk_1e = a1;
-    a0->unk_20 = a2;
+    a0->battle_item = a1;
+    a0->battle_page = a2;
 }
 
-void FUN_0206F1EC(struct UnkStruct_0206F164 * a0, u16 a1)
+void Bag_SetBattleLastPocket(struct BagCursor * a0, u16 a1)
 {
-    a0->unk_22 = a1;
+    a0->battle_pocket = a1;
 }

@@ -292,7 +292,7 @@ _02088C9A:
 	mov r1, #0x4
 	add r2, sp, #0x4
 	add r3, #0x1
-	bl FUN_0206F17C
+	bl Bag_GetFieldCursor
 	add r2, sp, #0x4
 	ldrb r1, [r2, #0x1]
 	add r3, r6, #0x2
@@ -335,7 +335,7 @@ _02088CF2:
 	ldrb r3, [r3, #0x1]
 	ldr r0, [r4, #0xc]
 	mov r1, #0x4
-	bl FUN_0206F190
+	bl Bag_SetFieldCursor
 	ldr r0, [r4, #0x18]
 	bl FreeToHeap
 	mov r0, #0x0
