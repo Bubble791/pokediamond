@@ -1582,7 +1582,7 @@
 .extern FUN_02024EC0
 .extern FUN_02024ECC
 .extern FUN_02024ED8
-.extern FUN_02024EE8
+.extern GetRivalName
 .extern FUN_02024EF4
 .extern FUN_02024F0C
 .extern FUN_02024F18

@@ -75,8 +75,8 @@ FUN_02024ED8: ; 0x02024ED8
 	add r0, r0, r1
 	pop {r3, pc}
 
-	thumb_func_start FUN_02024EE8
-FUN_02024EE8: ; 0x02024EE8
+	thumb_func_start GetRivalName
+GetRivalName: ; 0x02024EE8
 	ldr r1, _02024EF0 ; =0x00000724
 	add r0, r0, r1
 	bx lr

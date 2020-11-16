@@ -51,14 +51,28 @@ union TrainerMon
 #define TRTYPE_MON_ITEM 2
 #define TRTYPE_MON_ITEM_MOVES 3
 
+enum Trainer_Data
+{
+    DATA_TRAINER_TYPE,
+    DATA_TRAINER_CLASS,
+    DATA_TRAINER_GRAPHIC,
+    DATA_TRAINER_POKE_COUNT,
+    DATA_TRAINER_ITEM1,
+    DATA_TRAINER_ITEM2,
+    DATA_TRAINER_ITEM3,
+    DATA_TRAINER_ITEM4,
+    DATA_TRAINER_AI_BIT,
+    DATA_TRAINER_FIGHT_TYPE,
+};
+
 struct TrainerData
 {
     u8 trainerType;
     u8 trainerClass;
-    u8 unk_2;
+    u8 trainerGraphic;
     u8 npoke;
     u16 items[4];
-    u32 unk_C;
+    u32 aiBit;
     u32 doubleBattle;
 };
 

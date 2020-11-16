@@ -10,7 +10,7 @@
 #pragma thumb on
 
 extern void * FUN_02024EC0(struct SaveBlock2 *);
-extern u16 * FUN_02024EE8(void *);
+extern u16 * GetRivalName(void *);
 
 // Loads all battle opponents, including multi-battle partner if exists.
 void EnemyTrainerSet_Init(struct BattleSetupStruct * enemies, struct SaveBlock2 * sav2, u32 heap_id)
@@ -23,7 +23,7 @@ void EnemyTrainerSet_Init(struct BattleSetupStruct * enemies, struct SaveBlock2 
 
     // FIXME: String formatting in files/msgdata/msg/narc_0559.txt is abnormal.
     msgData = NewMsgDataFromNarc(1, NARC_MSGDATA_MSG, 559, heap_id);
-    rivalName = FUN_02024EE8(FUN_02024EC0(sav2));
+    rivalName = GetRivalName(FUN_02024EC0(sav2));
     for (i = 0; i < 4; i++)
     {
         if (enemies->trainer_idxs[i] != 0)
@@ -47,7 +47,7 @@ void EnemyTrainerSet_Init(struct BattleSetupStruct * enemies, struct SaveBlock2 
     DestroyMsgData(msgData);
 }
 
-s32 TrainerData_GetAttr(u32 tr_idx, u32 attr_no)
+s32 TrainerData_GetAttr(u32 tr_idx, u32 attr_no)//
 {
     struct TrainerDataLoaded trainer;
     s32 ret;
@@ -55,29 +55,29 @@ s32 TrainerData_GetAttr(u32 tr_idx, u32 attr_no)
     TrainerData_ReadTrData(tr_idx, &trainer.data);
     switch (attr_no)
     {
-    case 0:
+    case DATA_TRAINER_TYPE:
         ret = trainer.data.trainerType;
         break;
-    case 1:
+    case DATA_TRAINER_CLASS:
         ret = trainer.data.trainerClass;
         break;
-    case 2:
-        ret = trainer.data.unk_2;
+    case DATA_TRAINER_GRAPHIC:
+        ret = trainer.data.trainerGraphic;
         break;
-    case 3:
+    case DATA_TRAINER_POKE_COUNT:
         ret = trainer.data.npoke;
         break;
-    case 4:
-    case 5:
-    case 6:
-    case 7:
+    case DATA_TRAINER_ITEM1:
+    case DATA_TRAINER_ITEM2:
+    case DATA_TRAINER_ITEM3:
+    case DATA_TRAINER_ITEM4:
         attr_no -= 4;
         ret = trainer.data.items[attr_no];
         break;
-    case 8:
-        ret = (s32)trainer.data.unk_C;
+    case DATA_TRAINER_AI_BIT:
+        ret = (s32)trainer.data.aiBit;
         break;
-    case 9:
+    case DATA_TRAINER_FIGHT_TYPE:
         ret = (s32)trainer.data.doubleBattle;
         break;
     }
