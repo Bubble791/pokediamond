@@ -385,7 +385,7 @@ struct Bag * Sav2_Bag_get(struct SaveBlock2 * sav2)
     return (struct Bag *)SavArray_get(sav2, 3);
 }
 
-struct BagCursor * Bag_CursorAlloc(u32 heap_id)
+struct BagCursor * BagCursorAlloc(u32 heap_id)
 {
     struct BagCursor * ret = (struct BagCursor *)AllocFromHeap(heap_id, sizeof(struct BagCursor));
     MI_CpuClear16(ret, sizeof(struct BagCursor));
