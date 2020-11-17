@@ -33,6 +33,7 @@ extern void FUN_0200CCF8(void *, u8);
 extern void FUN_02019178(void *);
 extern void ListMenu_dtor(void *);
 extern void FUN_02019658(void*,void*,u16,u16,u16,u16,u16,u16,u16,u16);
+extern u8 UNK_020ECAC8[];
 
 struct UnkStruct_02001B80 *InitMultiChoiceMenu(
     struct UnkStruct_02001B82 *data, u8 x, u8 y, u8 pos, u8 mode, u32 cancel)
@@ -461,5 +462,5 @@ void CloseYesNoMenu(struct UnkStruct_02001B80 *unkStruct, u32 heap)
 
 void FUN_02002218(void *a0, u32 a1, u32 a2)
 {
-    FUN_02019658(a0, (void *)0x020ECAC8, 0, 0, 8, 16, a1, a2, 8, 16);
+    FUN_02019658(a0, (void *)UNK_020ECAC8, 0, 0, 8, 16, a1, a2, 8, 16);
 }
