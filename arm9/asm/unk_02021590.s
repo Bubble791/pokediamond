@@ -211,7 +211,7 @@ FUN_020216EC: ; 0x020216EC
 	add r1, r4, #0x0
 	bl AllocFromHeap
 	str r0, [r5, #0x10]
-	ldr r0, _02021718 ; =FUN_02021774
+	ldr r0, _02021718 ; =FUN_0202181C
 	add r3, r4, #0x0
 	str r0, [r5, #0x4]
 	ldr r0, [r5, #0x10]
@@ -222,7 +222,7 @@ FUN_020216EC: ; 0x020216EC
 	bl NARC_ReadFromMember
 	pop {r3-r5, pc}
 	.balign 4
-_02021718: .word FUN_02021774
+_02021718: .word FUN_0202181C
 
 	thumb_func_start FUN_0202171C
 FUN_0202171C: ; 0x0202171C
@@ -262,22 +262,11 @@ FUN_0202174C: ; 0x0202174C
 	thumb_func_start FUN_02021750
 FUN_02021750: ; 0x02021750
 	push {r3, lr}
-	ldr r3, [r0, #0x64]
-	cmp r1, r3
-	bhi _02021764
 	sub r1, r1, #0x1
 	lsl r1, r1, #0x10
 	ldr r3, [r0, #0x4]
 	lsr r1, r1, #0x10
 	blx r3
-	pop {r3, pc}
-_02021764:
-	add r0, r2, #0x0
-	mov r1, #0x0
-	add r0, #0x80
-	strb r1, [r0, #0x0]
-	add r2, #0x81
-	strb r1, [r2, #0x0]
 	pop {r3, pc}
 	.balign 4
 
@@ -501,8 +490,15 @@ _02021920: .word 0x0000FFFE
 
 	thumb_func_start FUN_02021924
 FUN_02021924: ; 0x02021924
+	mov r2, #0xfd
+	lsl r2, r2, #0x1
+	cmp r1, r2
+	bhi _fonts
 	ldr r0, [r0, #0x74]
 	ldrb r0, [r0, r1]
+	bx lr
+_fonts:
+	mov r0, #12
 	bx lr
 	.balign 4
 

@@ -1,3 +1,7 @@
+
+
+# Please delete files\graphic\font.narc before use
+
 # Pokémon Diamond
 
 [![Build Status](https://travis-ci.com/pret/pokediamond.svg?branch=master)](https://travis-ci.com/pret/pokediamond)
