@@ -1565,7 +1565,7 @@ _02212A9A:
 	ldr r1, _02212B34 ; =0x02216310
 	ldr r2, _02212B38 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -1627,7 +1627,7 @@ MOD56_02212B3C: ; 0x02212B3C
 	ldr r1, _02212B7C ; =0x022162F8
 	ldr r2, _02212B80 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -1727,7 +1727,7 @@ MOD56_02212BE8: ; 0x02212BE8
 	ldr r1, _02212C48 ; =0x02216310
 	ldr r2, _02212C4C ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -1786,7 +1786,7 @@ _02212C74:
 	ldr r1, _02212CC4 ; =0x02216310
 	ldr r2, _02212CC8 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -2378,7 +2378,7 @@ MOD56_022130F4: ; 0x022130F4
 	ldr r1, _02213134 ; =0x02216308
 	ldr r2, _02213138 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -4575,7 +4575,7 @@ MOD56_02214238: ; 0x02214238
 	ldr r1, _02214284 ; =0x02216308
 	ldr r2, _02214288 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -4623,7 +4623,7 @@ _022142C0:
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0
 	mov r1, #0xf6
 	mvn r0, r0
@@ -4968,7 +4968,7 @@ MOD56_02214520: ; 0x02214520
 	ldr r1, _02214560 ; =0x02216308
 	ldr r2, _02214564 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -5013,7 +5013,7 @@ MOD56_02214568: ; 0x02214568
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _022145A6:
 	mov r4, #1
 _022145A8:
@@ -6212,7 +6212,7 @@ MOD56_02214F0C: ; 0x02214F0C
 	ldr r1, _02214F4C ; =0x02216308
 	ldr r2, _02214F50 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -6251,7 +6251,7 @@ MOD56_02214F54: ; 0x02214F54
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _02214F86:
 	mov r0, #0x3b
 	mov r1, #0x15
@@ -6317,7 +6317,7 @@ MOD56_02214FD8: ; 0x02214FD8
 	ldr r1, _02215018 ; =0x02216308
 	ldr r2, _0221501C ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -6356,7 +6356,7 @@ MOD56_02215020: ; 0x02215020
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _02215052:
 	mov r0, #0x3b
 	mov r1, #0x2c
@@ -7646,7 +7646,7 @@ MOD56_02215A8C: ; 0x02215A8C
 	ldr r1, _02215ACC ; =0x02216308
 	ldr r2, _02215AD0 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -7831,7 +7831,7 @@ _02215BF0:
 	ldr r1, _02215C28 ; =0x02216308
 	ldr r2, _02215C2C ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -7877,7 +7877,7 @@ _02215C64:
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	add r0, r5, #0
 	mov r1, #0x40
 	mov r2, #0
@@ -7895,7 +7895,7 @@ _02215C84:
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	add r0, r5, #0
 	bl MOD56_02213030
 	b _02215D18
@@ -7985,7 +7985,7 @@ MOD56_02215D20: ; 0x02215D20
 	ldr r1, _02215D60 ; =0x02216308
 	ldr r2, _02215D64 ; =0x000001D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x5f
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -8013,7 +8013,7 @@ MOD56_02215D68: ; 0x02215D68
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	add r0, r5, #0
 	mov r1, #0x40
 	mov r2, #0
@@ -8031,7 +8031,7 @@ _02215D96:
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	mov r1, #0x36
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	add r0, r5, #0
 	bl MOD56_02213030
 	b _02215E6A

@@ -2039,7 +2039,7 @@ _0222E4D0:
 	add r0, sp, #0x34
 	mov r1, #8
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	mov r2, #0x1a
 	ldr r1, [sp, #0x1c]
 	lsl r2, r2, #4
@@ -5049,7 +5049,7 @@ _0222FCA2:
 	mov r0, #0x1a
 	lsl r0, r0, #4
 	ldr r0, [r4, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	add r1, r0, #0
 	mov r0, #1
 	mvn r0, r0

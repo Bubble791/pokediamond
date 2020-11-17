@@ -770,7 +770,7 @@ _02035614:
 	mov r2, #0x4
 	lsl r3, r3, #0x18
 	lsr r3, r3, #0x18
-	bl FUN_02001B8C
+	bl InitMultiChoiceMenu
 	str r0, [r4, #0x20]
 	add r0, r4, #0x0
 	bl FUN_02019220
@@ -1108,15 +1108,15 @@ FUN_020358E4: ; 0x020358E4
 	bl FUN_0204652C
 	add r5, r0, #0x0
 	ldr r0, [r5, #0x20]
-	bl FUN_02001E5C
+	bl ChoiceMenuGetCursor
 	add r6, r0, #0x0
 	mov r1, #0x5e
 	ldr r0, [r5, #0x20]
 	lsl r1, r1, #0x4
-	bl FUN_02001D2C
+	bl ChoiceMenu_HandleInput_SE
 	str r0, [r5, #0x2c]
 	ldr r0, [r5, #0x20]
-	bl FUN_02001E5C
+	bl ChoiceMenuGetCursor
 	strh r0, [r5, #0x28]
 	ldrh r1, [r5, #0x28]
 	cmp r6, r1

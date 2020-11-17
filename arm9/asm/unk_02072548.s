@@ -549,7 +549,7 @@ _0207291E:
 	add r0, sp, #0x18
 	mov r1, #0x8
 	add r3, r2, #0x0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	ldr r1, _02072958 ; =0x000006FC
 	str r0, [r5, r1]
 	add sp, #0x24
@@ -1741,7 +1741,7 @@ FUN_020732CC: ; 0x020732CC
 	ldr r1, _020732EC ; =UNK_020F96EC
 	mov r2, #0x1
 	mov r3, #0xe
-	bl FUN_02002198
+	bl InitYesNoMenu
 	ldr r1, _020732F0 ; =0x000006FC
 	str r0, [r4, r1]
 	add sp, #0x4

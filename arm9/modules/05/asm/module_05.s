@@ -16968,7 +16968,7 @@ MOD05_021EFD40: ; 0x021EFD40
 	ldr r0, [r0, #8]
 	ldr r2, _021EFD78 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x44]
 	mov r0, #3
 	str r0, [r4, #0x48]
@@ -17059,7 +17059,7 @@ MOD05_021EFDF0: ; 0x021EFDF0
 	ldr r0, [r0, #8]
 	ldr r2, _021EFE28 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x44]
 	mov r0, #5
 	str r0, [r4, #0x48]
@@ -17125,7 +17125,7 @@ MOD05_021EFE70: ; 0x021EFE70
 	ldr r0, [r0, #8]
 	ldr r2, _021EFEA8 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x44]
 	mov r0, #7
 	str r0, [r4, #0x48]
@@ -17372,7 +17372,7 @@ MOD05_021F0080: ; 0x021F0080
 	ldr r0, [r0, #8]
 	ldr r2, _021F00B8 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x44]
 	mov r0, #0xb
 	str r0, [r4, #0x48]

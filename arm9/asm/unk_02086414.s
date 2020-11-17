@@ -720,7 +720,7 @@ _020868DE:
 	add r0, sp, #0x18
 	mov r1, #0x8
 	add r3, r2, #0x0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	str r0, [r5, #0x48]
 	add sp, #0x24
 	pop {r4-r7, pc}

@@ -133,7 +133,7 @@ FUN_02073DF4: ; 0x02073DF4
 	add r0, sp, #0x8
 	mov r1, #0x8
 	add r3, r2, #0x0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	ldr r1, _02073EB4 ; =0x000006FC
 	str r0, [r5, r1]
 	mov r0, #0xd
@@ -445,7 +445,7 @@ FUN_020740AC: ; 0x020740AC
 	add r0, sp, #0x8
 	mov r1, #0x8
 	add r3, r2, #0x0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	ldr r1, _0207416C ; =0x000006FC
 	str r0, [r5, r1]
 	mov r0, #0xd

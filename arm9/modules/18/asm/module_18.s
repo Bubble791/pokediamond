@@ -255,7 +255,7 @@ MOD18_02239858: ; 0x02239858
 	cmp r0, #0
 	beq _02239892
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _02239892:
 	bl FUN_0204F7FC
 _02239896:
@@ -1133,7 +1133,7 @@ MOD18_02239EFC: ; 0x02239EFC
 	cmp r0, #0
 	beq _02239F12
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _02239F12:
 	ldr r1, _02239F2C ; =0x02251380
 	ldr r0, _02239F30 ; =0x000007E4
@@ -1223,7 +1223,7 @@ MOD18_02239F98: ; 0x02239F98
 	ldr r0, [r0]
 	mov r3, #0xb
 	ldr r0, [r0, #8]
-	bl FUN_02002198
+	bl InitYesNoMenu
 	ldr r2, _0223A044 ; =0x02251380
 	ldr r1, _0223A050 ; =0x000007E4
 	ldr r3, [r2]
@@ -25128,7 +25128,7 @@ MOD18_022457D4: ; 0x022457D4
 	cmp r0, #0
 	beq _022457E6
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _022457E6:
 	add r0, r5, #0
 	bl FUN_0200CAB4
@@ -25147,7 +25147,7 @@ MOD18_022457F8: ; 0x022457F8
 	cmp r0, #0
 	beq _0224580A
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _0224580A:
 	add r0, r4, #0
 	mov r2, #0
@@ -25227,7 +25227,7 @@ _02245898:
 	ldr r1, _022459E0 ; =0x022504F8
 	ldr r2, _022459E4 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #4]
 	mov r0, #2
 	str r0, [r4, #0xc]
@@ -25262,7 +25262,7 @@ _022458D4:
 	ldr r1, _022459E0 ; =0x022504F8
 	ldr r2, _022459E4 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #4]
 	mov r0, #4
 	str r0, [r4, #0xc]
@@ -25302,7 +25302,7 @@ _0224592A:
 	ldr r1, _022459E0 ; =0x022504F8
 	ldr r2, _022459E4 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #4]
 	mov r0, #6
 	str r0, [r4, #0xc]
@@ -25601,7 +25601,7 @@ MOD18_02245B1C: ; 0x02245B1C
 	add r0, sp, #0x10
 	mov r1, #8
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	add sp, #0x1c
 	pop {r4, r5, r6, r7, pc}
 	thumb_func_end MOD18_02245B1C
@@ -25669,7 +25669,7 @@ _02245C14:
 	ldr r1, _02245E08 ; =0x022504F8
 	ldr r2, _02245E0C ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #4]
 	mov r0, #2
 	str r0, [r4, #0xc]
@@ -25715,7 +25715,7 @@ _02245C7C:
 	ldr r1, _02245E08 ; =0x022504F8
 	ldr r2, _02245E0C ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #4]
 	mov r0, #5
 	str r0, [r4, #0xc]
@@ -27379,7 +27379,7 @@ _022469E0:
 	ldr r1, _02246AD8 ; =0x022504F8
 	ldr r2, _02246ADC ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #8]
 	mov r0, #6
 	str r0, [r4, #0xc]
@@ -27645,7 +27645,7 @@ MOD18_02246C10: ; 0x02246C10
 	cmp r0, #0
 	beq _02246C28
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _02246C28:
 	add r0, r5, #0
 	bl FUN_0200CAB4
@@ -29617,7 +29617,7 @@ MOD18_02247B60: ; 0x02247B60
 	cmp r0, #0
 	beq _02247B76
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0
 	str r0, [r4, #0x24]
 _02247B76:
@@ -30583,7 +30583,7 @@ _0224830C:
 	ldr r0, [r0, #8]
 	ldr r2, _022484D4 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x24]
 	add r0, r4, #0
 	mov r1, #0x14
@@ -30937,7 +30937,7 @@ _022485F6:
 	cmp r0, #0
 	beq _0224861E
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0
 	str r0, [r4, #0x24]
 _0224861E:
@@ -31095,7 +31095,7 @@ MOD18_02248740: ; 0x02248740
 	cmp r0, #0
 	beq _02248756
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0
 	str r0, [r4, #0x20]
 _02248756:
@@ -31535,7 +31535,7 @@ _02248AAE:
 	ldr r0, [r0, #8]
 	ldr r2, _02248D94 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x20]
 	b _02248DB6
 _02248AD8:
@@ -31664,7 +31664,7 @@ _02248BC2:
 	ldr r0, [r0, #8]
 	ldr r2, _02248D94 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x20]
 	b _02248DB6
 _02248BEC:
@@ -31894,7 +31894,7 @@ _02248DB6:
 	cmp r0, #0
 	beq _02248DDE
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0
 	str r0, [r4, #0x20]
 _02248DDE:
@@ -33045,7 +33045,7 @@ _022495EE:
 	mov r2, #4
 	lsl r3, r3, #0x18
 	lsr r3, r3, #0x18
-	bl FUN_02001B8C
+	bl InitMultiChoiceMenu
 	str r0, [r5, #0x54]
 	mov r0, #0
 	str r0, [r5, #0x48]
@@ -33225,17 +33225,17 @@ MOD18_022497C8: ; 0x022497C8
 	push {r3, r4, r5, lr}
 	add r4, r1, #0
 	ldr r0, [r4, #0x54]
-	bl FUN_02001E5C
+	bl ChoiceMenuGetCursor
 	add r5, r0, #0
 	mov r1, #0x5e
 	ldr r0, [r4, #0x54]
 	lsl r1, r1, #4
-	bl FUN_02001D2C
+	bl ChoiceMenu_HandleInput_SE
 	mov r1, #0x8f
 	lsl r1, r1, #2
 	str r0, [r4, r1]
 	ldr r0, [r4, #0x54]
-	bl FUN_02001E5C
+	bl ChoiceMenuGetCursor
 	mov r2, #0x8e
 	lsl r2, r2, #2
 	strh r0, [r4, r2]
@@ -35073,7 +35073,7 @@ MOD18_0224A710: ; 0x0224A710
 	ldr r0, [r0, #8]
 	ldr r2, _0224A744 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x5c]
 	ldr r0, _0224A748 ; =0x00000246
 	mov r1, #0xc
@@ -35224,7 +35224,7 @@ MOD18_0224A844: ; 0x0224A844
 	ldr r0, [r0, #8]
 	ldr r2, _0224A878 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x5c]
 	ldr r0, _0224A87C ; =0x00000246
 	mov r1, #1
@@ -35276,7 +35276,7 @@ MOD18_0224A8AC: ; 0x0224A8AC
 	cmp r0, #0
 	beq _0224A8C0
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _0224A8C0:
 	ldr r0, [r5, #0x68]
 	bl String_dtor
@@ -35901,7 +35901,7 @@ _0224ADE8:
 	cmp r0, #0
 	beq _0224ADF4
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _0224ADF4:
 	add r0, r5, #0
 	bl MOD18_02249A64
@@ -37895,7 +37895,7 @@ _0224BE0A:
 	ldr r0, [r0, #8]
 	ldr r2, _0224BE80 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #8]
 	mov r0, #1
 	str r0, [r4]
@@ -37948,7 +37948,7 @@ MOD18_0224BE84: ; 0x0224BE84
 	cmp r0, #0
 	beq _0224BE96
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _0224BE96:
 	add r0, r4, #0
 	bl FreeToHeap
@@ -40208,7 +40208,7 @@ _0224D0DA:
 	ldr r0, [r0, #8]
 	ldr r2, _0224D1EC ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x5c]
 	ldr r0, _0224D1D8 ; =0x00000246
 	mov r1, #0xe

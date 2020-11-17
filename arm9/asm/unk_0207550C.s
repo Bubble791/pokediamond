@@ -3285,7 +3285,7 @@ _020770DC:
 	add r0, sp, #0x8
 	mov r1, #0x8
 	add r3, r2, #0x0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	ldr r1, _0207710C ; =0x000006FC
 	str r0, [r4, r1]
 	add sp, #0x14
@@ -3301,7 +3301,7 @@ FUN_02077110: ; 0x02077110
 	add r5, r0, #0x0
 	ldr r0, _0207722C ; =0x000006FC
 	ldr r0, [r5, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	add r4, r0, #0x0
 	mov r0, #0x1
 	mvn r0, r0

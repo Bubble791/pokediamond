@@ -299,7 +299,7 @@ _021E1CA8:
 	ldrb r1, [r1]
 	add r0, #0xa4
 	mov r2, #4
-	bl FUN_02001C34
+	bl MultiChoiceMenu2
 	add r1, r4, #0
 	add r1, #0xb0
 	str r0, [r1]
@@ -489,7 +489,7 @@ _021E1E74:
 	add r0, r4, #0
 	add r0, #0xb0
 	ldr r0, [r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	mov r1, #1
 	mvn r1, r1
 	cmp r0, r1
@@ -1653,7 +1653,7 @@ _021E270A:
 	ldrb r1, [r1]
 	add r0, #0xa4
 	mov r2, #4
-	bl FUN_02001C34
+	bl MultiChoiceMenu2
 	add r1, r5, #0
 	add r1, #0xb0
 	str r0, [r1]

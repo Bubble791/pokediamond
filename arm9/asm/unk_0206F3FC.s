@@ -750,7 +750,7 @@ FUN_0206F8F4: ; 0x0206F8F4
 	add r4, r0, #0x0
 	ldr r0, _0206F974 ; =0x000006FC
 	ldr r0, [r4, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	add r2, r0, #0x0
 	mov r0, #0x1
 	mvn r0, r0
@@ -4719,7 +4719,7 @@ FUN_020718CC: ; 0x020718CC
 	ldr r0, _0207193C ; =0x000006FC
 	add r4, r1, #0x0
 	ldr r0, [r5, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	add r2, r0, #0x0
 	mov r0, #0x1
 	mvn r0, r0

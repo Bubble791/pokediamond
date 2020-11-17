@@ -257,7 +257,7 @@ _02087158:
 	b _02087232
 _020871AA:
 	ldr r0, [r4, #0x48]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	sub r1, r5, #0x3
 	cmp r0, r1
 	beq _020871BE
@@ -542,7 +542,7 @@ _020873AC:
 	b _02087486
 _020873FE:
 	ldr r0, [r4, #0x48]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	sub r1, r5, #0x3
 	cmp r0, r1
 	beq _02087412

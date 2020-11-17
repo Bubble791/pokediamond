@@ -2040,7 +2040,7 @@ _020498DC:
 	ldr r0, [r5, #0x8]
 	ldr r1, _02049ABC ; =UNK_020F46D8
 	ldr r2, _02049AB8 ; =0x000003D9
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x3c]
 	mov r0, #0x2
 	str r0, [r4, #0x0]

@@ -1502,7 +1502,7 @@ MOD54_021D8120: ; 0x021D8120
 	ldr r1, _021D814C ; =0x021D9678
 	mov r2, #0x1f
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x32
 	lsl r1, r1, #4
 	str r0, [r5, r1]
@@ -1767,7 +1767,7 @@ MOD54_021D8340: ; 0x021D8340
 	ldr r1, _021D836C ; =0x021D9678
 	mov r2, #0x1f
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x32
 	lsl r1, r1, #4
 	str r0, [r5, r1]
@@ -2128,7 +2128,7 @@ MOD54_021D8600: ; 0x021D8600
 	ldr r1, _021D862C ; =0x021D9678
 	mov r2, #0x1f
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x32
 	lsl r1, r1, #4
 	str r0, [r5, r1]
@@ -2537,7 +2537,7 @@ _021D891A:
 	cmp r0, #0
 	beq _021D89B8
 	mov r1, #0x33
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0x32
 	mov r1, #0
 	lsl r0, r0, #4
@@ -2563,7 +2563,7 @@ _021D8948:
 	cmp r0, #0
 	beq _021D89B8
 	mov r1, #0x33
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0x32
 	mov r1, #0
 	lsl r0, r0, #4
@@ -2589,7 +2589,7 @@ _021D896C:
 	cmp r0, #0
 	beq _021D89A4
 	mov r1, #0x33
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0x32
 	mov r1, #0
 	lsl r0, r0, #4
@@ -3464,7 +3464,7 @@ _021D9004:
 	cmp r0, #0
 	beq _021D902C
 	mov r1, #0x33
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0x32
 	mov r1, #0
 	lsl r0, r0, #4

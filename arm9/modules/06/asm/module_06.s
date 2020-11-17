@@ -8562,7 +8562,7 @@ _0223D710:
 	add r0, sp, #0x14
 	mov r1, #8
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	add r5, #0x80
 	str r0, [r5]
 	add sp, #0x20
@@ -8578,7 +8578,7 @@ MOD06_0223D788: ; 0x0223D788
 	add r4, r0, #0
 	add r0, #0x80
 	ldr r0, [r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	mov r1, #1
 	mvn r1, r1
 	cmp r0, r1
@@ -10293,7 +10293,7 @@ _0223E5FE:
 	ldr r0, [r4]
 	ldr r1, _0223E618 ; =0x0224F348
 	mov r2, #0x1f
-	bl FUN_02002198
+	bl InitYesNoMenu
 	add r4, #0x80
 	str r0, [r4]
 	mov r0, #8
@@ -12384,7 +12384,7 @@ MOD06_0223F720: ; 0x0223F720
 	ldr r0, [r0, #0x68]
 	mov r3, #0xb
 	ldr r0, [r0, #8]
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x60]
 	ldr r0, _0223F76C ; =MOD06_0223F770
 	bl MOD06_0223F8BC
@@ -12407,7 +12407,7 @@ MOD06_0223F770: ; 0x0223F770
 	ldr r0, [r4, #0x60]
 	beq _0223F78C
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 	mov r0, #0
 	str r0, [r4, #0x60]
 	pop {r3, r4, r5, pc}
@@ -13111,7 +13111,7 @@ MOD06_0223FD08: ; 0x0223FD08
 	bne _0223FD42
 	ldr r0, [r4, #0x60]
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _0223FD42:
 	add r0, r4, #0
 	add r0, #0x91
@@ -13171,7 +13171,7 @@ _0223FDB6:
 	bne _0223FDC6
 	ldr r0, [r4, #0x60]
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _0223FDC6:
 	add r4, #0x95
 	ldrb r0, [r4]
@@ -13438,7 +13438,7 @@ MOD06_0223FFD4: ; 0x0223FFD4
 	ldr r0, [r0, #0x68]
 	mov r3, #0xb
 	ldr r0, [r0, #8]
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x60]
 	ldr r0, _0224002C ; =MOD06_02240030
 	bl MOD06_0223F8BC
@@ -13480,7 +13480,7 @@ _02240062:
 	bne _02240072
 	ldr r0, [r5, #0x60]
 	mov r1, #4
-	bl FUN_020021EC
+	bl CloseYesNoMenu
 _02240072:
 	mov r0, #0
 	str r0, [r5, #0x60]
@@ -13698,7 +13698,7 @@ MOD06_02240204: ; 0x02240204
 	ldr r0, [r0, #0x68]
 	mov r3, #0xb
 	ldr r0, [r0, #8]
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x60]
 	ldr r0, _02240254 ; =MOD06_02240258
 	bl MOD06_0223F8BC
@@ -13821,7 +13821,7 @@ MOD06_02240310: ; 0x02240310
 	ldr r0, [r0, #0x68]
 	mov r3, #0xb
 	ldr r0, [r0, #8]
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x60]
 	ldr r0, _02240360 ; =MOD06_0223FD08
 	bl MOD06_0223F8BC
@@ -19372,7 +19372,7 @@ _02242FA6:
 	ldr r0, [r0, #8]
 	ldr r2, _02242FE8 ; =0x000003D9
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r4, #0x64]
 	add r0, r4, #0
 	mov r1, #0x24
@@ -42800,7 +42800,7 @@ MOD06_0224E470: ; 0x0224E470
 	mov r2, #0x1f
 	mov r3, #0xb
 	str r4, [sp]
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r5, #4]
 	str r4, [r5, #8]
 	mov r0, #1

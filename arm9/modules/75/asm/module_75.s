@@ -4270,7 +4270,7 @@ _021E8D04:
 	mov r0, #0x56
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	add r4, r0, #0
 	mov r0, #0
 	mvn r0, r0
@@ -4301,7 +4301,7 @@ _021E8D38:
 	mov r0, #0x56
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
-	bl FUN_02001E60
+	bl ChoiceMenuGetMoveDirection
 	cmp r0, #1
 	bne _021E8D5E
 	add r0, r5, #0
@@ -4812,7 +4812,7 @@ _021E9152:
 	mov r0, #0x56
 	lsl r0, r0, #2
 	ldr r0, [r4, r0]
-	bl FUN_02001E60
+	bl ChoiceMenuGetMoveDirection
 	cmp r0, #1
 	bne _021E916A
 	add r0, r4, #0
@@ -5485,7 +5485,7 @@ _021E96C4:
 	mov r0, #0x56
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
-	bl FUN_02001E60
+	bl ChoiceMenuGetMoveDirection
 	cmp r0, #1
 	bne _021E96DC
 	add r0, r5, #0
@@ -6417,7 +6417,7 @@ _021E9E7A:
 	mov r0, #0x56
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
-	bl FUN_02001E60
+	bl ChoiceMenuGetMoveDirection
 	cmp r0, #1
 	bne _021E9E92
 	add r0, r5, #0
@@ -7326,7 +7326,7 @@ MOD75_021EA560: ; 0x021EA560
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
 	add r6, r1, #0
-	bl FUN_02001E5C
+	bl ChoiceMenuGetCursor
 	add r4, r0, #0
 	mov r0, #0x56
 	lsl r0, r0, #2
@@ -7336,7 +7336,7 @@ MOD75_021EA560: ; 0x021EA560
 	mov r0, #0x56
 	lsl r0, r0, #2
 	ldr r0, [r5, r0]
-	bl FUN_02001E5C
+	bl ChoiceMenuGetCursor
 	cmp r4, r0
 	beq _021EA590
 	mov r0, #1
@@ -8951,7 +8951,7 @@ _021EB22E:
 	add r0, sp, #0x1c
 	mov r1, #8
 	add r3, r2, #0
-	bl FUN_02001B8C
+	bl InitMultiChoiceMenu
 	mov r1, #0x56
 	lsl r1, r1, #2
 	str r0, [r5, r1]
@@ -9515,7 +9515,7 @@ MOD75_021EB6E0: ; 0x021EB6E0
 	ldr r1, _021EB700 ; =0x021EC6AC
 	ldr r2, _021EB704 ; =0x000003F7
 	mov r3, #0xe
-	bl FUN_02002198
+	bl InitYesNoMenu
 	mov r1, #0x56
 	lsl r1, r1, #2
 	str r0, [r4, r1]

@@ -2192,7 +2192,7 @@ MOD80_0222E6A8: ; 0x0222E6A8
 	add r1, r3, #0
 	mov r2, #0x1f
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	add sp, #0xc
 	pop {r3, r4, r5, r6, pc}
 	.align 2, 0
@@ -4607,7 +4607,7 @@ MOD80_0222F96C: ; 0x0222F96C
 	add r0, sp, #8
 	mov r1, #9
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	mov r1, #0xfd
 	lsl r1, r1, #4
 	str r0, [r4, r1]
@@ -4629,7 +4629,7 @@ MOD80_0222FA04: ; 0x0222FA04
 	mov r0, #0xfd
 	lsl r0, r0, #4
 	ldr r0, [r5, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	cmp r0, #1
 	beq _0222FA26
 	cmp r0, #2
@@ -9864,7 +9864,7 @@ MOD80_02232470: ; 0x02232470
 	add r0, sp, #8
 	mov r1, #9
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	mov r1, #0xfd
 	lsl r1, r1, #4
 	str r0, [r4, r1]
@@ -9886,7 +9886,7 @@ MOD80_02232518: ; 0x02232518
 	mov r0, #0xfd
 	lsl r0, r0, #4
 	ldr r0, [r5, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	cmp r0, #3
 	bhi _0223253C
 	cmp r0, #1
@@ -10104,7 +10104,7 @@ MOD80_02232670: ; 0x02232670
 	add r0, sp, #8
 	mov r1, #9
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	mov r1, #0xfd
 	lsl r1, r1, #4
 	str r0, [r4, r1]
@@ -10126,7 +10126,7 @@ MOD80_02232718: ; 0x02232718
 	mov r0, #0xfd
 	lsl r0, r0, #4
 	ldr r0, [r5, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	cmp r0, #3
 	bhi _0223273C
 	cmp r0, #1

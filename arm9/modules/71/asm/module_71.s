@@ -4950,7 +4950,7 @@ MOD71_0222FDD8: ; 0x0222FDD8
 	add r0, sp, #0x10
 	mov r1, #8
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	mov r1, #0x66
 	lsl r1, r1, #4
 	str r0, [r4, r1]
@@ -4976,7 +4976,7 @@ MOD71_0222FEE4: ; 0x0222FEE4
 	mov r0, #0x66
 	lsl r0, r0, #4
 	ldr r0, [r4, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	cmp r0, #2
 	bhi _0222FF06
 	cmp r0, #0
@@ -6188,7 +6188,7 @@ MOD71_02230810: ; 0x02230810
 	add r0, sp, #0x10
 	mov r1, #8
 	add r3, r2, #0
-	bl FUN_02001C14
+	bl MultiChoiceMenu
 	mov r1, #0x66
 	lsl r1, r1, #4
 	str r0, [r4, r1]
@@ -6214,7 +6214,7 @@ MOD71_0223090C: ; 0x0223090C
 	mov r0, #0x66
 	lsl r0, r0, #4
 	ldr r0, [r4, r0]
-	bl FUN_02001C78
+	bl ChoiceMenu_HandleInput
 	cmp r0, #0
 	beq _0223092E
 	cmp r0, #1
@@ -7038,7 +7038,7 @@ _02230FC8:
 	ldr r1, _02230FFC ; =0x022313CC
 	ldr r2, _02231000 ; =0x000001F7
 	mov r3, #0xb
-	bl FUN_02002198
+	bl InitYesNoMenu
 	str r0, [r5]
 	ldr r0, [r4]
 	add r0, r0, #1
