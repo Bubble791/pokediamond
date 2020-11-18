@@ -1,8 +1,8 @@
-It will forget the saying it now\nknows. Is that OK?
-Press the A or B Button, then speak\ninto the microphone.\r
-{STRVAR 1, 0} learned a new saying!\r
-{STRVAR 1, 0} failed to learn a new\nsaying.\r
-Would you like to try again?
-It seems to be distracted and\nunable to concentrate...
-Yes
-No
+现在记住的话音\n要忘掉吗？
+同时按住Ａ键和Ｂ键\n向ＤＳ主机的麦克风说话！\r
+{STRVAR 1,0}记住了话音！\r
+{STRVAR 1,0}\n没有记住话音！\r
+重新试一次？
+周围的环境\n过于嘈杂……
+是
+不是

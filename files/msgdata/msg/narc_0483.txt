@@ -1,8 +1,8 @@
 {COLOR 1}{STRVAR 4, 0}{COLOR 0}
-PLAYER:
-BADGES:
-POKéDEX:
-TIME:
+主人公:
+持有徽章:
+口袋图鉴:
+游戏时间:
 {STRVAR 3, 1}
 {STRVAR 50, 2}
 {STRVAR 52, 3}

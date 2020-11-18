@@ -1,197 +1,197 @@
-CONFIRM
-CANCEL
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-/
+决定
+返回
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+／
 ♂
 ♀
-Choose a Pokémon.
-Move to where?
-Give to which Pokémon?
-Use on which Pokémon?
-Teach which Pokémon?
-Choose Pokémon and confirm.
-             
-Use on which Pokémon?
-Do what with\n{STRVAR 1, 0}?
-Do what with\nan item?
-Do what with\nthe Mail?
-Restore\nwhich move?
-Boost the PP\nof which move?
-Set this\ncustomized Ball?
-Send the removed Mail to\nyour PC?
-Yes
-No
-The Mail was sent to your PC.
-If the Mail is removed, its written\nmessage will be lost. Is that OK?
-Yes
-No
-Your PC’s Mailbox is full.
-Mail was taken from the\nPokémon.
-{STRVAR 1, 0} wants to learn the\nmove {STRVAR 6, 1}.\rHowever, {STRVAR 1, 0} already\nknows four moves.\rShould a move be deleted and\nreplaced with {STRVAR 6, 1}?
-Yes
-No
-Stop trying to teach\n{STRVAR 6, 1}?
-Yes
-No
-{STRVAR 1, 0} did not learn the\nmove {STRVAR 6, 1}.
-Which move should be\nforgotten?
-1, {PAUSE 20}2, and{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Poof!{WAIT 3}{WAIT 5}\r{STRVAR 1, 0} forgot how to\nuse {STRVAR 6, 1}.\rAnd...
-{STRVAR 1, 0} learned\n{STRVAR 6, 1}!{WAIT 4}{WAIT 2}
-{STRVAR 1, 0} and {STRVAR 6, 1}\nare not compatible.\r{STRVAR 6, 1} can’t be learned.
-{STRVAR 1, 0} already knows\n{STRVAR 6, 1}.
-{STRVAR 1, 0}’s HP was restored\nby {STRVAR 52, 1} point(s).
-{STRVAR 1, 0} was cured of its\npoisoning.
-{STRVAR 1, 0} was cured of\nparalysis.
-{STRVAR 1, 0}’s\nburn was healed.
-{STRVAR 1, 0} was\nthawed out.
-PP was restored.
-{STRVAR 1, 0}\nregained health.
-{STRVAR 1, 0}\nbecame healthy.
-{STRVAR 6, 0}’s PP\nincreased.
-{STRVAR 1, 0} snapped out of its\nconfusion.
-{STRVAR 1, 0} got over its\ninfatuation.
-{STRVAR 1, 0}’s base {STRVAR 13, 1}\nrose!
-This can’t be used until a new\nBadge is obtained.
-Must remove Mail before the\nPokémon is allowed to hold an item.
-{STRVAR 1, 0} is already holding\n{STRVAR 8, 1}.\rWould you like to switch the\ntwo items?
-Yes
-No
-{STRVAR 1, 0} isn’t holding\nanything.
-Received the {STRVAR 8, 1}\nfrom {STRVAR 1, 0}.
-The Bag is full.
-The {STRVAR 8, 1} was taken and\nreplaced with the {STRVAR 8, 2}.
-           
-  
-   
-             
-  
-   
-{STRVAR 1, 0}\nwoke up.
-                     
-                       
-  
-   
-                  
-  
-   
-                
-No more than two Pokémon\nmay enter.
-          
-You’re already surfing.
-             
-You can’t use that here.
-It won’t have any effect.
-              
-Two Pokémon are needed.
-              
-               
-{STRVAR 1, 0} became more friendly.\rHowever, its base {STRVAR 13, 1} fell!
-{STRVAR 1, 0} adores you!\rIts base {STRVAR 13, 1} fell!
-{STRVAR 1, 0} became more friendly.\rIts base {STRVAR 13, 1} can’t go lower.
-{STRVAR 1, 0} is already in battle!
-{STRVAR 1, 0} has no energy left\nto battle!
-{STRVAR 1, 0} can’t be switched out!
-An Egg can’t battle!
-You can’t switch {STRVAR 3, 0}’s\nPokémon with one of yours!
-{STRVAR 1, 0} was given the\n{STRVAR 8, 1} to hold.
-Three Pokémon are needed.
-Four Pokémon are needed.
-Five Pokémon are needed.
-Six Pokémon are needed.
-No more than one Pokémon\nmay enter.
-No more than three Pokémon\nmay enter.
-No more than four Pokémon\nmay enter.
-No more than five Pokémon\nmay enter.
-Mail was transferred from\nthe Mailbox.
-This Pokémon is holding an item.\nIt cannot hold Mail.
-The Ball Capsule was set.
-Two capsules can’t be set.
-This can’t be used on\nthat Pokémon.
-                      
-  
-   
-                    
-  
-   
-Not enough HP...
-                   
-                   
-                 
-                  
-                  
-                            
-SWITCH
-SUMMARY
-ITEM
-MAIL
-READ
-TAKE
-STORE
-CANCEL
-     
-ENTER
-NO ENTRY
-{COLOR 1}{STRVAR 6, 0}{COLOR 0}
-{COLOR 1}{STRVAR 6, 0}{COLOR 0}
-{COLOR 1}{STRVAR 6, 0}{COLOR 0}
-{COLOR 1}{STRVAR 6, 0}{COLOR 0}
-GIVE
-TAKE
-{STRVAR 6, 0}
-{STRVAR 6, 0}
-{STRVAR 6, 0}
-{STRVAR 6, 0}
-SET
-NOT ENTERED
-BANNED
-FIRST
-SECOND
-THIRD
-FOURTH
-FIFTH
-SIXTH
-ABLE!
-UNABLE!
-LEARNED
-ABLE!
-UNABLE!
-ABLE!
-UNABLE!
-Identical Pokémon are not permitted.
-Some Pokémon are holding identical\nitems.
-The total of all party members’\nlevels has gone over {STRVAR 52, 0}.
-MAX HP
-ATTACK
-DEFENSE
-SP. ATK
-SP. DEF
-SPEED
-+ {STRVAR 52, 0}
-{STRVAR 52, 0}
-{STRVAR 1, 0} was elevated to\nLv. {STRVAR 52, 1}.{WAIT 4}{WAIT 2}
-{STRVAR 1, 0} learned\n{STRVAR 6, 1}!{WAIT 4}{WAIT 2}
-The Ball Capsule will be detached.\nWill that be OK?
-It can’t be used when you have\nsomeone with you.
+请选择精灵
+移动到哪里？
+让哪只精灵携带？
+对哪只精灵使用？
+教给哪只精灵？
+请选择精灵
+存放哪只精灵？
+使用那只精灵？
+要对{STRVAR 1,0}\n做什么？
+要对持有物品\n做什么？
+要对信件做什么？
+回复哪项技能？
+提升哪项技能？
+设定吗？
+取下的信件\n传送到电脑里吗？
+是
+不是
+取下的信件\n传送到电脑里了
+取下信件的话,\n上面的消息会消失,可以吗？
+是
+不是
+电脑的信箱已经满了！
+从精灵身上取下信件！
+{STRVAR 1,0}想要习得新的技能\n{STRVAR 6,1}……\r但是,{STRVAR 1,0}\n已经习得了４项技能！\r学习{STRVAR 6,1}的话,\n要忘掉其他的技能吗？
+是
+不是
+那么……\n放弃学习{STRVAR 6,1}吗？
+是
+不是
+{STRVAR 1,0}对{STRVAR 6,1}\n学习结束！
+要忘掉哪个技能？
+1, {PAUSE 20}2,{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... !{WAIT 3}{WAIT 5}\r{STRVAR 1,0}把{STRVAR 6,1}\n完全忘记了！\r接下来……！
+{STRVAR 1,0}\n习得了新的技能{STRVAR 6,1}！{STRVAR 258,4}{WAIT 2}
+{STRVAR 1,0}和{STRVAR 6,1}\n亲密度很糟糕！\r{STRVAR 6,1}无法习得！
+{STRVAR 1,0}\n已经习得了{STRVAR 6,1}
+{STRVAR 1,0}的体力\n回复了{STRVAR 52,1}点！
+{STRVAR 1,0}的中毒\n彻底清除了！
+{STRVAR 1,0}的身体的麻痹\n解除了！
+{STRVAR 1,0}的烧伤\n治好了！
+{STRVAR 1,0}的身体的冰冻\n解除了！
+技能点数回复了！
+{STRVAR 1,0}\n回复元气了！
+{STRVAR 1,0}\n回复健康了！
+{STRVAR 6,0}的技能点数\n增加了！
+{STRVAR 1,0}的混乱\n解除了！
+{STRVAR 1,0}的着迷\n解除了！
+{STRVAR 1,0} {STRVAR 13,1}的\n基础点数上升！
+获得新徽章之前\n无法使用
+不放下信件的话\n不能携带道具！
+{STRVAR 1,0}已经携带了\n{STRVAR 8,1}\r要替换掉携带的道具吗？
+是
+不是
+{STRVAR 1,0}\n什么道具都没有带！
+{STRVAR 1,0}\n把{STRVAR 8,1}放下了！
+背包已满\n放不下道具了！
+放下{STRVAR 8,1}\n带上了{STRVAR 8,2}！
+放弃参加吗？
+是
+不是
+放弃参加吗？
+是
+不是
+{STRVAR 1,0}\n醒过来了！
+{STRVAR 1,0}的等级\n上升到{STRVAR 52,1}级！
+从这里离开\n返回{STRVAR 4,0}吗？
+是
+不是
+使用瞬间移动\n返回{STRVAR 4,0}吗？
+是
+不是
+无法对此精灵使用！
+可参加的精灵\n最多２只！
+这里无法骑车
+正在使用冲浪
+没有能切断的东西！
+这里无法使用
+使用了但是没有效果
+体力不足……
+不满２只！
+精灵重复！
+持有重复道具
+{STRVAR 1,0}\n稍微还原了一些！\r{STRVAR 13,1}的\n数值下降了！
+{STRVAR 1,0}\n最大还原了！\r{STRVAR 13,1}的\n数值下降了！
+{STRVAR 1,0}\n稍微还原了一些！\r{STRVAR 13,1}的\n数值下降了！
+{STRVAR 1,0}\n正在战斗中
+{STRVAR 1,0}\n无法继续战斗！
+{STRVAR 1,0}\n无法返回！
+蛋不能在战斗中出场
+{STRVAR 3,0}的精灵\n无法替换！
+{STRVAR 1,0}\n带上了{STRVAR 8,1}！
+不满３只！
+不满４只！
+不满５只！
+不满６只！
+可参加的精灵\n最多１只！
+可参加的精灵\n最多３只！
+可参加的精灵\n最多４只！
+可参加的精灵\n最多５只！
+从电脑里收到了信件
+已经携带了道具,\n无法再携带信件
+精灵球贴纸设置完毕！
+不能设置２个
+对此精灵无法使用
+从这里离开\n返回{STRVAR 4,0}吗？
+是
+不是
+返回最后休息的\n{STRVAR 4,0}吗？
+是
+不是
+体力不足……
+已经使用闪光了！
+已经使用喷雾剂了！
+这里似乎什么都没有……
+现在似乎还无法习得……
+已经使用怪力了！
+获得新徽章之前\n无法使用
+调换位置
+查看状态
+持有物品
+信件
+阅读信件
+放下信件
+放下
+取消
+交换
+参加
+不参加
+{COLOR 1}{STRVAR 6,0}{COLOR 0}
+{COLOR 1}{STRVAR 6,0}{COLOR 0}
+{COLOR 1}{STRVAR 6,0}{COLOR 0}
+{COLOR 1}{STRVAR 6,0}{COLOR 0}
+持有
+放下
+{STRVAR 6,0}
+{STRVAR 6,0}
+{STRVAR 6,0}
+{STRVAR 6,0}
+设置
+可参加
+不可参加
+一号
+二号
+三号
+四号
+五号
+六号
+可习得！
+不可习得
+已习得
+可用
+不可用
+可出场
+不可出场
+精灵重复
+持有重复道具
+精灵等级合计\n{STRVAR 52,0}以上
+最大HP
+攻击
+防御
+特攻
+特防
+速度
+＋
+{STRVAR 52,0}
+{STRVAR 1,0}\n等级上升到{STRVAR 52,1}！{STRVAR 258,4}{WAIT 2}
+{STRVAR 1,0}\n记住了{STRVAR 6,1}！{STRVAR 258,4}{WAIT 2}
+去掉精灵球贴纸\n可以吗？
+带在身上时\n不能使用！

@@ -1,21 +1,21 @@
-Good morning. You must be\n{STRVAR 3, 0}.\rI’ve received a gift for you.\nHere you go!\r
-Good day. You must be\n{STRVAR 3, 0}.\rI’ve received a gift for you.\nHere you go!\r
-Good evening. You must be\n{STRVAR 3, 0}.\rI’ve received a gift for you.\nHere you go!\r
-I haven’t received any other gifts\nfor you.\rWe look forward to your next visit.
-Your party is full, I’m afraid.\nI can’t give this to you yet.
-Another {STRVAR 8, 0}? You already\nhave too many to accept any more.
-To accept this, you need to make\nroom for decoration goods.
-{STRVAR 3, 0} received\n{COLOR 101}{STRVAR 0, 1}{COLOR 0}!\r
-{STRVAR 3, 0} received\na {COLOR 1}Pokémon Egg{COLOR 0}!\r
-{STRVAR 3, 0} received\nthe gift {COLOR 1}{STRVAR 8, 1}{COLOR 0}!\r
-{STRVAR 3, 0} received the\n{COLOR 1}{STRVAR 26, 1} Rules{COLOR 0}.\r
-{STRVAR 3, 0} received\nthe gift {COLOR 1}{STRVAR 10, 1}{COLOR 0}!\r
-{STRVAR 3, 0} received\nthe gift {COLOR 1}{STRVAR 31, 1}{COLOR 0}.\r
-{STRVAR 3, 0} received\nthe {COLOR 1}MANAPHY Egg{COLOR 0}!\r
-{STRVAR 3, 0} received\na {COLOR 1}Member’s Card{COLOR 0}.\r
-{STRVAR 3, 0} received\n{COLOR 1}Oak’s Letter{COLOR 0}!\r
-{STRVAR 3, 0} received\nan {COLOR 1}Azure Flute{COLOR 0}!\r
-We look forward to your next visit.
-{STRVAR 3, 0} received the Pokétch\napp {COLOR 1}{STRVAR 24, 1}{COLOR 0}!\r
-...Uh-oh. {STRVAR 3, 0}, you haven’t\nobtained a Pokétch yet.\rI can’t give you this app if you\ndon’t have a Pokétch.\r
-{STRVAR 3, 0} was awarded\nthe {COLOR 1}{STRVAR 39, 1}{COLOR 0}!\rThe {STRVAR 39, 1}\nwas given to {STRVAR 1, 2}.\r
+早上好,\n是{STRVAR 3,0}吧？\r请到这边来\n收取礼物！\r
+你好,\n是{STRVAR 3,0}吧？\r请到这边来\n收取礼物！\r
+晚上好,\n是{STRVAR 3,0}吧？\r请到这边来\n收取礼物！\r
+现在已经没有礼物了。\n请下次再来。
+但是携带的精灵\n已经满了。
+{STRVAR 8,0}\n已经满了。
+道具已经满了。
+{STRVAR 3,0}收到了\n{COLOR 1}{STRVAR 0,1} {COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}精灵的蛋{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}{STRVAR 8,1}{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}{STRVAR 26,1}规则{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}{STRVAR 10,1}{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}{STRVAR 31,1}{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}玛娜菲之蛋{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}会员卡{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}大木博士的信{COLOR 0}！\r
+{STRVAR 3,0}收到了\n{COLOR 1}天海之笛{COLOR 0}！\r
+现在等待传输中。
+{STRVAR 3,0}获得了\n{COLOR 1}{STRVAR 24,1}{COLOR 0}！
+……哎呀,{STRVAR 3,0}\n还没有获得口袋手表呢。\r没有口袋手表的话\n不能进行哟。\r
+{COLOR 1}{STRVAR 39,1}\n获得了{COLOR 0}！\r{STRVAR 3,0}把{STRVAR 39,1}\n装进了{STRVAR 1,2}！\r

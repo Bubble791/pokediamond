@@ -1,9 +1,9 @@
-Um...\nWho did you say I was again?\r...\n...\rOh, yes, I remember now!\nI’m the Move Deleter!\r
-You’ve come to make me force your\nPokémon to forget some moves?
-Which Pokémon should forget a move?\r
-Remember me if there are moves that\nneed to be forgotten.
-That Pokémon knows only one move,\nso it can’t be forgotten...\r
-What? That’s an Egg.\nNo Egg should know any moves.\r
-OK, then.\nWhich move should be forgotten?\r
-Hm! The move {STRVAR 6, 0}?\nShould that move be forgotten?
-It worked perfectly!\rYour Pokémon has forgotten the move\n{STRVAR 6, 0} completely.
+那个……\n我是谁呢？\r…… …… ……\n…… …… ……\r啊啊,想起来了！\n我是忘光光老爹！\r
+你是来让你的精灵\n忘掉技能的吗？
+让哪只精灵忘掉技能呢？\r
+如果需要忘掉技能的话\n可以随时来找我！
+什么？那个精灵只学会了\n一项技能？\r
+什么？那不是还在蛋里吗！\n什么技能都没学会呢……\r
+嗯……那么,\n要忘掉哪个技能呢？\r
+要忘掉{STRVAR 6,0}吗？
+ＯＫ！\r你的精灵\n把{STRVAR 6,0}彻底忘掉了！

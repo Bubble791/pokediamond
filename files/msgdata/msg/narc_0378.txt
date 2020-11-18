@@ -1,48 +1,48 @@
-                                 
-{STRVAR 3, 0}: Hey, if we run into a\nPokémon, I’m gonna catch it somehow.\rBecause I’m gonna be a Pokémon\nTrainer.\rYou know what a Trainer does, right?\nMakes Pokémon battle and all that?
-{STRVAR 3, 0}: Pokémon all have\ndifferent moves, huh?\rA Trainer makes his Pokémon battle\nby ordering them to use moves.\rThat’s so awesomely cool.
-{STRVAR 3, 0}: I want Pokémon of my\nown, and not too soon, either.\rI’d be able to go everywhere with my\nPokémon that way.
-{STRVAR 3, 0}: That lake has a mirage\nPokémon living in it.\rEveryone says nothing lives there,\nbut I know I’m right.
-{STRVAR 3, 0}: I’m gonna become\na Pokémon Trainer for sure.\rNot just any Trainer either.\nI’m going to be the greatest ever.\fThat’s my dream.
-{STRVAR 3, 0}: Hey, that’s enough\ntalking already.\rI’m itching to get going to the lake.\nCome on, come on!
-{STRVAR 3, 0}: All right!\nLet’s move out! Hustle up!
-{STRVAR 3, 0}: We didn’t have any\nchoice in using those people’s\fPokémon, right?\rBut these Pokémon belong to them...\nThey’ll want them back, won’t they?\rBut this is the first Pokémon I’ve\never battled with...
-{STRVAR 3, 0}: I wish I could grow\ntougher with this little guy...
-{STRVAR 3, 0}: I don’t feel like\ntalking... Let’s go.\r...Are we maybe walking slower than\nwhen we went to the lake?
-Cheryl: Wait!\nPlease wait, {STRVAR 3, 0}!\rIf you use an Escape Rope now,\nyou know that you’ll leave me behind?
-Cheryl: Wait!\nPlease wait, {STRVAR 3, 0}!\rIf you use Teleport now, you know\nthat you’ll leave me behind?
-Cheryl: This place...\nThey say it’s a haunted mansion...\rI’m sorry, but it’s too creepy.\nMay we go, please?
-Cheryl: It’s startling to see two wild\nPokémon appearing at the same time.
-Cheryl: My Pokémon is an excellent\nhealer.\rBut attacking isn’t its strong point.
-Cheryl: {STRVAR 3, 0}, battling with\nyou makes me feel elated.\rIf I could predict what you’re about\nto do, we would make a fierce combo!
-Cheryl: That’s some nice moss...
-Mira: Are you going to use that?\nI will be left all alone...
-Mira: Are you going to use that?\nI will be left all alone...
-Mira: That isn’t the right way.\nI’ll be lost if we go down...
-Mira: I like helpful Pokémon moves\nlike Growl and Minimize.\rThose kinds of moves are my\nfavorites.
-Mira: This cave...\nIt’s so easy to get confused here.\fDo you know where we are?
-Mira: {STRVAR 3, 0}, did you get to be\nso good because you’re always with\fyour Pokémon?\rYes! That has to be it!\nI will try like you!
-Riley: If you use that, I’ll have to\nwave good-bye to you now.
-Riley: If you use that move, I’ll have\nto wave good-bye to you now.
-Riley: Haha, I’d have to agree.\rPeople training here would be those\nwith too much time on their hands.
-Riley: This used to be a fairly\nthriving ore mine once upon a time.\rI guess the steel ore’s played out.\nThere’s only Pokémon here now.
-Riley: Have you met Byron?\nThe Leader of Canalave Gym?\rHe’s asked me to become a Gym\nLeader, but there’s his son Roark\fto consider as well.
-Riley: Imagine what it would be like\nfor a Steel-type Pokémon user to\fbattle a Steel type.\rWould that be like battling yourself,\nI wonder?\rI mean, it’s a lot harder to defeat\none’s self than anyone else.
-Riley: What’s going on here, though?\nThe native Pokémon are restless...\rI don’t like this...\nLet’s hurry.
-Riley: Thanks.\nYou really helped me out.\rListen, I have a Pokémon here\nnamed Luca.\rWould you take it with you?\r
-Riley: Thanks!\rI want you to show Luca all sorts\nof worlds.\r
-Riley: Thank you...\rBut you don’t have room to take\nanother Pokémon.\rAll right, then.\nI’ll wait here for you.
-Riley: I hope you’ll accept it as\na token of our friendship.
-Riley: Spending time with you was\nvery enjoyable.\rI intend to test my skills in other\nplaces from now on.\rIt would be great if we could meet\nagain.\r
-Marley: ...Are you going to leave\nme here?
-Marley: ...Are you going to leave\nme here?
-Marley: ...Sorry, but I’m not\ngoing up.
-Marley: ...It isn’t that way.
-Marley: ...You’re very chatty...
-Marley: ...The Pokémon among\nflowers...
-Buck: Whoa, {STRVAR 3, 0}!\rIf you use that, me and my Pokémon\nwill be left behind. Don’t do it!
-Buck: Whoa, {STRVAR 3, 0}!\rIf you use that, me and my Pokémon\nwill be left behind. Don’t do it!
-Buck: Why do I like the volcano\nso much?\rI don’t really have a good reason\nfor it, but I don’t really need one.
-Buck: There’s no law that says\nI have to be tough or anything,\fbut losing isn’t fair to my Pokémon.\rAfter all, they try so hard for me.\rI think it’s my responsibility as a\nTrainer to recognize their hard work.
-Buck: My big brother’s one of the\nElite Four.\rSo, of course it’s only normal that\nI’d be better than ordinary folks.\rBut that’s not what I want.\nI want to be tough on my own terms.\rIt wouldn’t be fair to the Pokémon\nthat chose to be with me.
-Buck: It might be cool being a Gym\nLeader or one of the Elite Four...\rBut, then again, it sounds like it’d\nbe a lot of hard work!
+{STRVAR 3,0}和{STRVAR 3,1}\n一起行动了！\r
+{STRVAR 3,0}『如果有精灵出现的话,\n你希望自己能抓到什么精灵呢！\r你知道吗？\n口袋训练师要让自己和精灵一起战斗！
+{STRVAR 3,0}『精灵们\n拥有很多的技能！\r口袋训练师向精灵们\n发出使用技能的命令\f让它们战斗,真是太帅了！
+{STRVAR 3,0}『我也想\n早点有自己的精灵啊,\r那样就能和精灵一起\n到很多的地方去了吧！
+{STRVAR 3,0}『那个湖里\n肯定有幻之精灵！\f就算大家都说没有\f但是我知道肯定有！
+{STRVAR 3,0}『我一定要\n成为口袋训练师！\r而且是最厉害最强的\n口袋训练师！\f因为那才是我的梦想嘛！
+{STRVAR 3,0}『不管到什么时候,\n我都想要到那个湖去看看,\f我要一直坚持到\f看到它出来！！
+{STRVAR 3,0}『ＯＫ！\n出发！快一点！
+{STRVAR 3,0}『刚才那人的\n精灵真是太强了,\r不过那是人家的精灵……\n还是还回去吧……\r才开始一起战斗的精灵\n怎么说呢……
+{STRVAR 3,0}『我！\n要和这个家伙一起变强！
+{STRVAR 3,0}『别想那么多了,\n总之先回去吧……\r要去湖边的话\n走路去的话会很慢吧？
+小红『等一下！\n{STRVAR 3,0}！真是的！\r你要是使用穿洞绳的话\n不就把我扔在这里了？
+小红『等一下！\n{STRVAR 3,0}！真是的！\r你要是使用瞬间移动的话\n不就把我扔在这里了？
+小红『这里……\n看着好像闹鬼的房子……\f看着很不舒服……\f赶快走吧……
+小红『野生的精灵\n２只一起跳出来了！
+小红『我的精灵\n虽然对于回复很拿手,\f但是攻击就很差劲了……
+小红『与{STRVAR 3,0}一起\n战斗的时候真的很高兴！\r如果我知道你在干什么的话,\n我们就心心相通了！
+小红『超强呢……
+米鲁『使用这个？\n那我又要一个人在这里了。
+米鲁『使用这个？\n那我又要一个人在这里了。
+米鲁『不是这边\n又迷路了吗……
+米鲁『我的精灵呢,\n哭声呀,变小啊,\f助手啊……\f类似的技能有很多呢！
+米鲁『这个洞窟……\n走到哪里了\f完全看不出来……
+米鲁『{STRVAR 3,0}\n和精灵总是在一起\f所以才会变得那么强吧？\r原来如此,嗯！\n我也要加油！
+彦『如果要使用那个的话\n就不得不在这里说再见了。
+彦『如果要使用那个技能的话\n就不得不在这里说再见了。
+彦『哈哈,没错,\n在这里修行的人\f都是有各自的目标的。
+彦『虽然过去的时候\n这里是代表荣耀的高山,\r但现在钢也快被采尽了,\n精灵也稀少了。
+彦『已经见过藤元先生了吗？\n美央市的道馆馆主,\r我向他申请过\n做道馆馆主,\f不过还有平田在呢！
+彦『使用钢系精灵的\n口袋训练师\f同钢系精灵战斗时……\r就像同自己战斗一样,\n这就是所谓的\f战胜自己比战胜别人更困难。
+彦『尽管如此,\n精灵为什么会发生暴动呢？\f我很在意……\r赶快走吧！
+彦『多亏了你的帮忙,\n可以的话,这个精灵……\f是鲁卡的蛋,\f可以拜托你带上它吗？\r
+彦『非常感谢！\r想让鲁卡看看\n更加广阔的世界！\r
+彦『非常感谢……\r不过你的身上\n已经不能再带更多的精灵了,\r我知道了\n我会在这里等你的！
+彦『希望你一定要收下,\n这是你我的友情的证明！
+彦『能和你一起\n感觉非常有意思,\r我也想凭着自己的力量\n向更多的地方前进,\f我们一定会再会的！\r
+舞『……你在干嘛？
+舞『……你在干嘛？
+舞『……不好意思\n我上不去。
+舞『……不是那边。
+舞『……少说两句。
+舞『……花海精灵。
+莫『哇{STRVAR 3,0}！\n要是用那个的话\f不就把我和精灵扔这儿了！\f去死！
+莫『哇{STRVAR 3,0}！\n要是用那个的话\f不就把我和精灵扔这儿了！\f去死！
+麦可『为什么一定要火山呢,\n其实我也不知道,\f不过怎么说呢,对了\f已经定了所以就只能这样了。
+麦可『我不知道什么\n强不强的事情,\f不过要是输了的话精灵会讨厌,\r所以呢只有加油了,\n这回答不错吧！\f也是我想象的训练师的样子！
+麦可『我的老哥是四天王,\n所以比人家稍微强一点了,\f这是当然的了,\r要不然的话\n我的力量还会更强呢！\r要是不强的话,\n会被咱的精灵讨厌的吧？
+麦可『我呢,虽然也想做个\n道馆馆主或者四天王什么的,\f不过实在是太麻烦了！

@@ -1,17 +1,17 @@
-EDIT
-QUIT
-SET
-REMOVE
-SHIFT
-CONFIRM
-CANCEL
-Choose a capsule.
-What would you like to do?
-The capsule was removed.
-Switch with which capsule?
-The capsules were switched.
-Finished editing the capsule.
-Confirming...
-Quit without changing the capsule\ndesign?
-There’s no more room!
-There are no Seals left.
+编辑
+取消
+设定
+取下
+换入
+决定
+取消
+请选择精灵胶囊
+要对精灵胶囊做什么？
+取下精灵胶囊！
+要换入哪个精灵胶囊？
+换入精灵胶囊
+编辑结束！
+确认中……
+精灵胶囊的设计没有改变,\n要取消吗？
+已经贴不下了！
+已经没有贴纸了！

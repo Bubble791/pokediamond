@@ -1,54 +1,54 @@
-{STRVAR 3, 0}: Hey, {STRVAR 3, 1}!\nOver here! This way!\r
-{STRVAR 3, 0}: OK, gramps!\nI brought {STRVAR 3, 1} like I said!\rAll right, I’ll be outta here!\r
-Rowan: ...\n...\r...\n...\r...\n...\r
-{STRVAR 3, 0}: ...OK...\nI get it...\r
-Rowan: Hm! Everyone’s here finally.\n{STRVAR 3, 0}, everyone, listen.\rYou may have forgotten already, but\nI study the evolution of Pokémon.\r
-But the more I study, the more\nmysteries appear and multiply.\rPokémon that evolve, and those that\ndon’t...\rWhat makes them different from each\nother?\rDo those that are immature as living\nbeings evolve to ones more mature?\rIf so, what do we make of the\nlegendary Pokémon that don’t evolve?\rAre we to assume that the legendary\nPokémon are complete as creatures?\r
-This is where you three come in.\rIn the three lakes of Sinnoh, there\nare said to be mirage Pokémon.\rIf we can obtain data on them,\nit may shed some light on how the\fprocess of Pokémon evolution works.\rI need help from each one of you\non this grand undertaking.\rHelp me find these Pokémon that are\nconsidered to be mirages.\r
-{STRVAR 3, 0}: What are you saying?\nI didn’t get no Pokédex!\r
-Rowan: ...And who was it that bolted\nfrom the lab before I had a chance\fto give you a Pokédex?\rBut that’s water under the bridge!\rSeeing Pokémon with your own eyes\nis important for you in becoming\fa better Trainer, too.\r
-Dawn: You can count on me!\nIt will help with my Pokédex, too.\r{STRVAR 3, 0}, you’ll go too,\nwon’t you?\r
-Lucas: You bet, Professor!\rThis will add to the Pokédex\ndatabase and help advance your\fresearch.\r
-Rowan: Hm! I would have made all of\nyou go regardless... Anyway.\rNow, there are three lakes.\nFortuitously, there are three of you.\rYou should therefore split up and\ninvestigate the lakes individually.\r
-Rowan: Dawn, you go to Lake Verity.\r
-Dawn: Will do!\r
-Rowan: Lucas, you go to Lake Verity.\r
-Lucas: Yes, sir!\r
-Rowan: {STRVAR 3, 0}, I want you to\ninvestigate Lake Acuity.\rThat would take you almost to\nSnowpoint City.\rThe road there is harsh. I need\na tough Trainer to go.\r
-{STRVAR 3, 0}: Uh... Yeah, of course!\nGramps, you know how to call it!\fYou can tell I’m the hotness!\r
-Rowan: And that leaves {STRVAR 3, 0}\nwith Lake Valor.\rThe lake is between Veilstone\nand Pastoria, if memory serves...\r
-Rowan: ...\n...Has it stopped?\rAre all of you unharmed?\rLet’s go outside, but be careful.\nI’m concerned about the city.\r
-Rowan: {STRVAR 3, 1}, hurry along.\nBut beware of aftershocks.\r
-Every book contains someone’s\nmemories of various places and times.\rLibraries aren’t just buildings where\nbooks are kept, you know.\rThey’re where different places\nand times are gathered together.
-W-was that an earthquake?\nI didn’t imagine it?
-Someone’s always checked out the\nbook I want to read...
-I’m feeling wobbly...\rEven though the tremor has ended,\nmy knees still feel like jelly...
-This book is titled “Sinnoh\nMyth.” Want to read it?
-{STRVAR 3, 0} put the book back.
-“Sinnoh Myth”\rBetray not your anger, lest ??? will\ncome.\rWeep not with sorrow, or ??? will\ndraw near.\rWhen joy and enjoyment come natural\nas the very air, that is happiness.\rLet such be blessed by the hand\nof Master ???.\rThose words were spoken often\nas customary.
-This book is titled “Sinnoh Region’s\nMythology.” Want to read it?
-{STRVAR 3, 0} put the book back.
-“Sinnoh Region’s Mythology”\rLong ago, when Sinnoh had just been\nmade, Pokémon and humans led\fseparate lives.\rThat is not to say they did not help\neach other. No, indeed they did.\rThey supplied each other with goods,\nand supported each other.\rA Pokémon proposed to the others\nto always be ready to help humans.\rIt asked that Pokémon be ready to\nappear before humans always.\rThus, to this day, Pokémon appear\nto us if we venture into tall grass.
-This book is titled “Sinnoh’s\nMyth.” Want to read it?
-{STRVAR 3, 0} put the book back.
-“Sinnoh’s Myth”\rThree Pokémon there were.\rInto the lakes they dove.\nDeep, deep, drawing no breath.\rDeeper, deeper they dove.\nInto suffocating depths they dove.\rDeeper, then deepest they alight.\nFrom the lake floor they rise.\rBearing with them the power to make\nvast lands, they rise again.
-This book is titled “Veilstone’s\nMyth.” Want to read it?
-{STRVAR 3, 0} put the book back.
-“Veilstone’s Myth”\rA young man, callow and foolish in\ninnocence, came to own a sword.\rWith it, he smote Pokémon, which gave\nsustenance, with carefree abandon.\rThose not taken as food, he\ndiscarded, with no afterthought.\rThe following year, no Pokémon\nappeared. Larders grew bare.\r...Would you like to keep reading?
-The young man, seeking the missing\nPokémon, journeyed afar.\rLong did he search. And far and wide,\ntoo, until one he did find.\rAsked he, “Why do you hide?”\nTo which the Pokémon replied...\r“If you bear your sword to bring\nharm upon us, with claws and\ffangs, we will exact a toll.\r“From your kind we will take our\ntoll, for it must be done.\r“Done it must be to guard ourselves\nand for it, I apologize.”\r...Would you like to keep reading?
-To the skies, the young man shouted\nhis dismay.\r“In having found the sword, I have\nlost so much.\r“Gorged with power, I grew blind\nto Pokémon being alive.\r“I will never fall savage again.\nThis sword I denounce and forsake.\r“I plead for forgiveness,\nfor I was but a fool.”\rSo saying, the young man hurled the\nsword to the ground, snapping it.\rSeeing this, the Pokémon disappeared\nto a place beyond seeing...
-This ancient book is titled “The\nOriginal Story.” Want to read it?
-{STRVAR 3, 0} put the book back.
-In the beginning, there was only\na churning turmoil of chaos.\rAt the heart of chaos, where all\nthings became one, appeared an Egg.\rHaving tumbled from the vortex, the\nEgg gave rise to the Original One.\r...Would you like to keep reading?
-From itself, two beings the Original\nOne did make.\rTime started to spin.\nSpace began to expand.\rFrom itself again, three living things\nthe Original One did make.\r...Would you like to keep reading?
-The two beings wished, and from them,\nmatter came to be.\rThe three living things wished, and\nfrom them, spirit came to be.\rThe world created, the Original One\ntook to unyielding sleep...
-This book is titled “A Horrific\nMyth.” Want to read it?
-{STRVAR 3, 0} put the book back.
-Look not into the Pokémon’s eyes.\rIn but an instant, you’ll have no\nrecollection of who you are.\rReturn home, but how?\nWhen there is nothing to remember?\rDare not touch the Pokémon’s body.\rIn but three short days, all emotions\nwill drain away.\rAbove all, above all, harm not\nthe Pokémon.\rIn a scant five days, the offender\nwill grow immobile in entirety.
-This book is titled “Sinnoh Folk\nStories.”\r
-Which story would you like to read?
-{STRVAR 3, 0} put the book back.
-“Sinnoh Folk Story 1”\rPick clean the bones of Pokémon\ncaught in the sea or stream.\rThank them for the meals they\nprovide, and pick their bones clean.\rWhen the bones are as clean as can\nbe, set them free in the water from\fwhich they came.\rThe Pokémon will return, fully\nfleshed, and it begins anew.
-“Sinnoh Folk Story 2”\rThere lived a Pokémon in a forest.\rIn the forest, the Pokémon shed its\nhide to sleep as a human.\rAwakened, the human dons the\nPokémon hide to roam villages.
-“Sinnoh Folk Story 3”\rThere once were Pokémon that\nbecame very close to humans.\rThere once were humans and Pokémon\nthat ate together at the same table.\rIt was a time when there existed no\ndifferences to distinguish the two.
-On this floor, you will find many\nbooks on the myths and legends of\fthe Sinnoh region.
+{STRVAR 3,0}『喂！{STRVAR 3,1}！\n这里这里！\r
+{STRVAR 3,0}『喂！博士！\n我把{STRVAR 3,1}带来了！\f没我事了,闪了啊！\r
+山梨博士『…… …… ……\n…… …… ……\r…… …… ……\n…… …… ……\r…… …… ……\n…… …… ……\r
+{STRVAR 3,0}『……好了好了,我知道了啦！\r
+山梨博士『嗯……都来了,\n{STRVAR 3,0},听好了！\r你们可能已经完全不记得了吧\n我正在研究的课题是\f关于精灵的进化。\r
+但是研究越深入,\n不了解的地方就越多,\r会进化的精灵\n与不会进化的精灵\f有什么区别？\r作为生物进程\n未成熟的精灵会发生进化,\r如果是这样的话\n那么不会进化的传说精灵\f作为生物,能算是成熟个体吗？\r
+传说在神奥地区的\n３个湖中居住着幻之精灵,\r如果能找到它们的话,\n也许能够了解到一些\f关于精灵进化的事情,\r所以拜托你们了！\r希望你们务必找到幻之精灵！\r
+{STRVAR 3,0}『什么！\n我怎么没有你说的口袋图鉴！\r
+山梨博士『……也不知道是谁\n在我给他图鉴之前就冲出研究所\f不知道跑到哪儿去了！\r好了！用你们自己的双眼\n去见见各种各样的精灵\f对你们成长也是有帮助的。\r
+小光『当然要去啦！\n图鉴也快接近完成了！\f{STRVAR 3,0}也是吧！\r
+小辉『当然了！\n这样的话\f口袋图鉴还能更充实一点,\f博士的研究也能更进一步！\r
+山梨博士『嗯！\n这样的话就好办了,\r总共有３个湖,\n你们也正好３个人,\f分头去调查吧！\r
+山梨博士『小光去神事湖.\r
+小光『好的！\r
+山梨博士『小辉去神事湖。\r
+小辉『收到！\r
+山梨博士『{STRVAR 3,0},\n英知湖就拜托你了,\r通往金岬市附近的道路\n非常艰险,所以要拜托\f最厉害的训练师啊！\r
+{STRVAR 3,0}『那,那当然啦！\n哎呀,没想到\f博士还挺了解我的嘛！\r
+山梨博士『然后,{STRVAR 3,0},\n你去律诗湖！\f应该是在户张市和野濑市中间吧。\r
+山梨博士『…… …… ……\n…… …… 停下来了,\f大家没事吧？\r小心,赶快出去,\n不知道城市里怎么样了。\r
+山梨博士『{STRVAR 3,1},\n你也赶快出发吧,\f……不过,要小心地震啊！\r
+在一册书里\n包含着对喜欢的时代和\f喜欢的地方的回忆,\r我觉得将它们集中的图书馆\n是一个各种各样的\f时间和空间的集结地
+地,地面在晃动！？\n不是我的错觉吧
+我想借的书\n总是被谁先借掉了……
+轰隆轰隆轰隆……\r地震已经停下来了\n我却停不下来了……
+有本叫做「神奥神话」的书……\n要读读看吗？
+{STRVAR 3,0}把书放回去了
+「神奥神话」\r发怒的？？来了\n悲伤的？？接近了\r欢喜之事,高兴之事\n平静的生活\f这就是幸福\r这样的话,就能得到\n？？？大人的祝福\r这样的传说广为流传
+有本叫做「神奥地区的神话」的书……\n要读读看吗？
+{STRVAR 3,0}把书放回去了
+「神奥地区的神话」\r很久以前,神奥诞生之初\n精灵和人类\f相互赠送礼物\f相互扶持\r那时侯的精灵\n会为了救人类\f出现在人类的面前\f与其他的精灵交流\r就是从那之后\n人类进入草丛\f精灵就会飞身而出
+有本叫做「神奥神话」的书……\n要读读看吗？
+{STRVAR 3,0}把书放回去了
+「神奥神话」\r有３只精灵\r止住呼吸\n潜在很深很深的湖水中\f克服困难深深地潜着\r因为在湖中\n隐藏着重要的东西\r据说那是可以形成\n大地的力量
+有本叫做「户张神话」的书……\n要读读看吗？
+{STRVAR 3,0}把书放回去了
+「户张神话」\r有位青年得到了一把剑,\r就开始滥抓精灵来吃,\n还把不喜欢的扔掉,\r到了第二年,\r他什么都没有抓到,\n精灵都失去了踪影,\r……继续看下册吗？
+青年经过长途旅行后,\n终于找到了精灵,\f「为什么要躲起来？」\r精灵静静地回答说,\n「你挥舞着剑,\f伤害我们的同胞,\r所以我们也会用爪子和牙齿\n伤害你的同胞。\r原谅我吧,\n为了保护我的同伴只能这样。」\r……继续看下册吗？
+青年醒悟了,\r「你们精灵是活着的生命,\n握着剑的时候我忘记了,\r我再也不做野蛮的事了,\n剑也不需要了,\f所以,请原谅我！」\r青年当着精灵的面,\n将剑摔在地上,\r精灵见了之后,\n消失不见了
+有本叫做「开源传说」的书……\n要读读看吗？？
+{STRVAR 3,0}把书放回去了
+开源之时,\n混沌波动,\r天地一体,\n卵显于心,\r最初之物,\n生于卵中\r……继续往下读吗？
+最初之物,\n化二分身,\r其一转时之动,\n其一扩空之广,\r后源自身,\n衍三之新生\r……继续往下读吗？
+二分祈祷,\n生之万物,\r三生祈祷,\n生之心灵,\r世界之形初具,\n最初之物复于长眠
+有本叫做「恐怖神话」的书……\n要读读看吗？
+{STRVAR 3,0}把书放回去了
+看到那个精灵的眼睛,\n记忆会在瞬间消失,\f无法回到原来的地方,\r与那只精灵接触三日,\n感情就会消失,\r如果伤害了那个精灵,\n七日内无法动弹,\f无论什么都做不成
+有本叫做\n「神奥传说」的书\r
+要看看是怎样的传说吗？
+{STRVAR 3,0}把书放回去了
+「神奥传说之一」\r从大海和河川捕获的\n精灵被食用以后,\f把它们的骨头洗净,\f然后轻轻地放回水中,\r这样的话,精灵\n就能再次找回自己的身体,\f回到这个世界中来
+「神奥传说之二」\r有的精灵\n生活在森林之中,\r精灵们在森林中脱皮,\n在人类到来之前进入睡眠,\r有时还披上脱下的精灵之皮\n到村庄中生活
+「神奥传说之三」\r曾经有同人类结婚的精灵,\n也有同精灵结婚的人类,\r在过去的日子里,\n精灵同人类是一样平常的事物
+在这一层存放着\n很多关于神奥地区的\f神话传说的书籍。

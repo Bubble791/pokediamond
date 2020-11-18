@@ -1,23 +1,23 @@
-POFFIN CASE
-GIVE
-TRASH
-BACK
-SMOOTH / {STRVAR 51, 0}
-       
-CLOSE
-Discard this\n{STRVAR 9, 0}?
-The {STRVAR 9, 0} was\nthrown out.
-YES
-NO
-SPICY
-DRY
-SWEET
-BITTER
-SOUR
-ALL
-Raises coolness.
-Raises beauty.
-Raises cuteness.
-Raises smartness.
-Raises toughness.
-{STRVAR 9, 0}{CURSOR_X 138}Lv. {STRVAR 51, 1}
+松饼盒
+放入
+扔掉
+取消
+光滑度 {STRVAR 51,0}
+Ｌｖ．{STRVAR 51,0}
+结束
+{STRVAR 9,0}\n要扔掉吗？
+{STRVAR 9,0}\n扔掉了。
+是
+不是
+辣
+涩
+甜
+苦
+酸
+全部
+帅气度上升了！
+美丽度上升了！
+可爱度上升了！
+聪明度上升了！
+强壮度上升了！
+{STRVAR 9,0}{CURSOR_X 138}Ｌｖ．{STRVAR 51,1}

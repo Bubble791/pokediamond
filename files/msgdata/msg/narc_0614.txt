@@ -1,117 +1,117 @@
-SEEN
-OBTAINED
-        
-         
-         
-SWITCH\nPOKéDEX
-          
-SEARCH\nPOKéMON
-    
-HT
-WT
-ft.
-lbs.
-Male
-Female
-West sea
-East sea
-Plant cloak
-Sandy cloak
-Trash cloak
-One form
-
-English Pokédex
-French Pokédex
-German Pokédex
-Italian Pokédex
-Spanish Pokédex
-Pokémon
-   
-CHECK\nPOKéDEX
-   
-    
-    
-NEXT
-BACK
-Area Unknown
-Morning
-Day
-Night
-  
-   
-CHORUS
-PAN
-Height Check
-Weight Check
-Height Check
-Weight Check
-NAME
-TYPE
-FORM
-ORDER
-OK
-   
--
-ABC
-DEF
-GHI
-JKL
-MNO
-PQR
-STU
-VWX
-YZ
+发现数量
+捕获数量
+返回列表
+到列表开始处
+到列表最后处
+切换\n图鉴
+比较\n精灵
+查找\n精灵
+精灵
+高度
+重量
+ｍ
+ｋｇ
+公的外形
+母的外形
+西边的种类
+东边的种类
+草类蓑衣虫
+沙类蓑衣虫
+废物类蓑衣虫
+已有外形
  
-Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fight
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-Numerical
-A to Z
-Heaviest
-Lightest
-Tallest
-Smallest
-List by the first letter\nin the name.
-List by type.
-List by body style.
-Select the Pokédex listing mode.
-                      
-               
-No matching Pokémon were found.
-Searching...
-4’8”
-4’6”
-83.8 lbs.
-75.0 lbs.
+英语图鉴
+法语图鉴
+德语图鉴
+意大利语图鉴
+特殊语言图鉴
+Pokémon
+页码
+查看图鉴
+分布
+声音
+大小
+ 下一个 
+ 上一个 
+分布不明
+清晨
+白天
+傍晚
+夜间
+深夜
+合声
+泛声
+高度
+重量
+高度
+重量
+名字
+属性
+体形
+类别
+确定
+取消
+
+あいうえお
+かきくけこ
+さしすせそ
+たちつてと
+なにぬねの
+はひふへほ
+まみむめも
+やゆよ わ
+らりるれろ
+わ
+普通
+火
+水
+电
+草
+冰
+格斗
+毒
+地面
+飞
+超能
+虫
+岩
+鬼
+龙
+恶
+钢
+ 编号
+  五十音
+ 重
+ 轻
+ 高
+ 低
+按照名字的\n首字母。
+按照属性。
+按照体形。
+按照图鉴的类别。
+满足条件的精灵\n查找完毕。
+查找中止。
+没有找到\n满足条件的精灵…
+查找中
+１．４５
+１．４０
+３８．０
+３４．０
 -----
-See another form.
-INFO
-AREA
-CRY
-SIZE
-FORMS
-QUIT
-CANCEL
-RESULTS
-Pokédex registration completed.
-Normal
-Attack
-Defense
-Speed
+查看其他外形
+说明
+分布
+声音
+体型
+外形
+结束
+返回
+发现数
+口袋图鉴登录完毕！
+普通
+攻击
+防御
+速度
 Japanese Pokédex
 - - - - -
 - - - -

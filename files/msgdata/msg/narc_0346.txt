@@ -1,465 +1,465 @@
-???
-a {COLOR 255}Master Ball{COLOR 0}
-an {COLOR 255}Ultra Ball{COLOR 0}
-a {COLOR 255}Great Ball{COLOR 0}
-a {COLOR 255}Poké Ball{COLOR 0}
-a {COLOR 255}Safari Ball{COLOR 0}
-a {COLOR 255}Net Ball{COLOR 0}
-a {COLOR 255}Dive Ball{COLOR 0}
-a {COLOR 255}Nest Ball{COLOR 0}
-a {COLOR 255}Repeat Ball{COLOR 0}
-a {COLOR 255}Timer Ball{COLOR 0}
-a {COLOR 255}Luxury Ball{COLOR 0}
-a {COLOR 255}Premier Ball{COLOR 0}
-a {COLOR 255}Dusk Ball{COLOR 0}
-a {COLOR 255}Heal Ball{COLOR 0}
-a {COLOR 255}Quick Ball{COLOR 0}
-a {COLOR 255}Cherish Ball{COLOR 0}
-a {COLOR 255}Potion{COLOR 0}
-an {COLOR 255}Antidote{COLOR 0}
-a {COLOR 255}Burn Heal{COLOR 0}
-an {COLOR 255}Ice Heal{COLOR 0}
-an {COLOR 255}Awakening{COLOR 0}
-a {COLOR 255}Parlyz Heal{COLOR 0}
-a {COLOR 255}Full Restore{COLOR 0}
-a {COLOR 255}Max Potion{COLOR 0}
-a {COLOR 255}Hyper Potion{COLOR 0}
-a {COLOR 255}Super Potion{COLOR 0}
-a {COLOR 255}Full Heal{COLOR 0}
-a {COLOR 255}Revive{COLOR 0}
-a {COLOR 255}Max Revive{COLOR 0}
-a {COLOR 255}Fresh Water{COLOR 0}
-a {COLOR 255}Soda Pop{COLOR 0}
-a {COLOR 255}Lemonade{COLOR 0}
-a {COLOR 255}Moomoo Milk{COLOR 0}
-an {COLOR 255}Energypowder{COLOR 0}
-an {COLOR 255}Energy Root{COLOR 0}
-a {COLOR 255}Heal Powder{COLOR 0}
-a {COLOR 255}Revival Herb{COLOR 0}
-an {COLOR 255}Ether{COLOR 0}
-a {COLOR 255}Max Ether{COLOR 0}
-an {COLOR 255}Elixir{COLOR 0}
-a {COLOR 255}Max Elixir{COLOR 0}
-a {COLOR 255}Lava Cookie{COLOR 0}
-a {COLOR 255}Berry Juice{COLOR 0}
-a {COLOR 255}Sacred Ash{COLOR 0}
-an {COLOR 255}HP Up{COLOR 0}
-a {COLOR 255}Protein{COLOR 0}
-an {COLOR 255}Iron{COLOR 0}
-a {COLOR 255}Carbos{COLOR 0}
-a {COLOR 255}Calcium{COLOR 0}
-a {COLOR 255}Rare Candy{COLOR 0}
-a {COLOR 255}PP Up{COLOR 0}
-a {COLOR 255}Zinc{COLOR 0}
-a {COLOR 255}PP Max{COLOR 0}
-an {COLOR 255}Old Gateau{COLOR 0}
-a {COLOR 255}Guard Spec.{COLOR 0}
-a {COLOR 255}Dire Hit{COLOR 0}
-an {COLOR 255}X Attack{COLOR 0}
-an {COLOR 255}X Defend{COLOR 0}
-an {COLOR 255}X Speed{COLOR 0}
-an {COLOR 255}X Accuracy{COLOR 0}
-an {COLOR 255}X Special{COLOR 0}
-an {COLOR 255}X Sp. Def{COLOR 0}
-a {COLOR 255}Poke Doll{COLOR 0}
-a {COLOR 255}Fluffy Tail{COLOR 0}
-a {COLOR 255}Blue Flute{COLOR 0}
-a {COLOR 255}Yellow Flute{COLOR 0}
-a {COLOR 255}Red Flute{COLOR 0}
-a {COLOR 255}Black Flute{COLOR 0}
-a {COLOR 255}White Flute{COLOR 0}
-a {COLOR 255}Shoal Salt{COLOR 0}
-a {COLOR 255}Shoal Shell{COLOR 0}
-a {COLOR 255}Red Shard{COLOR 0}
-a {COLOR 255}Blue Shard{COLOR 0}
-a {COLOR 255}Yellow Shard{COLOR 0}
-a {COLOR 255}Green Shard{COLOR 0}
-a {COLOR 255}Super Repel{COLOR 0}
-a {COLOR 255}Max Repel{COLOR 0}
-an {COLOR 255}Escape Rope{COLOR 0}
-a {COLOR 255}Repel{COLOR 0}
-a {COLOR 255}Sun Stone{COLOR 0}
-a {COLOR 255}Moon Stone{COLOR 0}
-a {COLOR 255}Fire Stone{COLOR 0}
-a {COLOR 255}Thunderstone{COLOR 0}
-a {COLOR 255}Water Stone{COLOR 0}
-a {COLOR 255}Leaf Stone{COLOR 0}
-a {COLOR 255}TinyMushroom{COLOR 0}
-a {COLOR 255}Big Mushroom{COLOR 0}
-a {COLOR 255}Pearl{COLOR 0}
-a {COLOR 255}Big Pearl{COLOR 0}
-a {COLOR 255}Stardust{COLOR 0}
-a {COLOR 255}Star Piece{COLOR 0}
-a {COLOR 255}Nugget{COLOR 0}
-a {COLOR 255}Heart Scale{COLOR 0}
-a {COLOR 255}Honey{COLOR 0}
-a {COLOR 255}Growth Mulch{COLOR 0}
-a {COLOR 255}Damp Mulch{COLOR 0}
-a {COLOR 255}Stable Mulch{COLOR 0}
-a {COLOR 255}Gooey Mulch{COLOR 0}
-a {COLOR 255}Root Fossil{COLOR 0}
-a {COLOR 255}Claw Fossil{COLOR 0}
-a {COLOR 255}Helix Fossil{COLOR 0}
-a {COLOR 255}Dome Fossil{COLOR 0}
-an {COLOR 255}Old Amber{COLOR 0}
-an {COLOR 255}Armor Fossil{COLOR 0}
-a {COLOR 255}Skull Fossil{COLOR 0}
-a {COLOR 255}Rare Bone{COLOR 0}
-a {COLOR 255}Shiny Stone{COLOR 0}
-a {COLOR 255}Dusk Stone{COLOR 0}
-a {COLOR 255}Dawn Stone{COLOR 0}
-an {COLOR 255}Oval Stone{COLOR 0}
-an {COLOR 255}Odd Keystone{COLOR 0}
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-an {COLOR 255}Adamant Orb{COLOR 0}
-a {COLOR 255}Lustrous Orb{COLOR 0}
-a {COLOR 255}Grass Mail{COLOR 0}
-a {COLOR 255}Flame Mail{COLOR 0}
-a {COLOR 255}Bubble Mail{COLOR 0}
-a {COLOR 255}Bloom Mail{COLOR 0}
-a {COLOR 255}Tunnel Mail{COLOR 0}
-a {COLOR 255}Steel Mail{COLOR 0}
-a {COLOR 255}Heart Mail{COLOR 0}
-a {COLOR 255}Snow Mail{COLOR 0}
-a {COLOR 255}Space Mail{COLOR 0}
-an {COLOR 255}Air Mail{COLOR 0}
-a {COLOR 255}Mosaic Mail{COLOR 0}
-a {COLOR 255}Brick Mail{COLOR 0}
-a {COLOR 255}Cheri Berry{COLOR 0}
-a {COLOR 255}Chesto Berry{COLOR 0}
-a {COLOR 255}Pecha Berry{COLOR 0}
-a {COLOR 255}Rawst Berry{COLOR 0}
-an {COLOR 255}Aspear Berry{COLOR 0}
-a {COLOR 255}Leppa Berry{COLOR 0}
-an {COLOR 255}Oran Berry{COLOR 0}
-a {COLOR 255}Persim Berry{COLOR 0}
-a {COLOR 255}Lum Berry{COLOR 0}
-a {COLOR 255}Sitrus Berry{COLOR 0}
-a {COLOR 255}Figy Berry{COLOR 0}
-a {COLOR 255}Wiki Berry{COLOR 0}
-a {COLOR 255}Mago Berry{COLOR 0}
-an {COLOR 255}Aguav Berry{COLOR 0}
-an {COLOR 255}Iapapa Berry{COLOR 0}
-a {COLOR 255}Razz Berry{COLOR 0}
-a {COLOR 255}Bluk Berry{COLOR 0}
-a {COLOR 255}Nanab Berry{COLOR 0}
-a {COLOR 255}Wepear Berry{COLOR 0}
-a {COLOR 255}Pinap Berry{COLOR 0}
-a {COLOR 255}Pomeg Berry{COLOR 0}
-a {COLOR 255}Kelpsy Berry{COLOR 0}
-a {COLOR 255}Qualot Berry{COLOR 0}
-a {COLOR 255}Hondew Berry{COLOR 0}
-a {COLOR 255}Grepa Berry{COLOR 0}
-a {COLOR 255}Tamato Berry{COLOR 0}
-a {COLOR 255}Cornn Berry{COLOR 0}
-a {COLOR 255}Magost Berry{COLOR 0}
-a {COLOR 255}Rabuta Berry{COLOR 0}
-a {COLOR 255}Nomel Berry{COLOR 0}
-a {COLOR 255}Spelon Berry{COLOR 0}
-a {COLOR 255}Pamtre Berry{COLOR 0}
-a {COLOR 255}Watmel Berry{COLOR 0}
-a {COLOR 255}Durin Berry{COLOR 0}
-a {COLOR 255}Belue Berry{COLOR 0}
-an {COLOR 255}Occa Berry{COLOR 0}
-a {COLOR 255}Passho Berry{COLOR 0}
-a {COLOR 255}Wacan Berry{COLOR 0}
-a {COLOR 255}Rindo Berry{COLOR 0}
-a {COLOR 255}Yache Berry{COLOR 0}
-a {COLOR 255}Chople Berry{COLOR 0}
-a {COLOR 255}Kebia Berry{COLOR 0}
-a {COLOR 255}Shuca Berry{COLOR 0}
-a {COLOR 255}Coba Berry{COLOR 0}
-a {COLOR 255}Payapa Berry{COLOR 0}
-a {COLOR 255}Tanga Berry{COLOR 0}
-a {COLOR 255}Charti Berry{COLOR 0}
-a {COLOR 255}Kasib Berry{COLOR 0}
-a {COLOR 255}Haban Berry{COLOR 0}
-a {COLOR 255}Colbur Berry{COLOR 0}
-a {COLOR 255}Babiri Berry{COLOR 0}
-a {COLOR 255}Chilan Berry{COLOR 0}
-a {COLOR 255}Liechi Berry{COLOR 0}
-a {COLOR 255}Ganlon Berry{COLOR 0}
-a {COLOR 255}Salac Berry{COLOR 0}
-a {COLOR 255}Petaya Berry{COLOR 0}
-an {COLOR 255}Apicot Berry{COLOR 0}
-a {COLOR 255}Lansat Berry{COLOR 0}
-a {COLOR 255}Starf Berry{COLOR 0}
-an {COLOR 255}Enigma Berry{COLOR 0}
-a {COLOR 255}Micle Berry{COLOR 0}
-a {COLOR 255}Custap Berry{COLOR 0}
-a {COLOR 255}Jaboca Berry{COLOR 0}
-a {COLOR 255}Rowap Berry{COLOR 0}
-a {COLOR 255}Brightpowder{COLOR 0}
-a {COLOR 255}White Herb{COLOR 0}
-a {COLOR 255}Macho Brace{COLOR 0}
-an {COLOR 255}Exp. Share{COLOR 0}
-a {COLOR 255}Quick Claw{COLOR 0}
-a {COLOR 255}Soothe Bell{COLOR 0}
-a {COLOR 255}Mental Herb{COLOR 0}
-a {COLOR 255}Choice Band{COLOR 0}
-a {COLOR 255}King’s Rock{COLOR 0}
-a {COLOR 255}SilverPowder{COLOR 0}
-an {COLOR 255}Amulet Coin{COLOR 0}
-a {COLOR 255}Cleanse Tag{COLOR 0}
-a {COLOR 255}Soul Dew{COLOR 0}
-a {COLOR 255}DeepseaTooth{COLOR 0}
-a {COLOR 255}DeepseaScale{COLOR 0}
-a {COLOR 255}Smoke Ball{COLOR 0}
-an {COLOR 255}Everstone{COLOR 0}
-a {COLOR 255}Focus Band{COLOR 0}
-a {COLOR 255}Lucky Egg{COLOR 0}
-a {COLOR 255}Scope Lens{COLOR 0}
-a {COLOR 255}Metal Coat{COLOR 0}
-a {COLOR 255}Leftovers{COLOR 0}
-a {COLOR 255}Dragon Scale{COLOR 0}
-a {COLOR 255}Light Ball{COLOR 0}
-a {COLOR 255}Soft Sand{COLOR 0}
-a {COLOR 255}Hard Stone{COLOR 0}
-a {COLOR 255}Miracle Seed{COLOR 0}
-a {COLOR 255}BlackGlasses{COLOR 0}
-a {COLOR 255}Black Belt{COLOR 0}
-a {COLOR 255}Magnet{COLOR 0}
-a {COLOR 255}Mystic Water{COLOR 0}
-a {COLOR 255}Sharp Beak{COLOR 0}
-a {COLOR 255}Poison Barb{COLOR 0}
-a {COLOR 255}NeverMeltIce{COLOR 0}
-a {COLOR 255}Spell Tag{COLOR 0}
-a {COLOR 255}TwistedSpoon{COLOR 0}
-a {COLOR 255}Charcoal{COLOR 0}
-a {COLOR 255}Dragon Fang{COLOR 0}
-a {COLOR 255}Silk Scarf{COLOR 0}
-an {COLOR 255}Up-grade{COLOR 0}
-a {COLOR 255}Shell Bell{COLOR 0}
-a {COLOR 255}Sea Incense{COLOR 0}
-a {COLOR 255}Lax Incense{COLOR 0}
-a {COLOR 255}Lucky Punch{COLOR 0}
-a {COLOR 255}Metal Powder{COLOR 0}
-a {COLOR 255}Thick Club{COLOR 0}
-a {COLOR 255}Stick{COLOR 0}
-a {COLOR 255}Red Scarf{COLOR 0}
-a {COLOR 255}Blue Scarf{COLOR 0}
-a {COLOR 255}Pink Scarf{COLOR 0}
-a {COLOR 255}Green Scarf{COLOR 0}
-a {COLOR 255}Yellow Scarf{COLOR 0}
-a {COLOR 255}Wide Lens{COLOR 0}
-a {COLOR 255}Muscle Band{COLOR 0}
-the {COLOR 255}Wise Glasses{COLOR 0}
-an {COLOR 255}Expert Belt{COLOR 0}
-a {COLOR 255}Light Clay{COLOR 0}
-a {COLOR 255}Life Orb{COLOR 0}
-a {COLOR 255}Power Herb{COLOR 0}
-a {COLOR 255}Toxic Orb{COLOR 0}
-a {COLOR 255}Flame Orb{COLOR 0}
-a {COLOR 255}Quick Powder{COLOR 0}
-a {COLOR 255}Focus Sash{COLOR 0}
-a {COLOR 255}Zoom Lens{COLOR 0}
-a {COLOR 255}Metronome{COLOR 0}
-an {COLOR 255}Iron Ball{COLOR 0}
-a {COLOR 255}Lagging Tail{COLOR 0}
-a {COLOR 255}Destiny Knot{COLOR 0}
-a {COLOR 255}Black Sludge{COLOR 0}
-an {COLOR 255}Icy Rock{COLOR 0}
-a {COLOR 255}Smooth Rock{COLOR 0}
-a {COLOR 255}Heat Rock{COLOR 0}
-a {COLOR 255}Damp Rock{COLOR 0}
-a {COLOR 255}Grip Claw{COLOR 0}
-a {COLOR 255}Choice Scarf{COLOR 0}
-a {COLOR 255}Sticky Barb{COLOR 0}
-a {COLOR 255}Power Bracer{COLOR 0}
-a {COLOR 255}Power Belt{COLOR 0}
-a {COLOR 255}Power Lens{COLOR 0}
-a {COLOR 255}Power Band{COLOR 0}
-a {COLOR 255}Power Anklet{COLOR 0}
-a {COLOR 255}Power Weight{COLOR 0}
-a {COLOR 255}Shed Shell{COLOR 0}
-a {COLOR 255}Big Root{COLOR 0}
-a {COLOR 255}Choice Specs{COLOR 0}
-a {COLOR 255}Flame Plate{COLOR 0}
-a {COLOR 255}Splash Plate{COLOR 0}
-a {COLOR 255}Zap Plate{COLOR 0}
-a {COLOR 255}Meadow Plate{COLOR 0}
-an {COLOR 255}Icicle Plate{COLOR 0}
-a {COLOR 255}Fist Plate{COLOR 0}
-a {COLOR 255}Toxic Plate{COLOR 0}
-an {COLOR 255}Earth Plate{COLOR 0}
-a {COLOR 255}Sky Plate{COLOR 0}
-a {COLOR 255}Mind Plate{COLOR 0}
-an {COLOR 255}Insect Plate{COLOR 0}
-a {COLOR 255}Stone Plate{COLOR 0}
-a {COLOR 255}Spooky Plate{COLOR 0}
-a {COLOR 255}Draco Plate{COLOR 0}
-a {COLOR 255}Dread Plate{COLOR 0}
-an {COLOR 255}Iron Plate{COLOR 0}
-an {COLOR 255}Odd Incense{COLOR 0}
-a {COLOR 255}Rock Incense{COLOR 0}
-a {COLOR 255}Full Incense{COLOR 0}
-a {COLOR 255}Wave Incense{COLOR 0}
-a {COLOR 255}Rose Incense{COLOR 0}
-a {COLOR 255}Luck Incense{COLOR 0}
-a {COLOR 255}Pure Incense{COLOR 0}
-a {COLOR 255}Protector{COLOR 0}
-an {COLOR 255}Electirizer{COLOR 0}
-a {COLOR 255}Magmarizer{COLOR 0}
-a {COLOR 255}Dubious Disc{COLOR 0}
-a {COLOR 255}Reaper Cloth{COLOR 0}
-a {COLOR 255}Razor Claw{COLOR 0}
-a {COLOR 255}Razor Fang{COLOR 0}
-a {COLOR 255}TM01{COLOR 0}
-a {COLOR 255}TM02{COLOR 0}
-a {COLOR 255}TM03{COLOR 0}
-a {COLOR 255}TM04{COLOR 0}
-a {COLOR 255}TM05{COLOR 0}
-a {COLOR 255}TM06{COLOR 0}
-a {COLOR 255}TM07{COLOR 0}
-a {COLOR 255}TM08{COLOR 0}
-a {COLOR 255}TM09{COLOR 0}
-a {COLOR 255}TM10{COLOR 0}
-a {COLOR 255}TM11{COLOR 0}
-a {COLOR 255}TM12{COLOR 0}
-a {COLOR 255}TM13{COLOR 0}
-a {COLOR 255}TM14{COLOR 0}
-a {COLOR 255}TM15{COLOR 0}
-a {COLOR 255}TM16{COLOR 0}
-a {COLOR 255}TM17{COLOR 0}
-a {COLOR 255}TM18{COLOR 0}
-a {COLOR 255}TM19{COLOR 0}
-a {COLOR 255}TM20{COLOR 0}
-a {COLOR 255}TM21{COLOR 0}
-a {COLOR 255}TM22{COLOR 0}
-a {COLOR 255}TM23{COLOR 0}
-a {COLOR 255}TM24{COLOR 0}
-a {COLOR 255}TM25{COLOR 0}
-a {COLOR 255}TM26{COLOR 0}
-a {COLOR 255}TM27{COLOR 0}
-a {COLOR 255}TM28{COLOR 0}
-a {COLOR 255}TM29{COLOR 0}
-a {COLOR 255}TM30{COLOR 0}
-a {COLOR 255}TM31{COLOR 0}
-a {COLOR 255}TM32{COLOR 0}
-a {COLOR 255}TM33{COLOR 0}
-a {COLOR 255}TM34{COLOR 0}
-a {COLOR 255}TM35{COLOR 0}
-a {COLOR 255}TM36{COLOR 0}
-a {COLOR 255}TM37{COLOR 0}
-a {COLOR 255}TM38{COLOR 0}
-a {COLOR 255}TM39{COLOR 0}
-a {COLOR 255}TM40{COLOR 0}
-a {COLOR 255}TM41{COLOR 0}
-a {COLOR 255}TM42{COLOR 0}
-a {COLOR 255}TM43{COLOR 0}
-a {COLOR 255}TM44{COLOR 0}
-a {COLOR 255}TM45{COLOR 0}
-a {COLOR 255}TM46{COLOR 0}
-a {COLOR 255}TM47{COLOR 0}
-a {COLOR 255}TM48{COLOR 0}
-a {COLOR 255}TM49{COLOR 0}
-a {COLOR 255}TM50{COLOR 0}
-a {COLOR 255}TM51{COLOR 0}
-a {COLOR 255}TM52{COLOR 0}
-a {COLOR 255}TM53{COLOR 0}
-a {COLOR 255}TM54{COLOR 0}
-a {COLOR 255}TM55{COLOR 0}
-a {COLOR 255}TM56{COLOR 0}
-a {COLOR 255}TM57{COLOR 0}
-a {COLOR 255}TM58{COLOR 0}
-a {COLOR 255}TM59{COLOR 0}
-a {COLOR 255}TM60{COLOR 0}
-a {COLOR 255}TM61{COLOR 0}
-a {COLOR 255}TM62{COLOR 0}
-a {COLOR 255}TM63{COLOR 0}
-a {COLOR 255}TM64{COLOR 0}
-a {COLOR 255}TM65{COLOR 0}
-a {COLOR 255}TM66{COLOR 0}
-a {COLOR 255}TM67{COLOR 0}
-a {COLOR 255}TM68{COLOR 0}
-a {COLOR 255}TM69{COLOR 0}
-a {COLOR 255}TM70{COLOR 0}
-a {COLOR 255}TM71{COLOR 0}
-a {COLOR 255}TM72{COLOR 0}
-a {COLOR 255}TM73{COLOR 0}
-a {COLOR 255}TM74{COLOR 0}
-a {COLOR 255}TM75{COLOR 0}
-a {COLOR 255}TM76{COLOR 0}
-a {COLOR 255}TM77{COLOR 0}
-a {COLOR 255}TM78{COLOR 0}
-a {COLOR 255}TM79{COLOR 0}
-a {COLOR 255}TM80{COLOR 0}
-a {COLOR 255}TM81{COLOR 0}
-a {COLOR 255}TM82{COLOR 0}
-a {COLOR 255}TM83{COLOR 0}
-a {COLOR 255}TM84{COLOR 0}
-a {COLOR 255}TM85{COLOR 0}
-a {COLOR 255}TM86{COLOR 0}
-a {COLOR 255}TM87{COLOR 0}
-a {COLOR 255}TM88{COLOR 0}
-a {COLOR 255}TM89{COLOR 0}
-a {COLOR 255}TM90{COLOR 0}
-a {COLOR 255}TM91{COLOR 0}
-a {COLOR 255}TM92{COLOR 0}
-an {COLOR 255}HM01{COLOR 0}
-an {COLOR 255}HM02{COLOR 0}
-an {COLOR 255}HM03{COLOR 0}
-an {COLOR 255}HM04{COLOR 0}
-an {COLOR 255}HM05{COLOR 0}
-an {COLOR 255}HM06{COLOR 0}
-an {COLOR 255}HM07{COLOR 0}
-an {COLOR 255}HM08{COLOR 0}
-an {COLOR 255}Explorer Kit{COLOR 0}
-a {COLOR 255}Loot Sack{COLOR 0}
-a {COLOR 255}Rule Book{COLOR 0}
-a {COLOR 255}Poké Radar{COLOR 0}
-a {COLOR 255}Point Card{COLOR 0}
-a {COLOR 255}Journal{COLOR 0}
-a {COLOR 255}Seal Case{COLOR 0}
-a {COLOR 255}Fashion Case{COLOR 0}
-a {COLOR 255}Seal Bag{COLOR 0}
-a {COLOR 255}Pal Pad{COLOR 0}
-a {COLOR 255}Works Key{COLOR 0}
-an {COLOR 255}Old Charm{COLOR 0}
-a {COLOR 255}Galactic Key{COLOR 0}
-a {COLOR 255}Red Chain{COLOR 0}
-a {COLOR 255}Town Map{COLOR 0}
-a {COLOR 255}Vs Seeker{COLOR 0}
-a {COLOR 255}Coin Case{COLOR 0}
-an {COLOR 255}Old Rod{COLOR 0}
-a {COLOR 255}Good Rod{COLOR 0}
-a {COLOR 255}Super Rod{COLOR 0}
-a {COLOR 255}Sprayduck{COLOR 0}
-a {COLOR 255}Poffin Case{COLOR 0}
-a {COLOR 255}Bicycle{COLOR 0}
-a {COLOR 255}Suite Key{COLOR 0}
-{COLOR 255}Oak’s Letter{COLOR 0}
-a {COLOR 255}Lunar Wing{COLOR 0}
-a {COLOR 255}Member Card{COLOR 0}
-an {COLOR 255}Azure Flute{COLOR 0}
-an {COLOR 255}S.S. Ticket{COLOR 0}
-a {COLOR 255}Contest Pass{COLOR 0}
-a {COLOR 255}Magma Stone{COLOR 0}
-a {COLOR 255}Parcel{COLOR 0}
-a {COLOR 255}Coupon 1{COLOR 0}
-a {COLOR 255}Coupon 2{COLOR 0}
-a {COLOR 255}Coupon 3{COLOR 0}
-a {COLOR 255}Storage Key{COLOR 0}
-a {COLOR 255}SecretPotion{COLOR 0}
+无
+大师球
+高级球
+超级球
+精灵球
+狩猎球
+捕网球
+潜水球
+巢穴球
+重复球
+时间球
+豪华球
+纪念球
+黑暗球
+治愈球
+快速球
+珍稀球
+伤药
+解毒药
+烧伤药
+解冻药
+清醒药
+解麻药
+痊愈药
+全回复药
+高级伤药
+好伤药
+万能药
+元气药片
+元气药块
+美味的水
+苏打饮料
+混合饮料
+哞哞牛奶
+力之粉
+力之根
+万能粉
+复活草
+PP回复
+PP大回复
+PP量回复
+PP全回复
+飞音饼
+树果汁
+圣灰
+体力药剂
+蛋白药剂
+补铁药剂
+补碳药剂
+补钙药剂
+神奇糖果
+PP提升剂
+补锌药剂
+PP最大剂
+森之羊羹
+Ｘ防护
+Ｘ会心
+Ｘ攻击
+Ｘ防御
+Ｘ速度
+Ｘ准确
+Ｘ特攻
+Ｘ特防
+皮皮玩偶
+向尾猫玩偶
+蓝哨子
+黄哨子
+红哨子
+黑哨子
+白哨子
+浅水盐
+浅水贝
+红色碎片
+蓝色碎片
+黄色碎片
+绿色碎片
+银色喷雾器
+金色喷雾器
+穿洞绳
+除虫喷雾器
+日之石
+月之石
+火之石
+雷之石
+水之石
+叶之石
+小蘑菇
+大蘑菇
+小珍珠
+大珍珠
+星之砂
+星之碎片
+金珠
+心之鳞片
+香甜蜂蜜
+催生肥料
+延缓肥料
+催熟肥料
+高产肥料
+根之化石
+爪之化石
+贝之化石
+铠之化石
+神秘琥珀
+盾之化石
+头盖化石
+贵重骨头
+光之石
+暗之石
+觉醒石
+真丸石
+要石
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+金刚石
+白玉
+草原信纸
+火焰信纸
+蓝色信纸
+鲜花信纸
+隧道信纸
+钢铁信纸
+爱心信纸
+暴雪信纸
+星际信纸
+天空信纸
+马赛克信纸
+砖块信纸
+库拉博果
+卡枸果
+莫蒙果
+奇枸果
+纳纳西果
+西麦力果
+奥兰果
+吉果
+拉姆果
+奥邦果
+费拉果
+乌伊果
+麻枸果
+邦吉果
+伊阿果
+兹利果
+布利果
+纳纳果
+塞西纳果
+派乐果
+扎洛克果
+乃柯布果
+塔珀卢果
+洛梅果
+乌布果
+玛托玛果
+莫克西果
+枸斯果
+拉布塔果
+诺麦卢果
+诺瓦基果
+西亚果
+凯斯果
+多利果
+百利布果
+奥卡果
+伊托凯果
+索库诺果
+林多果
+亚千果
+尤扑果
+比亚果
+修卡果
+巴克乌果
+乌堂果
+汤加果
+尤洛基果
+卡西布果
+哈帮果
+纳莫果
+利利巴果
+霍斯果
+奇拉果
+琉珈果
+卡姆拉果
+亚塔皮果
+兹亚果
+撒恩果
+斯塔果
+纳佐果
+米克尔果
+伊邦果
+珈珀果
+兰布果
+光粉
+白色香草
+竞争背心
+学习装置
+先制之爪
+安闲铃铛
+精神香草
+专爱头巾
+王者之证
+银粉
+护身金币
+清净符
+心之水滴
+深海之牙
+深海之鳞
+烟珠
+不变之石
+气息头巾
+幸运蛋
+焦点镜片
+金属外套
+剩饭
+龙鳞
+电气珠
+柔软沙子
+坚硬岩石
+奇迹种子
+黑色眼镜
+黑带
+磁铁
+神秘水滴
+尖锐鸟喙
+毒针
+不融冰
+诅咒符
+弯曲汤匙
+木炭
+龙牙
+丝巾
+升级卡
+空贝铃
+漩涡香炉
+畅气香炉
+幸运拳套
+金属粉末
+粗骨棒
+长葱
+红色头巾
+蓝色头巾
+粉色头巾
+绿色头巾
+黄色头巾
+广角镜片
+力量头巾
+智慧眼镜
+达人腰带
+光之粘土
+生命之玉
+力量香草
+剧毒珠
+火焰珠
+速度粉末
+气息衣带
+精准镜片
+节拍器
+黑铁球
+后攻之尾
+红线团
+黑淤泥
+冰冷岩石
+沙砾岩石
+炽热岩石
+湿润岩石
+粘性勾爪
+专爱围巾
+附针
+力量腕饰
+力量腰带
+力量镜片
+力量衣带
+力量护膝
+力量防具
+绮丽外壳
+大根须
+专爱眼镜
+火球石板
+水滴石板
+雷电石板
+绿之石板
+冰柱石板
+拳击石板
+剧毒石板
+大地石板
+青空石板
+奇异石板
+玉虫石板
+岩石石板
+阴魂石板
+龙之石板
+恐怖石板
+钢铁石板
+怪异香炉
+岩石香炉
+满腹香炉
+水波香炉
+鲜花香炉
+幸运香炉
+清静香炉
+护身防具
+电力驱动器
+岩浆驱动器
+怪异零件
+灵界之布
+尖锐之爪
+尖锐之牙
+技能训练机０１
+技能训练机０２
+技能训练机０３
+技能训练机０４
+技能训练机０５
+技能训练机０６
+技能训练机０７
+技能训练机０８
+技能训练机０９
+技能训练机１０
+技能训练机１１
+技能训练机１２
+技能训练机１３
+技能训练机１４
+技能训练机１５
+技能训练机１６
+技能训练机１７
+技能训练机１８
+技能训练机１９
+技能训练机２０
+技能训练机２１
+技能训练机２２
+技能训练机２３
+技能训练机２４
+技能训练机２５
+技能训练机２６
+技能训练机２７
+技能训练机２８
+技能训练机２９
+技能训练机３０
+技能训练机３１
+技能训练机３２
+技能训练机３３
+技能训练机３４
+技能训练机３５
+技能训练机３６
+技能训练机３７
+技能训练机３８
+技能训练机３９
+技能训练机４０
+技能训练机４１
+技能训练机４２
+技能训练机４３
+技能训练机４４
+技能训练机４５
+技能训练机４６
+技能训练机４７
+技能训练机４８
+技能训练机４９
+技能训练机５０
+技能训练机５１
+技能训练机５２
+技能训练机５３
+技能训练机５４
+技能训练机５５
+技能训练机５６
+技能训练机５７
+技能训练机５８
+技能训练机５９
+技能训练机６０
+技能训练机６１
+技能训练机６２
+技能训练机６３
+技能训练机６４
+技能训练机６５
+技能训练机６６
+技能训练机６７
+技能训练机６８
+技能训练机６９
+技能训练机７０
+技能训练机７１
+技能训练机７２
+技能训练机７３
+技能训练机７４
+技能训练机７５
+技能训练机７６
+技能训练机７７
+技能训练机７８
+技能训练机７９
+技能训练机８０
+技能训练机８１
+技能训练机８２
+技能训练机８３
+技能训练机８４
+技能训练机８５
+技能训练机８６
+技能训练机８７
+技能训练机８８
+技能训练机８９
+技能训练机９０
+技能训练机９１
+技能训练机９２
+秘传训练机０１
+秘传训练机０２
+秘传训练机０３
+秘传训练机０４
+秘传训练机０５
+秘传训练机０６
+秘传训练机０７
+秘传训练机０８
+挖掘装备
+宝物袋
+规则之书
+精灵探测器
+点数卡
+冒险笔记本
+贴纸盒
+饰品盒
+贴纸袋
+朋友手册
+发电厂钥匙
+古代护符
+银河团钥匙
+红草绳
+地图
+对战搜索机
+代币盒
+破钓竿
+好钓竿
+高级钓竿
+可达鸭喷壶
+松饼盒
+自行车
+房间钥匙
+大木博士的信
+新月之羽
+会员卡
+天海之笛
+船票
+选美通行证
+火山巨石
+托付物品
+兑换券１
+兑换券２
+兑换券３
+仓库钥匙
+秘传之药

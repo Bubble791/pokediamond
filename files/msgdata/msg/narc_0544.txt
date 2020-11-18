@@ -1,13 +1,13 @@
-How may we serve you today?\nPerhaps a spa treatment?\rOur spa treatment will make your\n{STRVAR 1, 1} grow more friendly.\rWould you care to have a spa\ntreatment, {STRVAR 3, 0}?
-We hope to see you again.
-Ah, yes.\nRight this way, please...\r
-We’re ready to begin.\nPlease, relax all your muscles.\r
-This oil contains dissolved diamonds\nfor enhanced effectiveness.\r
-This foam contains an extract taken\nfrom pearls.\r
-The body’s toxins are forced out with\na foreign massage technique.\r
-The salon’s air is perfumed by an\nherbal aroma for relaxation.\r
-There, all done.\nI hope you enjoyed it.
-Oh, I do apologize.\rWe can only provide one spa\nsession a day to our members.
-We keep our clients and Pokémon from\nseeing others.\rThat way, all our clients and their\nPokémon can fully relax.
-Our service is very exclusive.\nWe only accept five members a day.
-We’ve developed a reputation for\nbringing our members closer to\ftheir Pokémon.
+今天需要什么呢？\r用我的按摩\n让{STRVAR 3,0}的{STRVAR 1,1}\f与您更加亲密的服务需要吗？
+欢迎下次再来
+我知道了\n那么,这边请……\r
+那么,让我们开始吧,\n请放松身体\r
+使用钻石融化成的油\n效果会提升\r
+这边的香皂\n添加了珍珠的成分\r
+用在国外学到的技术\n排除身体的毒素\r
+宽阔的房间,香草的香味,\n身心都放松了\r
+您久等了！
+对不起,\n按摩一天只能进行一次
+您和精灵已经放松了,\n还有其他的客人正在等候
+这里的服务\n一天最多有５组。
+对你的心同精灵的距离\n进行评价

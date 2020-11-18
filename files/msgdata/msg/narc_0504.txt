@@ -1,4 +1,4 @@
-Did you hear?\rThe Pokémon Professor returned\nto the next town over.\rThey say he was gone for four long\nyears.\rI wonder if he found some amazing\nPokémon while he was gone?
-Well! Professor Rowan gave you a\nPokédex, did he?
-Listen, listen, {STRVAR 3, 0}.\nI want a cute Pokémon!
-Listen, listen, {STRVAR 3, 0}.\rDo you think I can be friends with\nPokémon like you are?
+听说了吗？\n邻镇的博士四年来首次归来,\f不知见到什么厉害的精灵没有！
+哦！从山梨博士那里\n得到口袋图鉴了啊！
+喂喂喂{STRVAR 3,0},\n我想要个可爱的精灵！
+喂喂喂{STRVAR 3,0},\n我和精灵能成为朋友吗？

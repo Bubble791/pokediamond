@@ -1,23 +1,23 @@
-...You are?\rOK, you’re {STRVAR 3, 0}.\nI’m Riley.\rI’m a Trainer, and yes, it is a bit\nodd that I would be training here.\rIf you’d like, we could team up.\nThe wild Pokémon here are restless.\r
-{STRVAR 3, 0} decided to go with\nRiley!
-Riley: If your Pokémon get hurt,\nI’ll heal them up.
-Riley: Hi, {STRVAR 3, 0}.\nLet’s team up.\fThe Pokémon seem to be restless.\r
-Riley: ...Are you going back?\rI’ll be hanging around here.\nIt would be good if you came back.\r
-Riley: I get it now. You’re\nresponsible for agitating the Pokémon.\rI don’t care what good reason you\nmay have, but I don’t want you\fbringing any trouble into my mine.\r
-Grunt 1: We’re Team Galactic!\nWe’ll take all the Pokémon we want!\fIsn’t that right, partner?\r
-Grunt 2: You said it, brother!\nSo that’s what we’re gonna do!\rWe’re abducting all the Pokémon from\nthis rusted-out Iron Island!\r
-Riley: To share in all the joys and\nall the sorrows...\rThat is how all the Trainers and\nPokémon live in Sinnoh!\rI won’t allow anyone to defy that\ncode of ethics!\rCome on, {STRVAR 3, 0}!\nThis is one battle we can’t lose!\r
-Grunt 1: Stop! I said stop!\nYour combination is so sick!\fThe both of you, and your Pokémon...\rLet’s beat it, partner!\r
-Grunt 2: You said it, brother!\rWe don’t even know what Team \nGalactic’s big plan is anyway!\r
-Riley: Thanks.\nYou really helped me out.\rListen, I have a Pokémon Egg\nhere.\rWould you take it with you?
-Riley: Thanks!\rI’d like you to show the Pokémon\nthat’s inside the Egg all sorts\fof new places.\r
-Riley: Thank you...\rBut you don’t have room to take\nanother Pokémon.\rAll right, then.\nI’ll wait here for you.
-Riley: I hope you’ll accept it as\na token of our friendship.\r
-Riley: Spending time with you was\nvery enjoyable.\rI intend to test my skills in other\nplaces from now on.\rLet’s meet again!\nTake care on the way out.
-                              
-                                 
-Riley: Haha, I’d have to agree.\rPeople training here would be those\nwith too much time on their hands.
-Riley: This used to be a fairly\nthriving ore mine once upon a time.\rI guess the steel ore’s played out.\nThere’s only Pokémon here now.
-Riley: Have you met Byron?\nThe Leader of Canalave Gym?\rHe’s asked me to become a Gym Leader,\nbut there’s his son Roark to consider.
-Riley: Imagine what it would be like\nfor a Steel-type Pokémon user to\fbattle a Steel type.\rWould that be like battling yourself,\nI wonder?\rI mean, it’s a lot harder to defeat\none’s self than anyone else.
-Riley: What’s going on here, though?\nThe native Pokémon are restless...\rI don’t like this...\nLet’s hurry.
+……你是？\n是吗,是叫{STRVAR 3,0}啊！\r我叫彦,\n一直在这里修行,\r你看起来是个仗义的训练师,\n可以的话一起走吧,\f这里的精灵好像发生了暴乱\r
+彦加入成为同伴！
+彦『如果精灵受伤了\n就交给我来回复吧！
+彦『呀,{STRVAR 3,0},\n一起走吧,\f精灵们好像出了什么事！\r
+彦『……要回去吗？\r我在这等你,\n可以的话再一起走吧！\r
+彦『总算明白了,\n原来是你们弄得精灵发生暴乱,\r不管是什么原因,\n都不能原谅你们把骚动带到矿山！\r
+小喽喽１『我们银河团\n要抢走所有的精灵！\f对吧,搭档！\r
+小喽喽２『是啊,兄弟！\n所以,这冷清的钢铁岛的\f所有的精灵都由我们接管了！\r
+彦『共同分享\n所有的愉悦和伤悲,\f这是生活在神奥的\f所有训练师和精灵的生活方式,\r想要破坏这些的家伙不可原谅！\r来吧,{STRVAR 3,0}！\n这场战斗绝对要赢啊！\r
+小喽喽１『算了！\n超强的配合！\r你们两个家伙,\n还有你们的精灵……\r咱们回去吧！\r
+小喽喽２『是啊,哥哥！\n现在我对银河团\f到底要干什么也不明白了\r
+彦『多亏你得救了,\n可以的话,\f能收下这枚精灵的蛋吗？
+彦『谢谢！\n希望你能让从这蛋里孵化的精灵\f好好地看看这个世界！\r
+彦『谢谢……\n但是你好像已经\f携不下更多的精灵了,\r我知道了,\n我会在这里等你。
+彦『请一定要收下,\n它见证了我与你的友情！\r
+彦『和你在一起\n让我很高兴,\r我也会去其他地方\n锻炼自己的力量,\f后会有期！\f回去的路上小心啊
+彦『使用那个的话\n就要在这里道别了。
+彦『使用那个技能的话\n就要在这里道别了。
+彦『哈哈,是啊,\n在这里修行也算是个闲人。
+彦『以前这里曾是繁荣的矿山,\n现在还留在这里的\f就只剩精灵了
+彦『见到过藤元吗？\n虽然身为美央市道馆馆主的他\f来拜托我做道馆馆主,\f但是还有平田在啊！
+彦『使用钢系精灵的\n口袋训练师\f在和钢系精灵战斗的时候……\r就像在和自己战斗一样,\n是啊,不论战胜了多少人,\f想要战胜自己是最难的。
+彦『另外,\n精灵为什么如此暴乱？\r真在意……\n走快点吧。

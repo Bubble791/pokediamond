@@ -1,5 +1,5 @@
-MORNING
-DAY
-EVENING
-NIGHT
-LATE NIGHT
+早晨
+白天
+傍晚
+夜晚
+深夜

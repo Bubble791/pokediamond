@@ -1,465 +1,465 @@
-None
-Master Ball
-Ultra Ball
-Great Ball
-Poké Ball
-Safari Ball
-Net Ball
-Dive Ball
-Nest Ball
-Repeat Ball
-Timer Ball
-Luxury Ball
-Premier Ball
-Dusk Ball
-Heal Ball
-Quick Ball
-Cherish Ball
-Potion
-Antidote
-Burn Heal
-Ice Heal
-Awakening
-Parlyz Heal
-Full Restore
-Max Potion
-Hyper Potion
-Super Potion
-Full Heal
-Revive
-Max Revive
-Fresh Water
-Soda Pop
-Lemonade
-Moomoo Milk
-EnergyPowder
-Energy Root
-Heal Powder
-Revival Herb
-Ether
-Max Ether
-Elixir
-Max Elixir
-Lava Cookie
-Berry Juice
-Sacred Ash
-HP Up
-Protein
-Iron
-Carbos
-Calcium
-Rare Candy
-PP Up
-Zinc
-PP Max
-Old Gateau
-Guard Spec.
-Dire Hit
-X Attack
-X Defend
-X Speed
-X Accuracy
-X Special
-X Sp. Def
-Poké Doll
-Fluffy Tail
-Blue Flute
-Yellow Flute
-Red Flute
-Black Flute
-White Flute
-Shoal Salt
-Shoal Shell
-Red Shard
-Blue Shard
-Yellow Shard
-Green Shard
-Super Repel
-Max Repel
-Escape Rope
-Repel
-Sun Stone
-Moon Stone
-Fire Stone
-Thunderstone
-Water Stone
-Leaf Stone
-TinyMushroom
-Big Mushroom
-Pearl
-Big Pearl
-Stardust
-Star Piece
-Nugget
-Heart Scale
-Honey
-Growth Mulch
-Damp Mulch
-Stable Mulch
-Gooey Mulch
-Root Fossil
-Claw Fossil
-Helix Fossil
-Dome Fossil
-Old Amber
-Armor Fossil
-Skull Fossil
-Rare Bone
-Shiny Stone
-Dusk Stone
-Dawn Stone
-Oval Stone
-Odd Keystone
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-Adamant Orb
-Lustrous Orb
-Grass Mail
-Flame Mail
-Bubble Mail
-Bloom Mail
-Tunnel Mail
-Steel Mail
-Heart Mail
-Snow Mail
-Space Mail
-Air Mail
-Mosaic Mail
-Brick Mail
-Cheri Berry
-Chesto Berry
-Pecha Berry
-Rawst Berry
-Aspear Berry
-Leppa Berry
-Oran Berry
-Persim Berry
-Lum Berry
-Sitrus Berry
-Figy Berry
-Wiki Berry
-Mago Berry
-Aguav Berry
-Iapapa Berry
-Razz Berry
-Bluk Berry
-Nanab Berry
-Wepear Berry
-Pinap Berry
-Pomeg Berry
-Kelpsy Berry
-Qualot Berry
-Hondew Berry
-Grepa Berry
-Tamato Berry
-Cornn Berry
-Magost Berry
-Rabuta Berry
-Nomel Berry
-Spelon Berry
-Pamtre Berry
-Watmel Berry
-Durin Berry
-Belue Berry
-Occa Berry
-Passho Berry
-Wacan Berry
-Rindo Berry
-Yache Berry
-Chople Berry
-Kebia Berry
-Shuca Berry
-Coba Berry
-Payapa Berry
-Tanga Berry
-Charti Berry
-Kasib Berry
-Haban Berry
-Colbur Berry
-Babiri Berry
-Chilan Berry
-Liechi Berry
-Ganlon Berry
-Salac Berry
-Petaya Berry
-Apicot Berry
-Lansat Berry
-Starf Berry
-Enigma Berry
-Micle Berry
-Custap Berry
-Jaboca Berry
-Rowap Berry
-BrightPowder
-White Herb
-Macho Brace
-Exp. Share
-Quick Claw
-Soothe Bell
-Mental Herb
-Choice Band
-King’s Rock
-SilverPowder
-Amulet Coin
-Cleanse Tag
-Soul Dew
-DeepSeaTooth
-DeepSeaScale
-Smoke Ball
-Everstone
-Focus Band
-Lucky Egg
-Scope Lens
-Metal Coat
-Leftovers
-Dragon Scale
-Light Ball
-Soft Sand
-Hard Stone
-Miracle Seed
-BlackGlasses
-Black Belt
-Magnet
-Mystic Water
-Sharp Beak
-Poison Barb
-NeverMeltIce
-Spell Tag
-TwistedSpoon
-Charcoal
-Dragon Fang
-Silk Scarf
-Up-Grade
-Shell Bell
-Sea Incense
-Lax Incense
-Lucky Punch
-Metal Powder
-Thick Club
-Stick
-Red Scarf
-Blue Scarf
-Pink Scarf
-Green Scarf
-Yellow Scarf
-Wide Lens
-Muscle Band
-Wise Glasses
-Expert Belt
-Light Clay
-Life Orb
-Power Herb
-Toxic Orb
-Flame Orb
-Quick Powder
-Focus Sash
-Zoom Lens
-Metronome
-Iron Ball
-Lagging Tail
-Destiny Knot
-Black Sludge
-Icy Rock
-Smooth Rock
-Heat Rock
-Damp Rock
-Grip Claw
-Choice Scarf
-Sticky Barb
-Power Bracer
-Power Belt
-Power Lens
-Power Band
-Power Anklet
-Power Weight
-Shed Shell
-Big Root
-Choice Specs
-Flame Plate
-Splash Plate
-Zap Plate
-Meadow Plate
-Icicle Plate
-Fist Plate
-Toxic Plate
-Earth Plate
-Sky Plate
-Mind Plate
-Insect Plate
-Stone Plate
-Spooky Plate
-Draco Plate
-Dread Plate
-Iron Plate
-Odd Incense
-Rock Incense
-Full Incense
-Wave Incense
-Rose Incense
-Luck Incense
-Pure Incense
-Protector
-Electirizer
-Magmarizer
-Dubious Disc
-Reaper Cloth
-Razor Claw
-Razor Fang
-TM01
-TM02
-TM03
-TM04
-TM05
-TM06
-TM07
-TM08
-TM09
-TM10
-TM11
-TM12
-TM13
-TM14
-TM15
-TM16
-TM17
-TM18
-TM19
-TM20
-TM21
-TM22
-TM23
-TM24
-TM25
-TM26
-TM27
-TM28
-TM29
-TM30
-TM31
-TM32
-TM33
-TM34
-TM35
-TM36
-TM37
-TM38
-TM39
-TM40
-TM41
-TM42
-TM43
-TM44
-TM45
-TM46
-TM47
-TM48
-TM49
-TM50
-TM51
-TM52
-TM53
-TM54
-TM55
-TM56
-TM57
-TM58
-TM59
-TM60
-TM61
-TM62
-TM63
-TM64
-TM65
-TM66
-TM67
-TM68
-TM69
-TM70
-TM71
-TM72
-TM73
-TM74
-TM75
-TM76
-TM77
-TM78
-TM79
-TM80
-TM81
-TM82
-TM83
-TM84
-TM85
-TM86
-TM87
-TM88
-TM89
-TM90
-TM91
-TM92
-HM01
-HM02
-HM03
-HM04
-HM05
-HM06
-HM07
-HM08
-Explorer Kit
-Loot Sack
-Rule Book
-Poké Radar
-Point Card
-Journal
-Seal Case
-Fashion Case
-Seal Bag
-Pal Pad
-Works Key
-Old Charm
-Galactic Key
-Red Chain
-Town Map
-Vs. Seeker
-Coin Case
-Old Rod
-Good Rod
-Super Rod
-Sprayduck
-Poffin Case
-Bicycle
-Suite Key
-Oak’s Letter
-Lunar Wing
-Member Card
-Azure Flute
-S.S. Ticket
-Contest Pass
-Magma Stone
-Parcel
-Coupon 1
-Coupon 2
-Coupon 3
-Storage Key
-SecretPotion
+无
+大师球
+高级球
+超级球
+精灵球
+狩猎球
+捕网球
+潜水球
+巢穴球
+重复球
+时间球
+豪华球
+纪念球
+黑暗球
+治愈球
+快速球
+珍稀球
+伤药
+解毒药
+烧伤药
+解冻药
+清醒药
+解麻药
+痊愈药
+全回复药
+高级伤药
+好伤药
+万能药
+元气药片
+元气药块
+美味的水
+苏打饮料
+混合饮料
+哞哞牛奶
+力之粉
+力之根
+万能粉
+复活草
+PP回复
+PP大回复
+PP量回复
+PP全回复
+飞音饼
+树果汁
+圣灰
+体力药剂
+蛋白药剂
+补铁药剂
+补碳药剂
+补钙药剂
+神奇糖果
+PP提升剂
+补锌药剂
+PP最大剂
+森之羊羹
+Ｘ防护
+Ｘ会心
+Ｘ攻击
+Ｘ防御
+Ｘ速度
+Ｘ准确
+Ｘ特攻
+Ｘ特防
+皮皮玩偶
+向尾猫玩偶
+蓝哨子
+黄哨子
+红哨子
+黑哨子
+白哨子
+浅水盐
+浅水贝
+红色碎片
+蓝色碎片
+黄色碎片
+绿色碎片
+银色喷雾器
+金色喷雾器
+穿洞绳
+除虫喷雾器
+日之石
+月之石
+火之石
+雷之石
+水之石
+叶之石
+小蘑菇
+大蘑菇
+小珍珠
+大珍珠
+星之砂
+星之碎片
+金珠
+心之鳞片
+香甜蜂蜜
+催生肥料
+延缓肥料
+催熟肥料
+高产肥料
+根之化石
+爪之化石
+贝之化石
+铠之化石
+神秘琥珀
+盾之化石
+头盖化石
+贵重骨头
+光之石
+暗之石
+觉醒石
+真丸石
+要石
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+金刚石
+白玉
+草原信纸
+火焰信纸
+蓝色信纸
+鲜花信纸
+隧道信纸
+钢铁信纸
+爱心信纸
+暴雪信纸
+星际信纸
+天空信纸
+马赛克信纸
+砖块信纸
+库拉博果
+卡枸果
+莫蒙果
+奇枸果
+纳纳西果
+西麦力果
+奥兰果
+吉果
+拉姆果
+奥邦果
+费拉果
+乌伊果
+麻枸果
+邦吉果
+伊阿果
+兹利果
+布利果
+纳纳果
+塞西纳果
+派乐果
+扎洛克果
+乃柯布果
+塔珀卢果
+洛梅果
+乌布果
+玛托玛果
+莫克西果
+枸斯果
+拉布塔果
+诺麦卢果
+诺瓦基果
+西亚果
+凯斯果
+多利果
+百利布果
+奥卡果
+伊托凯果
+索库诺果
+林多果
+亚千果
+尤扑果
+比亚果
+修卡果
+巴克乌果
+乌堂果
+汤加果
+尤洛基果
+卡西布果
+哈帮果
+纳莫果
+利利巴果
+霍斯果
+奇拉果
+琉珈果
+卡姆拉果
+亚塔皮果
+兹亚果
+撒恩果
+斯塔果
+纳佐果
+米克尔果
+伊邦果
+珈珀果
+兰布果
+光粉
+白色香草
+竞争背心
+学习装置
+先制之爪
+安闲铃铛
+精神香草
+专爱头巾
+王者之证
+银粉
+护身金币
+清净符
+心之水滴
+深海之牙
+深海之鳞
+烟珠
+不变之石
+气息头巾
+幸运蛋
+焦点镜片
+金属外套
+剩饭
+龙鳞
+电气珠
+柔软沙子
+坚硬岩石
+奇迹种子
+黑色眼镜
+黑带
+磁铁
+神秘水滴
+尖锐鸟喙
+毒针
+不融冰
+诅咒符
+弯曲汤匙
+木炭
+龙牙
+丝巾
+升级卡
+空贝铃
+漩涡香炉
+畅气香炉
+幸运拳套
+金属粉末
+粗骨棒
+长葱
+红色头巾
+蓝色头巾
+粉色头巾
+绿色头巾
+黄色头巾
+广角镜片
+力量头巾
+智慧眼镜
+达人腰带
+光之粘土
+生命之玉
+力量香草
+剧毒珠
+火焰珠
+速度粉末
+气息衣带
+精准镜片
+节拍器
+黑铁球
+后攻之尾
+红线团
+黑淤泥
+冰冷岩石
+沙砾岩石
+炽热岩石
+湿润岩石
+粘性勾爪
+专爱围巾
+附针
+力量腕饰
+力量腰带
+力量镜片
+力量衣带
+力量护膝
+力量防具
+绮丽外壳
+大根须
+专爱眼镜
+火球石板
+水滴石板
+雷电石板
+绿之石板
+冰柱石板
+拳击石板
+剧毒石板
+大地石板
+青空石板
+奇异石板
+玉虫石板
+岩石石板
+阴魂石板
+龙之石板
+恐怖石板
+钢铁石板
+怪异香炉
+岩石香炉
+满腹香炉
+水波香炉
+鲜花香炉
+幸运香炉
+清静香炉
+护身防具
+电力驱动器
+岩浆驱动器
+怪异零件
+灵界之布
+尖锐之爪
+尖锐之牙
+技能训练机０１
+技能训练机０２
+技能训练机０３
+技能训练机０４
+技能训练机０５
+技能训练机０６
+技能训练机０７
+技能训练机０８
+技能训练机０９
+技能训练机１０
+技能训练机１１
+技能训练机１２
+技能训练机１３
+技能训练机１４
+技能训练机１５
+技能训练机１６
+技能训练机１７
+技能训练机１８
+技能训练机１９
+技能训练机２０
+技能训练机２１
+技能训练机２２
+技能训练机２３
+技能训练机２４
+技能训练机２５
+技能训练机２６
+技能训练机２７
+技能训练机２８
+技能训练机２９
+技能训练机３０
+技能训练机３１
+技能训练机３２
+技能训练机３３
+技能训练机３４
+技能训练机３５
+技能训练机３６
+技能训练机３７
+技能训练机３８
+技能训练机３９
+技能训练机４０
+技能训练机４１
+技能训练机４２
+技能训练机４３
+技能训练机４４
+技能训练机４５
+技能训练机４６
+技能训练机４７
+技能训练机４８
+技能训练机４９
+技能训练机５０
+技能训练机５１
+技能训练机５２
+技能训练机５３
+技能训练机５４
+技能训练机５５
+技能训练机５６
+技能训练机５７
+技能训练机５８
+技能训练机５９
+技能训练机６０
+技能训练机６１
+技能训练机６２
+技能训练机６３
+技能训练机６４
+技能训练机６５
+技能训练机６６
+技能训练机６７
+技能训练机６８
+技能训练机６９
+技能训练机７０
+技能训练机７１
+技能训练机７２
+技能训练机７３
+技能训练机７４
+技能训练机７５
+技能训练机７６
+技能训练机７７
+技能训练机７８
+技能训练机７９
+技能训练机８０
+技能训练机８１
+技能训练机８２
+技能训练机８３
+技能训练机８４
+技能训练机８５
+技能训练机８６
+技能训练机８７
+技能训练机８８
+技能训练机８９
+技能训练机９０
+技能训练机９１
+技能训练机９２
+秘传训练机０１
+秘传训练机０２
+秘传训练机０３
+秘传训练机０４
+秘传训练机０５
+秘传训练机０６
+秘传训练机０７
+秘传训练机０８
+挖掘装备
+宝物袋
+规则之书
+精灵探测器
+点数卡
+冒险笔记本
+贴纸盒
+饰品盒
+贴纸袋
+朋友手册
+发电厂钥匙
+古代护符
+银河团钥匙
+红草绳
+地图
+对战搜索机
+代币盒
+破钓竿
+好钓竿
+高级钓竿
+可达鸭喷壶
+松饼盒
+自行车
+房间钥匙
+大木博士的信
+新月之羽
+会员卡
+天海之笛
+船票
+选美通行证
+火山巨石
+托付物品
+兑换券１
+兑换券２
+兑换券３
+仓库钥匙
+秘传之药

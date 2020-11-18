@@ -1,26 +1,25 @@
-DECOR
-DECORATE
-PUT AWAY
-MOVE GOODS
-CANCEL
-Pick decoration goods stored on the\nPC and display them.
-Take goods displayed in your Secret\nBase and put them away in your PC.
-Move displayed decoration goods inside\nyour Secret Base.
-Cancel decorating.
-Goods Set
-{STRVAR 51, 0}/{STRVAR 51, 1}
-The {STRVAR 10, 0} was placed.
-It can’t be placed here.
-The {STRVAR 10, 0} was\nreturned to the PC.
-The Big Boulder was removed.
-You can’t remove a Big Boulder.
-You can’t move a Big Boulder.
-You are able to remove {STRVAR 51, 0} more\nBig Boulder.
-No more Big Boulders can be removed.
-There are no decoration goods stored\non your PC.
-No more decoration goods can be\ndisplayed.
-That decoration good is already out\non display.
-The PC cannot be put away.
-The PC cannot be moved.
-Quit decorating.
-You are able to remove {STRVAR 51, 0} more\nBig Boulders.
+摆设调整
+摆设家具
+收回家具
+移动家具
+取消
+摆设电脑里\n已有的家具
+基地里摆设的家具\n全部返回电脑
+基地里摆设的家具\n全部进行移动
+取消调整
+已摆家具
+{STRVAR 51,0}／{STRVAR 51,1}
+{STRVAR 10,0}设置完毕！
+不能放在那里
+{STRVAR 10,0}\n返回了电脑
+岩石处理掉了！
+大型岩石\n无法处理
+大型岩石\n无法移动
+还有{STRVAR 51,0}个\n可以处理
+无法再处理\n更多的大型岩石
+电脑中没有家具
+家具已满
+该家具已摆设
+电脑不能回收
+电脑不能移动
+返回

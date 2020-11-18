@@ -1,17 +1,17 @@
-Hohoho...\nThey call me Grandma Wilma.\rI came out here by myself from\na town of Dragon Tamers.\rI can teach the strongest of all\nDragon-type moves to the tough\fPokémon of Sinnoh.\rWould you like me to teach that\nmove to one of your Pokémon?
-Ah, it is you again...\rWould you like me to teach the best\nDragon-type move I know to one of\fyour Pokémon?
-Well, perhaps if you change your\nmind, do come back.
-I see...\nI like your sense of adventure.\rHowever, none of the Pokémon with\nyou now can learn the move.
-Fine, fine, now pick the Pokémon\nI should teach the move to.
-Sorry to disappoint you...\rThat Pokémon you have can learn this\nmove, but it hasn’t come to trust\fyou fully yet...\rUntil then, I can’t make it learn\nthis move.
-Sorry to disappoint you...\nThat Pokémon can’t learn this move.
-Hmmmm...\rTeaching a move to an Egg is\na challenge that’s beyond me.
-Oh? That Pokémon already knows\n{STRVAR 6, 0}.
-                           
-                       
-                                                                                    
-                            
-                       
-                     
-                                                                        
-Draco Meteor’s destructive power\nis awe inspiring.\rHowever, using it will also lower\nthe Pokémon’s Special Attack.
+呵呵呵……\n我是龙之老人,\f一直在进行龙的修行！\r你一个人来的吗？\r想让哪个精灵学会\n龙系的最强技能吗？\r喂,说你呢……\n要我教给哪只精灵吗？
+嗯,是你啊……\r要我把龙系最强技能\n教你的精灵吗？
+原来如此,\n改变主意再来吧！
+原来如此……\n你的心情可以理解！\r不过你带来的精灵\n似乎都学不会这个技能！
+那么让谁学呢？
+不好意思……\r你带来的精灵虽然能学会,\n但是那个精灵还没有\f完全被你驯服……\r所以\n暂时学不会这个技能。
+不好意思……\r这个精灵似乎\n学不会这个技能
+嗯……\r让蛋学会技能\n是不可能的！
+啊呀,这个精灵\n已经学会{STRVAR 6,0}了！
+让{STRVAR 0,0}放弃\n学习技能吗？
+{STRVAR 0,0}学会了\n新的技能{STRVAR 6,1}！
+{STRVAR 0,0}想学会\n{STRVAR 6,1}……！\r但是,{STRVAR 0,0}\n已经有４个技能了！\r要学{STRVAR 6,1}的话\n忘记其他的技能吗？
+那么要放弃学习{STRVAR 6,0}吗？\n
+{STRVAR 0,0}没有学会{STRVAR 6,1}！\n遗憾啊！
+{STRVAR 6,1}\n可以吗？
+１ ２……咚！\r{STRVAR 0,0}忘记了{STRVAR 6,1}的\n使用方法！\r接下来……！\r{STRVAR 0,0}学会了新技能\n{STRVAR 6,2}！
+流星群的力量很可怕！\n使用的时候自己也要小心！

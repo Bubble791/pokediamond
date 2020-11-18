@@ -1,3 +1,3 @@
-I don’t know what to do.\rWhat Accessories will go well with\nmy dress today?
-The star of tomorrow is... You!\nYour Pokémon has a glow about it!\rSo, a gift for our future star!\r
-That’s a {STRVAR 31, 0}!\rI hope you get into collecting\nAccessories for your Pokémon!
+要在今天的衣服上\n戴上怎样的饰品,\f烦恼了好久！
+你是明日之星！\n那只精灵在闪耀着光芒！\f所以请收下这个！\r
+这个是{STRVAR 31,0}！\n请一定要装饰上去！\n

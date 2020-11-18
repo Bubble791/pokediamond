@@ -1,5 +1,5 @@
-The locked doors only open with\na special key.\rNow, if I was a comedy relief sort\nof bad guy, I’d tell you...\rBut I really don’t know!
-The door is locked.\nA special key is needed.
-The door is locked.\nA special key is needed.\rUse the Galactic Key?
-The door opened.
-The Team Galactic credo!\nEverything belongs to Team Galactic!\rLook beyond the world--space will\nbecome Team Galactic’s!
+这里关着的门\n不用钥匙是打不开的！\r你想让我告诉你\n钥匙在哪儿吗,\f少做梦了！
+这个门如果不使用\n特定的钥匙就无法打开……
+这个门如果不使用\n特定的钥匙就无法打开……\r要使用银河团的钥匙吗？
+门开了！
+银河团规章制度！\n一切都是银河团的东西！\r世界是愚蠢的\n将银河变为银河团的所有物！

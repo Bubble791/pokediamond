@@ -1,49 +1,49 @@
-HP/PP
-RESTORE
-STATUS
-HEALERS
-     
-    
-BATTLE ITEMS
-POKé BALLS
-Item used last
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-   
-HP/PP
-RESTORE
-STATUS
-HEALERS
-POKé BALLS
-BATTLE ITEMS
-/
-{STRVAR 50, 0}
-{STRVAR 50, 0}
-USE
-{STRVAR 8, 0}
-x{STRVAR 52, 0}
-It won’t do any good to use that!
-              
-{STRVAR 1, 0} is getting\npumped!
-{STRVAR 1, 0}’s Attack\nrose!
-{STRVAR 1, 0}’s Special Attack\nrose!
-{STRVAR 1, 0}’s Speed\nrose!
-{STRVAR 1, 0}’s Special Defense\nrose!
-{STRVAR 1, 0}’s Defense\nrose!
-{STRVAR 1, 0}’s accuracy\nrose!
-The {STRVAR 8, 0} was used!
-It’s no good! It’s impossible to aim\nwhen there are two Pokémon!
-There is no room left in the PC!
-{STRVAR 6, 1}’s effect prevents\nthe item’s use on {STRVAR 1, 0}!
-It’s no good! It’s impossible to aim\nat a Pokémon that’s not in sight!
-It’s no good! It’s impossible to aim\nat a Pokémon that’s not in sight!
+HP／PP
+回复
+状态
+回复
+HP／PP
+回复
+战斗辅助
+精灵球
+最后使用的道具
+{STRVAR 8,0}
+x{STRVAR 52,0}
+{STRVAR 8,0}
+x{STRVAR 52,0}
+{STRVAR 8,0}
+x{STRVAR 52,0}
+{STRVAR 8,0}
+x{STRVAR 52,0}
+{STRVAR 8,0}
+x{STRVAR 52,0}
+{STRVAR 8,0}
+x{STRVAR 52,0}
+继续
+HP／PP
+回复
+状态
+回复
+精灵球
+战斗辅助
+／
+{STRVAR 50,0}
+{STRVAR 50,0}
+使用
+{STRVAR 8,0}
+x{STRVAR 52,0}
+但是没有效果……
+被白雾包围了！\n
+{STRVAR 1,0}的\n士气上升！
+{STRVAR 1,0}的\n攻击上升！
+{STRVAR 1,0}的\n特攻上升！
+{STRVAR 1,0}的\n速度上升！
+{STRVAR 1,0}的\n特防上升！
+{STRVAR 1,0}的\n防御上升！
+{STRVAR 1,0}的\n命中率上升！
+使用了{STRVAR 8,0}！
+使用失败！\n不能确定２个目标……！
+箱子满了！
+{STRVAR 6,1}\n对{STRVAR 1,0}无效！
+使用失败！看不到精灵,\n目标无法确定……！
+使用失败！看不到精灵,\n目标无法确定……！

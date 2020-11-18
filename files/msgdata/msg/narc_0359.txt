@@ -1,2 +1,2 @@
-The save file is corrupted.\nThe previous save file will be loaded.
-The save file has been erased\ndue to corruption or damage.
+记录失败,\n读取上一次记录！
+记录的内容消失了！

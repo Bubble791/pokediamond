@@ -1,2 +1,2 @@
-CONFIRM
-CANCEL
+决定
+取消

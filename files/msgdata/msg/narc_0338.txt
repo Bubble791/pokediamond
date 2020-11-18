@@ -1,100 +1,100 @@
-White Fluff
-Yellow Fluff
-Pink Fluff
-Brown Fluff
-Black Fluff
-Orange Fluff
-Round Pebble
-Glitter Boulder
-Snaggy Pebble
-Jagged Boulder
-Black Pebble
-Mini Pebble
-Pink Scale
-Blue Scale
-Green Scale
-Purple Scale
-Big Scale
-Narrow Scale
-Blue Feather
-Red Feather
-Yellow Feather
-White Feather
-Black Moustache
-White Moustache
-Black Beard
-White Beard
-Small Leaf
-Big Leaf
-Narrow Leaf
-Shed Claw
-Shed Horn
-Thin Mushroom
-Thick Mushroom
-Stump
-Pretty Dewdrop
-Snow Crystal
-Sparks
-Shimmering Fire
-Mystic Fire
-Determination
-Peculiar Spoon
-Puffy Smoke
-Poison Extract
-Wealthy Coin
-Eerie Thing
-Spring
-Seashell
-Humming Note
-Shiny Powder
-Glitter Powder
-Red Flower
-Pink Flower
-White Flower
-Blue Flower
-Orange Flower
-Yellow Flower
-Googly Specs
-Black Specs
-Gorgeous Specs
-Sweet Candy
-Confetti
-Colored Parasol
-Old Umbrella
-Spotlight
-Cape
-Standing Mike
-Surfboard
-Carpet
-Retro Pipe
-Fluffy Bed
-Mirror Ball
-Photo Board
-Pink Barrette
-Red Barrette
-Blue Barrette
-Yellow Barrette
-Green Barrette
-Pink Balloon
-Red Balloons
-Blue Balloons
-Yellow Balloon
-Green Balloons
-Lace Headdress
-Top Hat
-Silk Veil
-Heroic Headband
-Professor Hat
-Flower Stage
-Gold Pedestal
-Glass Stage
-Award Podium
-Cube Stage
-TURTWIG Mask
-CHIMCHAR Mask
-PIPLUP Mask
-Big Tree
-Flag
-Crown
-Tiara
-Comet
+白色柔毛
+黄色柔毛
+粉色柔毛
+茶色柔毛
+黑色柔毛
+橙色柔毛
+滚圆的石头
+闪闪发光的石头
+努力的石头
+坚硬的石头
+漆黑的石头
+小石头
+粉色的鳞片
+蓝色的鳞片
+绿色的鳞片
+紫色的鳞片
+大的鳞片
+细小的鳞片
+蓝色的羽毛
+红色的羽毛
+黄色的羽毛
+白色的羽毛
+黑色小胡子
+白色小胡子
+黑胡子
+白胡子
+小叶子
+大叶子
+细长的叶子
+爪尖
+角尖
+瘦蘑菇
+肥蘑菇
+树桩
+漂亮的水滴
+漂亮的雪花
+闪烁的火花
+熊熊火焰
+奇异的火焰
+展现出的气势
+不可思议的汤匙
+看不清的烟
+毒液的精华
+富豪硬币
+骇人的东西
+弹簧
+稀有的碎片
+哼唱的音符
+闪光粉
+亮亮粉
+红花
+粉色的话
+白花
+蓝花
+橙花
+黄花
+团团圈眼镜
+漆黑的眼镜
+日本农林规格的眼镜
+甜甜糖果
+彩色纸屑
+色彩鲜艳的阳伞
+油纸伞
+聚光灯
+披风
+台式麦克风
+冲浪板
+地毯
+令人怀念的陶土管
+软软的床
+玻璃球
+个人展示看板
+粉红染发剂
+大红染发剂
+蓝色染发剂
+黄色染发剂
+绿色染发剂
+粉色气球
+红色气球
+蓝色气球
+黄色气球
+绿色气球
+女式礼服
+丝绸帽
+丝绸面纱
+轻飘的头巾
+博士帽
+鲜花的舞台
+金色刀架
+玻璃舞台
+徽章架
+方型舞台
+嫩苗龟假面
+小火猴假面
+圆企鹅假面
+大树
+旗
+王冠
+冠状物
+流星

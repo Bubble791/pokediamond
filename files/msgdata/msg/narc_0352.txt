@@ -1,4 +1,4 @@
-{STRVAR 3, 0}: All right! To the lake!\nLet’s find us a red GYARADOS!\r
-{STRVAR 3, 0}: You go ahead...\r...I know we have to go return these\nPokémon. They’re not ours.\rBut I want to spend just a little\nmore time with this little guy...\r
-{STRVAR 3, 0}: Hey, hey!\nWhere do you think you’re going?\rWe have to go return these\nPokémon...\r
-Lake Verity Ahead\nThe Lake of Emotions
+{STRVAR 3,0}『好！到达湖泊！\n红色暴鲤龙搜索开始！\r
+{STRVAR 3,0}『你走前面吧\n……我当然知道\f应该把精灵还回去,\r不过还是想和它\n再多待一会儿……\r
+{STRVAR 3,0}『喂喂！\n你要去哪儿呀！\f不把精灵还回去的话……\r
+前面就是神事湖\n象征舒适的湖泊

@@ -1,23 +1,23 @@
-Welcome to the Veilstone Game Corner!\r
-Did you want some Coins for the\nslots?\rOh, I’m sorry, you don’t have\na Coin Case to hold your Coins.
-Did you want some game Coins?\rIt’s $1000 for 50 Coins.\nWould you like some?
-Thank you very much!\nHere are your Coins!
-Um... You don’t appear to have\nenough money...
-Oh?\nYour Coin Case is full.
-Oh... You don’t need Coins, then?\nPlease come again!
-Ten straight bonus rounds on\nthe slots! That’s amazing!\rI would say you had an explosion\nof good luck!\rSo, please take this Technical Machine\nas a memento!\r
-Please keep playing the slots for\nanother explosion of good luck!
-Oh, your Bag is full...\nWe will hold the TM for you.
-You can’t play if you don’t have\na Coin Case.
-I’ll explain how the slot machines\nwork at this Game Corner.\rDuring regular play, you should\nstop the reels from the left.\rDuring the bonus round, watch\nwhere CLEFAIRY points and stop\fthe reels in that order.
-Hey, kid, if you want to play here,\nyou need a Coin Case.\rI think the young man next door\nhad one.
-I’ve been winning a ton today.\nHere, take some Coins!\r{STRVAR 3, 0} received 20 Coins\nfrom the man.\r{STRVAR 3, 0} put the Coins away in\nthe Coin Case.
-Listen, when CLEFAIRY appears, that’s\nyour chance to line up sevens.\rLine those babies up and you’re into\nthe bonus round!
-Woohoo! CLEFAIRY! Look at it!\nIt’s driving me bananas!\rOh, if only you had a Coin Case!\nThen you’d know what fun this is!
-Woohoo! CLEFAIRY! Look!\nYeahah! It’s a carnival!\rLet me share some of my joy with\nyou!\r{STRVAR 3, 0} received 50 Coins\nfrom the man.\r{STRVAR 3, 0} put the Coins away in\nthe Coin Case.
-Woohoo! CLEFAIRY! It’s adorable!\nJust seeing it gets my pulse racing!\rOh, let me impart a piece of advice\nto you!\rIf the moon turns red, you don’t\nwant to get a replay because it\fmakes CLEFAIRY tired!
-I want Coins, of course, but\nsetting records is hot, too!
-When a Poké Ball appears, it’s a\nchance to line up slot marks.\rReplays and PIKACHU line up even if\nyou don’t make an effort.\rBut you need to aim for better marks,\nlike Poké Balls and Moon Stones.
-A friend in my group scored a ton\nof Coins here.\rI’m going to challenge him!
-Sigh...\nNothing’s going my way today...\rAre you a Trainer?\nDid you battle the Gym Leader?\rShe happens to be my daughter.\nShe’s some kind of tough!
-Shoot for 10!\nLine up those bonus rounds!\rIf you accomplish the feat of completing\n10 uninterrupted bonus rounds,\fplease go to the counter.\rYou will be presented with a fabulous\nprize!\rThe current record sits at\n{STRVAR 52, 0} straight bonus rounds!
+欢迎光临！\n这里是户张市游戏中心！\r
+是要兑换游戏用的游戏币吗？\n咦？\f还没有放游戏币的代币盒
+是要兑换游戏用的游戏币吗？\r５０个１０００元！\n要买吗？
+好的,谢谢！\n这是游戏币！请收好！
+那个……\n钱好像不够哎
+咦？\n代币盒装满了呢
+不需要吗？\n那么欢迎下次再来！
+漂亮的１０连击\n真正的大爆炸啊！\r这个技能训练机\n作为纪念请收下！\r
+以更大的连击为目标\n来挑战吧！
+啊,包都装满了……\n技能训练机先保存在这里了
+因为没有代币盒\n所以无法进行游戏！
+那我就教你一些\n关于游戏中心游戏的事情吧！\r让左边的转盘按照顺序停止\n这是最基本的要领！\r奖励模式的时候是停在皮皮的\n手指指向的号码上！
+要在这进行游戏\n必须要有代币盒！\r如果要得到代币盒的话\n就去隔壁的房间吧！
+今天大胜了啊！\n我也分点游戏币给你吧！\r获得２０枚游戏币！\r{STRVAR 3,0}把游戏币\n放进代币盒
+准备好了吗？当皮皮出现\n并且出现７的时候就是机会！\r如果漂亮地得到３个７的话\n就可以进入奖分游戏哦！
+呀呼ー！！皮皮！皮皮！\n已经等不及了！\r你要是有代币盒的话\n就能明白有多好玩了
+呀呼ー！！皮皮！皮皮！\n到狂欢的时候啦！等不及了！\r好吧！把这些幸运也\n和你一起分享吧！！\r获得５０枚游戏币！\r{STRVAR 3,0}把游戏币\n放进代币盒
+呀呼ー！！皮皮！皮皮！\n光看着心就扑通扑通直跳！\r给你个建议哦！\r当星星发出红色光的时候,\n就说明皮皮累了\f没法收集ＲＥ了哦！
+虽说要不断收集游戏币\n也要不断更新纪录哦！
+精灵球出现的话\n若能把同样颜色的图案\f连成一线就是取胜的好时机！\r另外……\rＲＥ和皮卡丘\n即便不去瞄准也会自动连成一线,\f但是精灵球和星星石\f不去瞄准的话是不会连成一线的
+同行的伙伴\n都迷上了在这里玩游戏,\f我也要玩！
+啊……\n完全出不来啊……\r你是口袋训练师？\n和这里的馆主战斗过了？\r虽然她是我的女儿,\n但实力却真得很强哦！
+目标！１０连击！！\n……完成１０连击的朋友\f请到服务台来,\f会有纪念品作为礼物！\r顺便说一下\n现在的最高连击回数是 {STRVAR 52,0}！

@@ -1,27 +1,27 @@
-{STRVAR 3, 0}: Oh, hey, {STRVAR 3, 1}!\nWhat took you so long?\fI’m fining you $100 million!\rListen up. I’m going to become\nthe greatest Trainer ever.\rThat’s why I’m here--to toughen\nup myself and my Pokémon!\r
-Hehehe! Sorry!\nI couldn’t help overhearing that.\rBut the greatest Trainer ever?!\nThat’s going to be really tough.\fBecause you’re talking about me!\rTo prove that, I’m going to the\nvolcano right now.\rYou look puzzled. You really don’t\nknow anything, do you?\rAll right, I’ll tell you.\nThis is the Battle Zone, OK?\rAt the far end, there’s a volcano.\rAnd deep inside the volcano, there’s\nsupposed to be a treasure.\r
-{STRVAR 3, 0}: So?\nWhat’s the big deal?\rIf I find that treasure first, that’ll\nmake me the greatest Trainer ever?\rThat’s what I’ll do, {STRVAR 3, 1}!\nAnd you too, stranger!\fI’m gonna get the treasure first!\rBut before that, I’m going to the\nBattle Tower! See ya!\r
-That guy...\nHe can’t stay still, can he?\r
-Anyways, howdy, I’m Buck.\nSheesh, that punk can’t beat me.\rSo, do you know that zippity-doodah\nof a Trainer?\rYou should chase after that guy\nand tell him not to underestimate\fthe volcano.\rOh, but you know what?\rYou’d better shape up at the\nBattle Tower first, too.\rI don’t like your chances of getting\nto the volcano, otherwise.\rBe seeing you!\r
-Howdy, Trainer!\nYou have a Pokédex, do you?\rI bet the person who gave you that\nis waiting for you to fill that\fPokédex completely.
-Howdy, Trainer!\nYou have a Pokédex, do you?\rHere’s my advice: go out and\nchallenge other Trainers!\rThey’ll often have different Pokémon,\nso your Pokédex should fill up fast!
-The way the Battle Tower looms...\rIt really is a wall that stands\nbefore every Trainer.
-I’ve battled many Trainers over\nthe years.\rI’ve gained some confidence in my\nskill levels, too.\rBut the world is still a huge place.\nIt’s not easy to win in life!
-Because of the volcano, the land\naround here is craggy.\rThe rough terrain and all the ups\nand downs make it hard to hike.
-The Pokémon League’s Elite Four\ncome here sometimes!
-Your Pokémon are from Sinnoh,\naren’t they?\rThey’re not what we’re used to\nseeing around here.
-There’s no end to becoming tough!\rI just made that up, but it sounds\nkind of cool, huh?
-What’s up? Do you want to sail to\nSnowpoint City?
-Aye, right!\nIt’s anchors aweigh, then!\r
-Oh, right. You’d rather just fly\neverywhere in some big hurry.
-Whenever I go to a new place, I get\nexcited over what I might discover.\rBut places I’ve visited before...\rEven those places thrill me with\nnew discoveries!
-Hmm!\nA Super Rod is really good!\rWouldn’t you agree?
-Hmm!\nWe’re of identical minds!\rHmm!\nTake this {STRVAR 8, 0}!\r
-Wherever there’s water, try your\nluck at fishing.
-Don’t you like to fish?
-What’s that?\nAny advice for fishing?\rWell, I’ll tell you.\nIt’s all about the rod and technique!
-Fight Area\nBattles Galore
-Battle Park Ahead\nWhere Trainers Train
-Rt. 225 Ahead\nA Road of Challenges
-{STRVAR 3, 0}: Hey, {STRVAR 3, 1}!\rYou’re not the only one who’s getting\ntougher, you know!\rI’ll prove it to you!\nGet ready to battle!\r
-{STRVAR 3, 0}: ...!\nIt’s OK, though.\r{STRVAR 3, 1}, the tougher you get,\nthe tougher we can get, too.\rThere’s no end to Pokémon.\nThat’s what I’m saying, {STRVAR 3, 1}.
+{STRVAR 3,0}『你在干什么,{STRVAR 3,1}！\n磨磨蹭蹭的！\f罚款一亿元！\r听好了！\n我要成为最强训练师,\f要在这里锻炼自己和精灵！\r
+哎哎哎！那边的,\n你刚说啥再说一遍！\r你说要当最强训练师！？\n少做梦了！\f我才是最强训练师！\r不信现在就去火山\n证明给你看,\r不蒸馒头争口气,\n你们慢慢做梦去吧！\r不过真是烦人啊,\n火山离这儿还挺远的。\r不过火山深处有宝藏呢！\r
+{STRVAR 3,0}『你说什么！\n那我先发现宝藏的话\f我就是最强的啦！\r这可是你说的！{STRVAR 3,1}！\n还有那边臭屁的家伙！\f我会先去那个地方的！\r那之前先去趟战斗塔！\n闪了！！\r
+那个家伙……\n迟早被车撞死……\r
+我叫麦可！\n怎么可能输给那小子！\r呀,\n你是刚才那小子的同伴？\r给那小子带个话,\n别把火山当他自己家那么简单！\f就这么跟他说吧！\r啊,对了,\n你不去战斗塔练练的话\f估计也到不了火山吧,\r哈哈哈哈,拜拜了！\r
+哎呀,是口袋训练师！\n你身上肯定带了口袋图鉴吧！\r把图鉴托付给你的人\n一定期待着你能把\f所有精灵都登录进去吧！
+哎呀,是口袋训练师！\n你身上肯定带了口袋图鉴吧！\r那么,我的建议是\n和各种各样的训练师战斗！\r大家都带着不同的精灵,\n这样图鉴就可以收集全了哦！
+战斗塔高耸的样子,\n的确,战斗塔在训练师的面前\f确实是一道实力的屏障啊！
+和各式各样的训练师的战斗,\n虽然有充分的自信,\f可是世界也大的很哪！\f比我厉害的家伙还有很多啊！
+火山就在这一带啊,\n起伏很明显嘛,\f走起来很费劲啊！\r啊,刚说得起伏就是\n高低不平的地形。
+就是这里啊,精灵联盟的\n四天王也经常来这里哦！
+你的精灵\n是神奥地区的精灵吗？\f在我们这里可见不着这种精灵
+想变强的心情\n是没有尽头的！\r酷酷的话语不管说多少次\n都感觉很帅呢！
+什么？\n要乘船去金岬市吗？
+好！\n出航了！\r
+什么什么？\n可以从天上飞到自己喜欢的地方去呢。
+每次去陌生的地方……\n心总是怦怦跳呢！\r已经去过的地方……\n说不定也会有新的发现！
+嗯！\n高级钓竿真的好棒哦！\r你也是这么想的吧？
+嗯！\n咱俩想到一起去了！\r嗯！\n{STRVAR 8,0}送给你吧！\r
+只要是有水的地方\n都可以钓鱼！
+你不喜欢钓鱼吗？
+钓鱼的要领吗？\r呵呵,\n全靠钓竿和技术！
+这里是战斗区域\n进行口袋对战的场所
+这前面是战斗公园\n是训练师进行训练的地方
+前面就是２２５号道路\n修行之路
+{STRVAR 3,0}『哦哦,{STRVAR 3,1}！\n强的人不只你一个！\r让你见识见识！\n来吧！一决胜负！！\r
+{STRVAR 3,0}『……！\n原来{STRVAR 3,1}又变强了,\f那我和我的精灵还要变得更强！\r我是不会放弃口袋妖怪的！\n就是这么回事！{STRVAR 3,1}！！

@@ -1,3 +1,3 @@
-Oak: Ah, it’s you! Good to see you!\nHow is your Pokédex coming along?\rCapturing every kind of Pokémon is\nno easy feat, I’ll grant you that.\rBut I’m sure you can accomplish it!\r
-Oak: Ah, yes!\rAn acquaintance from Kanto has sent\nme something quite interesting.\rI think you’d make better use of it\nthan I ever could.\r
-I understand there is a Pokémon that\nevolves when it is traded while holding\fthat Up-Grade.
+大木博士『哦！是你啊！\n图鉴完成的怎么样了？\r要抓住全部的精灵\n可是很辛苦的哦！\f不过！对你来说绝对没问题的！\r
+大木博士『对了！\n有件从关东地区那里\f送来给你的东西！\r现在把它交给你！\r
+让特定精灵携带特定道具\n进行通信交换的话,\f有时也会发生进化！

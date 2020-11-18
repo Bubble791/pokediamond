@@ -1,12 +1,12 @@
-I’m Mira...\rI was catching Pokémon, and then\nI got lost...\rI’m so scared...\rPlease!\nPlease take me to the exit!\r
-{STRVAR 3, 0} decided to go with\nMira!
-Mira: I’ll keep your Pokémon healthy\nall the time!
-Trainer, your name is {STRVAR 3, 0}?\rMy name is Mira.\nI like your name!\r
-Mira: Oh! {STRVAR 3, 0}...\nI waited... A long time...\r
-Mira: Oh! There’s the exit!\rI want to get tougher so I\nwon’t be such a scaredy-cat.\r{STRVAR 3, 0}, bye-bye!\nThank you!\r
-                             
-                             
-                          
-Mira: I like helpful Pokémon moves\nlike Growl and Minimize.\rThose kinds of moves are my\nfavorites.
-Mira: This cave...\nIt’s so easy to get confused.\rDo you know where we are?
-Mira: {STRVAR 3, 0}, did you get to be\nso good because you’re always with\fyour Pokémon?\rYes! That has to be it!\nMira will try like you!
+我是米鲁……\n来这里抓精灵的,\f却迷路了……\r好害怕……\n求求你！\f带米鲁一起离开这里！\r
+米鲁加入成为同伴！
+米鲁『我会让你的精灵\n一直精神满满的！
+训练师先生叫{STRVAR 3,0}啊,\n我是米鲁,\f我很喜欢这个名字！\r
+米鲁『啊！{STRVAR 3,0},\n一直……在等你呢……\r
+米鲁『啊！是出口！\n米鲁想变强,\f强到不会再害怕！\r{STRVAR 3,0},\n谢谢你,再见！\r
+米鲁『要使用这个吗？\n那米鲁就变成一个人孤零零的了
+米鲁『要使用这个吗？\n那米鲁就变成一个人孤零零的了
+米鲁『不是那里哦,\n停下来的话会迷路哦……
+米鲁『我对精灵的哭声啊,\n变小啊,治愈之愿啊……\f这些技能都很喜欢！
+米鲁『这个洞穴……\n会让人变得晕头转向的……
+米鲁『{STRVAR 3,0}\n是因为一直都和精灵在一起\f所以才变的那么强的吗？\r是啊,嗯！\n米鲁会努力的！

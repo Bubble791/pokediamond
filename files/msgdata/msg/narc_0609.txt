@@ -1,8 +1,8 @@
-None
-Central Federal District
-Far Eastern Federal District 
-Northwestern Federal District
-Volga Federal District 
-Siberian Federal District
-Southern Federal District
-Urals Federal District 
+无
+中央联邦区
+远东联邦区
+西北联邦区
+伏尔加联邦区
+西伯利亚联邦区
+南部联邦区
+乌拉尔联邦区

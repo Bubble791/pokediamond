@@ -1,46 +1,46 @@
-NAME
-BASE FLAG
-ID
-:
-{STRVAR 1, 0}
-{STRVAR 54, 6}
-SCORE
-No. of people met:
-No. of gifts given:
-No. of Flags obtained:
-No. of Spheres dug:
-No. of Fossils dug:
-No. of Trap hits:
-{STRVAR 57, 6}
+名字
+基地旗子
+ＩＤ
+：
+{STRVAR 1,0}
+{STRVAR 54,6}
+ＳＣＯＲＥ
+遇见人数
+获得商品次数
+夺旗次数
+挖到玉石次数
+挖到化石次数
+触发陷阱次数
+{STRVAR 57,6}
  
  
  
  
  
  
-Normal Flag
-Bronze Flag
-Silver Flag
-Gold Flag
-Platinum Flag
-Platinum Flag
-Platinum Flag
-Platinum Flag
-Platinum Flag
-Platinum Flag
-Platinum Flag
-Platinum Flag
-There’s something written here...\rThe total score so far:\n{STRVAR 57, 6}
-There’s something written here...\rNumber of people met\nunderground so far: {STRVAR 55, 6}
-There’s something written here...\rNumber of goods given away as\ngifts so far: {STRVAR 55, 6}
-There’s something written here...\rNumber of Secret Base Flags\nobtained so far: {STRVAR 55, 6}
-There’s something written here...\rNumber of Spheres dug so far:\n{STRVAR 55, 6}
-There’s something written here...\rNumber of Fossils dug so far:\n{STRVAR 55, 6}
-There’s something written here...\rNumber of times other people\ntriggered my Traps: {STRVAR 55, 6}
-There’s something written here...\rNumber of times I triggered\nTraps: {STRVAR 55, 6}
-There’s something written here...\rNumber of times others were helped\nwhile underground: {STRVAR 55, 6}
-There’s something written here...\rNumber of gifts received while\nunderground: {STRVAR 55, 6}
-There’s something written here...\rNumber of times my own Flag was\ntaken from the Secret Base: {STRVAR 55, 6}
-There’s something written here...\rNumber of recovered Flags:\n{STRVAR 55, 6}
-There’s something written here...\rNumber of times the Secret Base\nwas moved: {STRVAR 55, 6}
-There’s something written here...\rNumber of captured Flags registered\non the PC: {STRVAR 55, 6}
+普通旗子
+青铜旗子
+白银旗子
+黄金旗子
+白金旗子
+白金旗子
+白金旗子
+白金旗子
+白金旗子
+白金旗子
+白金旗子
+白金旗子
+写着些什么\n……\r到现在为止获得的\nＳＣＯＲＥ {STRVAR 57,6}
+写着些什么\n……\r到现在为止在地下\n遇到的人数\f{STRVAR 55,6}人！
+写着些什么\n……\r到现在为止在地下\n摆设家具次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止成功夺取对手\n秘密基地的旗子的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n挖到玉石的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n挖到化石的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n触发陷阱次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n自己设置的陷阱成功发动次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n帮助别人的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n摆设家具的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n自己基地的旗子被夺取的次数\f{STRVAR 55,6}次……
+写着些什么\n……\r到现在为止在地下\n成功取回被夺走的旗子的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n搬家的次数\f{STRVAR 55,6}次！
+写着些什么\n……\r到现在为止在地下\n夺取的旗子在电脑中登录的次数\f{STRVAR 55,6}次！

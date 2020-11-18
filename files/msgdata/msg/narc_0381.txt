@@ -1,36 +1,36 @@
-Hello!\rHere you may cook Berries and\nturn them into Poffins.\r
-Would you like to cook alone or with\nother people?
-DS Wireless Communications will\nbe launched.
-YES
-NO
-               
-There isn’t a Berry to cook!\r
-The Poffin Case is full.\r
-Sorry, you must have a Poffin Case\nif you want to cook some Berries.
-ALONE
-IN A GROUP
-INFO
-EXIT
-One person in the group needs to\nchoose “BECOME LEADER.”\rEveryone else must choose\n“JOIN GROUP.”
-        
-       
-   
-                             
-                          
-  
-   
-                 
-  
-   
-            
-  
-   
-                       
-                   
-                
-                                                       
-                                      
-Throw the Berry into the pot and\nget stirring!\rWatch for an arrow to show you which\ndirection to stir.\rBe quick! If you stir too slowly,\nyou’ll burn the batter.\rBut not too quick! If you stir too fast,\nthe batter will overflow.\rIf you do well, you’ll cook up a\ndelicious Poffin!\rYou may cook alone or in a group\nof up to four people.\rWith more cooks stirring, everyone will\nget more Poffins!
-Please visit again whenever you get\nthe urge to cook!
-    
-      
+你好！\n在这里可以用树果制作松饼,\r
+请选择\n单人料理还是多人料理！
+ＤＳ无线通信启动
+是
+不是
+欢迎下次再来
+没有树果！\r
+松饼已经满了！\r
+还没有获得松饼盒\n无法制作树果料理
+单人料理
+多人料理
+说明
+取消
+大家商量以后\n请选出一个人作为组群的组长,\r其他的人请选择\n加入该组群
+加入组群
+成为组长
+取消
+选择成员\nＡ键…继续 Ｂ键…取消
+接收到参加回应,\n增加成员吗？
+是
+不是
+这个成员可以吗？
+是
+不是
+不做料理了吗？
+是
+不是
+请选择\n要一起做料理的朋友
+正在等待\n{STRVAR 3,0}的回应
+其他成员正在等待
+连接失败,\n成员已满。\r请重新从头开始\n再次尝试连接
+接下来！\n请从背包里选择\f做料理要使用的树果！\r
+把选择的果实放进去\n开始咕噜咕噜地搅拌吧！\r出现反向箭头标志的时候\n就要赶紧往回转！\f如果搅拌慢了的话就会烤焦,\f一定要注意！\r不过如果搅拌太快的话\n汤就会洒出来！\r顺利完成料理的话\n就能够做出好吃的松饼了！\r最多可以４人一起\n制作松饼料理。
+如果不想制作料理的话\n就下次再见了！
+{STRVAR 3,0}
+ＩＤ{STRVAR 54,0}

@@ -1,4 +1,4 @@
-PLAYER: {STRVAR 3, 0}
-This document certifies that\nyou have made the great\nachievement of meeting all\nthe Pokémon in Sinnoh.
-This document certifies\nthat you have successfully\ncompleted your\nNational Pokédex.
+玩家:{STRVAR 3,0}
+神奥地区的全部精灵\n登录完毕,\n予以表彰,\n特此证明！
+全国精灵图鉴\n登录完毕,\n予以表彰,\n特此证明！
 GAME FREAK

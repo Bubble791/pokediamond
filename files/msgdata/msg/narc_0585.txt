@@ -1,3 +1,3 @@
-Rt. 230\nFight Area
-Hold it right there, Trainer!\rSince you’re here, you’ve got\nto visit the Battle Tower.\rYou don’t earn Exp. Points, and your\nPokédex isn’t updated there.\rIt’s a place solely for Trainers to\nhone their own skills.
-Hold it right there, Trainer!\nHave you been to the Battle Tower?\rIt’s a good place to learn useful\nbattle techniques.\rYou get to see all sorts of Pokémon\nand their moves, also!
+这里是２３０号水路\n战斗区域
+喂,口袋训练师！\n既然到这里来了,\f就一定要去战斗塔！\r不过那里没有经验值,\n口袋图鉴也不能记录,\r是很恐怖\n也很能磨练战斗技术的场所！
+喂,口袋训练师！\n去过战斗塔了吗？\r在那里可以学习到\n什么样的精灵应该用什么技能\f如何去战斗！

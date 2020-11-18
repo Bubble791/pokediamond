@@ -1,2 +1,2 @@
-If a Pokémon loses all its HP,\nit can’t battle anymore.\rI’m buying lots of Potions to avoid\nhaving that happen!
-If you come across a Pokémon you’ve\njust gotta have, toss a Poké Ball!\rNever leave home without one!
+精灵没体力的时候\n就没有斗志战斗了,\f那种时候可以使用伤药！
+要抓精灵要用\n精灵球！\f出门可别忘了带！

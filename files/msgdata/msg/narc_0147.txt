@@ -1,10 +1,10 @@
-Welcome!\rYou may exchange your Coins for\nfabulous prizes here!\r
-Which prize would you like?
-So your choice is\nthe {STRVAR 8, 0}?
-So your choice is {STRVAR 8, 0}:\n{STRVAR 6, 1}?
-Here you go!
-You don’t have enough Coins.\r
-There isn’t any room available for\nthat {STRVAR 8, 0}.\r
-Oh, is that so? \nPlease come back with some Coins!
-I love words like “walk-off,\ngrand-slam home run.”
-They have prizes I really want, but\nit’d be tough saving up the Coins.
+欢迎光临！\n在这里可以把获得的游戏币\f兑换成想要的奖品！\r
+想兑换哪个呢？
+{STRVAR 8,0}\n是吗？
+{STRVAR 8,0}「{STRVAR 6,1}」\n可以吗？
+好的,请收下！
+游戏币不够\r
+放入{STRVAR 8,0}的背包\n已经满了\r
+这样啊,\n多收集些游戏币再来吧！
+我喜欢说,\n来场漂亮的大逆转吧！
+有非常非常想要的奖品,\n除了积攒硬币还有别的方法没？

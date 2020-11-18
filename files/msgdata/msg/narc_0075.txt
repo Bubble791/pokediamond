@@ -1,5 +1,5 @@
-The Oreburgh Mine is operated\nwith the utmost care.\rWe avoid causing any damage to\nthe natural habitats of Pokémon.
-Wow... Your Pokémon’s eyes are\ntwinkling brightly!\rSeeing that makes me happy!\nHere, I want you to have this!\r
-You know how Pokémon stay inside\ntheir Poké Balls?\rI try to think about what would be\nthe best Poké Balls for them.
-                                                 
-The whole system of taking the coal\nout of the mine is automated.\rThere’s nothing backbreaking about\nit!
+我们在不破坏精灵们的\n生存环境的条件下\f开采着煤矿
+哇！\n你的精灵的眼睛在放光,\r看起来真美！\n给你这个！\r
+精灵要一直\n装在球里吧,\r所以用什么球\n抓一定要想好
+站在精灵的面前\n观察它的样子,\f太了不起了……
+运煤的系统是\n全自动化的！\f机器搬运真的很有意思呢！

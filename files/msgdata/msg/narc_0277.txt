@@ -1,6 +1,6 @@
-{STRVAR 3, 0}: !\rYou’re not getting away with this,\nTeam Galactic!\r
-Jupiter: Oh?\nAre you finished already?\rYour Pokémon aren’t bad, but you’re\nlaughably weak.\rYou honestly thought you could save\nthe Pokémon of the lake?\rAnd become the Pokémon Champion?\nDream on, little kid.\rBut, eww, it’s so cold here.\nLet’s go back to the Veilstone HQ.\r
-Oh? Don’t I know you?\nWe met in Eterna City.\rListen. Team Galactic is going to do\nsomething huge for everyone’s sake.\rThat’s why you should keep out of\nTeam Galactic’s way.\rDon’t come whining about poor Pokémon\nand other trivial junk like that.\rDon’t waste your time coming to our\nHQ in Veilstone.\rNow, if you’ll excuse me.\r
-{STRVAR 3, 0}: ...\n...\rYeah, that’s right!\rI couldn’t do anything against Team\nGalactic!\r
-That Pokémon called UXIE...\nIt was suffering...\r
-I’m going to get tougher...\rIt’s not about winning or losing...\nThat’s not good enough...\fI have to be stronger...\r
+{STRVAR 3,0}『！！\r可恶！\n银河团！！\r
+朱庇特『呼\n已经结束了吗？\r你的精灵很一般,\n你也很弱哟,\r所以说要救湖之精灵什么的\n真是天大的笑话……\r要去挑战精灵冠军什么的\n还是放弃比较好哟,\r说起来,这里好冷啊！\n赶紧回户张市总部吧！\r
+咦,是你？\n我们是不是在白岱市见过面？\r银河团马上会为大家\n做件不得了的事情,\r所以少用精灵很可怜之类的\n这种无聊的借口阻碍我们,\f还是放弃比较好！\r就算潜入户张市总部里\n也没有任何意义哟,\f失陪了！\r
+{STRVAR 3,0}『…… …… ……\n…… …… ……\r好吧我承认我败了！\n眼睁睁看着银河团\f自己却什么都做不了！\r
+不知道什么原因\n那个黄圣菇好像很难受……\r
+我会变强……\n与输赢无关,\f没有任何关系！\r但是不变强不行……\r

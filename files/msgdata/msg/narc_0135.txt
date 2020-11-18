@@ -1,49 +1,49 @@
-Dawn: Hi, {STRVAR 3, 0}!\nPlease, can you help me?\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need your help.\rI’ll be waiting in front of the\nwarehouses. Please come!\r
-Lucas: Hey! {STRVAR 3, 0}!\nListen, I need your help...\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need you to help me.\rI’ll be waiting in front of the\nwarehouses. Please come!\r
-Dawn: {STRVAR 3, 0}, are you going\nto take the Gym challenge?\rGee, you keep getting tougher and\ntougher, don’t you?\rMe? Well, I went shopping at the\ndepartment store, and...\rI mean, well, of course I’ve been\nworking on my Pokédex, but...\rI’ll catch you later!\r
-Lucas: Hey! {STRVAR 3, 0}, are you\ngoing to take on the Gym Leader?\rWow, you just keep getting tougher\nand tougher.\rMe? Well, I took a look in the\nGame Corner, and...\rI mean, yeah, of course I’ve been\nworking on my Pokédex, but...\rAnyways, keep it up!\nI’ll see you around!\r
-Grunt 1: Hey, you!\nYeah, you!\rThis is Team Galactic’s warehouse!\nIt ain’t no playground for kids!\r
-Grunt 1: Hey, you!\nYeah, you!\rThis is Team Galactic’s warehouse!\nIt ain’t no playground for kids!
-Grunt 2: This is the awesome Team\nGalactic’s awesome warehouse!\rA little kid like you should be playing\nat the Pokémon Gym.\rAfter all, the Gym Leader happens to\nbe a kid just like you!
-Grunt 1: What? Now you’ve brought\nyour buddy along so you can get your\fPokédex back?\rWe’ll be just as happy to send both\nof you crying home to your mommies!
-Grunt 2: You’re trying to get the\nPokédex back from us?\rNot when we, Team Galactic, can make\nso much better use of it!\rBut, OK, guarding the warehouse\ndoes get boring!\rWe’ll take you on two-on-two!
-Grunt 1: Aww, that stinks!\nOur Pokémon are chumps!\rWe should get new ones from\nheadquarters.\rHumph! Who cares about some\nPokédex anyways?\rTeam Galactic’s going to own\nall the Pokémon in the world...\fNo, in the universe!\r
-There! Take it!\nTake your Pokédex!\r
-Grunt 2: Those things we had in\nthe warehouse’ve already been moved\fto Pastoria City anyway...\rSo, we’ll say “You’ll get yours!”\nAnd run like the grunts we are.\r
-Dawn: Hi, {STRVAR 3, 0}!\nPlease, can you help me?\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need your help.\fTeam up and battle with me!
-Dawn: You and your Pokémon together\nwith me and my Pokémon...\rUnited like this, our dream team\nhas no chance of losing!\rI’m not letting those bad people get\naway with their dirty deeds!\r
-Dawn: I’ll be waiting.\nPlease get ready and come quickly.
-Dawn: What’s going on?\rWhy is Team Galactic out in the\nstreets like they own the place?\r
-Dawn: {STRVAR 3, 0}, thank you,\nsincerely.\rIf Professor Rowan ever finds out that\nI lost my Pokédex...\rEewww...\nI don’t want to think about it.\rSo, {STRVAR 3, 0}, what are you going\nto do now?\rI’m thinking of going to Pastoria\nCity now.\rThe Great Marsh there is home to\nmany kinds of Pokémon.\r
-Lucas: Hey! {STRVAR 3, 0}!\nListen, I need your help...\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need you to help me.\rWill you team up with me to take\nthem on?
-Lucas: You and your Pokémon together\nwith me and my Pokémon...\rOur dream team’s not going to lose.\nNot with the way we work together!\rI’m not letting those criminals get\naway with this!\r
-Lucas: I’ll be waiting!\nGet ready and come quick!
-Lucas: What’s going on here?\rWhy is Team Galactic out in the\nstreets like they own the place?\r
-Lucas: {STRVAR 3, 0}, thanks,\nhonestly.\rIf Professor Rowan ever hears that\nI lost my Pokédex...\rOh, man, that’s something I do not\nwant to think about!\rSo, {STRVAR 3, 0}, what are your\nplans now?\rI’m going off to Pastoria City.\rThe Great Marsh there has all kinds\nof Pokémon.\r
-There!\nWould you look at those antennae?\rI don’t know what they do, but those\nare some mighty impressive antennae!\r
-Hey!\nIt’s you!\rI bet you don’t remember me, but\nI sure remember you!\rBecause of you, they took my CLEFAIRY\naway...\rMy partner called it quits and went\nback to his old country...\rI don’t know anything about any\nStorage Key!\r
-We have the Hidden Machine that teaches\nFly stored in the warehouse.\rThey said I can use it if I show them\nthat I deserve it.
-Yeah, Team Galactic is hiding all sorts\nof good stuff in their warehouse.\rI hear they even have a Hidden\nMachine in there!
-The Game Corner is dangerous!\rWhy is it dangerous?\nIt’s so fun, I lose track of time!
-I got a TM as a prize from the\nGame Corner.\rI used it on my Pokémon right away!
-        
-Maylene is Veilstone’s Gym Leader.\nWake’s the Gym Leader in Pastoria.\fThen, there’s Fantina in Hearthome...\rThey’re all way too tough.\nI can’t even come close to them.
-I came to this city just so I could\ngo shopping at the department store.\rBut with all these rock walls around,\nthis place feels kind of cold.
-I bought a new parasol.\rBut I don’t want it to get rained on,\nso I watch the TV weather reports.
-Do you know where one might find\na Coin Case?\rI heard that there’s a clown giving\n’em away, but...
-                              
-Veilstone is the city of stone.\nWe even have meteorites!\rThis has nothing to do with anything,\nbut take this Technical Machine!\r
-If someone uses Embargo on your\nPokémon, it becomes impossible to\fuse any items on it.\rAnyway, enjoy your visit to Veilstone,\nthe city of...well, stone.
-It’s a mysterious meteorite that\nfell from the stars...
-Touching the meteorite boosted\nthe Speed of a certain Pokémon.
-Touching the meteorite heightened\nthe defensive capabilities of\fa certain Pokémon.
-Touching the meteorite heightened\nthe offensive capabilities of\fa certain Pokémon.
-Touching the meteorite balanced out\nthe attributes of a certain Pokémon.
-Veilstone City\nHewn from Rock
-Veilstone City Pokémon Gym\nLeader: Maylene\fThe Barefoot, Fighting Genius!
-Galactic Warehouse\nNO TRESPASSING!
-Galactic Veilstone Building\nWe Dream of the Universe!
-Veilstone Department Store\nA Shop Full of Dreams!
-Veilstone Game Corner\nAim for an Explosion of Luck!
-Prize Exchange\nCoins Exchanged for Prizes!
-Visit Beautiful Lake Valor!\nRight off Rt. 214!
+小光『啊！{STRVAR 3,0}\n有件事情想请你帮忙……\f我的口袋图鉴不小心弄丢了,\f好像是被银河团的人拿走了！\r拜托了！帮帮我吧！\n我在仓库门前等你！\f一定要帮帮我哦！\r
+小辉『啊！{STRVAR 3,0}\n有件事情想请你帮忙……\f我的口袋图鉴不小心弄丢了,\f好像是被银河团的人拿走了……！\r帮我一下吧！\n我在仓库门前等你！\f一定帮我哦\r
+小光『{STRVAR 3,0},\n是来挑战口袋道馆吗？\f总算是变强了呢！\r我？\n我想去商店买东西……\r当,当然有努力\n去完成口袋图鉴了！\f拜拜！\r
+小辉『啊！{STRVAR 3,0},\n要挑战口袋道馆吗？\f总算是变强了呢！\r我？\n我想去游戏中心那转转……\r当,当然有努力\n完成口袋图鉴了！\r你也要加油哦\n拜拜！\r
+银河团团员１『喂,你！\n说你呢,就是你！\r这里是银河团的仓库,\n不是小孩子该来的地方！\r
+银河团团员１『喂,你！\n说你呢,就是你！\r这里是银河团的仓库,\n不是小孩子该来的地方！
+银河团团员２『这里是\n神圣的银河团的\f神圣的仓库！\r小孩子就去道馆那里玩！\n那儿的馆主和你一样,\f也是个小孩！
+银河团团员１『什么？\n光凭你们两个就想\f把口袋图鉴拿回去？\r把你们两个\n都揍哭了也没关系吗？
+银河团团员２『想要把\n口袋图鉴拿回去？\r只有我们伟大的银河团\n才知道怎么利用它啊！\r算了！\n反正看仓库的工作也很无聊！\f２对２来对战吧！
+银河团团员１『可恶！\n真是个没用的家伙！\f等回总部换个精灵再来！\r哼！这破图鉴不要也罢！\n银河团可是要独占\f所有ー哦不,\f是全世界全宇宙的精灵！\r
+给！\n你们的破图鉴！\r
+银河团团员２『锁在\n仓库的那样东西\f已经运到野濑去了吧……\r我们银河团员一定要说一声\n「你给我记住！」\r
+小光『啊！{STRVAR 3,0},\n有件事情想请你帮忙……\f我的口袋图鉴不小心弄丢了,\f好像是被银河团的人拿走了！\r拜托了！\n一起去战斗吧！
+小光『{STRVAR 3,0}和\n{STRVAR 3,0}的精灵！\f我和我的精灵！\r大家一起战斗,\n这样的梦幻组合是不会输的！\r作出伤害别人的事情\n我是绝对不会原谅的！\r
+小光『那么,我等你,\n快点做准备吧……
+小光『什么嘛！\n为什么银河团的人\f在城市里那么嚣张！？\r
+小光『{STRVAR 3,0},\n谢谢你帮我拿回口袋图鉴,\f要是让山梨博士知道的话……\f唉,都不敢去想了……\r那么,\n{STRVAR 3,0}接下来打算去哪儿？\r我想去野濑市,\n那里的大湿原有许多精灵呢！\r
+小辉『啊！{STRVAR 3,0},\n有件事情想请你帮忙……\f我的口袋图鉴不小心弄丢了,\f好像是被银河团的人拿走了……！\r拜托了！\n跟我一起去战斗吧！
+小辉『{STRVAR 3,0}和\n{STRVAR 3,0}的精灵！\f加上我和我的精灵！\r大家一起战斗,\n这样的梦幻组合是不会输的！！\r作出伤害别人的事情\n我是绝对不会原谅的！\r
+小辉『那我等你,\n快点做准备吧！
+小辉『什么嘛！\n为什么银河团的人那么臭屁！？\r
+小辉『{STRVAR 3,0},\n多谢帮我拿回口袋图鉴,\f要是让山梨博士知道的话……\r唉,接下来的事情\n想都不敢想……\r那么,\n{STRVAR 3,0}接下来要去哪儿？\r我准备去野濑市,\n那里的大湿原有很多精灵呢！\r
+怎么样！这个天线装置！\r虽然是干嘛用的还不清楚,\n但无论怎么说都是个很棒的天线！\r
+喂喂！说你呢！\n就算你不记得我我也记得你！\r就是你搞得\n皮皮被抢走了……\f那家伙也已经回家了……\r不知道！\n我才不知道什么仓库的钥匙！\r
+在这里拿到徽章以后就可以\n使用秘传训练机０２「飞天」！
+银河团那群家伙\n一定在仓库里藏了好东西,\r我听说他们把\n秘传训练机「飞天」藏在那里！
+游戏中心真是危险啊！\r因为太好玩了\n我把钱都输光了……
+让我最最重要的精灵学会了\n在游戏中心获得的技能训练机！
+皮皮『皮皮ー
+户张市的馆主李子,\n野濑市的馆主英雄假面,\f还有绿缘市的梅丽莎……\f他们的实力都是超强的！
+在来商店的路上\n看到这个城市有很多石头,\f感觉很独特呢！
+我买了一把新伞\r被雨淋可不好受,\n还是看一下天气预报吧！
+你不知道代币盒吗？\n我听说这东西在小丑皮埃罗那……
+不管怎么说户张市都是个石头城,\n因为到处都是陨石！
+不管怎么说户张市都是个石头城,\n因为到处都是陨石！\r顺便,反正没什么用,\n这个技能机器送给你！\r
+如果使用封印技能的话,\n那么在一段时间内\f将会无法使用道具！\r比起这个,\n欢迎来到石头城户张市！
+这里有从宇宙落下的\n神秘的陨石……
+精灵触摸了陨石\n可以使它行动加快！
+精灵触摸了陨石\n可以使它防御力提升！
+精灵触摸了陨石\n可以使它攻击力提升！
+精灵触摸了陨石\n可以使它变成平衡属性状态
+这里是户张市\n被石头所包围的地方
+户张市口袋道馆\n馆主 李子\f光着脚的天才格斗少女
+「银河仓库」\n禁止入内！
+「银河户张大厦」\n梦想是进军宇宙！
+「银河百货」\n充满幸福的百货店
+「户张游戏中心」\n目标 大爆炸！！
+「奖品兑换处」\n积攒的硬币可以兑换奖品
+要去律诗湖的话\n请走２１４号路

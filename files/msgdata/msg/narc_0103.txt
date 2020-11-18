@@ -1,3 +1,3 @@
-Question: The first room’s answer?\nAnswer: ←2 ↑16 →15
-Correct!\nCongratulations!
-Please answer the quiz!
+问题「最开始的房间的答案是？\n答案「←２ ↑１６ →１５
+答对了！\n恭喜恭喜！
+请看问题！

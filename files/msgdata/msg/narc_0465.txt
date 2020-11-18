@@ -1,6 +1,6 @@
-...I saw it!\nToday’s number is {STRVAR 51, 0}!\rShow me a Pokémon that’s Lv. {STRVAR 51, 0}.\nIf you can, I’ll reward you.
-...I saw it!\nToday’s number is {STRVAR 51, 0}!\rShow me a Pokémon that’s Lv. {STRVAR 51, 0}.\nIf you can, I’ll reward you.\r...Oh, now, hunh?!\rYour {STRVAR 0, 1} is Lv. {STRVAR 51, 0}.\nWell, I’ll be! How remarkable!\rI’ll thank you for that visual treat\nwith this {STRVAR 8, 2}.\r
-Oh? You’ve no room in your Bag.\nI’ll hold it, so come back later.
-I’ll thank you for that visual treat\nwith this {STRVAR 8, 2}.\r
-High-level Pokémon were once of low\nlevel.\rLow-level Pokémon will not remain so,\nfor they can only grow.\rThat’s how it goes, youngster.\nCome again tomorrow.
-Win Items from Me!\rBlack Belt: Powers up Fighting-type\nmoves.\rExpert Belt: Powers up moves if they\nare super effective.\rFocus Sash: The bearer avoids\na one-hit KO if its HP is full.
+有了！\n今天是数字是{STRVAR 51,0},\r给我看{STRVAR 51,0}级的精灵\n就给你好东西。
+有了！\n今天是数字是{STRVAR 51,0},\r给我看{STRVAR 51,0}级的精灵\n就给你好东西。\r什么！？\r你的{STRVAR 0,1}\n等级是{STRVAR 51,0}吗！\r让我看到了好东西。\n这个{STRVAR 8,2}给你！\r
+拿不下了,\n整理一下再来吧。
+让我看到了好东西。\n这个{STRVAR 8,2}给你！\r
+现在等级高的精灵\n以前是很弱的。\r现在等级低的精灵\n今后也会变强。\r就是这么回事。\n改天再来。
+给你的道具\r黑带\n可以增强格斗系的技能。\r达人头带\n在克制效果超群时威力上升\r气息头巾\n在体力全满时不会被一击击倒。

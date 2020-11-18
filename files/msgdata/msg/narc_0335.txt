@@ -1,42 +1,42 @@
-Rowan: Ah, {STRVAR 3, 0}!\rYou’ve come to show me the progress\nyou’ve made on your Pokédex?
-Hmm...\rYou’ve spotted {STRVAR 52, 0} Pokémon in\nSinnoh...\r
-What’s wrong?\rYou’re not suggesting you’ve seen so\nfew that you’re afraid to show me?
-Rowan: You’re working hard on your\nNational Pokédex I see.\rI expect big things from you!
-I see!\rYou’ve met all the Pokémon there\nare in Sinnoh!\r{STRVAR 3, 0}, I need to see you\nat my lab. I’ll be waiting!
-I see!\rYou’ve met all the Pokémon there\nare in Sinnoh!
-Look harder for wild Pokémon.\rDon’t be afraid of going into tall\ngrass.
-Your pace is picking up.\nThings can only get better!
-Be persistent when you’re searching\nfor Pokémon that appear only in\fcertain places.
-Pokémon aren’t hiding only in\ntall grass.\rYou can find many others in caves\nand seas.
-Your Pokédex is looking more and more\nrespectable!
-Are you fishing with rods?\rPokémon that live underwater need\nto be caught by fishing.
-The Trainers that challenge you to\nbattle have Pokémon, obviously.\rThey may have rare ones with them,\nand that can add to your Pokédex.
-Your Pokédex is well on the way to\nbeing filled up.\rThis Pokédex can be considered\na journal of your adventure.
-You’re not far from seeing every\nPokémon there is to see in Sinnoh!
-Oak: Ah, {STRVAR 3, 0}!\rYou’ve come to show me how\nyour Pokédex is coming along?
-Oak: Ah, {STRVAR 3, 0}!\rYou’ve come to show me how\nyour Pokédex is coming along?
-Hmhm...\nYou’ve caught {STRVAR 52, 0} so far...\r
-I see...\rCome see me if you’d like me to have\na look at your Pokédex.
-They say there are at least 400\nspecies of Pokémon nationwide.\rIf you’re planning to catch them all,\nyou’d better be a committed Trainer.
-Hm! Little by little, you’re filling\nthe Pokédex with complete\fdata on Pokémon you’ve gotten.\rKeep up the good work!
-Here’s a tip on catching Pokémon\nin the wild.\rMinimize their HP before you throw\nout your Poké Ball to catch ’em.
-Remember: If you can’t catch them,\nyou can always trade for them.\rAs soon as you trade, the Pokémon’s\ndata is added to the Pokédex.\rThat’s why you should seek out\nas many trades as possible.
-Have you visited the Great Marsh?\rSome Pokémon only appear in places\nsuch as that.
-As you know, there are Pokémon\nthat eventually evolve.\rThat’s an important thing to consider\nwhen you’re filling your Pokédex.
-You’ve proven yourself capable.\nThere’s nothing to worry about.\rKeep catching Pokémon the way you’ve\nbeen doing so far.
-Are you aware that there is more\nthan one style of evolution?\rThere are some Pokémon that evolve\nby becoming friends with the Trainer.
-Apparently, there are some Pokémon\nthat appear in swarms on occasion.\rDon’t miss out on these massive\noutbreaks of Pokémon!
-Amazing! You’ve already gotten over\n300 Pokémon!\rThat’s already a major achievement,\nbut I know you’re capable of more!
-Some wild Pokémon only appear during\ncertain times of the day.\rYou’ll need to look for Pokémon\naround the clock.
-I’ve been getting reports of\ndifferent Pokémon sightings.\rBy different, I mean Pokémon that\naren’t native to the Sinnoh region.\rYou should perhaps go back to\nareas you’ve already scoured.\rYou may end up seeing Pokémon\nthat weren’t there before.
-{STRVAR 3, 0}, have you visited\nthe Pal Park recently?\rThere still may be Pokémon that are\nrarely seen in Sinnoh.
-{STRVAR 3, 0}, have you visited\nthe Pal Park recently?\rThere still may be Pokémon that are\nrarely seen in Sinnoh.
-Hm! Your Pokédex is getting closer\nto completion.\rHave you ever considered a career\nas a Pokémon professor?
-Hmm... You’ve caught quite the\nimpressive collection of Pokémon.\rYou’ve obviously had to employ many\nmeans to seek them all out.\rKeep an eye out for rustling tall\ngrass and search it thoroughly.
-I can only marvel at the diversity\nof Pokémon.\rI’m still very much in awe of\nthem.
-Good, good, you’re getting close to\ncompleting the Pokédex.\rI’m looking forward to seeing its\ncompletion.\rWhen that happens, your views about\nPokémon will likely have changed!
-Hmm... You are so very close to\ncompleting your Pokédex.\rThink about what’s missing.\nRecall what you’ve overlooked.\rYou’re so close--please finish\nthe Pokédex!
-{STRVAR 3, 0}!\nYou’ve finally done it!\rYou’ve finally completed\nthe National Pokédex!\rThis is better than meeting any\nexotic Pokémon for the first time!\rI feel blessed to have become friends\nwith a Trainer like you!\rSincerely, I thank you from the\nbottom of my heart!
-{STRVAR 3, 0}!\nYou’ve finally done it!\rYou’ve finally completed\nthe National Pokédex!\rThis is better than meeting any\nexotic Pokémon for the first time!\rI feel blessed to have become friends\nwith a Trainer like you!\rSincerely, I thank you from the\nbottom of my heart!
-Accessed Professor Rowan’s PC.\r
-Accessed Professor Oak’s PC.\r
+山梨博士『哦,{STRVAR 3,0}！\n让我看看你的口袋图鉴\f的完成程度吧！
+嗯……\r神奥地区已经发现的精灵\n数量是{STRVAR 52,0}只……\r
+怎么？是不是\n还有没被统计进来的精灵？
+山梨博士『为了\n收集全国图鉴,努力加油吧！
+原来如此！\n神奥地区全部的\f精灵都已经遇见过了！\r{STRVAR 3,0}！等一会儿\n再来研究所一趟,\f我在研究所等着你！
+原来如此！\n神奥地区全部的精灵\f都已经遇见过了！
+草丛等等地方还有\n更多的精灵需要去探寻！
+渐渐有些感兴趣了吧！\n今后还会发现更多的快乐！
+如果决定的话就继续出发\n去探寻更多的精灵吧！
+草丛,山林,洞窟,海洋等等\n很多很多地方还有许多精灵！
+图鉴上还有很多\n需要继续完成的呢！
+使用钓竿了吗？\n要使用钓竿才会钓到\f更多的水中的精灵！
+各处道路上出现的训练师们\n也有很多的精灵！
+当图鉴完成的时候,\n这个图鉴就是对你的冒险旅行\f所付出努力的最好证明！
+所以,去探寻全部的\n神奥地区的精灵吧！
+大木博士『哦,{STRVAR 3,0}！\n让我看看你的口袋图鉴吧！
+大木博士『哦,{STRVAR 3,0}！\r让我看看你的口袋图鉴吧！
+嗯……\r已经捕获的精灵的数量是\n{STRVAR 52,0}只……\r
+这样啊……\r想要查看图鉴数量的时候\n就到这里来吧！
+全国总共有\n超过４００种的精灵存在着,\f这样的话想要全部捕获\f就要有相当的心理准备！
+嗯！需要捕获的精灵数量\n的确是增加了不少呢！\f这样的话就需要努力了！
+野生精灵的捕获\n可以先减少它们的体力,\f然后投出精灵球！
+与朋友交换获得的精灵\n也会记录在图鉴上！\r积极地与朋友进行交换\n是很有好处的哟！
+大湿原去过吗？\n那里也有很多在其他地方\f不会出现的精灵呢！
+精灵还会发生进化,\n这是非常重要的事情,\f你最好能够了解！
+不过进化是自动发生的,\n你完全不用担心！\r当然还是要先\n捕获到很多的精灵才行！
+精灵的进化方式有很多种类,\n你知道特定地点进化吗？\r有的精灵只要在特定地点升级\n就会发生进化！
+还有一些\n特定时间大量出现的精灵！\f一定不要错过这些机会啊！
+总之！还有\n超过３００种的精灵存在着！\r这对于你确实是一项\n十分艰巨的任务！
+野生精灵出现时间段并不一样,\n出现的种类也会发生改变！
+对了！最近有人看到了\n原本不会出现在神奥地区的\f精灵出现了！\r所以即使已经去过的地方\n也要再去一遍进行探寻,\f看看能够遇到哪些新的精灵！\r这就是新的考验！
+{STRVAR 3,0},\n你去过帕鲁公园吗？\r在那里可以捕获到\n很多珍贵的精灵哟！
+{STRVAR 3,0},\n你去过帕鲁公园吗？\r在那里可以捕获到\n很多珍贵的精灵哟！
+嗯！\n图鉴已经完成相当多了！\r你将来也想\n成为口袋博士吗？
+嗯……能够捕获到这么多的精灵\n一定是尝试了很多种方法吧！\r如果看到了摇晃的草丛,\n去调查一下会比较好呢！
+其实,\n口袋妖怪这种生物的多样性\f真的让我感到非常吃惊！
+做得很好,\n图鉴已经快完成了！\r当图鉴完成的时候\n你自己对精灵的想法\f也一定会发生改变的！
+嗯,离完成图鉴\n只差一点点了！\r没有什么忘记的事吗？\n也许当图鉴完成时\f就会想起来的！
+{STRVAR 3,0}！\n终于完成了！\f全国图鉴全部登录完成！\r我要感谢能够遇到\n你这样的训练师,\f这比见到任何珍贵的精灵\r都让我感到更加高兴！\r请收下我的谢意,\n真的非常感谢你！
+{STRVAR 3,0}！\n终于完成了！\f全国图鉴全部登录完成！\r我要感谢能够遇到\n你这样的训练师,\f这比见到任何珍贵的精灵\r都让我感到更加高兴！\r请收下我的谢意,\n真的非常感谢你！
+山梨博士的电脑\n打开了！\r
+大木博士的电脑\n打开了！\r

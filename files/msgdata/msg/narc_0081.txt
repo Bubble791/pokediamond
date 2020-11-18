@@ -1,14 +1,14 @@
-You kept me waiting!\rI’m Eterna’s Gym Leader, Gardenia,\nthe Grass-type master!\rWhen I first saw you, I was convinced\nyou’d find your way to me.\rMy hunch was right on the money.\nYou have a winning aura about you.\rSo, anyway, this will be fun.\nLet’s have our battle!\r
-I might’ve said it before, but you’re\nreally tough!\rWasn’t it hard for you to raise your\nPokémon to be so good?\rI guess that’s a measure of how much\nyou love your Pokémon.\rIn recognition of that, I proudly\ngrant you this!\r
-{STRVAR 3, 0} received\nthe Forest Badge from Gardenia!
-With the Forest Badge, your Pokémon\ncan use the hidden move Cut outside\fof battle.\rNow that you have two Gym Badges,\nall Pokémon you received in trades\fwill obey you up to Lv. 30.\rI’ve also got something else.\nIt’s a gift from me!\r
-That {STRVAR 8, 0} contains\nthe move {STRVAR 6, 1}.\rIt’s one of my favorite moves.\rThe heavier the foe, the more\ndamage this move will cause.
-Yup! If there’s one thing I can tell\nabout you, it’s this!\rYou and your Pokémon are gonna get\neven tougher, and I mean seriously!
-How did you know where to find me?\nLet’s have our battle!\r
-OK, the next Trainer is at the end,\npast the two boulders...I think.
-My Grass-type Pokémon can dole out\nsome serious special attacks...\rI won’t let you win...easily!\r
-Oh, that’s right...\nA hint about the next Trainer...\rIn the middle of three trees.\nThat’s it for my hint. Good luck.
-Even when you try to conceal it, you\ncan’t hide the aroma of flowers.\r
-Your next opponent is beside four\nflowers.
-Giggle! You found me!\nOf course I’ll battle you!\r
-Giggle! There’s only our Gym Leader\nleft. Go on, don’t be afraid!
+等着你呢！\n我是白岱道馆的馆主！\f使用草系的奈多！\r刚才看到你时\n就觉得你能见到我！\r正在那么想着呢,\n你果然来了！\f既然你已经到了这里,\r嗯,来吧！\n让我们来场精彩的对战！\r
+不得不说\n你真的很强！\r把精灵培养成这种程度\n花了不少心思吧？\r这些都是\n你对精灵们的爱的表现。\r我看好你哟,\n收下这个吧！\r
+{STRVAR 3,0}从奈多处\n得到森林徽章！
+有这个森林徽章就可以使用\n秘传技能「居合斩」了！\r现在你已经拿到了两枚徽章,\n所以可以自由控制\f等级３０级以下的精灵了,\f记住了吗！\r拿好这个！\n我送你的礼物！\r
+{STRVAR 8,0}是{STRVAR 6,1}！\n非常独特的技能！\f对手的精灵的体重越重\f造成的伤害也越大！
+嗯！我明白了,\n你和你的精灵们\f也要越来越强啊！
+找到我了！\n来吧,一决胜负！\r
+接下来的第二个人\n藏在有两个小石块的小道里
+草系的精灵\n会很多的特殊攻击……\f千万不要轻敌啊！\r
+是吗……\n接下来的对手\f藏在三棵树背后的正中,\f去寻找她吧！
+藏起身子\n却藏不住花的香味\r
+下面的对手在\n四朵花的旁边
+唔呵呵！被找到了！\n好吧,来一决胜负！\r
+哦呵呵！接下来就只剩馆主了,\n加油！

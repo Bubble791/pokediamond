@@ -1,17 +1,17 @@
-There’s an odd spaceman\nin front of the ruins.\rThere isn’t anything there, but that\nonly seemed to make him get angry.\rHe’s saying he will blow the town\nup with a bomb...\rThe nerve of it all...\rIf only I were younger, I’d punish\nthat spaceman with my Pokémon...
-This town is insignificant!\nThere’s nothing of value here.\rIt doesn’t need to exist, so I’ll\nblow it up with a Galactic Bomb!\rIf you try to mess with me, I’ll shut\nyou down with a Pokémon battle.\rSo, what’s it going to be?\nAre you going to mess with me?
-You dare to oppose Team Galactic?\rThat means you’re taking on the\nworld... No, the universe, even!\r
-That’s right! Very smart!\nYou know what’s good for you!\rTeam Galactic has come out to the\nboonies like this for everyone’s sake.\rYour cooperation is appreciated.\nNow, where is my partner...?
-Too much to handle...\nI can’t do anything here...\rThis place is nothing!\nI’ll be happily rid of this place!\r
-Oh, you were magnificent!\nAren’t you quite the Trainer?\rAs the elder of Celestic Town, I give\nyou my thanks.\rOh? That Old Charm...\nMay I see that, dear?\r...\nWhat’s that?\rYou say Cynthia entrusted you with\nit to deliver to me?\rThat Cynthia...\nShe’s my granddaughter.\r
-{STRVAR 3, 0} handed over\nthe {STRVAR 8, 1} to the elder.
-This Old Charm is something made in\nCelestic Town long, long ago.\rIt was made in honor of a mythical\ndeity said to have created Sinnoh.\rThese Old Charms are still discovered\nnow and again.\rSince you’re in Celestic Town, why not\nlook around inside the ruins?
-You’ve gone to the trouble\nof visiting Celestic Town.\rWhy not take a little more time\nto examine the ruins?
-There appears to have been\nan insignificant struggle here.\rEveryone should step back and view\nthings from a bigger perspective.\rYes, a bigger perspective, one that\nis on a universal scale.\r
-My name is Cyrus.\rI seek the power to create a new\nworld, a world without strife.\rHowever, that power seems to be\nunavailable here...\rWe’ve met before, yes?\nIt was at Mt. Coronet.\rIf you discover any power derived\nfrom the legends of Sinnoh, inform me.\rFor that power is what I need to\ncreate my new world.\r
-Howdy!\nStudying up on local history?
-Hey, do you know what they say?\rThey say a Pokémon created the\nSinnoh region.
-There’s no Pokémon Mart in this\ntown...\rInstead, you can buy and sell items\nin this house here.
-Celestic Town\nThe Past Lives
-A giant etching of a Pokémon-like\ncreature covers the wall...\rThere is some fading text etched\nin as well...\rThe flow of time never stops...\nThe past, future, and present...
-A giant etching of a Pokémon-like\ncreature covers the wall...\rThere is some fading text etched\nin as well...\rSpace is ever-expanding dimensions...\nOur spirits, too, are as space...
+说什么可以在遗迹前面\n看到宇宙人,\f那里明明什么都没有,\f还拦在那里,\f说什么要使用炸弹……\f真头疼啊……\r要是我还年轻的话\n就能和精灵一起\f好好教训他们了！！
+这么小的地方\n什么都没有的话\f就用银河炸弹炸飞！\r妨碍我的话\n就用口袋对战打败你！\f怎么样？\f要阻止我吗？
+阻止银河团的话\n就是叛逆世界……不,\f是叛逆宇宙的家伙！\r
+是吧,是吧！\r银河团为了大家\n来到这种乡下,\f不要碍事！\f不过同伴确实太慢了……
+强……呃,没办法\n这种荒凉的乡下,\f还是回去的好！\r
+哦,帮了大忙了！\n很强的训练师啊,\f我作为这冠凤镇的长老\f向你表示感谢,\r哎呀？那个「古代护符」是……\n可以让我稍微看一下吗？\r…… …… …… \n…… …… ……\r什么？是孙女茜罗娜\n拜托你送来的？\r
+{STRVAR 3,0}把{STRVAR 8,1}\n交给了长老！
+这是很久很久以前\n在冠凤镇制作的护符啊！\f据说是按照神奥的地形做成的\f作为献给神灵的物品,\f到现在还经常被发现。\r对了！\n好不容易来到这冠凤镇,\f不去遗迹里面看看吗？
+好不容易来到这冠凤镇,\n不要客气,\f去遗迹里面看看吧！
+总觉得好无聊,\n总是有战争,\r多展望一下世界,\n应该在更高的水平下\f洞悉万物,\r对,要像宇宙一样宽广深厚。\r
+我叫赤木,\r为了建立没有无聊争斗\n的理想世界正在寻求力量,\f来到这里……\r我们在殿元山见过面,\n如果你发现了什么是\f传说中被束缚的力量\f请告诉我,\r这是为了创造新世界\n所必不可少的力量。\r
+哎呀！\n在研究历史啊？
+你知道吗？\n这神奥地区好像是精灵创造的。
+这里没有商店,\n但是作为替代,\f可以在这里买卖道具
+这里是冠凤镇\n有悠久历史的老镇
+很久很久以前精灵一样的东西\n被刻在这面墙上……\r上面刻了些什么……\r时间流逝之物\n过去,未来,还有现在……
+很久很久以前精灵一样的东西\n被刻在这面墙上……\r上面刻了些什么……\r有无限扩展力的空间\n心也是空间……

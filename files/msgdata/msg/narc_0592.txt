@@ -1,80 +1,78 @@
-                 
-Logging on to Nintendo WFC.\nPlease wait...
-{STRVAR 3, 0} is seeking someone\nto battle.
-{STRVAR 3, 0} is seeking someone\nto trade with.
-{STRVAR 3, 0} is on standby.
-What would you like to seek?
-Suspend your invitation?
-{STRVAR 3, 0} contacted you!
-Would you like to log out of\nNintendo WFC?
-                            
-{STRVAR 3, 0} invites you for\na voice chat!
-{STRVAR 3, 0} appears to be busy...
-You can’t connect with\n{STRVAR 3, 0}.
-Communicating with {STRVAR 3, 0}...
-{STRVAR 3, 0} failed to respond...
-{STRVAR 3, 0} ended the voice chat.
-Would you like to end\nthis voice chat?
-Nintendo Wi-Fi Connection
-Connected Friends
-  
-   
-         
-          
-IN BATTLE
-TRADE
-TRADING...
-VOICE CHAT
-INVITE
-              
-APPLY
-RECORDS
-CANCEL
-{STRVAR 3, 0}
-GROUP
-BATTLE RECORD
-WIN: {STRVAR 53, 0}
-LOSE: {STRVAR 53, 0}
-POKéMON TRADES
-{STRVAR 53, 0} time
-DATE LAST PLAYED
-{STRVAR 74, 1} {STRVAR 51, 2}, {STRVAR 53, 0}
-This is your record with\n{STRVAR 3, 0}.
-{STRVAR 3, 0} wants to play with you!
-Would you like to have another\nbattle against {STRVAR 3, 0}?
-Would you like to do another\ntrade with {STRVAR 3, 0}?
-Standing by...
-DISCONNECT
-{STRVAR 3, 0} is in a battle.
-{STRVAR 3, 0} is trading.
-{STRVAR 3, 0} is having\na voice chat.
-                              
-Reconnect to Nintendo WFC?
-You need at least two Pokémon\nif you want to trade!
-Voice chat was turned ON.\r
-Voice chat was turned OFF.\r
-???
-SINGLE BATTLE
-DOUBLE BATTLE
-FREE SINGLE
-LV. 50 SINGLE
-LV. 100 SINGLE
-FREE DOUBLE
-LV. 50 DOUBLE
-LV. 100 DOUBLE
-Your friend ended the communication\nbattle.
-Communicating. Please standby...
-You can’t have a Double Battle\nif you only have one Pokémon...
-Suspend your response?
-Voice chat will be turned ON while\nyou play with this friend.\rWould you like to respond to this\nfriend’s invitation?
-Voice chat will be turned OFF while\nyou play with this friend.\rWould you like to respond to this\nfriend’s invitation?
-                 
-                                
-Waiting for the other player to\ndecide. Please wait...
-                              
-                             
-                      
-Delay will be turned ON.\r
-Delay OFF = Standard mode\r
-{STRVAR 3, 0}
-{STRVAR 53, 0} times
+ＷｉＦｉ接通开始
+ＷｉＦｉ连接接通中,\n请稍候
+{STRVAR 3,0}正在\n寻找对战对手
+{STRVAR 3,0}正在\n寻找交换对方
+{STRVAR 3,0}正在\n待机中
+寻找哪个对手呢？
+中断寻找吗？
+从{STRVAR 3,0}\n收到回应！
+结束ＷｉＦｉ连接吗？
+保存记录中\n请勿切断电源
+{STRVAR 3,0}已经回应了\n语音聊天！
+{STRVAR 3,0}\n回应中……
+和{STRVAR 3,0}\n无法连接
+向{STRVAR 3,0}\n回应中……
+{STRVAR 3,0}\n没有回应……
+{STRVAR 3,0}结束了\n语音聊天
+结束语音聊天吗？
+ＷｉＦｉ连接接通
+连接中的朋友
+是
+不是
+Ｌｖ．５０对战
+Ｌｖ．１００对战
+对战中
+交换
+交换中
+语音聊天
+寻找对手
+取消ＷｉＦｉ连接
+回应
+查看登录
+取消
+{STRVAR 3,0}
+组群{STRVAR 3,0}
+对战成绩
+胜 {STRVAR 53,0}
+败 {STRVAR 53,0}
+精灵交换
+{STRVAR 53,0}次
+最后游戏日期
+{STRVAR 53,0}／{STRVAR 51,1}／{STRVAR 51,2}
+和{STRVAR 3,0}进行登录
+{STRVAR 3,0}\n发来了回应！
+要和{STRVAR 3,0}\n再次对战？
+要和{STRVAR 3,0}\n再次交换吗？
+待机中
+中断
+{STRVAR 3,0}对战中
+{STRVAR 3,0}交换中
+{STRVAR 3,0}\n语音聊天中
+是否切断电源\n进行ＷｉＦｉ设定？
+再次接通ＷｉＦｉ连接吗？
+进行交换需要拥有\n２只以上的精灵！
+语音聊天 ＯＮ\r
+语音聊天 ＯＦＦ\r
+？？？
+单人对战
+双人对战
+自由等级 单人
+Ｌｖ．５０ 单人
+Ｌｖ．１００ 单人
+自由等级 双人
+Ｌｖ．５０ 双人
+Ｌｖ．１００ 双人
+对手已经结束了\n通信对战
+通信待机中\n请稍候……
+持有精灵只有１只,\n无法进行双人对战！
+回应中断吗？
+这位朋友游戏时\n语音聊天 ＯＮ,\r要回应\n这位朋友的寻找吗？
+这位朋友游戏时\n语音聊天 ＯＦＦ,\r要回应\n这位朋友的寻找吗？
+回应中断
+无法回应\n这位朋友的寻找！
+等待对手的选择中,\n请稍候
+对战交换时\nＢＧＭ ＯＦＦ\r
+对战交换时\nＢＧＭ ＯＮ\r
+发生通信错误\n{STRVAR 54,0}
+延迟ON\r
+延迟OFF=通常\r

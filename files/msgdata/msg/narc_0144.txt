@@ -1,11 +1,11 @@
-I’ve had enough of shopping for\na while.\rI’ll grab a drink and unwind a bit.
-I’ve shopped here loyally for years.\nNow they consider me a regular! Ha!
-Ah, young Pokémon Trainer...\rAs your senior in life, let me make\na gift of this Sticky Barb!\r
-That Sticky Barb is a hold item.\nIf the Pokémon holding it is hit...\rThe Sticky Barb sticks to the foe\nand inflicts damage!
-Two buff guys standing side by side.\nThat’s all. What? What’s the problem?
-1F: Trainers’ Zone\r2F: Battle Collection\r3F: TM Corner\r4F: Poké Dolls & Goods\r5F: Rooftop Plaza
-It’s a Vending Machine.\nWhich drink would you like?
-Clang!\rA can of {STRVAR 8, 0} dropped\ndown.\r
-Clang!\rBonus! Another can of {STRVAR 8, 0}\ndropped down.\r
-Not enough money...
-Decided not to buy a drink.
+买太多东西了啦！\n在这儿买杯果汁\r稍微休息一下吧！
+经常光顾这家商店的话\n是会成为VIP的哦,呵呵呵
+真是年轻的口袋训练师啊！\n作为长辈,\f这个附针给你吧！\r
+附针被未持有道具\n的对手攻击的时候！\r就会粘到对手身上\n连续刺扎让它承受伤害！
+两个强壮男人并排站着而已\n……小小年纪别瞎想
+１层 …… 训练师区域\r２层 …… 战斗用品\r３层 …… 技能训练机\r４层 …… 家具\r５层 …… 休息广场
+这儿有自动售货机！\n想喝……
+咕咚！\r{STRVAR 8,0}准备好了！\r
+咕咚！\r又做好了一杯\n{STRVAR 8,0}！\r
+钱不够！
+……还是算了吧！

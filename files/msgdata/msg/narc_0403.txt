@@ -1,46 +1,46 @@
-Make Pokémon migrate from\n{STRVAR 3, 1}’s Ruby Game Pak?
-Make Pokémon migrate from\n{STRVAR 3, 1}’s Sapphire Game Pak?
-Make Pokémon migrate from\n{STRVAR 3, 1}’s Emerald Game Pak?
-Make Pokémon migrate from\n{STRVAR 3, 1}’s FireRed Game Pak?
-Make Pokémon migrate from\n{STRVAR 3, 1}’s LeafGreen Game Pak?
-There aren’t six Pokémon in\nthe PC Boxes.
-Please choose the six Pokémon\nthat will migrate.
-This Game Card has already been\nstocked with six migrated Pokémon.\rPlease participate in a Catching\nShow at Pal Park.
-An Egg cannot migrate!
-This Pokémon knows a hidden move.\nIt cannot migrate.
-The six chosen Pokémon will migrate.
-Pokémon CANNOT be returned to the\nGame Boy Advance Game Pak. OK?
-                             
-                             
-                             
-                             
-                                              
-                       
-Saving data on Pokémon Ruby and\nPokémon Diamond...
-Saving data on Pokémon Ruby and\nPokémon Pearl...
-Saving data on Pokémon Sapphire and\nPokémon Diamond...
-Saving data on Pokémon Sapphire and\nPokémon Pearl...
-Saving data on Pokémon Emerald and\nPokémon Diamond...
-Saving data on Pokémon Emerald and\nPokémon Pearl...
-Saving data on Pokémon FireRed and\nPokémon Diamond...
-Saving data on Pokémon FireRed and\nPokémon Pearl...
-Saving data on Pokémon LeafGreen\nand Pokémon Diamond...
-Saving data on Pokémon LeafGreen\nand Pokémon Pearl...
-                     
-Six Pokémon safely migrated to\nthe Pokémon Diamond Game Card.
-Six Pokémon safely migrated to\nthe Pokémon Pearl Game Card.
-Pokémon may migrate from a Game Boy\nAdvance Game Pak only once a day.\rA full day hasn’t passed since\nPokémon migrated from this Game Pak.
-You are using a different Nintendo DS,\nor its internal clock has been altered.\rIf the game’s time setting is changed,\nyou will not be able to migrate\fPokémon for another 24 hours.\rWould you like to change your game’s\ntime setting to match the Nintendo DS?
-The game clock has been adjusted.\rPokémon cannot be made to migrate\nfor 24 hours.
-Pokémon CANNOT be returned to the\nGame Boy Advance Game Pak.\rMake Pokémon migrate to\nthe Pokémon Diamond Game Card?
-Pokémon CANNOT be returned to the\nGame Boy Advance Game Pak.\rMake Pokémon migrate to\nthe Pokémon Pearl Game Card?
-Save failed...
-Error reading the Game Boy Advance\nGame Pak’s save file.\rThere may not be a file saved,\nor the save file may be corrupted.
-This Pokémon is not permitted to\nmigrate.
-                         
-Making adjustments...\nDo not turn off the power.
-  
-   
-Lv.
-Item
-     
+从{STRVAR 3,1}的红宝石版本\n传送精灵吗？
+从{STRVAR 3,1}的蓝宝石版本\n传送精灵吗？
+从{STRVAR 3,1}的绿宝石版本\n传送精灵吗？
+从{STRVAR 3,1}的火红版本\n传送精灵吗？
+从{STRVAR 3,1}的叶绿版本\n传送精灵吗？
+电脑里的精灵\n不到６只！
+请选择\n要传送的６只精灵
+本卡总共可传送\n６只精灵,\r请前往帕鲁公园\n进行捕获！
+蛋无法传送！
+这只精灵习得了秘传技能\n无法传送！
+选定的６只精灵\n传送中
+无法重新传回ＧＢＡ版本\n可以吗？
+无法重新传回ＧＢＡ版本\n可以吗？
+无法重新传回ＧＢＡ版本\n可以吗？
+无法重新传回ＧＢＡ版本\n可以吗？
+无法重新传回ＧＢＡ版本\n可以吗？
+那么……\n请触摸选定的精灵,\f将其拉至上方
+６只精灵\n传送成功！
+红宝石版和钻石版\n游戏记录写入中
+红宝石版和珍珠版\n游戏记录写入中
+蓝宝石版和钻石版\n游戏记录写入中
+蓝宝石版和珍珠版\n游戏记录写入中
+绿宝石版和钻石版\n游戏记录写入中
+绿宝石版和珍珠版\n游戏记录写入中
+火红版和钻石版\n游戏记录写入中
+火红版和珍珠版\n游戏记录写入中
+叶绿版和钻石版\n游戏记录写入中
+叶绿版和珍珠版\n游戏记录写入中
+传送失败……
+６只精灵可以\n传送至钻石版游戏中
+６只精灵可以\n传送至珍珠版游戏中
+从这张卡传送精灵\n还没有经过１天时间！\r同一张卡带\n１天只能传送１次！
+ＤＳ主机中\nＤＳ内置时钟\f发生变更,\r进行变更后\n现在开始的２４小时内\f不能传送精灵,\r要进行变更吗？
+变更结束,\r现在开始的２４小时之内\n不能传送精灵
+传送的精灵无法重新传回\nＧＢＡ游戏中,\r确定把精灵传送到\n钻石中吗？
+传送的精灵无法重新传回\nＧＢＡ游戏中,\r确定把精灵传送到\n珍珠中吗？
+写入记录失败
+无法读取\nＧＢＡ版游戏记录,\r可能没有记录\n或记录损坏
+此精灵\n无法传送
+请选择\n要传送的６只精灵\n
+变更中,\n请勿切断电源
+是
+不是
+Ｌｖ．
+持有道具
+？？？？？

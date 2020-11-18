@@ -1,10 +1,10 @@
-You want to challenge Candice?\rSure thing!\nI was waiting for someone tough!\rBut I should tell you, I’m tough\nbecause I know how to focus.\rPokémon, fashion, romance...\nIt’s all about focus!\rI’ll show you just what I mean.\nGet ready to lose!\r
-Wow! You’re great!\nYou’ve earned my respect!\rI think your focus and will bowled\nus over totally.\rOh, that’s right!\nI’m supposed to give you this!\r
-{STRVAR 3, 0} received\nthe Icicle Badge from Candice.
-That Icicle Badge I just gave you?\rBecause you have it, you can use the\nhidden move Rock Climb anytime, even\fwhen you’re not in a battle.\rOh, and take this, too.\r
-{STRVAR 8, 0} contains the move\n{STRVAR 6, 1}.\rIf the user takes damage, the move’s\npower is doubled!\rCan you imagine what sort of focus\nyou’d need to pull it off?
-Do you think I should try to act\nmore like an Ice-type Gym Leader?\rLike, do you think I should be more\ncool and distant?\rThat sort of thing I have trouble\nwith.
-Hey, there!\nHow’s it going, Champ-to-be?\rDo you see the big snowballs placed\nhere and there?\rYou need to slide on the ice with\nenough momentum to crush them.\rThe Gym Leader is a user of\nIce-type Pokémon.\rMelt her defenses with scorching-\nhot Fire-type moves!\rIt’s all about focus with this Gym.\nBear down and focus!
-Oh! {STRVAR 3, 0}!\nYou’ve beaten the Gym Leader!\rYou were more focused than her,\nand your Pokémon picked up on it!
-Snowpoint City Pokémon Gym\nLeader: Candice\rCertified Trainers:\n{STRVAR 3, 1}
-Snowpoint City Pokémon Gym\nLeader: Candice\rCertified Trainers:\n{STRVAR 3, 0}\f{STRVAR 3, 1}
+要挑战吗？\n好啊！我一直等着很强的训练师来,\r不过,我鼓足干劲\n也是很厉害的哟！\r精灵也好,打扮也好,恋爱也好,\n全都是鼓足干劲的！\r我会让你见识见识的,\n你要做好心理准备哦！\r
+真厉害啊！\n现在我对你刮目相看了！\r嗯,总觉得你的气势\n好像还没有全部发挥出来。\r对了,\n这个,还是要给你……！\r
+{STRVAR 3,0}从菘处\n得到冰雪徽章！
+带着这个冰雪徽章的话\n就可以使用\f秘传技能「攀岩」了,\r另外,这个也请收下！\r
+这个{STRVAR 8,0}里面是\n{STRVAR 6,1}！\r在自己受到对方的\n攻击伤害后\f技能的威力会变成２倍！\r总之,这个是让气势\n完全激发出来的技能！
+作为使用冰系的口袋馆主,\n既要冷静又要活跃就好了,\f不过感觉有点矛盾啊！
+哟！未来的冠军！\n在这个道馆里\f到处都是碍事的冰块！\r从高处冲下来\n就能把那些冰破坏掉了！\r另外,这里的馆主\n是使用冰系技能的！\r用燃烧的火系技能\n把冰熔化掉吧！！\r总之,关键的是气势！\n一鼓作气打败她吧！
+哦！{STRVAR 3,0}！\n战胜道馆馆主了啊！\r看得出来\n你和你的精灵的气势\f已经超越了馆主！
+金岬市口袋道馆\r馆主 菘\n认定训练师！\f{STRVAR 3,1}
+金岬市口袋道馆\r馆主 菘\n认定训练师！\f{STRVAR 3,0}\f{STRVAR 3,1}

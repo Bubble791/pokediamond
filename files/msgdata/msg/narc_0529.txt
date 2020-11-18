@@ -1,10 +1,10 @@
-Where are you from?\r...\rHm, Twinleaf Town, you say.\nIsn’t that close to Lake Verity?\rThat lake is said to be home to\nMESPRIT, the being of emotion.\rIt must be looking over you.
-Hm? If you get the Gym Badge from\nHearthome, you can use Surf anytime.\rUsing Surf, you’ll be able to go to\nplaces that were once out of reach.\rYou may be in for some surprises\nas to where you can go using Surf.
-Celestic Town is the oldest town in\nall of Sinnoh.\rThe town was founded to honor\nPokémon from the distant past.\rOr at least that’s the legend...
-Well, hello!\nYou look good.\rI did some research of my own since\nthat spot of trouble last time.\rMt. Coronet acting up had me very\nconcerned, too.\rWell, this is what I found in the\nshrine.\rIt’s a book, and it’s quite old.\nSee for yourself.\r
-“PALKIA, the Pokémon that binds the\nspatial dimensions,” it is written...\r
-“DIALGA, the guardian Pokémon of\ntime,” it is written...\r
-It seems that there were two\nPokémon in ancient Sinnoh.\rThey respectively stood as symbols\nof time and spatial dimensions...
-My big sister is studying the myths\nof Sinnoh.\rShe wants to know how people and\nPokémon interacted in the days of\fmyths.\rWere things different back then?\nOr were they the same as now?\rShe says that’s the focus of her\nresearch.
-It’s hard to tell for sure, but it’s\nprobably an invaluable scroll.
-It’s an old book.\n{STRVAR 3, 0} began reading it.\r“When that Pokémon was born,\nintelligence bloomed among us,\fenriching our lives.\r“When that Pokémon was born,\nemotions bloomed among us,\fgiving us joy and sorrow.\r“When that Pokémon was born,\nwillpower bloomed among us,\fspurring us into action...”
+从哪里来的？\r…… …… ……\n…… …… ……\r哦,双叶镇啊,\n那里离神事湖很近,\f那个湖的情感之神红圣菇\f在守护着你呢！
+嗯？得到绿缘市的道馆徽章\n就能用冲浪的技能了\f哎！？在那种地方？\f可以去那地方了！
+冠凤镇啊\n是神奥最古老的镇。\r从很久以前\n为了祭奠精灵\f人们开始了祭祀活动。
+哎呀,很精神嘛！\r是啊,从那之后啊\n做了很多调查,\f殿元山有些奇怪,\f很在意,但没有办法啊……\r另外,\n从祠堂找到了这东西！\f是本相当古老的书……\f看！\r
+连接空间的精灵\n帕鲁基亚写在上面……\r
+掌管时间的精灵\n迪亚鲁卡写在上面……\r
+很早以前神奥地区有２只精灵,\n好像象征了时间和空间……
+我姐姐在研究\n神奥地区的神话,\r精灵和人类\n从创造神话的时代以来\f是怎样相处的,\f和现在一样吗？\f还是不一样？\r这就是研究的课题。
+虽然不太清楚\n不过大概是很厉害的挂轴！
+放着很旧的书本,\n{STRVAR 3,0}拿起来读了读,\r那个精灵诞生,\n知识扩大了,\f我们知道了许多,\r那个精灵诞生,\n萌生了感情,\f我们伤心喜悦,\r那个精灵诞生,\n我们决定了什么,\f就马上行动……

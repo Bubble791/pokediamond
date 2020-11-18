@@ -1,52 +1,52 @@
-Professor: ...\rFinally, you’ve come.\n{STRVAR 3, 0}, was it?\rLet me see your Pokémon again.\r
-...\rHmm...\nI see...\rThis Pokémon seems to be rather\nhappy.\r
-Well well!\rYou’ve made your Pokémon evolve\nalready?!\r
-All righty then!\rI’ll give that {STRVAR 0, 0} to you as\na gift.\r
-Professor: Now that it’s yours, would\nyou like to give it a nickname?
-Professor: Hmm, OK, I see...\nAnd you’re happy with that nickname?
-Professor: Your friend {STRVAR 3, 1}\ntold me what happened at the lake.\rI heard you battled very well,\ndespite it being your first time.\rAnd, from what I can see, there is\na growing bond between you and that\fPokémon, though it is still young.\rThat’s why I would like to entrust\nyou with {STRVAR 0, 0}.\r
-Dawn: I’m so glad that you’re kind\ntoward Pokémon!\rIf you weren’t, I’d have to...\nOh, I just can’t say it...\r
-Lucas: Boy, am I glad you’re kind\ntoward Pokémon.\rIf you weren’t, well...\nI don’t even want to think about it.\r
-Professor: Er-hem!\nLet’s move on to the main topic.\rThere is something I want you\nto do for me.\r
-My name is Rowan.\nI study Pokémon.\rFirst of all, I want to know exactly\nwhat kinds of Pokémon live in the\fSinnoh region.\rTo do so, it is necessary to collect\ndata using the Pokédex.\rThis is what I wish to ask of you.\rI want to entrust you with this\nPokédex.\rWill you use it to record data on all\nthe Pokémon in Sinnoh for me?
-Rowan: ...\r...\r...\r...\rI can stand here without speaking for\nhours. I’m a very patient man.\rLet me ask you again, {STRVAR 3, 0}.\rI want to entrust you with this\nPokédex.\rWill you use it to record data on all\nthe Pokémon in Sinnoh for me?
-Rowan: Hm!\rGood answer!\r
-{STRVAR 3, 0} obtained\nthe {COLOR 1}Pokédex{COLOR 0}!
-Rowan: That Pokédex is a very\nhigh-tech device.\rIt will automatically record data on\nevery kind of Pokémon you encounter.\r{STRVAR 3, 0}, I ask that you go\neverywhere and meet every kind of\fPokémon in this region!\r
-Dawn: I’ve got one, too!\r
-Lucas: I’ve got the same kind of\nPokédex as you.\r
-Rowan: When you walked up Route 201\nwith your Pokémon, what did you feel?\rI’ve lived for 60 long years.\nEven now, I get a thrill when\rI’m with a Pokémon.\rNow, you should know that there are\ncountless Pokémon in this world.\rThat means there are just as many\nthrills waiting for you out there!\rNow go!\r{STRVAR 3, 0}, your grand adventure\nbegins right now!\r
-Rowan: Go on!\r{STRVAR 3, 0}, your grand adventure\nawaits you!
-Dawn: The Pokémon that I used for\nthe first time was {STRVAR 0, 1}!\rIf you would have chosen\n{STRVAR 0, 1} at the lake, we’d\fhave the same Pokémon now!\rNot that it matters, but...\rAnyways, I’m Dawn.\rI also help the professor add pages\nto the Pokédex.\rSo, in a sense, I’m just like you.\rI just got a little head start on\nyou, that’s all.\rI’ll be happy to teach you things.\nGlad to meet you, {STRVAR 3, 0}!\r
-Lucas: The professor asked me to\nhelp, so I’m going to go out and fill\fthe Pokédex pages, too.\rThat makes us comrades working\ntoward the same goal.\rI’ll teach you stuff later, OK?\r
-I’m {STRVAR 3, 0}’s father.\rI’ll be happy to assist you on your\nquest for the professor.\rHahaha. Eh...\nI’m sure we can count on you!
-Professor Rowan invented a new\nPokédex while working alongside a\fprofessor from the Kanto region!
-                                                           
-Adventure Rule No. 1\nThe X Button opens the menu.
-Adventure Rule No. 2\nRecord your progress with SAVE.
-It’s crammed full of books with all\nsorts of Pokémon information.
-There’s a lot of reference material\nand research reports on Pokémon.
-Rowan: Ah, {STRVAR 3, 0}!\rYou’ve come to show me your\nprogress on the Pokédex?\r
-Hmm...\rSo, you’ve seen {STRVAR 52, 0} Pokémon.\r
-What’s wrong?\rYou’re not going to tell me you’ve\nseen too few to bother showing me?
-Bravo, {STRVAR 3, 0}!\rYou’ve recorded all the Pokémon of\nSinnoh in your Pokédex!\rThis will help immeasurably with my\nstudies on Pokémon evolution...\r
-Rowan: Hm! {STRVAR 3, 0}, I’ve been\nwaiting to see you!\rYou’ve met every kind of Pokémon\nthere is in the Sinnoh region!\rThis will help immensely with my\nstudies on Pokémon evolution...\r
-Oak: Greetings, Professor Rowan!\nIt’s been a very long time!\rI’ll tell you, Sinnoh certainly is\na long trip from Kanto.\rOf course, if it means meeting new\nPokémon, there’s no distance too\fgreat for the likes of us to travel.\r
-Rowan: Oh! If it isn’t my old\ncolleague, Professor Oak!\rI should have expected as much from\nthe world’s authority on Pokémon!\rWe always used to joke, “Where\nthere are Pokémon, you’ll find Oak!”\rIt’s good to see that hasn’t changed\none bit!\r
-Professor Oak, let me introduce you\nto my young assistant.\rThis youngster has filled every page\nof the Sinnoh Pokédex for me.\r
-Oak: Ah, well, very glad to meet you!\nAs you’ve heard, my name is Oak.\rI’ve been hearing a great deal about\nyou from Professor Rowan lately.\rHe’s been exuberant in praise about\na fantastic young Trainer.\rI see that you live up to--no--that\nyou’ve surpassed his praise.\rYou’ve also got an impeccable sense\nof timing.\rYou see, I had an errand to run for\nProfessor Rowan on my visit here.\rHe’d asked me to bring the data\nfor the National Pokédex, you see.\rSo, since you’re here, let me upgrade\nyour Pokédex with the National Mode.\rAfter all, there are many kinds of\nPokémon in this world of ours!\r
-{STRVAR 3, 0}’s Pokédex was upgraded\nwith the National Mode!\r
-Oak: I’m afraid it won’t be easy to\ncomplete the National Pokédex.\rHowever, I’m sure you will make an\nhonest attempt on our behalf!\r
-Rowan: Have no fear, {STRVAR 3, 0}\nwill get the job done.\rBy the way, Professor Oak, what\ncompelled you to visit this region?\r
-Oak: Ah, yes. I’ve heard that the\nPal Park is now open.\rIf I remember correctly, it’s at the\nend of Route 221.\rThe Pal Park has a special system\nthat attracts every imaginable kind\fof Pokémon from every region.\rI’ve come to make certain that\nsystem is operating properly.\r
-{STRVAR 3, 0}, you should make an\neffort to visit the Pal Park, too.\rOops! I’ll be late for my meeting if\nI don’t get going!\rOK, it was a pleasure seeing the both\nof you! Bye, now!\r
-{STRVAR 3, 0}, you should make an\neffort to visit the Pal Park, too.\rOops! I’ll be late for my meeting if\nI don’t get going!\rOK, it was a pleasure seeing the both\nof you! Bye, now!\r
-Rowan: Off he goes, as busy as\never...\r
-Now, {STRVAR 3, 0}...\rI have a gift here as your reward\nfor completing the Sinnoh Pokédex.\r
-Rowan: That’s the Pokémon Radar,\nor just Poké Radar for short.\rUse it, and it will indicate grass\npatches where Pokémon are lurking.\rI’d prepared that to help my field\nassistants put together the Sinnoh\fPokédex, but you took care of that!\rI’m sure it will be useful for your\ngoal of filling the National Pokédex.
-Rowan: The world is immense.\nThere are many more Pokémon.\rThat means there are many more\nthrills for you to seek and enjoy!
-{STRVAR 3, 0} checked the PC.\rThe screen is filled with special terms\nand academic writing that is impossible\fto figure out.
-Research materials are carefully\ntucked away.
-The refrigerator is filled with\ntasty sweets! Mmm...
-It’s really quite something!\rImagine... Cataloging every kind of\nPokémon in the Sinnoh region!\rAnd in complete contrast, there’s\n{STRVAR 3, 0}...\rAnyway, you’ve been great for the\nprof’s Pokémon-evolution research!
-Yes, that’s correct.\rProfessor Rowan has been studying\nPokédex systems with Professor Oak.\rProfessor Oak is Professor Rowan’s\njunior in terms of seniority.
+博士『…… …… ……\n…… …… ……\r是{STRVAR 3,0}吗？\n过来让我检查一下精灵！\r
+…… …… ……\n…… …… ……\r嗯……\n原来如此……\f这个精灵看起来很高兴啊！\r
+什么！\n让这个精灵进化了吗！\r
+嗯,我决定了！\n{STRVAR 0,0}就作为礼物送给你了！\r
+博士『要给它起个昵称吗？
+博士『嗯……这个昵称可以吗？
+博士『湖边发生的事情\n已经听{STRVAR 3,1}说过了,\r虽然是第一次使用精灵\n却能顺利控制精灵进行战斗,\f我感觉到\f你和精灵之间已经产生了感情,\r所以我相信\n你会好好培养{STRVAR 0,0}的。\r
+小光『你是对精灵友善的人\n真是太好了！\f要不然的话……\r啊,说不出口……\r
+小辉『你是对精灵友善的人\n真是太好了！\f要不然的话……\r啊,不多想了……\r
+博士『咳！\r接下来是正事,\n有件事需要拜托你。\r
+我是山梨博士！\n正在进行精灵研究！\r首先,我需要了解\n神奥地区的全部的精灵种类！\f因此,\f需要用口袋图鉴进行记录！\f这就是要拜托你的事情！\r这个图鉴交给你了,\n请你在神奥地区好好调查一下！
+山梨博士『…… …… ……\n…… …… ……\r…… …… ……\n…… …… ……\r…… …… ……\n…… …… ……\r…… …… ……\n…… …… ……\r不管多长时间\n我都会等着的,\r那么再说一遍\n{STRVAR 3,0}！\r这个图鉴交给你了,\n请你登录神奥地区\f全部种类的精灵！
+山梨博士『嗯！\n回应的很好！\r
+{STRVAR 3,0}得到了\n{COLOR 1}口袋图鉴{COLOR 0}！
+山梨博士『这个图鉴是\n可以自动记录见过的精灵的\f高科技产品！\r所以,{STRVAR 3,0},\n去各地调查所有的精灵吧！\r
+小光『我也得到了一样的东西！\r
+小辉『我也得到了一样的图鉴！\r
+山梨博士『和精灵一起\n在２０１号公路漫步感觉怎样？\r到现在为止,\n６０年来我一直和它们在一起,\f直到现在还是会心跳不已。\r怎么样？\n世界上还有很多种精灵！\f也就是说\f还有很多心跳回忆在等着你！\r出发吧！\n现在,\f属于{STRVAR 3,0}你的冒险开始了！\r
+山梨博士『出发吧！\n现在,\f属于{STRVAR 3,0}你的冒险开始了！\r
+小光『我最初\n用的精灵是{STRVAR 0,1}！\r要是在湖那里用{STRVAR 0,1}的话\n我也会很厉害的！\f算了不说了……\r我,小光！\n也接受了博士的委托,\f要去完成图鉴,\f所以我和你是一样的！\r不过我又是早你一些的前辈,\n有很多可以教你的事情！\f你也要努力啊！{STRVAR 3,0}！\r
+小辉『我也接受了\n博士的委托要去完成图鉴！\r所以我和你一样,\n我还会教你很多事情的！\r
+我是{STRVAR 3,0}的爸爸,\n协助山梨博士和你\f是我的职责！\r哈哈哈,\n请多关照！
+山梨博士和关东地区的博士\n一起制作了新的口袋图鉴！
+好不容易回来了\n还是一直在做研究……\r这可能就是\n那个人的优点吧！
+探险心得１\n点Ｘ键可以打开菜单
+探险心得２\n要随时记录
+关于精灵的书\n有不少！
+与精灵相关的资料和\n研究报告有不少！
+山梨博士『哦,{STRVAR 3,0}！\r来让我检查口袋图鉴吗！\r
+嗯……\r已经发现的精灵有{STRVAR 52,0}种……\r
+怎么了？\r难道还有\n没有找到的精灵吗？
+太棒了！\n{STRVAR 3,0}！\f神奥地区的精灵\f全部登录在图鉴上了！\r这样我关于精灵进化的研究\n也能顺利进行下去了！\r
+山梨博士『嗯！{STRVAR 3,0},\n等着你呢！\f你把神奥地区的精灵\f全部登录在图鉴上了！！\r这样我关于精灵进化的研究\n也能顺利进行下去了……\r
+博士『山梨,\n好久不见了！\r虽然从关东到神奥很远,\n但一想到能见到新的精灵\f就到哪儿都无所谓了！\r
+山梨博士『哟,\n这不是大木吗！\f不愧是口袋研究界的权威啊！\r有精灵的地方就有大木,\n一点都没错！\r
+对了,大木,\n我旁边的这个年轻人\f刚刚完成了神奥图鉴！\r
+大木博士『你好,\n我是大木！\f从山梨那儿听说过你,\f真是个年轻有为的训练师啊！\f一点错都没有……\r接下来说正事吧！\n其实我到这里来有其他的事,\f我给山梨带来了\f全国图鉴的数据,\r正好也你也在这里把图鉴\n升级成全国图鉴吧,\f世界上还有许多精灵\f等着你去发现啊！\r
+{STRVAR 3,0}的图鉴\n升级为全国图鉴！\r
+大木博士『要完成全国图鉴\n可能不是一件容易事,\f所以一定要加油啊！\r
+山梨博士『瞧你说的,\n{STRVAR 3,0}的话绝对没问题！\f对了,大木,\f你到神奥来有什么事吗？\r
+大木博士『是这样,\n帕鲁公园建成了,\f就在２２１号公路,\r那里有一个能把各地的精灵\n集中在一起的系统,\f我需要去确认一下！\r
+{STRVAR 3,0}！\n可以的话,你也来一下帕鲁公园吧！\r啊,糟了！\n过了约定的时间了！\r那么二位,\n我先告辞了！\r
+{STRVAR 3,0}！\n可以的话,你也来一下帕鲁公园吧！\r啊,糟了！\n过了约定的时间了！\r那么二位,\n我先告辞了！\r
+山梨博士『一点都没变,\n还是那么忙！\r
+那么,{STRVAR 3,0}！\r为了感谢你帮我完成\n神奥地区的图鉴,\f这是给你的礼物！\r
+山梨博士『使用那个\n能跟踪精灵的精灵搜索器的话,\f就能知道精灵在草丛里的\f藏身之处了！\r这也是特地为你准备的,\n全国图鉴也要拜托了！
+山梨博士『世界很大！\n世界上还有很多的精灵在等着你,\f还有更多的\f令人激动的事情在等着你！
+{STRVAR 3,0}\n打开了电脑！\r上面列举了很多\n专门用语学术用语之类\f的很难懂的东西……
+研究资料\n好好地保存着
+冰箱里\n有很多甜食！
+啊,好厉害！\n神奥的全部精灵\f都登录了吗！\r比起你\n{STRVAR 3,0}……\r这样博士关于进化的研究\n也能顺利进行了！
+没错,\n山梨博士和前辈大木博士一起\f进行图鉴的研究

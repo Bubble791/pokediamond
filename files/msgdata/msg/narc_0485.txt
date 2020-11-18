@@ -1,6 +1,6 @@
-Ding-dong! Time’s up!\nYour Safari Game is over.
-Ding-dong! You’ve run out of Safari\nBalls. Your Safari Game is over.
-Ding-dong!\nYou’re out of room for more Pokémon.\rYour Safari Game is over!
-Where would you like to go?
-{STRVAR 3, 0} didn’t board\nthe Quick Tram.
-Would you like to exit the Great Marsh\nright now?
+叮咚！时间到了,\n狩猎游戏结束
+叮咚！球用完了,\n狩猎游戏结束
+叮咚！无法继续捕获,\n狩猎游戏结束
+要前往哪里？
+{STRVAR 3,0}\n坐上了狩猎列车！
+要结束狩猎游戏吗？

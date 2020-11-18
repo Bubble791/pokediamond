@@ -1,40 +1,40 @@
-PAL PAD
-CHECK FRIEND ROSTER
-REGISTER FRIEND CODE
-{STRVAR 3, 0}’s CODE
-EXIT
-FRIEND ROSTER
-{STRVAR 3, 0}
-CANCEL
-DETAILS
-REWRITE NAMES
-DELETE
-CANCEL
-What would you like to do\nwith {STRVAR 3, 0}’s data?
-RECORD WITH {STRVAR 3, 0}
-GROUP
-BATTLE RECORD
-WIN: {STRVAR 53, 0}
-LOSE: {STRVAR 53, 0}
-POKéMON TRADES
-{STRVAR 53, 0} time
-DATE LAST PLAYED
-{STRVAR 74, 1} {STRVAR 51, 2}, {STRVAR 53, 0}
-{STRVAR 3, 0}’s CODE
-By exchanging Friend Codes\nwith other players, you may\ntrade and battle with them\nover Nintendo WFC.
-To obtain your Friend Code,\nplease log on to the\nNintendo WFC.
-{STRVAR 53, 1} {STRVAR 53, 2} {STRVAR 53, 3}\n{STRVAR 3, 0} will be registered.
-The Friend Code is wrong.\n{STRVAR 53, 1} {STRVAR 53, 2} {STRVAR 53, 3}
-{STRVAR 53, 1} {STRVAR 53, 2} {STRVAR 53, 3}
-{STRVAR 3, 0} will be deleted.\nAre you sure about this?
-Your Friend Roster is full!
-That Friend Code has already been\nregistered before.
-{STRVAR 3, 0}’s Friend Code:\n{STRVAR 53, 1} {STRVAR 53, 2} {STRVAR 53, 3}
-CHECK FRIEND CODE
-Register {STRVAR 3, 0} in your\nPal Pad?
-Your Friend Roster is full.\nWill you delete someone?
-Give up on registering\n{STRVAR 3, 0}?
-Delete {STRVAR 3, 0}’s data from\nyour Friend Roster?
+朋友手册
+查看朋友列表
+登录朋友号码
+{STRVAR 3,0}的朋友号码
+结束
+朋友列表
+{STRVAR 3,0}
+返回
+查看详情
+修改名字
+删除
+取消
+要对{STRVAR 3,0}的数据\n做什么？
+和{STRVAR 3,0}的纪录
+组群{STRVAR 3,0}
+对战成绩
+胜 {STRVAR 53,0}
+败 {STRVAR 53,0}
+精灵交换
+{STRVAR 53,0}次
+最后游戏日期
+{STRVAR 53,0}／{STRVAR 51,1}／{STRVAR 51,2}
+{STRVAR 3,0}的朋友号码
+交换朋友号码,\n使用ＷｉＦｉ连接,\n就能够享受和远方的朋友\n对战及交换的乐趣
+朋友号码接收,\n请再次接通\nＷｉＦｉ连接
+{STRVAR 53,1} {STRVAR 53,2} {STRVAR 53,3}\n{STRVAR 3,0} 登录完毕
+朋友号码错误\n{STRVAR 53,1} {STRVAR 53,2} {STRVAR 53,3}
+{STRVAR 53,1} {STRVAR 53,2} {STRVAR 53,3}
+消除{STRVAR 3,0},\n可以吗？
+朋友列表已满！
+相同的朋友号码\n已经登录
+{STRVAR 3,0}的朋友号码\n{STRVAR 53,1} {STRVAR 53,2} {STRVAR 53,3}
+查看朋友号码
+要把{STRVAR 3,0}登录到\n朋友手册中吗？
+朋友列表已满！\n要删除谁吗？
+取消{STRVAR 3,0}的登录吗？
+删除{STRVAR 3,0}的数据吗？
 
 
 

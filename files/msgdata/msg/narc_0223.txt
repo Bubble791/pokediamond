@@ -1,2 +1,2 @@
-Go upstairs in the Observatory before\nyou start your Safari Game.\rCheck the marsh with the binoculars\nto see where the Pokémon you want\fhappen to be. That’s how you win!
-Great Marsh Area 1
+在进行狩猎之前\n先去展望台的２楼！\r用望远镜眺望一下,\n看看什么样的精灵在哪里,\f这是狩猎的窍门！
+这里是大湿原 区域１

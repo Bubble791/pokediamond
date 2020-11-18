@@ -1,31 +1,31 @@
-{STRVAR 3, 0}’s
-Link Contest Record
-Cool
-Beauty
-Cute
-Smart
-Tough
-First
-Second
-Third
-Fourth
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
-{STRVAR 53, 0}
+{STRVAR 3,0}的
+通信比赛成绩
+帅气
+美丽
+可爱
+聪明
+强壮
+第１名
+第２名
+第３名
+第４名
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}
+{STRVAR 53,0}

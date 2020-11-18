@@ -1,28 +1,28 @@
-None
-Acre
-Rondonia
-Alagoas
-Amapa
-Amazonas
-Bahia
-Ceara
-Distrito Federal
-Espirito Santo
-Goias
-Maranhao
-Mato Grosso
-Mato Grosso do Sul
-Minas Gerais
-Para
-Paraiba
-Parana
-Pernambuco
-Piaui
-Rio de Janeiro
-Rio Grande do Sul
-Rio Grande do Norte
-Roraima
-Santa Catarina
-Sao Paulo
-Sergipe
-Tocantins
+无
+阿克里
+朗多尼亚
+阿拉戈斯
+阿玛帕
+亚马孙
+巴伊亚
+塞阿拉
+联邦区
+圣埃斯皮
+戈亚斯
+马拉尼昂
+马托格罗索
+南马托格罗索
+米纳斯吉拉斯州
+帕拉
+帕拉依巴
+巴拉那
+伯南布哥
+皮奥伊
+里约热内卢
+南里奥格兰德州
+格兰德河北
+罗赖马
+圣卡塔琳娜
+圣保罗
+塞尔希培
+托坎廷斯

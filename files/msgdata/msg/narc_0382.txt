@@ -1,112 +1,112 @@
-Mystery Zone
-Twinleaf Town
-Sandgem Town
-Floaroma Town
-Solaceon Town
-Celestic Town
-Jubilife City
-Canalave City
-Oreburgh City
-Eterna City
-Hearthome City
-Pastoria City
-Veilstone City
-Sunyshore City
-Snowpoint City
-Pokémon League
-Route 201
-Route 202
-Route 203
-Route 204
-Route 205
-Route 206
-Route 207
-Route 208
-Route 209
-Route 210
-Route 211
-Route 212
-Route 213
-Route 214
-Route 215
-Route 216
-Route 217
-Route 218
-Route 219
-Route 220
-Route 221
-Route 222
-Route 223
-Route 224
-Route 225
-Route 226
-Route 227
-Route 228
-Route 229
-Route 230
-Oreburgh Mine
-Valley Windworks
-Eterna Forest
-Fuego Ironworks
-Mt. Coronet
-Spear Pillar
-Great Marsh
-Solaceon Ruins
-Victory Road
-Pal Park
-Amity Square
-Ravaged Path
-Floaroma Meadow
-Oreburgh Gate
-Fullmoon Island
-Sendoff Spring
-Turnback Cave
-Flower Paradise
-Snowpoint Temple
-Wayward Cave
-Ruin Maniac Cave
-Maniac Tunnel
-Trophy Garden
-Iron Island
-Old Chateau
-Galactic HQ
-Verity Lakefront
-Valor Lakefront
-Acuity Lakefront
-Spring Path
-Lake Verity
-Lake Valor
-Lake Acuity
-Newmoon Island
-Battle Tower
-Fight Area
-Survival Area
-Resort Area
-Stark Mountain
-Seabreak Path
-Hall of Origin
-Verity Cavern
-Valor Cavern
-Acuity Cavern
-Jubilife TV
-Pokétch Co.
-GTS
-Trainers’ School
-Mining Museum
-Flower Shop
-Cycle Shop
-Contest Hall
-Poffin House
-Foreign Building
-Pokémon Day Care
-Veilstone Store
-Game Corner
-Canalave Library
-Vista Lighthouse
-Sunyshore Market
-Pokémon Mansion
-Footstep House
-Cafe
-Grand Lake
-Restaurant
-Battle Park
+谜之场所
+双叶镇
+真砂镇
+索诺镇
+花蕊镇
+冠凤镇
+长寿市
+美央市
+黑金市
+白岱市
+绿缘市
+野濑市
+户张市
+名木市
+金岬市
+精灵联盟
+２０１号道路
+２０２号道路
+２０３号道路
+２０４号道路
+２０５号道路
+２０６号道路
+２０７号道路
+２０８号道路
+２０９号道路
+２１０号道路
+２１１号道路
+２１２号道路
+２１３号道路
+２１４号道路
+２１５号道路
+２１６号道路
+２１７号道路
+２１８号道路
+２１９号道路
+２２０号水路
+２２１号道路
+２２２号道路
+２２３号水路
+２２４号道路
+２２５号道路
+２２６号水路
+２２７号道路
+２２８号道路
+２２９号道路
+２３０号水路
+黑金炭矿
+谷间发电厂
+白岱森林
+塔塔拉造铁厂
+殿元山
+殿元山顶
+大湿原
+花蕊遗迹
+冠军之路
+帕鲁公园
+散步广场
+荒芜的小道
+索诺镇花海
+黑金大门
+满月岛
+馈赠之泉
+归来洞穴
+花之乐园
+金岬神殿
+迷失洞穴
+遗迹狂洞穴
+遗迹隧道
+自豪庭院
+钢铁岛
+森林洋馆
+银河团总部
+神事湖畔
+律诗湖畔
+英知湖畔
+秘泉之道
+神事湖
+律诗湖
+英知湖
+新月岛
+战斗塔
+战斗区域
+遗迹区域
+休闲区域
+坚硬火山
+分海之道
+开始之地
+神事湖洞穴
+律诗湖洞穴
+英知湖洞穴
+长寿电视台
+口袋手表公司
+ＧＴＳ
+训练师学校
+炭矿博物馆
+花店
+中药店
+华丽大赛会场
+松饼屋
+异文化建筑物
+精灵饲育屋
+户张百货大厦
+游戏中心
+美央图书馆
+指示灯台
+名木市场
+精灵公馆
+足迹博士之家
+咖啡屋
+大型餐厅
+餐厅
+战斗公园

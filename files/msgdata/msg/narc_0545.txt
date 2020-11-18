@@ -1,5 +1,5 @@
-Hello, thank you for visiting us\ntoday.\rTo which floor may I take you?
-Certainly.\nElevator going up.\r
-Certainly.\nElevator going down.\r
-Uh... We are already on that floor?
-Here we are!
+欢迎光临,\n感谢您的使用！\r您想到哪一层？
+知道了\n现在电梯上行\r
+知道了\n现在电梯下行\r
+已经到达
+好的,\n已经到了！

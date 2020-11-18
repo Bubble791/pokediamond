@@ -1,2 +1,2 @@
-If you’re catching a Pokémon,\nyou have to get its HP down.\rIf you don’t, Poké Balls won’t be\nvery effective.
-I need Potions most of all!\rIf my Pokémon faints, my eyes grow\ndim and I can’t see!
+果然,不先减少精灵的体力的话,\n即使扔出精灵球也很难捕获成功！
+赶快用伤药！\n精灵的体力用尽的话\f就不能继续战斗了！

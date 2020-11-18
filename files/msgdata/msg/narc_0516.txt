@@ -1,20 +1,20 @@
-A single Berry will grow into a plant\nthat makes several Berries.\rBy planting one, there will be more\nand more Berries in the world.\rI hope you will help us spread more\nBerries everywhere!\r
-Please come by again tomorrow.\nI’ll pick a different Berry for you.\rPlease plant that Berry in soft,\nearthy soil!
-Trainer, please water Berries using\nthis Sprayduck watering can.\r
-Use that Sprayduck to water the soil\nwhere you’ve planted Berries.\rYou should also water Berry plants\nwhile they are growing.
-Hello!\rWould you like to exchange your\nBerries for some Accessories?
-Thank you so much for trading us so\nmany Berries!
-Which Accessory would you like?
-Will you exchange {STRVAR 52, 1} {STRVAR 8, 0}\nfor the {STRVAR 31, 2}?
-Thank you!
-You don’t have enough Berries.
-Oh, you can’t carry any more\nthan that.
-Please come again!
-You got the {STRVAR 31, 2} in return\nfor {STRVAR 52, 1} {STRVAR 8, 0}.
-Wow! I traded away every single\nAccessory I had!
-YES
-NO
-{STRVAR 8, 0}
-Needed: {STRVAR 52, 1} 
-In Bag: {STRVAR 52, 2}
-EXIT
+种下一个种子\n可以得到很多果实,\f那样果实就可以不断增加了,\r可以的话\n你也试试吧！\r
+明天再来啊,\n要是收集到了特别的种子,\r一定要把它埋在\n松软的土地里！
+要是种下了种子的话,\n请使用这个喷壶！\r
+对着种下种子的地方\n使用可达鸭喷壶浇水的话,\f会有好收成的！
+你好！\n我想交换果实和饰品！
+和我交换了很多\n非常感谢！
+想要那个饰品？
+{STRVAR 8,0}要和{STRVAR 52,1}交换\n{STRVAR 31,2}吗？
+非常感谢！
+果实不够
+拿不下了哦！
+欢迎再次光临！
+用{STRVAR 8,0} {STRVAR 52,1}个\n换到了{STRVAR 31,2}！
+哇可以交换到\n全部装饰品！
+是
+不是
+{STRVAR 8,0}
+{STRVAR 52,1}个交换
+持有数 {STRVAR 52,2}
+取消

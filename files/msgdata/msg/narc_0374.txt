@@ -1,14 +1,14 @@
-{STRVAR 1, 0} has entered.
-Would you like to stop drawing?
-{STRVAR 1, 0} has left.
-The leader, {STRVAR 1, 0}, has left.\nThis group will be disbanded.
-If the leader leaves, the group will\ndisband. Is that OK?
-There are no members.\nThe group will be disbanded.
-The drawing session was ended.
-QUIT
-{STRVAR 1, 0}
-Write your autograph!
-Is this OK?
-Would you like to\nredo your autograph?
-DONE
-Joined a drawing session!
+{STRVAR 1,0}已经到达
+中止绘画吗？
+{STRVAR 1,0}返回了
+由于组长{STRVAR 1,0}退出,\n组群解散
+如果组长退出的话,\n组群就会解散,可以吗？
+由于没有成员加入,\n组群解散
+绘画中止
+放弃
+{STRVAR 1,0}
+修改训练师签名！
+这样可以吗？
+要对新的签名\n进行修改吗？
+结束
+参加绘画！

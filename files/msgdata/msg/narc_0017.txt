@@ -1,24 +1,24 @@
-Battle Room Results
-Multi Battle Room Results
-Wi-Fi Battle Room Results
-{COLOR 1}Single{COLOR 3} {COLOR 2}\n{COLOR 1}Record{COLOR 0}
-{COLOR 1}Multi{COLOR 3} {COLOR 0}\n{COLOR 1}Record{COLOR 0}
-{COLOR 1}Current{COLOR 3} {COLOR 0}\n{COLOR 1}Rank{COLOR 0}
-{COLOR 1}Double{COLOR 3} {COLOR 0}\n{COLOR 1}Record{COLOR 0}
-{COLOR 1}Link{COLOR 3} {COLOR 0}\n{COLOR 1}Record{COLOR 0}
-{COLOR 1}Wi-Fi{COLOR 0}\n{COLOR 1}Record{COLOR 0}
-{COLOR 1}PREV{COLOR 0}
-{COLOR 1}CURRENT{COLOR 0}
-{COLOR 1}RECORD{COLOR 0}
-{COLOR 1}RANK{COLOR 0}
-Win streak: {COLOR 2}{STRVAR 53, 0}{COLOR 0} 
+单打房间成绩
+双打对战房间成绩
+Wi-Fi 对战房间成绩
+{COLOR 1}单人{COLOR 3} {COLOR 2}\n{COLOR 1}纪录{COLOR 0}
+{COLOR 1}多人{COLOR 3} {COLOR 0}\n{COLOR 1}纪录{COLOR 0}
+{COLOR 1}现在{COLOR 3} {COLOR 0}\n{COLOR 1}等级{COLOR 0}
+{COLOR 1}双人{COLOR 3} {COLOR 0}\n{COLOR 1}纪录{COLOR 0}
+{COLOR 1}通信{COLOR 3} {COLOR 0}\n{COLOR 1}纪录{COLOR 0}
+{COLOR 1}Wi-Fi{COLOR 0}\n{COLOR 1}纪录{COLOR 0}
+{COLOR 1}上次{COLOR 0}
+{COLOR 1}现在{COLOR 0}
+{COLOR 1}最好{COLOR 0}
+{COLOR 1}等级{COLOR 0}
+连胜: {COLOR 2}{STRVAR 53, 0}{COLOR 0} 
 {STRVAR 51, 0}
-Rank {STRVAR 51, 0}, Battle Room {STRVAR 52, 1}
-LIST OF LEADERS
+等级 {STRVAR 51, 0}, 对战房间 {STRVAR 52, 1}
+历代塔主一览
 {STRVAR 3, 0}
-CANCEL
+返回
 {STRVAR 36, 0}\n{STRVAR 37, 1}
 {STRVAR 36, 0}
-Home country\nunregistered
-DIAMOND
-PEARL
+所在处未登录
+钻石版
+珍珠版

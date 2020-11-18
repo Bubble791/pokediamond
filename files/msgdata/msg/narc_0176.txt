@@ -1,3 +1,3 @@
-Hello!\nWelcome to the Pokémon League!\rI’m Aaron of the Elite Four.\nIt’s good to meet you.\rOh, I should explain, I’m a huge fan\nof bug Pokémon.\rBug Pokémon are nasty-mean, and yet\nthey’re beautiful, too...\rWould you like to know why I take\non challengers here, in this room?\rIt’s because I want to become\nperfect, just like my bug Pokémon!\rOK! Let me take you on!\r
-I lost with the most beautiful and\ntoughest of the bug Pokémon...\rWe lost because I wasn’t good\nenough...\rThat’s it! Back to training camp!\nLet’s hear it for me!\rNo... That was wrong... Anyway...\nGo on to the next room!\rThree Trainers are waiting for you.\nThey’re all tougher than me.
-Go on, go to the next room.\rI’m going to become a top-level\nTrainer who can’t be outclassed with\fmy beautiful and tough bug Pokémon!
+嗨！\n欢迎来到精灵联盟！\r我是四天王之一的亮,\n请多指教！\r啊,\n我喜欢的是虫系精灵！\f因为虫系精灵\f很帅气,很漂亮对吧！\r不错！我就是为了\n展现虫系精灵的完美\f才在这里战斗的！\r来对战吧！\r
+让最最漂亮最最强大的\n虫系精灵输掉了,\f看来我确实太轻敌了,\r好吧！重新开始锻炼！\n不过我不会为难你的啦！\r加油……\n去下一个房间吧！\r还有三个比我还要强大的\n天王训练师在等着你呢！
+请去下一个房间吧！\r超越了我美丽而强大的\n虫系精灵的最强训练师！

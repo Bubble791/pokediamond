@@ -1,9 +1,9 @@
-Cynthia: The room ahead is the Hall\nof Fame...\r
-Rowan: {STRVAR 3, 0}!\nYour last battle was splendid!\r
-Cynthia: Oh, hello, Professor Rowan.\r
-Rowan: Hm!\rA child I enlisted for my Pokédex\nproject has come this far...\rIt’s only natural that I come and\nwitness the child’s crowning glory.\r{STRVAR 3, 0}!\nI shouldn’t call you a child anymore.\fYou’ve grown into a real Champion!\r
-Cynthia: Professor, you still enjoy\nthe enthusiasm kids bring to\fyour research, don’t you?\r
-{STRVAR 3, 0}, step this way,\nplease.\r
-{STRVAR 3, 0}, step this way,\nplease.\r
-Professor Rowan, I need you over\nhere, as well.\r
-                                       
+茜罗娜『最前面的房间\n就是殿堂入口……\r
+山梨『{STRVAR 3,0}！\n刚才的战斗真是漂亮啊！\r
+茜罗娜『啊呀,山梨博士！\r
+山梨『嗯！\n我拜托收集口袋图鉴的孩子\f已经到达这里了啊,\r你肯定也感觉到\n自己已经成长起来了吧,\f{STRVAR 3,0}！\r不管怎么说,你已经长大了！\n已经能让人放心了！\r
+茜罗娜『你一点都没变啊博士\n还是那么喜欢小孩子啊！\r
+{STRVAR 3,0}！\n到这边来！\r
+{STRVAR 3,0}！\n到这边来！\r
+山梨博士也请！\r
+这里是神奥地区精灵联盟\n口袋训练师的顶点！

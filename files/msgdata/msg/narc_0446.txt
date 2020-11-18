@@ -1,51 +1,51 @@
-Dr. Footstep: Pokémon are quite easy\nfor me to read.\rI need only to see their footprints,\nand their innermost thoughts are\frevealed to me!\rOh?\nYou are skeptical of my claim?\rThen, let your {STRVAR 0, 0} walk\nin front of me, right here.\rFrom its footprints, I will determine\nhow it feels about you.\r
-Dr. Footstep: Do you want to check\nthe feelings of your Pokémon again?\rThen, let your {STRVAR 0, 0} walk\nin front of me, right here.\rFrom its footprints, I will determine\nhow it feels about you.\r
-Dr. Footstep: ...And that is what\nyour {STRVAR 0, 0} thinks of you.
-Dr. Footstep: ...Hmmm... {STRVAR 0, 0}\ndoesn’t leave any footprints.\rIt’s somewhat difficult for me to\ndetermine what its thoughts are.
-Dr. Footstep: ...Hmm... {STRVAR 0, 0}\nhappens to be quite the silent type!
-Dr. Footstep: ...And that is what\nyour {STRVAR 0, 0} thinks of you.\rI must say, your {STRVAR 0, 0} and\nyou share a very close bond.\fThis is for you.\r
-Dr. Footstep: ...Hmmm... {STRVAR 0, 0}\ndoesn’t leave any footprints.\rIt’s somewhat difficult for me to\ndetermine what its thoughts are.\rHowever, your {STRVAR 0, 0} and\nyou obviously share a close bond.\fThis is for you.\r
-Dr. Footstep: ...Hmm... {STRVAR 0, 0}\nhappens to be quite the silent type!\rHowever, your {STRVAR 0, 0} and\nyou obviously share a close bond.\fThis is for you.\r
-{STRVAR 3, 1} received\nthe Footprint Ribbon.\r
-{STRVAR 3, 1} put the Footprint Ribbon\non {STRVAR 0, 0}.
-Aww... {STRVAR 3, 1} only plays with\nother Pokémon...\r{STRVAR 1, 2} feels neglected...\rMaybe {STRVAR 3, 1} doesn’t like\n{STRVAR 1, 2} very much?\r{STRVAR 1, 2} will try harder for\n{STRVAR 3, 1}.\rPlease be nicer to me!\r
-Others say there are people who\naren’t very nice to Pokémon.\rI wonder about {STRVAR 3, 1}...\rWill {STRVAR 3, 1} look after\n{STRVAR 1, 2} nicely?\rWill I get to go all over with this\nTrainer?\rCan we be... Friends?\r
-This adventure with {STRVAR 3, 1}\nis lots of fun.\r{STRVAR 1, 2} gets to go places where\nI can’t go by myself.\rI get to battle Pokémon I’ve never\never seen before.\rI’m gonna get stronger and stronger\nfor {STRVAR 3, 1}!\r
-{STRVAR 1, 2} and {STRVAR 3, 1} make\na perfectly matched combo!\rI’ve seen all sorts of people\nso far...\rBut {STRVAR 3, 1} understands\n{STRVAR 1, 2}’s feelings most!\rI’m a little hungry...\nYou can tell, right?\r
-If I said there can be friendship\nbetween Pokémon and people, will\f{STRVAR 0, 0}’s friends understand?\rBut if you see {STRVAR 3, 1} and\n{STRVAR 1, 2}, you will understand.\rBecause {STRVAR 3, 1} and\n{STRVAR 1, 2} are friends!\r
-{STRVAR 1, 2} is bored...\nPlay with me more, more...\r{STRVAR 1, 2} and {STRVAR 3, 1},\nlet’s play nicer...\r
-Gonna go with {STRVAR 3, 1} all over\nthe place...\rBe nice to {STRVAR 1, 2}...\nWarm and cuddly...\r
-{STRVAR 1, 2} get strong, make\n{STRVAR 3, 1} happy.\rRound ones, square ones,\ntriangle ones, wobbly ones...\r{STRVAR 1, 2} wants to see different\nkinds of Pokémon...\r
-{STRVAR 1, 2} and {STRVAR 3, 1}\nmake a friendly combo.\r{STRVAR 3, 1}’s feelings, {STRVAR 1, 2}\ncan understand.\r{STRVAR 1, 2}’s feelings, {STRVAR 3, 1}\nunderstands!\r
-{STRVAR 3, 1} makes {STRVAR 1, 2}\nvery proud!\r{STRVAR 0, 0} boasts to friends\nabout {STRVAR 3, 1}!\r{STRVAR 3, 1} and {STRVAR 1, 2} are\nbest of friends!\r
-Why does {STRVAR 3, 1} use only\nother Pokémon?\rAm I not needed much?\rWould I have been better off if\nI remained in the wild?\rNo, I should give this Trainer\na little more of a chance...\r
-Humans can’t understand the cries\nof Pokémon, nor our feelings.\rHowever, there are some among us\nthat understand human speech...\rHehehe, {STRVAR 3, 1}, you’re not bad\nfor a human.\r
-If a Pokémon were to travel along,\nit would be limited as to where\fit could go.\rBut traveling with a human, a Pokémon\nwould be able to travel farther afield\fto more distant cities and lands.\rTraveling with {STRVAR 3, 1} has been\nrewarding and reassuring.\rAnd very entertaining...\r
-Some wild Pokémon frown upon others\nfor traveling with humans.\rThey jeer that the caught Pokémon\nhave “forgotten the wild.”\rBut that view is mistaken.\rThey have just never met a Trainer\nwho could be a great partner.\rA great partner like {STRVAR 3, 1},\nin other words...\r
-{STRVAR 3, 1} is...\nA remarkable human and Trainer.\rThat I can always perform the best\nany {STRVAR 0, 0} possibly can...\rI attribute that entirely to my\npartner {STRVAR 3, 1}.\rWhen we travel, I can see wild\nPokémon eyeing us enviously...\r
-Does {STRVAR 3, 1} intend to ignore\nme forever?\rGive me more opportunities for me\nto shine...\r
-If a Pokémon is treated as a friend,\nit will return the sentiments.\rWe grow fonder of humans that treat\nus with kindness...\rDoes {STRVAR 3, 1} even like\n{STRVAR 1, 2}?\r
-Did {STRVAR 1, 2} get stronger?\nWho is responsible for making me so?\rIs it {STRVAR 3, 1}’s doing?\nIs the Trainer owed my thanks?\r
-{STRVAR 3, 1} and {STRVAR 1, 2} are\nalike in some ways.\rIn humanspeak, we match up well.\nDoes {STRVAR 3, 1} think so, too?\r
-{STRVAR 3, 1} is very impressive,\nespecially for a human.\rThe Trainer lets {STRVAR 1, 2} use\nevery bit of power properly.\rIt is a shame that {STRVAR 3, 1} is\nonly a human...\r
-That {STRVAR 3, 1}...\nWhat is that Trainer thinking?\rWhy make me join the team, then call\nupon me for nothing?\rAm I considered useless?\nIs the Trainer regretting having me?\rDoes the Trainer dare disrespect\nthis {STRVAR 0, 0} so easily?\r
-I have little understanding of\n{STRVAR 3, 1} as a human...\r{STRVAR 3, 1} may not be too bad,\nconsidering that I, an oft-shunned\f{STRVAR 0, 0}, am one of the team...\rThat said, I don’t intend to be all\ncheerful around {STRVAR 3, 1}...\r
-Our kind prefers to lurk in dark\nand dank places...\rBut being with {STRVAR 3, 1}, even\nbright and festive places seem less\fthreatening...\r{STRVAR 3, 1} has a strange\ncharisma...\r
-Not for a moment did I think I would\nbe traveling with a human...\rIf my {STRVAR 0, 0} friends were to\nsee me now, they would be shocked.\rOr would they be envious of me...?\r
-That {STRVAR 3, 1} is the most\nimpressive of humans.\rIt takes a lot to make me,\n{STRVAR 1, 2}, sunny and cheerful!\rAs a show of affection, I should\nchomp down on the Trainer’s neck...\rHahaha... Have no fear...\nI was merely joking...\r
-Wooooooh...\n{STRVAR 1, 2} has nothing to do...\rKeep me too bored, and I’m liable\nto sneak up and bite...\r
-Is there any human that would grow\nto like us {STRVAR 0, 0}?\rWell? Does {STRVAR 3, 1} like\n{STRVAR 1, 2}?\r{STRVAR 1, 2} doesn’t like...\nWell, no, maybe not...\r
-{STRVAR 3, 1} treats me, {STRVAR 1, 2},\nnicely without being scared.\rBut {STRVAR 1, 2} will be even scarier\nfrom now on.\rThat’s what we {STRVAR 0, 0} do...\r
-{STRVAR 1, 2} is starting to forget\na little about being in the wild...\rBut {STRVAR 1, 2} isn’t feeling sad.\nIt’s never boring with {STRVAR 3, 1}...\r
-There are no Pokémon that dislike\nhumans...\rOnly humans that dislike Pokémon...\rWe {STRVAR 0, 0} are especially\nshunned...\rBut {STRVAR 3, 1} always treats me\nas a friend and partner...\r
-Hnurrrr... Hunh?\nThis is... Where?\r{STRVAR 3, 1}’s house, is this?\nIt’s not? Hnurrr...\rIf you don’t need me for anything,\ncan I go back to my Ball?\rHnurrr...\r
-Hnurrr... Me? Uhm...\nI like to sleep most the time.\fOh, I like to eat, too. That’s next.\rBut what I really like is to think.\nI’m a very deep thinker.\rWhen I think about the future of the\n{STRVAR 0, 0} species...\r...Hnurrr...hunh?\nOh, I forget where the time goes.\rHnurrrr...\r
-Hnurrr... Me? Uhm...\nThere are lots of kinds of moves.\rI like those Dark-type moves,\noh, and Dragon-type moves, too...\rHow would they be for this\n{STRVAR 0, 0}?\rWill they be for me?\nOr a no, no, no sort of thing?\rHnurrr...\r
-Hnurrr... I don’t know how to begin\nsaying this...\rI liked living quietly before I met\n{STRVAR 3, 1}. Sssh.\rBut I’m getting to like traveling\nwith {STRVAR 3, 1}.\rI think I’m getting sort of funky.\nDo you think I’m sort of funky?\rNo? No funk for me?\nHnurrr...\r
-Hnurrr... Me? Uhm...\nOther Pokémon, they say to me...\r“You’re not thinking, are you?”\nHow insulting they should say so.\rIt isn’t true what they say.\nThink, think, think, I do that.\rAll the time, I think hard how to help\n{STRVAR 3, 1}. I concentrate!\rHnurrr...\r
-Hnurrr... I did not know that?\nI really don’t? What is this?\fI don’t know what to say?\fHnurrr...\r
-Hnurrr... Well, I...\nI think I’m motivated.\fAs motivated as the average.\fBut it’s not so simple as that.\fHnurrr...\r
-Hnurrr... How should I say this?\nWe both look out for each other.\fThat’s what we try to do, I think.\fThat is for the best.\fHnurrrr...\r
-Hnurrr... How do I say?\nHow should I describe us?\rWe are the sound of both hands\nclapping.\r{STRVAR 3, 1} and I are together\nin synchronicity like twins.\rHnurrr...\r
-Hnurrr...\nWhat is left to say, I say?\rWe have come so far now, where can\nwe go but to see this through?\rHall of Fame...\nWords so sweet fall from my mouth.\rHnurrr...\r
-Sssshhnnn...\n...\f...Ssshhhnnn...\f...\fSsshhhnnn...\f...\r
+太卷『看到精灵的足迹\n马上就可以了解到\f精灵的想法了,\f真的！\f嗯……你不信？\r那么让我来好好看看\n你的{STRVAR 0,0}吧,\r让我从这些足迹中\n解读给你听！\r
+太卷『还想知道些\n精灵的状况吗？\r那么让我看看{STRVAR 0,0}\n可以吗？\r让我从这些足迹中\n解读给你听！\r
+太卷『……{STRVAR 0,0}\n它是这么想的啊！
+太卷『……嗯,\n{STRVAR 0,0}的足迹难以捉摸,\f很难得知它在想什么！
+太卷『……嗯,{STRVAR 0,0}\n还真是不爱说话呢！
+太卷『……嗯,\n{STRVAR 0,0}这么想的啊！\r即使如此{STRVAR 0,0}和\n你的关系不错呢\f请收下这个！\r
+太卷『……嗯,\n{STRVAR 0,0}的足迹难以捉摸,\f很难得知它在想什么！\r但是{STRVAR 0,0}\n和你的关系不错呢\f请收下这个！\r
+太卷『……嗯,{STRVAR 0,0}\n还真是不爱说话呢！\r但是,{STRVAR 0,0}\n和你的关系不错呢,\f请收下这个！\r
+{STRVAR 3,1}\n得到足迹缎带！\r
+{STRVAR 3,1}把足迹缎带\n给{STRVAR 0,0}戴上了！
+哎……{STRVAR 3,1}的话\n只和别的精灵玩,\f{STRVAR 1,2}很无聊啊……\r莫非{STRVAR 3,1}对{STRVAR 1,2}\n根本没有爱吗？\r{STRVAR 1,2}……\n为了{STRVAR 3,1}\f请努力搞好关系！\r
+虽然对精灵一点也不好\n的人也有,\f{STRVAR 3,1}怎么样呢……\r{STRVAR 1,2},\n你很珍惜它吗？\r带它去了很多地方？\n成为……朋友了吗？\r
+啊和{STRVAR 3,1}一起\n冒险很有趣吧,\r只是和{STRVAR 1,2}一起\n难以到达的地方\f也带它去了,\r和没见过的精灵\n也交过手……\r为了{STRVAR 3,1}\n要变得更强哦！\r
+{STRVAR 1,2}和{STRVAR 3,1}\n很配啊！\r目前为止遇到了很多人……\r{STRVAR 3,1}了解到\n{STRVAR 1,2}的感觉了吧！\r当然也知道\n它现在饿了吧……？\r
+精灵和人产生友情的话,\n{STRVAR 0,0}的伙伴\f也会相信吧？\r一看{STRVAR 3,1}和{STRVAR 1,2}\n就会明白了\r所以……\n{STRVAR 1,2}真的是好伙伴！\r
+{STRVAR 1,2}很无聊……\n再多玩一会儿的话\f{STRVAR 1,2}和{STRVAR 3,1}\f的关系会更好……\r
+和{STRVAR 3,1}一起\n去了很多地方……\r对{STRVAR 1,2}很关心,\n亲亲热热……\r
+{STRVAR 1,2}变强的话\n想和{STRVAR 3,1}一起看看\r圆形的四方的\n三角形的各种精灵,\f{STRVAR 1,2}真的……\r
+{STRVAR 1,2}和{STRVAR 3,1}\n关系不错啊,\r{STRVAR 3,1}的心情\n{STRVAR 1,2}很了解！\r{STRVAR 1,2}的心情\n{STRVAR 3,1}也很明白！\r
+{STRVAR 3,1}是{STRVAR 1,2}的骄傲！\r{STRVAR 0,0}的伙伴们为\n{STRVAR 3,1}而骄傲！\r最喜欢的朋友\n{STRVAR 1,2}友情万岁！\r
+为什么{STRVAR 3,1}\n只使用其他的精灵？\f他真的是不需要我吗？\r这样的话还是\n回到野外去比较好吧……\f算了,暂时还是留下吧……\r
+精灵的叫声\n实际是在唱着什么,\f可人类不明白,\r但我们精灵中\n却有些能明白人类的语言……\r呼呼,{STRVAR 3,1},\n你是个不错的人啊……\r
+只凭精灵自己的力量\n没有办法长距离旅行,\r如果和人一起的话\n就可以到很远的地方去了,\r和{STRVAR 3,1}一起旅行\n的愿望很强烈啊,\f而且非常愉快……\r
+精灵和人类一起行动\n是一种「脱离野性」的行为,\f有很多同伴不理解,\r但那都是因为它们\r还没遇见像{STRVAR 3,1}一样\f优秀的训练师的原因吧……\r
+{STRVAR 3,1}啊……\n了不起的家伙,\r我对{STRVAR 0,0}来说,\n最后想说的是,\f{STRVAR 3,1},正如你所说,\r一起的旅行\n可是让野生精灵们\f非常羡慕的事……\r
+{STRVAR 3,1},\n不论何时总会分手的……\f以后要更加努力啊……\r
+精灵和喜欢\n自己的人类很亲近……\r{STRVAR 3,1}\n喜欢{STRVAR 1,2}吗……？\r
+{STRVAR 1,2}变强了是\n托了谁的福吧。\r是托了{STRVAR 3,1}的福……？\n你有感谢他吗？\r
+{STRVAR 3,1}和{STRVAR 1,2}\n总觉得很相似,\r用人类的语言说\n大概就是性格相投。\f{STRVAR 3,1}也是这么想的吧？\r
+{STRVAR 3,1}是个了不起的家伙。\n{STRVAR 1,2}如果不为\f最高等的人类\f使用力量的话\f太浪费了……\r
+{STRVAR 3,1},我明明已经\n成为了伙伴了,\f心中却没什么底,为什么！\r你觉得这没有一点帮助吗？\n你后悔了？\r打算用人类随意的一个理由\n来卖弄{STRVAR 0,0}吗？\r
+{STRVAR 3,1}难以想象到底\n是什么样的家伙,\r竟然这么被人类讨厌。\n{STRVAR 0,0}成为了伙伴,\f意外的是个不错的家伙啊……\r哎呀,所以我说呀\n在{STRVAR 3,1}面前\f别让我看见你呵呵笑……\r
+一向喜欢待在\n昏暗潮湿的地方的我们\f只要是和{STRVAR 3,1}在一起,\r即使是热闹明亮的地方\n也会觉得很不错……\f真是个不可思议的家伙啊,\f{STRVAR 3,1}……\r
+要自己和人类在一起\n旅行呀什么的\f想都不要想……\r你觉得{STRVAR 0,0}的伙伴\n看见现在这个样子的话,\f是吓一跳,\f还是觉得羡慕呢……？\r
+{STRVAR 3,1}……{STRVAR 1,2}\n让我到现在还这么开心,\f这家伙真了不起！\r阻止了你爱的表示的话……\n哈哈哈,别担心啦,\f肯定是开玩笑的……\r
+{STRVAR 1,2}啊呀\n没有什么事可做……\r太无聊的话\n从背后咬他一口吧……\r
+有喜欢{STRVAR 0,0}\n的人类吗？\r怎么样？{STRVAR 3,1},\n喜欢{STRVAR 1,2}吗？\r{STRVAR 1,2}对你的事情……\n没什么,还不知道……\r
+{STRVAR 3,1}不害怕\n和{STRVAR 1,2}很亲密\r但是,{STRVAR 1,2}\n以后会害怕,\r这是因为{STRVAR 0,0}……\r
+开始有点忘记\n还是野生的时候的事情了……\r但是{STRVAR 1,2}一点也不难过。\n因为和{STRVAR 3,1}在一起\f很充实……\r
+没有讨厌人类的精灵……\n只有讨厌精灵的人类……\r特别是{STRVAR 0,0}被讨厌,\n但是{STRVAR 3,1}\f和我很亲密……\r
+嗯,哎？\n这是哪儿？\r不是{STRVAR 3,1}的家吗？\n不是那样吗？嗯\r要是没有特别的事的话\n可以回到球里去了吗？\r嗯…… …… ……\r
+嗯是这样啊\n最喜欢睡觉了,\f然后就是喜欢吃,\r但是真正喜欢做的\n事情就是思考\r{STRVAR 0,0}思考着\n我们族的未来的事情,\f连时间都忘了\r嗯 …… …… ……\r
+嗯是这样啊\n精灵的特技\f有许多种类,\r有恶系的技能啊,\n和龙有关系的技能啊,\f真的好期待啊\r{STRVAR 0,0}那么我\n应该怎么样呢行不通的吧\r嗯 …… …… ……\r
+嗯做点什么吧\n只是向往\f平静的生活的我啊\r最近因为和{STRVAR 3,1}\n一起行动,\r一点也不觉得有花哨的感觉\r不觉的吗？是这样啊\n嗯 …… …… ……\r
+嗯我啊\n听到别的精灵们\f「什么也不考虑吗？」\f这样子说\f其实不是那样的\r怎么做好呢\n{STRVAR 3,1}可以帮上你的忙吗,\f每天尽在考虑这种事情\r嗯 …… …… ……\r
+嗯是啊\n真的啊是什么啊\f到底是什么啊\f嗯…… …… ……\r
+嗯是啊\n干劲我还是有\f但是现实摆在这呢\f嗯…… …… ……\r
+嗯是啊\n只是注意彼此的健康问题啊\f毕竟健康是最重要的\f嗯…… …… ……\r
+嗯是啊\n立刻就有回应了吗？\r{STRVAR 3,1}和我就好像\n亲生兄弟一样\f意气相投\f嗯…… …… ……\r
+嗯是啊\n如果这样的话,\f只能去可以去的地方\r进入美术馆……\n好动听的语言啊\r嗯…… …… ……\r
+新 …… …… ……\n …… …… …… ……\f…… …… 新 ……\f …… …… …… ……\f…… 新 …… ……\f …… …… …… ……\r

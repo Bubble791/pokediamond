@@ -1,42 +1,42 @@
-OPTIONS
-POKéMON DIAMOND
-POKéMON PEARL
-TEXT SPEED
-BATTLE SCENE
-BATTLE STYLE
-SOUND
-BUTTON MODE
-FRAME
-CONFIRM
-SLOW
-MID
-FAST
-ON
-OFF
-SHIFT
-SET
-STEREO
-MONO
-NORMAL
-START = X
-L = A
-TYPE 1
-TYPE 2
-TYPE 3
-TYPE 4
-TYPE 5
-TYPE 6
-TYPE 7
-TYPE 8
-TYPE 9
-TYPE 10
-TYPE 11
-TYPE 12
-TYPE 13
-TYPE 14
-TYPE 15
-TYPE 16
-TYPE 17
-TYPE 18
-TYPE 19
-TYPE 20
+更改设定
+口袋妖怪 钻石
+口袋妖怪 珍珠
+语速
+战斗动画
+比赛规则
+音响
+按纽模式
+窗口
+确定
+慢
+普通
+快
+看
+不看
+可替换
+不替换
+立体声
+非立体声
+普通
+ＳＴＡＲＴ=Ｘ
+Ｌ=Ａ
+类型1
+类型２
+类型３
+类型４
+类型５
+类型６
+类型７
+类型８
+类型９
+类型１０
+类型１１
+类型１２
+类型１３
+类型１４
+类型１５
+类型１６
+类型１７
+类型１８
+类型１９
+类型２０

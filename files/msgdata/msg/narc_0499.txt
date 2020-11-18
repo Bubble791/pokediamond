@@ -1,6 +1,6 @@
-{STRVAR 3, 1}’s mom: Oh, hi,\n{STRVAR 3, 0}.\rAre you looking for {STRVAR 3, 1}?\rHe was gone for a second, but then\nhe came running right back home.\rHe just can’t sit still, that boy.\nI wonder who he takes after?
-{STRVAR 3, 1}’s mom: Oh, hi,\n{STRVAR 3, 0}.\rDid you come calling on {STRVAR 3, 1}?\rHe was gone for a second, but then\nhe came running right back home.\rHe just can’t sit still, that boy.\nI wonder who he takes after?
-{STRVAR 3, 1}’s mom: That kid rocketed\noff again like usual.\rI’d guess he would be out on\nRoute 201 by now?\rHe just can’t sit still, that boy.\nI wonder who he takes after?
-{STRVAR 3, 1}’s mom: {STRVAR 3, 1}\nshould be out on Route 201 by now.\rHe just can’t sit still, that boy.\nI wonder who he takes after?
-{STRVAR 3, 1}’s mom: Oh, you’ve\nbecome friends with a Pokémon, too.
-{STRVAR 3, 1}’s mom: {STRVAR 3, 1}\ntook off like a rocket as usual.\rHe was shouting something about\nbecoming the greatest Trainer ever...\rHe just can’t sit still, that boy.\nI wonder who he takes after?
+{STRVAR 3,1}的妈妈『啊,{STRVAR 3,0}啊,\n你是来找{STRVAR 3,1}的吧？\r那孩子刚跑出去\n就又跑回来了,\f毛毛躁躁的,\f这孩子到底像谁啊？
+{STRVAR 3,1}的妈妈『啊,{STRVAR 3,0}啊,\n你是来找{STRVAR 3,1}的吧？\r那孩子刚跑出去\n就又跑回来了,\f毛毛躁躁的,\f这孩子到底像谁啊？
+{STRVAR 3,1}的妈妈『那孩子\n突然跑出去了,\f估计已经跑到２０１号道路了吧？\r毛毛躁躁的,\n这孩子到底像谁啊？
+{STRVAR 3,1}的妈妈『{STRVAR 3,1}\n估计已经跑到２０１号道路了吧？\r毛毛躁躁的,\n这孩子到底像谁啊？
+{STRVAR 3,1}的妈妈『啊,\n你也和精灵交上朋友了呢！
+{STRVAR 3,1}的妈妈『{STRVAR 3,1}\n刚刚嚷嚷着自己要变成\f超级超级强的训练师\f就跑出去了……\r毛毛躁躁的,\n这孩子到底像谁啊？

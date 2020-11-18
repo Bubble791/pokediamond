@@ -1,29 +1,29 @@
-Unable to connect to Nintendo\nWi-Fi Connection.\n\nFor help, check the software\nInstruction Booklet or visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Either Nintendo Wi-Fi Connection\nis experiencing high traffic\nvolumes or the service is down.\nPlease try again later. \n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-This Nintendo Wi-Fi Connection ID\nwas removed because it was\ninactive for a long time. \n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Nintendo Wi-Fi Connection service\nfor this software has been\ndiscontinued.\n\nVisit www.nintendowifi.com\nfor a list of current Nintendo\nWi-Fi Connection-compatible\nsoftware. ({STRVAR 54, 0})
-The access point is busy.\nUnable to connect.\nPlease try again later.\n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-No access point in range.\nPlease try again when closer to\nan access point.\n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-No compatible access point in\nrange. \nCheck your connection settings\nand try again. \n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Unable to connect to the\nNintendo Wi-Fi USB Connector. \nConfirm connection settings in the\nNintendo Wi-Fi Connection setup. \n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Unable to connect to Nintendo\nWi-Fi Connection. \nConfirm connection settings and\naccess point settings.\n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-There is no response.\nEither the player is not\nconnected to Nintendo Wi-Fi\nConnection or you have been\nremoved from the player’s\nfriend roster.\n({STRVAR 54, 0})
-Communication error. You have\nbeen disconnected from Nintendo\nWi-Fi Connection.\n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Communication error.\n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Download failed.\n\nFor help, visit\nwww.nintendowifi.com.\n({STRVAR 54, 0})
-Communication error.\nYou have been disconnected from\nNintendo Wi-Fi Connection.\nPlease try again.\n\nFor help, visit\nwww.nintendowifi.com.
-Communication error...
-Your Nintendo Wi-Fi Connection\nUser Information may have been\nerased.\nCheck your connection settings.\n\nFor help, visit\nwww.nintendowifi.com.
-Connect to Nintendo Wi-Fi Connection?
-Nintendo Wi-Fi Connection treats\nyour Nintendo DS Game Card and\nNintendo DS as a set.\nSave this Nintendo DS system’s\nNintendo Wi-Fi Connection User\nInformation to this Game Card\nand connect to Nintendo Wi-Fi\nConnection?
-Nintendo Wi-Fi Connection User\nInformation for this Nintendo DS\nhas been saved to the Game\nCard.\n\nFrom now on, please use this\nNintendo DS to connect to\nNintendo Wi-Fi Connection.
-Unable to connect to Nintendo\nWi-Fi Connection because the\nNintendo Wi-Fi Connection User\nInformation from the Nintendo\nDS and the Game Card do not\nmatch.
-Update Nintendo Wi-Fi Connection\nUser Information saved on the\nGame Card?\nWhen you update your Nintendo\nWi-Fi Connection User\nInformation, you will lose all\ndata that was used to connect\nto Nintendo Wi-Fi Connection.
-Do you still want to update?\n\nWarning:\nAll of the friends registered in\nyour Pal Pad will be deleted.\n
-Connecting to Nintendo Wi-Fi\nConnection... Please wait a moment...
-You cannot access Nintendo Wi-Fi\nConnection with this user name.\n\nPlease change your user name\nand try again.
-OK to disconnect from Nintendo\nWi-Fi Connection?
-Disconnecting from Nintendo Wi-Fi\nConnection.
-You have been disconnected from\nNintendo Wi-Fi Connection.
-Yes
-No
+ＷｉＦｉ连接\n无法接通,\n\n详情请查看\n游戏指南\n（{STRVAR 54,0}）
+ＷｉＦｉ连接\n忙碌中,\n服务\n停止\n无法接通,\n请稍后\n再次尝试\n（{STRVAR 54,0}）
+您的\nＷｉＦｉ连接ＩＤ\n由于长期\n没有使用\n已被删除,\n\n详情请查看\n游戏指南（{STRVAR 54,0}）
+该软件的\nＷｉＦｉ连接服务\n已经结束,\n\n非常感谢您的使用\n（{STRVAR 54,0}）
+接入点\n忙碌,\n无法接通,\n\n请稍后\n再次尝试\n（{STRVAR 54,0}）
+接入点\n没有找到,\n\n请靠近接入点,\n再次尝试\n（{STRVAR 54,0}）
+未找到\n可接通\n接入点,\n\n请检查\nＷｉＦｉ连接设定,\n设定完毕再进行连接\n（{STRVAR 54,0}）
+任天堂ＷｉＦｉ服务\n无法接通,\n\n请检查\nＷｉＦｉ连接设定的\n任天堂ＷｉＦｉ服务连接\n（{STRVAR 54,0}）
+ＷｉＦｉ连接\n无法接通\n\n请检查\nＷｉＦｉ连接设定的\n连接前设定\n（{STRVAR 54,0}）
+没有接收到\n对方的回应,\n对方可能已经\n退出\nＷｉＦｉ连接,\n或者可能\n已从对方的\n朋友手册中消失（{STRVAR 54,0}）
+发生通信错误,\nＷｉＦｉ连接\n被中断\n（{STRVAR 54,0}）
+发生\n通信错误（{STRVAR 54,0})
+下载失败\n（{STRVAR 54,0}）
+发生通信错误,\nＷｉＦｉ连接\n被中断
+发生\n通信错误
+ＤＳ主机的\nＷｉＦｉ用户信息\n可能消失,\n\n请在ＷｉＦｉ连接设定中\n确认\n接通前设定
+要接通\nＷｉＦｉ连接吗？
+ＷｉＦｉ连接\n对ＤＳ卡带和ＤＳ主机\n进行设置操作,\n在ＤＳ卡带中\n保存ＤＳ主机的\nＷｉＦｉ用户信息,\n要接通\nＷｉＦｉ连接吗？
+此ＤＳ主机的\nＷｉＦｉ用户信息\n已保存至ＤＳ卡带中,\n\n此后请使用\n此ＤＳ主机\n进行\nＷｉＦｉ连接
+ＤＳ主机与ＤＳ卡带的\nＷｉＦｉ用户信息\n不一致,\nＷｉＦｉ连接\n无法接通
+ＤＳ卡带中保存的\nＷｉＦｉ用户信息\n进行更新吗？\nＷｉＦｉ用户信息\n更新会使\nＷｉＦｉ连接中\n到目前为止的\n全部数据消失
+要进行更新\n可以吗？\n\n注意\n朋友手册中\n已登录的朋友\n会全部消失
+ＷｉＦｉ连接\n接通中,请稍候
+目前使用的名字\n无法使用,\nＷｉＦｉ连接\n\n请改变名字后\n再次连接
+从ＷｉＦｉ连接\n中断可以吗？
+从ＷｉＦｉ连接中断中
+从ＷｉＦｉ连接中断
+是
+不是

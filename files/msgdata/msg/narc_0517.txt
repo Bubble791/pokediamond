@@ -1,2 +1,2 @@
-Some kinds of Pokémon appear only\nif they’re attracted by the sweet\fscent of Honey.
-Pokémon must have an acute sense\nof smell.\rThey can sense the aroma of Honey\nfrom very far away.
+精灵之中\n也有喜欢聚集在\f香甜的蜂蜜附近的家伙
+就算离得很远\n精灵还是可以闻到蜜的味道,\f精灵好厉害啊！

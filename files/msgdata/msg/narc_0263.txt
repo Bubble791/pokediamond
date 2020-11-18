@@ -1,8 +1,8 @@
-It’s a bed...\nWant to take a rest?
-{STRVAR 3, 0} quickly fell asleep\nin the bed...\r
-{STRVAR 3, 0} and the Pokémon\nbecame fully healed from the rest!
-Team Galactic Nap Room\rEnsure the bed is unoccupied\nbefore getting into it!
-Team Galactic TV Room\rState-of-the-art audio & video\nsystem for member use only!\rOnward to a new universe!\nTeam Galactic!
-The Team Galactic credo!\nEverything belongs to Team Galactic!\rLook beyond the world--space will\nbecome Team Galactic’s!
-There is a notice tacked on to\nthe kitchen sink.\r“Health and prosperity through\nthe partaking of favorite foods!”\rFoul, unidentifiable substances are\ncaked around the sink...
-There is a notice taped on to\nthe refrigerator.\r“Drink all you wish and gain the\nenergy to move us forward!”\rThe refrigerator is filled with murky,\nsinister drinks and nothing else...
+有张床……！\n稍微休息一下吗？
+{STRVAR 3,0}躺在床上\n安稳地入睡了……\r
+{STRVAR 3,0}和精灵\n恢复精神了！
+银河团休息室！\n确定床上一个人也没有的话\f就好好地睡吧！
+银河团电视房！\n尽情享受最高级的电视机吧！\f崭新的宇宙！   银河团
+银河团规章制度！\n一切都是银河团的东西！\r世界是愚蠢的\n将银河变为银河团的所有物！
+厨房的料理台上\n贴着张纸\r「做喜欢吃的东西,\n变得精神起来就好了！」\r案板上的什么东西\n让人有讨厌的感觉……
+冷藏库的门上\n贴着张纸\r「不用客气尽情喝吧,\n能恢复能量就好了！」\r冷藏库里只有\n很可疑的饮料放在那里

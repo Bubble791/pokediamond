@@ -1,42 +1,42 @@
-I’m the Day-Care Man.\rWe look after the precious Pokémon\nof other Trainers.\rIf you’d like us to raise your\nPokémon, have a word with my wife.
-Ah, it’s you!\rWe were raising your Pokémon,\nand my goodness, were we surprised!\rYour Pokémon was holding an Egg!\rWe don’t know how it got there,\nbut your Pokémon had it.\rYou do want it, don’t you?
-Ah, it’s you! Good to see you.\nYour {STRVAR 0, 0}’s doing just fine.
-Well then, I’ll hang on to it.\nThanks!
-You have no room for it right now...\nCome back when you’ve made room.
-{STRVAR 3, 0} received the Egg from\nthe Day-Care Man.
-You take good care of it.
-By the way, I saw your {STRVAR 0, 0}\ncavorting with {STRVAR 3, 1}’s\f{STRVAR 0, 2}.\rI may even have seen it receiving\na piece of Mail.
-If you want to pick up your Pokémon,\nhave a word with my wife.
-Ah, it’s you!\nGood to see you!\rYour {STRVAR 0, 0} and {STRVAR 0, 1}\nare doing just fine.\r
-I really will keep it.\nYou do want this, yes?
-The two seem to get along very well.
-The two seem to get along.
-The two don’t seem to like each\nother much.
-The two prefer to play with other\nPokémon more than with each other.
-I’m the Day-Care Lady.\nWe can raise Pokémon for you.\rWould you like us to raise your\nPokémon?
-Which Pokémon should we raise for\nyou?\r
-Fine, we’ll raise your {STRVAR 0, 0}\nfor a while.\rCome back for it later.\r
-We can raise two of your Pokémon.\nWould you like us to raise another?
-Ah, there you are!\nMy husband was looking for you.
-Oh, fine, then.\nCome again.
-You don’t have enough money...
-Do you want to take back the other\none, too?
-Very good.\nCome again.
-Ah, it’s you! Good to see you.\nNow, about your Pokémon...\r
-By level, your {STRVAR 0, 0} has\ngrown by about {STRVAR 51, 1}.\r
-Your Pokémon team is full.\nMake room, then come see me.
-Which Pokémon will you take back?
-If you want your {STRVAR 0, 0} back,\nit will cost ${STRVAR 53, 1}.
-Excellent!\nHere’s your Pokémon.\r
-{STRVAR 3, 1} took {STRVAR 0, 0} back\nfrom the Day-Care Lady.\r
-Oh? But you only have one\nPokémon with you.\rYou can’t go off without a Pokémon.\nCome back another time.
-Do you want your Pokémon back?
-If you leave me that Pokémon,\nwhat are you gonna battle with?\rCome back another time.
-Huh? Now, now.\rIf you leave that Pokémon with\nme, you’ll be left with just one.\rYou will be better off if you catch\nsome more, if I do say so myself.
-Now, now.\nThat is merely an Egg!
-Fine, we’ll raise your {STRVAR 0, 0}\nfor a while.\rCome back for it later.
-Huh?
-Lv. {STRVAR 52, 1}
-{STRVAR 0, 0}♂
-{STRVAR 0, 0}♀
-{STRVAR 0, 0}
+我是饲育屋的老爷爷,\n在这里照看大家重要的精灵,\r如果有什么想要培育的话\n就交给屋里的老奶奶吧！
+哦！\r你代管的精灵\n在这里饲育成长……哎呀！\f精灵已经生出蛋来了！\r我也不知道精灵的蛋\n是从哪来的,\f你现在想要吗？
+哦,你啊！\n{STRVAR 0,0}很健康！
+那么我就收下了,\n多谢了。
+带着的精灵已经满了……\r把带着的精灵\n整理一下再来吧
+{STRVAR 3,0}从饲育屋爷爷那里\n获得了精灵的蛋！
+要好好培育哦！
+说起来,你的{STRVAR 0,0}呢,\r{STRVAR 3,1}和{STRVAR 0,2}\n要好地一起玩呢！\f也许会出现什么呢！
+想要取出精灵的时候\n去找老奶奶吧！
+哦,你啊！\r{STRVAR 0,0}和{STRVAR 0,1}\n很健康！\r
+我明白了,\n真的想要吗？
+２只的关系\n非常亲密！
+２只的关系\n还过得去的样子。
+２只的关系\n不太好呢……
+２只的关系\n是互相不同的精灵\f完全玩不到一起……
+我是饲育屋老奶奶,\n可以帮你照顾精灵,\r有什么精灵想要照顾的吗？
+想要寄放哪个孩子呢？\r
+那么,\n{STRVAR 0,0}我收下了,\f请在合适的时间再来！\r
+最多可以寄放２只,\n还想再寄放１只吗？
+哦！是你啊！\n外面的老头子正在找你呢！
+这样啊,\n请下次再来。
+金钱似乎不够呢……
+还有１只要取出吗？
+这样啊,\n请下次再来。
+哦,是你啊！\n你的精灵很健康！\r
+{STRVAR 0,0}的等级\n上升了{STRVAR 51,1}级\r
+持有的精灵已满！\n请整理精灵后再来。
+取出哪只精灵？
+取出{STRVAR 0,0}\n费用是{STRVAR 53,1}元
+钱收下了！\n请拿好你的精灵！\r
+{STRVAR 3,1}从饲育屋奶奶处\n取出了{STRVAR 0,0}！\r
+哦呀？\n现在１只精灵都没有了,\r请下次再来。
+取出精灵吗？
+寄放那只精灵的话\n就不能战斗了呢,\r请下次再来。
+哦呀？\n你寄放那只精灵的话\f就会总共只有１只精灵了,\r再多抓一些精灵\n然后再来吧！
+哦呀哦呀,\n那不是蛋嘛！
+那么,\n{STRVAR 0,0}我收下了,\r请在合适的时间再来
+哦呀……？
+ＬＶ{STRVAR 52,1}
+{STRVAR 0,0}♂
+{STRVAR 0,0}♀
+{STRVAR 0,0}

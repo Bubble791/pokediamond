@@ -1,12 +1,12 @@
-Favorite color
-Favorite sport
-Favorite place
-Favorite class
-Least favorite class
-Favorite thing
-Favorite personality
-Most wanted thing
-Own dream
-Food I want now
-Favorite Pokémon
-Holiday activity
+喜欢的颜色
+喜欢的运动
+喜欢的地点
+喜欢的课程
+讨厌的课程
+喜欢的人
+希望的人
+现在想要的东西
+自己的梦想
+现在最想吃的东西
+喜欢的精灵
+休息日干什么

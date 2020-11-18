@@ -1,81 +1,81 @@
 
-Heart Seal As
-Heart Seal Bs
-Heart Seal Cs
-Heart Seal Ds
-Heart Seal Es
-Heart Seal Fs
-Star Seal As
-Star Seal Bs
-Star Seal Cs
-Star Seal Ds
-Star Seal Es
-Star Seal Fs
-Line Seal As
-Line Seal Bs
-Line Seal Cs
-Smoke Seal As
-Smoke Seal Bs
-Smoke Seal Cs
-Smoke Seal Ds
-Ele-Seal As
-Ele-Seal Bs
-Ele-Seal Cs
-Ele-Seal Ds
-Foamy Seal As
-Foamy Seal Bs
-Foamy Seal Cs
-Foamy Seal Ds
-Fire Seal As
-Fire Seal Bs
-Fire Seal Cs
-Fire Seal Ds
-Party Seal As
-Party Seal Bs
-Party Seal Cs
-Party Seal Ds
-Flora Seal As
-Flora Seal Bs
-Flora Seal Cs
-Flora Seal Ds
-Flora Seal Es
-Flora Seal Fs
-Song Seal As
-Song Seal Bs
-Song Seal Cs
-Song Seal Ds
-Song Seal Es
-Song Seal Fs
-Song Seal Gs
-A Seals
-B Seals
-C Seals
-D Seals
-E Seals
-F Seals
-G Seals
-H Seals
-I Seals
-J Seals
-K Seals
-L Seals
-M Seals
-N Seals
-O Seals
-P Seals
-Q Seals
-R Seals
-S Seals
-T Seals
-U Seals
-V Seals
-W Seals
-X Seals
-Y Seals
-Z Seals
-Shock Seals
-Mystery Seals
-Line Seal Ds
-Liquid Seals
-Burst Seals
-Twinkle Seals
+心形贴纸Ａ
+心形贴纸Ｂ
+心形贴纸Ｃ
+心形贴纸Ｄ
+心形贴纸Ｅ
+心形贴纸Ｆ
+星形贴纸Ａ
+星形贴纸Ｂ
+星形贴纸Ｃ
+星形贴纸Ｄ
+星形贴纸Ｅ
+星形贴纸Ｆ
+线条贴纸Ａ
+线条贴纸Ｂ
+线条贴纸Ｃ
+雾之贴纸Ａ
+雾之贴纸Ｂ
+雾之贴纸Ｃ
+雾之贴纸Ｄ
+电之贴纸Ａ
+电之贴纸Ｂ
+电之贴纸Ｃ
+电之贴纸Ｄ
+泡沫贴纸Ａ
+泡沫贴纸Ｂ
+泡沫贴纸Ｃ
+泡沫贴纸Ｄ
+火之贴纸Ａ
+火之贴纸Ｂ
+火之贴纸Ｃ
+火之贴纸Ｄ
+碎片贴纸Ａ
+碎片贴纸Ｂ
+碎片贴纸Ｃ
+碎片贴纸Ｄ
+花朵贴纸Ａ
+花朵贴纸Ｂ
+花朵贴纸Ｃ
+花朵贴纸Ｄ
+花朵贴纸Ｅ
+花朵贴纸Ｆ
+音符贴纸Ａ
+音符贴纸Ｂ
+音符贴纸Ｃ
+音符贴纸Ｄ
+音符贴纸Ｅ
+音符贴纸Ｆ
+音符贴纸Ｇ
+Ａ贴纸
+Ｂ贴纸
+Ｃ贴纸
+Ｄ贴纸
+Ｅ贴纸
+Ｆ贴纸
+Ｇ贴纸
+Ｈ贴纸
+Ｉ贴纸
+Ｊ贴纸
+Ｋ贴纸
+Ｌ贴纸
+Ｍ贴纸
+Ｎ贴纸
+Ｏ贴纸
+Ｐ贴纸
+Ｑ贴纸
+Ｒ贴纸
+Ｓ贴纸
+Ｔ贴纸
+Ｕ贴纸
+Ｖ贴纸
+Ｗ贴纸
+Ｘ贴纸
+Ｙ贴纸
+Ｚ贴纸
+叹号贴纸
+问号贴纸
+线条贴纸Ｄ
+液体贴纸
+爆发贴纸
+笑声贴纸

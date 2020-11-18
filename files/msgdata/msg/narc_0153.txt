@@ -1,24 +1,24 @@
-Yo!\nFellow Trainer!\rYour Pokémon are secure inside their\nPoké Balls, but there’s no masking\fthat aura of serious toughness!\rOops, sorry, I should introduce\nmyself.\rThe name’s Flint! I’m one of\nthe Pokémon League’s Elite Four!\r
-I just had this idea.\nMaybe you can pull it off.\rIt’s about this town’s Gym Leader.\rHe’s really lost his enthusiasm lately\nbecause there’ve been so few good\fchallengers worth his time.\rHe’s been so bored, he spends all his\ntime renovating the Gym.\rAnd then the blackout happened...\nThat sure didn’t help lift his mood.\rYou know where I’m going with this,\ndon’t you?\rI need you to give him a battle\nthat’s so hot, it will reignite his\fpassion for battling.\rI’m counting on you, hotshot!\r
-Flint: Yo! Hiya!\nHe hasn’t come back yet.\rWhen he does, you know what you’ve\ngotta do.\rGive him a battle that’s so hot, it\nwill reignite his passion for battling!\rI’m counting on you, hotshot!
-Flint: Yo! Hiya!\nHe’s finally come back!\rHe seemed to be feeling upbeat, too.\rI have a hunch that he recognized\nyour toughness right away.\rI bet he’s getting excited over\nthe thought of battling you.\rRemember what you have to do,\nhotshot.\rGive him a battle that’s so hot, it\nwill reignite his passion for battling!\rAll right, hotshot! I’ll be waiting at\nthe Pokémon League!\r
-...Er...um... M-my name is Jasmine,\nand I’m a Gym Leader.\rOh, I’m sorry, not the Gym Leader\nof this town...\rI’m a Gym Leader in the Johto\nregion...\r...Er...um...\nIt would be nice if you knew about\fthe Johto region...\r
-Oh, if you don’t have the Gym Badge,\nyou’ll be forced to turn back.
-Oh, that’s this town’s Gym Badge.\nYou must be very good.\r...Er...um...\nP-please take this, too.\r
-...That Hidden Machine...\nIt contains Waterfall.\rIf you use it, you can get to\nthe Pokémon League.\r...Um... I... I don’t know how\nI should say this, but good luck.
-Jasmine: ...This city makes me feel\nat home somehow.\rIt’s next to the sea, and there’s\na lighthouse...\r
-Jasmine: ...I came from very far away\nbecause I wanted to get stronger.\rOn the way, I met all sorts of \npeople with their Pokémon...\rThey all looked like they were having\nfun. I felt happy seeing it.
-                                      
-That giant rock...\nIsn’t it really a Pokémon?
-                                           
-The Gym Leader uses too much\nelectricity!\rHe needs to think about the city’s\npower needs, too!
-The city uses a lot of electricity,\nespecially the lighthouse and\fthe Gym.\rThey finally decided to turn all\nthe roads inside the city into giant\fsolar panels.\rSunyshore is the Sunshine City, so\nthe system works perfectly.
-This is a major port town.\nAnd...\rIt’s the gateway to the Pokémon\nLeague.
-Whatever the environment, people\nand Pokémon adapt to live there.\rThat’s what we all do to survive.
-Sunyshore City\nSolar Powered!
-Sunyshore City Pokémon Gym\nLeader: Volkner\fThe Shining, Shocking Star
-Vista Lighthouse\nThe Beacon That Lights Sinnoh
-Sunyshore Market\nA Selection of the World’s Seals
-Julia’s House\nDelightful Ribbons for Pokémon
-It’s a blank sign painted white.
-Pokémon Rock\nSunyshore’s Heritage Site
+哟！小家伙！\n你精灵球里的精灵\f看起来很强啊,拿出来看下！\r啊,忘了自我介绍了！\r我叫奥巴！\n精灵联盟的四天王之一！\r
+嗯,不错！\n你的话应该没问题！\r这个城市的口袋道馆馆主\n因为太长时间没有强力的\f挑战者来挑战,\f就一直改建口袋道馆,\r结果现在弄得停电了,\n真是个麻烦的家伙！\r你！用火热的口袋对战\n让他的心燃烧起来吧！\f拜托了！\r
+奥巴『啊！是你啊！\n那家伙还没有回来呢\r靠你了！\n跟他来一场\f点燃心中烈火的口袋对战吧！
+奥巴『啊！你来了！\n那家伙已经回来了！\r总觉得有点兴奋呢,\n总觉得只要看你一眼\f就能感觉到你的实力,\f让我燃烧起来呢！\r对了,靠你了！\n跟他来一场点燃心中烈火的\f火热的口袋对战吧！\r再见了！\n我会在精灵联盟等着你！\r
+……那个,\n我是道馆馆主蜜柑。\r啊,我的意思\n不是这个城市的馆主,\f是城都地区那里的……\r……哎？\n你竟然知道城都地区,\f好高兴……\r
+如果还没有拿到道馆徽章的话,\n可是会半路返回的哦
+那是道馆徽章吧,\n好厉害啊！\r……那个,不介意的话,\n请收下这个吧！\r
+……这个秘传训练机,\n就是利用了逆流的原理,\r有了这个的话,\n应该就可以到达精灵联盟了\r……那个,我不知道\n应该怎么说,你要加油哦！
+蜜柑『……这个城市\n总让人觉得很平静,\f海边有一个灯塔……\r
+蜜柑『……我想变得更强,\n才从遥远的地方来到这里,\r在各个地方,\n不同的人类和精灵生活在一起……\r看到他们生活得很开心,\n也让我觉得很高兴。
+我一辈子都不会忘记\n在灯塔顶部看到的风景
+对面那个岩石……\n难道不是精灵吗？
+通向精灵联盟的大海\n海水很急,\f一般人是到不了那里的！
+这里的馆主\n用电过度了！\r真是的,\n应该多为城镇想想啊！
+灯塔,还有口袋道馆,\n用电用的太多了,\r连城市的道路都铺上\n太阳能发电板了！\r不管怎么说,\n名木市是太阳的城市啊！
+这里是海港城市,\n另外……\r也是通往精灵联盟的大门。
+无论在什么地方,\n都要不断开动脑筋,\f这才是口袋人啊。
+这里是名木市\n接受阳光照耀的城市
+名木市口袋道馆\n馆主 电磁\f耀眼之星
+「指示灯塔」\n照亮秘密的象征
+「名木市场」\n世界上各式各样的贴纸
+「富美子之家」\n专卖漂亮的丝带
+什么都没有写的\n招牌……
+「精灵岩石」\n名木特产

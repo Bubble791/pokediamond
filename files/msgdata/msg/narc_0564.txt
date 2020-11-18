@@ -1,29 +1,29 @@
-Commercial: Pokémon Center.\nAlways by your side.
-Commercial: Pokémon Mart.\nWhere smiling faces gather.
-Commercial: The preceding program has\nbeen brought to you by Jubilife TV!
-Commercial: For better treatment of\nPokémon--Trainers’ School.
-Commercial: Where there is Pokétch,\nthere is joy.
-Commercial: Add to your smiles!\nNew Pokétch apps are available now!\rDrop by the Pokétch Company\nin Jubilife City today!
-Commercial: Let us color your life.\nPick a Peck of Colors Flower Shop.
-Commercial: Third gear! Fourth gear!\nShift it up, down, all the way around!\rFor the latest in Bicycles, look up\nRad Rickshaw’s Cycle Shop!
-Commercial: The pinnacle of beauty!\nOverflowing elegance!\rShockingly emotional!\nHearthome City Contests!
-Commercial: Enjoy a relaxing time\nalone with that special Pokémon...\rHearthome’s Amity Square.
-Commercial: Visit the Veilstone\nDepartment Store.\rYou’re guaranteed to find smiles!
-Commercial: Line up the slots,\nand rack up some Coins!\rVeilstone Game Corner.\nIs there a winner in you?
-Commercial: Your Pokémon raised with\nlove at Solaceon’s Pokémon Day Care.
-Commercial: A different class.\nHotel Grand Lake.
-Commercial: A nature preserve where\nexotic Pokémon roam.\rPastoria City’s Great Marsh\nSafari Game.
-Commercial: Want to see some snow?\nVisit the snowbound Snowpoint City!
-Commercial: Sunyshore’s hot spot!\nSinnoh’s kitchen!\rCome sample our wares!\nSunyshore Market.
-Commercial: Link with the world\nand join new circles of friends!\rGTS--the Global Trade Station--awaits\nyou in Jubilife City.
-Commercial: Pokémon! Pokémon!\nWe’re full of Pokémon at the Pal Park!
-Commercial: High-speed ferry service\nto and from the Battle Zone!\rDeparting daily from Snowpoint\nCity!
-Commercial: An endless challenge for\nTrainers and Pokémon alike...\rThe Battle Zone--a towering hurdle\nfor all Trainers!
-Commercial: Sublimely sophisticated...\nThe Ribbon Syndicate--members only.
-Commercial: Our peace for your world.\nTeam Galactic.
-Commercial: Find peace in our world!\nTeam Galactic.
-Commercial: Meet friends and Pokémon\nusing DS Wireless Communications.\rUnion Rooms are one escalator ride\nup at any Pokémon Center!
-Commercial: Meet friends and Pokémon\nover Nintendo WFC.\rWi-Fi Clubs are one escalator ride\ndown at any Pokémon Center!
-Commercial: If what you seek is the\nbest in battling...\rThe Battle Tower--the greatest\nbattles you will ever experience.
-Commercial: Do you know the true\nface of the Battle Tower?\rThe doors are thrown open to\nthe world!\rEvery Trainer on the planet can\nbecome your opponent!\rHow will you fare against the world?
-Commercial: To the seas beyond\nsurfing!\rHigh-speed ferry S.S. Sinnoh.\nBon voyage in safety!
+广告『口袋中心\n就在你的身边
+广告『口袋商店\n洋溢着笑容
+广告『您正在收看的是\n长寿电视台！
+广告『口袋训练师学校\n让你对精灵更加了解
+广告『口袋手表\n一旦拥有别无所求
+广告『难道不心动吗,\n新的口袋手表功能！\r需要的话请前往\n长寿市口袋手表公司！
+广告『缤纷花店\n花一样的生活
+广告『３档！４档！\n变速！\r最新型自行车\n自行车店欢迎你
+广告『追求美丽！\n充满高雅！\r震撼感情！\n绿缘市华丽大赛！
+广告『完美时刻\n与心爱的精灵共渡,\f绿缘散步公园
+广告『户张百货大厦,\n没有买不到,只有想不到
+广告『投啊投啊投币\n出啊出啊游戏！\r户张游戏中心\n今天你玩儿了吗？
+广告『饲育收集的心\n花蕊镇口袋饲育屋
+广告『大地之湖旅馆\n回家的感觉真好
+广告『那里有自然,\n那里有精灵,\r野濑市大湿原\n狩猎游戏
+广告『冰雪世界……\n金岬市欢迎您
+广告『名木的精灵,\n神奥的厨房,\r超多的商品,\n名木市场
+广告『联系世界,\n联系世人,\rＧＴＳ！\n全球交换站！\f请前往长寿市
+广告『精灵！精灵！\n好多精灵！帕鲁公园
+广告『开往战斗区域的\n舒适之旅的高速船,\r金岬市每日出航中！
+广告『挑战自我极限！\n请来战斗区域！
+广告『完美时刻\n会员制俱乐部
+广告『世界和平\n银河团
+广告『梦的力量\n银河团
+广告『你想过\n在口袋中心联机吗,\r请从电梯登上二层,\n那里是联机大厅！
+广告『你想过\n在口袋中心联机吗,\r请从电梯下至地下,\n那里是ＷｉーＦｉ俱乐部！
+广告『如果你渴望\n极限口袋对战,\r请到战斗塔来！\n这里有顶级的战斗！
+广告『你知道战斗塔的\n真正的样子吗？\r向世界打开的大门中汇集了\n全部的口袋训练师,\r你能坚持战斗到哪里呢！
+广告『能够穿越冲浪无法\n到达的遥远海面的\r安心的船旅,\n高速船神奥丸

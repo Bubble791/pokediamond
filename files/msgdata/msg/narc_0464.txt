@@ -1,75 +1,75 @@
-Oak: Ah, {STRVAR 3, 0}!\nThis is it! This is Pal Park!\r
-Oak: Ah, {STRVAR 3, 0}!\nThis is it! This is Pal Park!\r
-Pokémon from around the country\ncan be brought here.\rIn other words, Pokémon from\nplaces like Kanto and Hoenn.\rThis place also happens to be where\nyou compete to see how quickly you\fcan catch those Pokémon!\r
-It’s good to see you’ve come\nto join us for a visit.\rLet me make a gift of this Trainer\nCounter for your Pokétch.\r
-Oak: I plan to be in Eterna City\nfor some time.\rBeing here, I should make the best\nof my time studying the Pokémon of\fthe Sinnoh region.\r
-Pal Park is so scintillating!\rTrainers and Pokémon are so full of\nintent here!\r
-I’ve never seen some Pokémon.\nWould you show me if you had one?\r
-                                    
-                                                                   
-                                                      
-Let me see...\rA Pokémon that does nothing but\neat and sleep.\r
-Oh, a SNORLAX?\nIt sure looks like it can eat!\rI have a Pokétch app that has\na SNORLAX motif.\rYou can have it for showing me\na real SNORLAX!\r
-Doesn’t that {STRVAR 24, 0}\nmake you want to cook something?\n
-Let me see...\rA Pokémon that changes color\nwhenever something happens.\r
-Oh, a KECLEON!\nHow colorful!\rI have a Pokétch app that features\na KECLEON design.\rYou can have it for showing me\na real KECLEON!\r
-Changing colors can change your\nmood, too.
-                                  
-                                                                    
-                                    
-What was that Pokémon’s name now...?\nOh, it’s on the tip of my tongue!
-Pal Park is so scintillating!\rTrainers and Pokémon are so full of\nintent here!\rAre you taking the challenge, too?
-Welcome to Pal Park!\rThis is where top-notch Trainers come\nto demonstrate their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR 3, 0}!\rWe’ve all heard rumors about you!\nWord is, you’re a hotshot Trainer?!\rWe’d be honored if you would\nparticipate in our Catching Shows.
-Welcome to Pal Park!\rThis is where top-notch Trainers come\nto demonstrate their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR 3, 0}!\rWe’ve all heard rumors about you!\nWord is, you’re a hotshot Trainer?!\rWe’d be honored if you would\nparticipate in our Catching Shows.
-Yes! You agreed to participate!\nIt’s a happy day for me!\rLet’s not waste any time!\nLet me explain how Pal Park works.\rI wrote the Pal Park manual for\nsituations just like this.\rWhat should I explain?
-Pal Park is a place where you are\ntimed on the catching of six Pokémon.\rYou are provided with six special\nPoké Balls for the challenge.\rParticipating Trainers are required to\nsupply the six Pokémon that are to\fbe caught.\rIf you do not supply the stock of six\nPokémon, you may not participate in\fthe Catching Show.\r...Do you want me to explain anything\nelse?
-At the start of the Catching Show,\nyou will be given six Park Balls.\rUse the Park Balls to catch the\nsix Pokémon you provide.\r...Do you want me to explain anything\nelse?
-You may make Pokémon migrate from\nKanto or Hoenn to stock your\fCatching Game.\rInsert a Game Boy Advance Pokémon\nRuby, Sapphire, Emerald, FireRed,\for LeafGreen in the Game Pak Slot.\rWhen your DS is turned on, currently\ncaught Pokémon can migrate from\fthe Game Pak to the DS Game Card.\r...Do you want me to explain anything\nelse?
-Pokémon caught in Sinnoh may also\nbe used to stock your Catching Game.\rPlease ask the guy next to me who’s\nin charge of stocking Pokémon.\r...Do you want me to explain anything\nelse?
-Would you like to take part in\na Catching Show now?
-Aww, that’s too bad.\rWell, just give me a shout if you’d\nlike to participate.
-Hi there, {STRVAR 3, 0}!\rDid you come to participate in\na Catching Show?
-Hi there, {STRVAR 3, 0}!\rDid you come to participate in\na Catching Show?
-OK, here are your Park Balls!\r{STRVAR 3, 0} received\nsix Park Balls.\rThe current record holder is\n{STRVAR 3, 1} with {STRVAR 53, 2} points.\rOK, off you go, {STRVAR 3, 0}.\rDazzle us with a masterful display\nof Pokémon catching!\r
-OK, here are your Park Balls!\r{STRVAR 3, 0} received\nsix Park Balls.\rThe current record holder is\n{STRVAR 3, 1} with {STRVAR 53, 2} points.\rOK, off you go, {STRVAR 3, 0}.\rDazzle us with a masterful display\nof Pokémon catching!\r
-Oh, hold on. You don’t have enough\nPokémon for a Catching Show.\rYou’ll need to stock us with six\nPokémon to participate.\rYou should make some Pokémon migrate\nfrom Kanto or Hoenn!
-Very well, let me explain how things\nwork around here.\rI’ll read to you from the Pal Park\nmanual I wrote.
-I’m sorry you had to retire.\nWe hope you try harder next time.\rI’ll take what Park Balls you\nhave left.\rNext time, please do stay to catch\nall six Pokémon.
-Oh, your PC Boxes are filled. You\nhave no room for six more Pokémon.\rYou won’t be able to accept them,\neven if you do catch them.\rMake enough room in a PC Box and\ncome back for your Catching Show.
-Congratulations!\nThat’s all six Pokémon caught!\rThe audience sure enjoyed watching\nyour Catching Show.\rAll right, let’s see your all-important\nscore from this show!\r...\n...\rCatching Points: {STRVAR 53, 0}!\rTime Points: {STRVAR 53, 1}!\rType Points: {STRVAR 53, 2}!\rThe total is...\r...\n...\r{STRVAR 53, 3} points!\r
-Wow! That’s an outstanding record!\nKudos to you!\r
-Good! That’s a decent record.\nProps to you!\r
-Would you like to put all the Pokémon\nyou’ve caught in PC Boxes?
-Done!\nYour Pokémon have been boxed away.\rYou’ll now have to save the game.\r
-Oh, then it might be fun for you to\ngo for an even better score by\ftrying to catch these six again.\rIf you want to do another Catching\nShow, just come see us!
-If you want to do another Catching\nShow, come see us again!
-It’s time for your prize!\nHere you are!\r
-Would you like to do another Catching\nShow with the same Pokémon?
-                                                                            
-                                                                                          
-                                                                                                 
-                                                                     
-                            
-I came to see {STRVAR 3, 0}’s Catching\nShow with Daddy.\rI hope it starts soon...
-Eek! {STRVAR 3, 0}!\nYour Catching Show was fantastic!\rI hope I can become an expert\nTrainer like you one day!
-Oh, {STRVAR 3, 0}!\nI hope you do better next time.
-{STRVAR 3, 0}, my daughter is a big\nfan of yours.\rA day doesn’t go by without her\ndemanding we come see Catching Shows.
-People come here not only to see\nthe Catching Show.\rWe get to see rare and exotic\nPokémon on top of the catches.\rThe excitement gets me all jacked up!
-The current record holder is\n{STRVAR 3, 1} with {STRVAR 53, 2} points.\fCan you top that?
-Oh! You’ve topped 2,000 points!\nYou’ve earned this, then!\r
-Keep working on getting a higher\nscore!
-Oh! You’ve topped 2,500 points!\nYou’ve earned this, then!\r
-Oh! You’ve topped 3,000 points!\nYou’ve earned this, then!\r
-Oh! You’ve earned 3,500 points!\nYou’ve earned this, then!\r
-You’ve set an incredible record!\nThere’s nothing left to say!
-Your Bag is full.\nYou should come back later.
-I’ve heard Trainers complain that\nrare Pokémon take longer to appear.\rIs it easier to start with common\nPokémon?
-The Catching Show...\rIt’s a head-on clash of will and\nwits between Trainer and Pokémon.\rI especially look forward to seeing\nPokémon from Kanto and Hoenn.\rBut it tugs at my heartstrings to\nknow they’re so far away from home.
-Your performance left my heart\naflutter today...\rI must crown you with this...\nCrown.\rOh, before you get the wrong idea,\nit’s an Accessory for Pokémon.\r
-Your performance left my heart\naflutter today...\rI feel compelled to give you this\nTiara.\rOh, before you get the wrong idea,\nit’s an Accessory for Pokémon.\r
-Your performance left my heart\naflutter today...\rI wish you would take this\n“Seafloor” Backdrop.\rPlease try using it when dressing up\nyour Pokémon with Accessories.\r
-Your performance left my heart\naflutter today...\rI wish you would take this\n“Underground” Backdrop.\rPlease try using it when dressing up\nyour Pokémon with Accessories.\r
-Your performance left my heart\naflutter today...\rI wish you would take this\n“Sky” Backdrop.\rPlease try using it when dressing up\nyour Pokémon with Accessories.\r
-Not only are there Catching Shows,\nthere are also Pokémon Contests...\rIt’s so dreamy...\nSinnoh sets my heart aflutter.
-                                                            
-                                                    
+大木『哦哦,{STRVAR 3,0},\n总算来帕鲁公园了！\r
+大木『哦哦,{STRVAR 3,0},\n总算来帕鲁公园了！\r
+在这里,全国各地……\n也就是关东和方圆地区的精灵\f传送到这里！\r而且,也有看你能不能\n快速抓住这些精灵的竞技游戏！\r
+难得你特意赶来！\n这个作为礼物送给你,\r是口袋手表的\n精灵探测计数器功能！\r
+大木『我暂时会住在白岱市。\n既然好不容易来了,就顺便\f调查一下神奥地区的精灵吧！\r
+帕鲁公园好漂亮！\n不管到哪儿精灵和人都很认真呢！\r
+真的假的！你要是有这种精灵\n就带来给我看看吧\r
+那个……\n踩一下脚就会震天大叫的精灵！\r
+哎呀！重音怪！真漂亮！\r我也带着重音怪为主题的\n口袋手表功能！\f谢谢你给我看！\r
+要是有定好闹钟的话\n就可以设定好时间,\f不会错过想看的电视节目了！
+那个……\n不是在吃就是在睡的精灵！\r
+哎呀！卡比兽！吃吧！\r我也带着卡比兽为主题的\n口袋手表功能！\f谢谢你让我看！\r
+有{STRVAR 24,0}的话\n自己做饭会不会用得上？
+那个……\n根据环境\f身体的颜色会改变的精灵！\r
+哎呀！变色龙！变色龙！\r我也带着变色龙为主题的\n口袋手表功能！\f谢谢你让我看！\r
+颜色变换了\n心情也会改变呢！
+那个……\n像精灵球一样的精灵！\r
+哎呀！顽皮弹！顽皮弹！\r我也带着顽皮弹为主题的\n口袋手表功能！\f谢谢你让我看！\r
+{STRVAR 24,0}\n不知不觉,正好１０秒,\f真不想停下来啊！
+名字叫什么……\n啊嗯,想不起来了！
+帕鲁公园很漂亮！\n精灵也好人也好,\f都好认真的样子啊！\r你是不是也要挑战？
+欢迎欢迎！\n这里是帕鲁公园！\r是一流的精灵训练师\n展示捕获技术的场所。\r……唉？\r你不会就是\n{STRVAR 3,0}吧！\f听说了你的事迹！\f据说相当了不起啊！\r你一定要来参加捕获秀啊！
+欢迎欢迎！\n这里是帕鲁公园！\r是一流的精灵训练师\n展示捕获技术的场所。\r……哎呀？\r你不会就是\n{STRVAR 3,0}吧！\f听说了你的事迹！\f据说相当了不起啊！\r你一定要来参加捕获秀啊。
+是嘛！参加了啊！\n好开心啊！\r赶快说明一下\n帕鲁公园的规则吧！\r这是我制作的帕鲁公园指南！\n先讲解哪部分呢？
+『帕鲁公园是\n用限定数量的球\f迅速捕获全部\f６只精灵的场所。\r要捕获的精灵\n需要事先准备好。\f如果没有传送６只精灵的话\f捕获秀就不会开始,请注意。\r……还要听听其他讲解吗？
+『捕获秀开始的时候\n会给你６个公园球,\f请用这些球\f捕获全部的６只精灵\r……还要说明其他的事项吗？
+『关东和方圆地区的精灵\n可以传送到这里。\r在ＧＢＡ卡带插槽中\n插入红宝石,蓝宝石,火红,\f叶绿,绿宝石版\f中的任意一版的卡带,\f重启ＤＳ电源,\r这些卡带版本的\n精灵就可以传送了\r……还要说明其他的事项吗？
+『神奥的精灵\n也可以托管。\f但需要去负责的\f工作人员那儿登录！\r……还要说明其他的事项吗？
+那么,\n您现在要参加捕获秀吗？
+这样啊,很遗憾。\r你要是想参加,\n就和我说一声！
+呀！{STRVAR 3,0}！\r要参加捕获秀吗？
+呀！{STRVAR 3,0}！\r要参加捕获秀吗？
+那么,\n请收好公园球！\r{STRVAR 3,0}获得了６个公园球！\r目前,第一位是{STRVAR 3,1}的\n记录{STRVAR 53,2}点！\r接下来！{STRVAR 3,0}的\n华丽捕获技术\f即将展现在各位面前！！\r
+那么,\n请收好公园球！\r{STRVAR 3,0}获得了６个公园球！\r目前,第一位是{STRVAR 3,1}的\n记录{STRVAR 53,2}点！\r接下来！{STRVAR 3,0}的\n华丽捕获技术\f即将展现在各位面前！！\r
+嗯……参加捕获秀的\n精灵数量不够啊。\r把从关东和方圆地区带来的\n６只精灵传送好了再来吧！
+那么,现在开始进行\n帕鲁公园的指南讲解！
+辛苦了！\n再接再厉啊！\r剩下的球就回收了。\r下一次请一定要\n捉满６只精灵！
+哦呀？盒子里好像放不下\n６只精灵啊！\r好不容易抓到的,\n可不想放生啊。\r整理一下再放吧。
+６只精灵捕获成功！\n恭喜恭喜！！\r看,大家都沉浸\n在这捕获秀里了啊！\r接下来,大家关心的\n本次捕获秀的分数是？\r…… …… ……\n…… …… ……\r捕获分 {STRVAR 53,0}点！\r时间分 {STRVAR 53,1}点！\r类型分 {STRVAR 53,2}点！\r总计是\r…… …… ……\n…… …… ……\r{STRVAR 53,3}点！！\r
+哦！好厉害的记录啊！\n干得漂亮啊！！\r
+嗯！还不错的记录。\n干得漂亮！\r
+把捕获的精灵\n放进盒子里吗？
+嗯！\n已经放进电脑里了！\r那么,写进报告里吧！\r
+是嘛,用这些精灵\n或许还能获得更多的分数呢！\r还想捉精灵的话,\n就来挑战吧！
+还想捉精灵的话,\n就来挑战吧！
+作为纪念\n把这个礼物送给你！\r
+那么用同样的精灵\n再来一次？
+欢迎来到帕鲁公园！\n……哎呀？\r你是第一次来\n帕鲁公园吗？\r这样的话,\n最好还是去和旁边的\f管理人员谈谈吧！
+欢迎来到帕鲁公园！\r要参加捕获秀的话\n请在这里托管您的精灵！\r现在托管的精灵\n有{STRVAR 51,0}只\r要托管精灵吗？
+托管精灵啊！\r……因为已经有３０只精灵\n在托管中,\r所以\n无法再托管了！\r在捕获秀里捉住精灵之后\n再来吧！
+托管精灵啊！\r托管的精灵\n在捕获秀中被捉住之前\f无法取回,\f请务必注意！\r
+想托管精灵的时候,\n就来找我吧！
+和爸爸一起来看{STRVAR 3,0}的\n捕获秀,\f快点开始吧……
+呀{STRVAR 3,0}！！\n捕获秀太精彩啦！\r我也想成为像{STRVAR 3,0}一样的\n口袋训练师啊！！
+啊,{STRVAR 3,0},\n再接再厉啊！
+我女儿可是{STRVAR 3,0}的\n超级粉丝啊……\f说要每天都来看捕获秀。
+这里的看点\n可不止是捕获秀啊！\r捕获秀的同时\n也可以看到珍贵的精灵……\f相当令人兴奋呢！！
+现在的第一位是{STRVAR 3,1}的\n记录{STRVAR 53,2}点！\f你能超越这个分数吗？
+哦！超过２０００点啦！\n再接再厉！\r
+为了获得更高的分数努力吧！
+哦！超过２５００点啦！\n再接再厉！\r
+哦！超过３０００点啦！\n再接再厉！\r
+哦！超过３５００点啦！\n再接再厉！\r
+了不起的记录！\n我没话说了！
+包都放满了啊。\n整理一下再来吧。
+由于珍贵的精灵\n不容易出现,\r所以一开始先捕捉一般的精灵\n积累经验,这是一个窍门。
+精灵捕获啊,\n那是精灵与人之间的亲密对战,\r我特别喜欢收集\n关东地区和方圆地区的精灵,\f因为它们带着来自远方的怀念。
+今天好走运……\n这王冠……\r虽说王冠给你了,\n不过只是装饰精灵的饰品而已。\r
+今天好走运……\n这头部饰品……\r三重冕给你了,\n不过只是精灵的装饰品而已。\r
+今天好走运…………\r这个背景「海平面」给你,\n装饰的时候就用它吧！\r
+今天好走运…………\r这个背景「地底」给你,\n装饰的时候务必要使用哦。\r
+今天好走运…………\r这个背景「天空」给你,\n装饰的时候一定要使用啊。\r
+要是有捕获秀\n就有精灵比赛……\r怎么这么激动……\n住在神奥地区太幸运了！
+不仅有超强的精灵,\n还能迅速捉住各种精灵的\f训练师好帅气啊！
+各种类型的精灵\n不光是要捉住,\f捕捉的顺序也很讲究！

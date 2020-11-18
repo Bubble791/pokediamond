@@ -1,6 +1,6 @@
-{STRVAR 3, 0}: Hold it!\nDon’t go off without me!\rYou’re challenging the Pokémon\nLeague, aren’t you?\rThat’s why I’m here, too.\rLet’s see who’s more worthy of making\nthe challenge with a battle!\r
-{STRVAR 3, 0}: I guess I’m not ready\nfor the Pokémon League if I’m losing\fto you!\rDarn it!\nYou watch, though!\rI’ll get tougher and win my way\nthrough the Pokémon League!\rBecause I’m going to become the\nChampion, the toughest Trainer!\r{STRVAR 3, 1}! You’d better not\nlose to anyone before me!\r
-Let me confirm that you are qualified\nto challenge the Pokémon League.\rSo! Let us examine the Gym Badges\nyou gathered from Sinnoh.\rOreburgh City’s Coal Badge!\rEterna City’s Forest Badge!\rVeilstone City’s Cobble Badge!\rPastoria City’s Fen Badge!\rHearthome City’s Relic Badge!\rCanalave City’s Mine Badge!\rSnowpoint City’s Icicle Badge!\rAnd...\nSunyshore City’s Beacon Badge!\r
-Very well!\rTrainer, you’ve indeed collected\nall the Gym Badges of Sinnoh!\rDemonstrate the power that brought\nyou here and go for glory!
-You will be facing the Elite Four\nof the Pokémon League.\rIf you can’t beat all four of them\nin a row, you have to start from\fthe first one again.
-Your Pokémon are so calm even though\nthey’re going up against the Elite\fFour.\rI like how they’re so loose and\nrelaxed.
+{STRVAR 3,0}『喂ー！\n你是不是要去挑战精灵联盟？\r我也是冲着这个目标\n到这儿来的！\r用对战来决定\n谁才能去挑战吧！\r
+{STRVAR 3,0}『输给你了啊,\n去精灵联盟还早了点啊！\r可恶！还要变得更强,\n一定要战胜精灵联盟！\r不管怎么说,\n我都会成为最强的冠军！\r{STRVAR 3,1}！除了我之外\n不许你输给任何人！！\r
+请让我检查一下\n你挑战精灵联盟的资格！\r请出示在神奥地区\n获得的徽章！\r黑金市的煤炭徽章！\r白岱市的森林徽章！\r户张市的连击徽章！\r野濑市的飞音徽章！\r绿缘市的华丽徽章！\r美央市的矿山徽章！\r金岬市的冰雪徽章！\r最后！\n名木市的电气徽章！\r
+通过了！\r你收集到了神奥地区\n全部的道馆徽章,\f让这份力量在这里\f为你赢得辉煌吧！
+必须连续战胜\n精灵联盟的四天王,\f一旦中途失败就要重新挑战！
+你的精灵在马上就要进行\n暴风雨似的挑战之前\f一点都不紧张,真是不错啊！

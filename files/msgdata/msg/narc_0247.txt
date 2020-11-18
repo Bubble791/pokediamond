@@ -1,6 +1,6 @@
-Buck: Heheh!\nCheck this out, {STRVAR 3, 1}!\rThis is the Magma Stone, the treasure\nof Stark Mountain!\rSince I found it, that makes me the\ngreatest Trainer out of everyone!\rThanks, you all helped it happen!\r
-Buck: Oof!\r
-Buck: Whoa! Wow!\rHehehe! That was wicked!\nThe volcano’s in shock from that!\rIt might be so shocked, it’ll erupt!\nNah, that can’t happen!\rSee ya, {STRVAR 3, 1}!\nSay hi to that zippity Trainer buddy!\r
-Gwogobo gwobobobo!\r
-HEATRAN disappeared into\nthe volcano...
-                                                                                                                               
+麦可『嘿嘿！\n看啊！{STRVAR 3,1}！\r这就是坚硬火山的宝物\n火山巨石！\r连这个都能找到,\n我果然是最强训练师啊！\f谢了,多亏你了！\r
+麦可『嘿咻！\r
+麦可『哇哦！！\n嘿嘿嘿！刚刚震得好厉害啊！\f还以为火山喷发了！\r吓我一大跳,\n说不定会喷火呢！真说不定呢！\f拜拜,{STRVAR 3,1}！\r顺便帮我向那个性急的小子\n代声好！\r
+轰隆隆 轰隆隆隆！\r
+炎钢巨兽的身影\n消失在火山的尽头……
+麦可『没想到竟然是\n火山巨石让那只精灵沉睡的！\r还有,嘿嘿！\n你也不赖嘛！\r我接着要去战斗塔,\n目标是那里的冠军！\r给你那性急的朋友带个话,\n在那里决斗吧！

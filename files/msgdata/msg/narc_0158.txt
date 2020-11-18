@@ -1,12 +1,12 @@
-Oh?\nYour {STRVAR 0, 0}...\r
-It worked stupendously hard,\ndidn’t it?\rAs its reward, please give it this\nEffort Ribbon.\r
-{STRVAR 3, 1} received\nthe Effort Ribbon.\r
-{STRVAR 3, 1} put the Effort Ribbon\non {STRVAR 0, 0}.
-It needs to work a little harder.\rIf it does, I’ll give your Pokémon\nsomething nice.
-Oh! That Effort Ribbon looks \ngood on your {STRVAR 0, 0}!
-Sunyshore Market is best known for\nits big selection of Seals.
-Ah, please, allow me a little of your\ntime, if you will. You won’t regret it.\r
-Ah, please, allow me a little of your\ntime, if you will. You won’t regret it.\r...Oh, but, no, no, no!\nYou have no Seal Case?\rYou must return to the town with the\nruins and obtain a Seal Case!
-See the Seal Merchant there?\r
-He didn’t have the Seals I wanted\ntoday... Maybe tomorrow, I guess.
-He came through with different Seals\ntoday! Just what I wanted to see!
+嗯？\n你的{STRVAR 0,0}……\r
+真的非常努力啊！\n作为嘉奖,\f给它带上这个努力缎带吧！\r
+{STRVAR 3,1}\n获得了努力缎带！\r
+{STRVAR 3,1}\n把努力缎带给\f{STRVAR 0,0}带上了！
+再加把劲看看！\n再努力一下我会给精灵\f一些好东西！
+啊！你的{STRVAR 0,0}\n和努力缎带很相衬呢！
+在这个名木市场\n可以买到各种各样的贴纸！
+在这里多看看吧,\n说不定会发现什么好东西\r
+在这里多看看吧,\n说不定会发现什么好东西,\r啊！哎呀！你！\n没有贴纸袋吗！？\r唔ー到花蕊遗迹附近\n去拿了贴纸袋再来吧！
+在那里有贴纸卖\r
+今天没有中意的贴纸啊……\n明天再来看看吧
+嘻嘻！\n今天有卖和昨天不一样的贴纸！

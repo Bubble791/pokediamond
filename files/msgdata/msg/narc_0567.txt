@@ -1,279 +1,279 @@
-CLOSE
-PC
-PC
-PC
-PC
-PC
-Big Boulder
-Yellow Cushion
-Blue Cushion
-Wooden Chair
-Big Table
-Plain Table
-Small Table
-Long Table
-Wide Table
-Poké Table
-Big Bookshelf
-Small Bookshelf
-Research Shelf
-Bike Rack
-Shop Shelf
-Display Shelf
-Cupboard
-Wood Dresser
-Pink Dresser
-TV
-Refrigerator
-Pretty Sink
-Feathery Bed
-Trash Can
-Cardboard Box
-Crate
-Container
-Oil Drum
-Big Oil Drum
-Iron Beam
-Potted Plant
-Poké Flower
-Healing Machine
-Lab Machine
-Test Machine
-Game System
-Vending Machine
-Red Bike
-Green Bike
-Binoculars
-Globe
-Gym Statue
-Red Tent
-Blue Tent
-Clear Tent
-Maze Block 1
-Maze Block 2
-Maze Block 3
-Maze Block 4
-Maze Block 5
-Hole Tool
-Pit Tool
-Smoke Tool
-Big Smoke Tool
-Rock Tool
-Rockfall Tool
-Foam Tool
-Bubble Tool
-Alert Tool 1
-Alert Tool 2
-Alert Tool 3
-Alert Tool 4
-Leaf Tool
-Flower Tool
-Ember Tool
-Fire Tool
-Cute Cup
-Cool Cup
-Beauty Cup
-Tough Cup
-Clever Cup
-Blue Crystal
-Pink Crystal
-Red Crystal
-Yellow Crystal
-Pretty Gem
-Shiny Gem
-Mystic Gem
-Glitter Gem
-Bronze Trophy
-Silver Trophy
-Gold Trophy
-Great Trophy
-Ball Ornament
-Round Ornament
-Clear Ornament
-CHARMANDER Doll
-BULBASAUR Doll
-SQUIRTLE Doll
-CYNDAQUIL Doll
-CHIKORITA Doll
-TOTODILE Doll
-TORCHIC Doll
-TREECKO Doll
-MUDKIP Doll
-CHIMCHAR Doll
-TURTWIG Doll
-PIPLUP Doll
-PIKACHU Doll
-PLUSLE Doll
-MINUN Doll
-CLEFAIRY Doll
-JIGGLYPUFF Doll
-WOBBUFFET Doll
-MEOWTH Doll
-SKITTY Doll
-GLAMEOW Doll
-BUNEARY Doll
-WEAVILE Doll
-MUNCHLAX Doll
-BONSLY Doll
-MIME JR. Doll
-LUCARIO Doll
-MANTYKE Doll
-BUIZEL Doll
-CHATOT Doll
-MANAPHY Doll
-SNORLAX Doll
-WAILORD Doll
-MAGNEZONE Doll
-DRIFLOON Doll
-HAPPINY Doll
-PACHIRISU Doll
- -
- -
- -
- -
-Wide Sofa
-Bonsai
-Dainty Flowers
-Lovely Flowers
-Pretty Flowers
-Lavish Flowers
-Close the Bag.
-dummy
-dummy
-dummy
-dummy
-dummy
-A yellow cushion that can be placed\ninside your Secret Base.
-A blue cushion that can be placed\ninside your Secret Base.
-A small wooden chair that can be\nplaced inside your Secret Base.
-A very big table that can be placed\ninside your Secret Base.
-An ordinary table that can be placed\ninside your Secret Base.
-A very small table that can be placed\ninside your Secret Base.
-A vertically long table that can be\nplaced inside your Secret Base.
-A horizontally wide table that can be\nplaced inside your Secret Base.
-A glass-topped table that can be\nseen in Pokémon Centers.
-A big bookshelf that can be placed\ninside your Secret Base.
-A small bookshelf that can be placed\ninside your Secret Base.
-A rack that is perfect for storing\nall kinds of research documents.
-A rack of tools like those seen\nin the Cycle Shop.
-A shelf stocked full of merchandise\nlike at any Poké Mart.
-A shelf stocked with a variety of\nmerchandise like at any Poké Mart.
-A fancy cupboard for storing all\nsorts of kitchenware.
-A wooden dresser with a\ndistinguished air.
-A fashionable dresser in a pretty\npink color.
-A big toy TV.\nIt is very well made.
-A big, white toy refrigerator.\nIt is very well made.
-A toy sink.\nIt is very well made.
-A very fluffy bed where one can\nenjoy pleasant dreams.
-A round, green-colored trash can.
-A small cardboard box. It is\nconvenient for storing things.
-A large wooden crate that is filled\nwith all sorts of things.
-A large container that is filled with\na variety of things.
-A red oil drum like those seen in\nfactories.
-A cluster of oil drums like those\nseen in factories.
-A red iron beam like those seen at\nbuilding construction sites.
-A potted plant that adds a touch\nof wild nature.
-A small flower like those seen at\nany Pokémon Center.
-A machine used to heal Pokémon like\nthose at any Pokémon Center.
-A brightly illuminated machine used\nfor Pokémon research.
-A flickering, illuminated machine\nused for conducting experiments.
-A brand-new game system like the\none at home.
-A toy replica of a vending machine.\nIt doesn’t actually work.
-A red Bicycle replica. It is like\nthose displayed at the Cycle Shop.
-A green Bicycle replica. It is like\nthose displayed at the Cycle Shop.
-A pair of high-powered\nreplica binoculars.
-It attests to the fact that you have\nfriends from all over.
-A stone statue of a Pokémon like\nthose at Pokémon Gyms.
-A large red tent.\nYou can hide inside it.
-A large blue tent.\nYou can hide inside it.
-A large transparent tent.\nYou can go inside it.
-A block for constructing a maze.\nIt is blocked at the top.
-A block for constructing a maze.\nIt is blocked at the right.
-A block for constructing a maze.\nIt is blocked at the bottom.
-A block for constructing a maze.\nIt is blocked at the left.
-A block for constructing a maze.\nIt is not blocked anywhere.
-A Tool that makes a big pitfall\nto immobilize the victim.
-A Tool that makes a huge pitfall\nto immobilize the victim.
-A Tool that releases obscuring smoke.\nThe smoke can be rubbed away.
-A Tool that releases billowing smoke.\nThe smoke can be rubbed away.
-A Tool that makes blocking boulders.\nBreak the boulders to get free.
-A Tool that makes Big Boulders.\nBreak the boulders to get free.
-A Tool that releases bubbles.\nPop the bubbles to get free.
-A Tool that releases a mass of\nbubbles. Pop them to get free.
-Stepping on this Tool sends \ngreetings to everyone near you.
-Stepping on this Tool sends\nfarewells to everyone near you.
-Stepping on this Tool tells all nearby\nthat you are going to the Union Room.
-Stepping on this Tool alerts everyone\nto gather around you.
-This Tool releases immobilizing leaves.\nBlow the leaves away to get free.
-This Tool releases many flowers.\nBlow the flowers away to get free.
-This Tool releases immobilizing embers.\nBlow the embers away to get free.
-This Tool releases billowing flames.\nBlow the flames away to get free.
-A winner’s cup that is awarded only\nto a truly cute Pokémon.
-A winner’s cup that is awarded only\nto a truly cool Pokémon.
-A winner’s cup that is awarded only\nto a truly beautiful Pokémon.
-A winner’s cup that is awarded only\nto a truly tough Pokémon.
-A winner’s cup that is awarded only\nto a truly smart Pokémon.
-A rare blue crystal awarded to\nhelpful people.
-A rare pink crystal awarded to\nkindhearted people.
-A rare red crystal that is awarded\nto hardworking people.
-A rare yellow crystal awarded to\nsteady, determined people.
-A pretty gem that has been cut\nbeautifully.
-A gleaming gem that has been polished\nlike a mirror.
-A gem that casts a mystic light.\nIt is difficult to obtain.
-An extremely valuable gem that\nglitters dazzlingly.
-A trophy made of bronze that is\nawarded only to tough Pokémon.
-A silver-colored trophy that is\nawarded only to very tough Pokémon.
-A gold-colored trophy that is awarded\nonly to fantastically tough Pokémon.
-An impressive trophy awarded only to\nseemingly indefatigable Pokémon.
-A commemorative object modeled\nafter a Poké Ball.
-A very valuable round object that\nglows in seven colors.
-A very valuable object that is\ncrystal clear.
-A cute CHARMANDER Doll.
-A cute BULBASAUR Doll.
-A cute SQUIRTLE Doll.
-A cute CYNDAQUIL Doll.
-A cute CHIKORITA Doll.
-A cute TOTODILE Doll.
-A cute TORCHIC Doll.
-A cute TREECKO Doll.
-A cute MUDKIP Doll.
-A cute CHIMCHAR Doll.
-A cute TURTWIG Doll.
-A cute PIPLUP Doll.
-A cute PIKACHU Doll.
-A cute PLUSLE Doll.
-A cute MINUN Doll.
-A cute CLEFAIRY Doll.
-A cute JIGGLYPUFF Doll.
-A cute WOBBUFFET Doll.
-A cute MEOWTH Doll.
-A cute SKITTY Doll.
-A cute GLAMEOW Doll.
-A cute BUNEARY Doll.
-A cute WEAVILE Doll.
-A cute MUNCHLAX Doll.
-A cute BONSLY Doll.
-A cute MIME JR. Doll.
-A rare LUCARIO Doll.
-A cute MANTYKE Doll.
-A cute BUIZEL Doll.
-A cute CHATOT Doll.
-A rare MANAPHY Doll.
-A big SNORLAX Doll.
-A big WAILORD Doll.
-A big MAGNEZONE Doll.
-A cute DRIFLOON Doll.
-A cute HAPPINY Doll.
-A cute PACHIRISU Doll.
- -
- -
- -
- -
-A wide, blue sofa.\nIt has room for two.
-A restrained and evocative miniature\ntree shaped by a master.
-A pot of very pretty flowers.
-A pot of very beautiful flowers.
-A pot of very cute flowers.
-A planter that is bursting with a\ngorgeous selection of flowers.
-EXIT
-Exit from decorating.
+返回
+电脑
+电脑
+电脑
+电脑
+电脑
+大岩石
+黄色座垫
+蓝色座垫
+木椅
+大型桌子
+普通桌子
+小型桌子
+长型桌子
+横型桌子
+口袋桌子
+大型书架
+小型书架
+研究架
+单车架
+商店架
+商品架
+餐具架
+木头衣柜
+粉红衣柜
+大电视
+电冰箱
+华丽洗槽
+松软的床
+垃圾箱
+弹珠
+木箱
+集装箱
+汽油桶
+大汽油桶
+钢筋
+盆景
+口袋鲜花
+回复机器
+研究级器
+实验机器
+游戏机
+自动售货机
+红色自行车
+绿色自行车
+望远镜
+地球仪
+道馆雕像
+红色帐篷
+蓝色帐篷
+透明帐篷
+迷路障碍１
+迷路障碍２
+迷路障碍３
+迷路障碍４
+迷路障碍５
+洞穴装置
+大穴装置
+烟装置
+烟幕装置
+岩石装置
+落石装置
+气泡装置
+泡泡装置
+信号装置１
+信号装置２
+信号装置３
+信号装置４
+木叶装置
+花瓣装置
+火苗装置
+火焰装置
+可爱杯
+帅气杯
+美丽杯
+强壮杯
+聪明杯
+蓝色水晶
+粉红水晶
+红色水晶
+黄色水晶
+黄色宝石
+灿烂宝石
+神秘宝石
+辉耀宝石
+殿堂奖杯
+银色奖杯
+金色奖杯
+超强奖杯
+球类材料
+浑圆材料
+透明材料
+小火龙玩偶
+秒蛙种子玩偶
+杰尼龟玩偶
+火球鼠玩偶
+菊草叶玩偶
+小锯鳄玩偶
+火稚鸡玩偶
+木守宫玩偶
+水跃鱼玩偶
+小火猴玩偶
+嫩苗龟玩偶
+圆企鹅玩偶
+皮卡丘玩偶
+正极兔玩偶
+负极兔玩偶
+皮皮玩偶
+胖丁玩偶
+果然翁玩偶
+喵喵玩偶
+向尾猫玩偶
+卷尾猫玩偶
+卷耳兔玩偶
+玛狃拉玩偶
+刚比兽玩偶
+胡说盆栽玩偶
+模仿魔偶玩偶
+鲁卡里奥玩偶
+小蝠鱼玩偶
+叉尾浮鼬玩偶
+音符鹦鹉玩偶
+玛娜菲玩偶
+卡比兽玩偶
+鲸鱼王玩偶
+飞碟磁怪玩偶
+气球鬼玩偶
+粉兜蛋玩偶
+电栗鼠玩偶
+秘密基地之穴
+秘密基地之穴
+秘密基地之穴
+秘密基地之穴
+横型沙发
+盆栽
+华丽的花
+漂亮的花
+可爱的花
+豪华的花
+关闭袋子
+
+
+
+
+
+可以摆放在秘密基地里的\n黄色的座垫
+可以摆放在秘密基地里的\n蓝色的座垫
+可以摆放在秘密基地里的\n用木头做的小型椅子
+可以摆放在秘密基地里的\n很大的桌子
+可以摆放在秘密基地里的\n一般的桌子
+可以摆放在秘密基地里的\n很小的桌子
+可以摆放在秘密基地里的\n很长的桌子
+可以摆放在秘密基地里的\n很宽的桌子
+放在口袋中心的\n用玻璃做的桌子
+可以摆放在秘密基地里的\n很大的书架
+可以摆放在秘密基地里的\n很小的书架
+适合摆放各种\n研究类书籍的架子
+放在自行车铺的\n可以放入工具的架子
+放在商店里的\n摆放了很多商品的架子
+放在商店里的\n摆放了各种商品的架子
+可以放下很多的\n餐具的架子
+用木头做的很有品味的衣柜
+粉红色的漂亮的衣柜
+做工很好的\n大型玩具电视机
+做工很好的\n白色玩具电冰箱
+做工很好的\n玩具洗槽
+能让人做美梦的\n非常松软的床
+圆形的\n绿色的垃圾箱
+很短的东西也能放入的\n方便的小型弹球
+可以放入很多东西的\n很大的木箱
+可以放入各种各样东西的\n大型集装箱
+放在工厂的\n红色汽油桶
+放在工厂的\n很多的汽油桶
+施工时使用的\n红色钢筋
+为了感觉大自然\n观赏用的植物
+放在口袋中心的\n小型花朵
+放在口袋中心的\n回复用机器
+在口袋研究所的\n闪光的机器
+用作各种实验的\n闪光的机器
+也可以放在自己的家中的\n最新的游戏机
+其实是不能买东西的\n玩具自动售货机
+放在自行车铺的\n展示用的红色自行车
+放在自行车铺的\n展示用的绿色自行车
+可以看到很远的地方的\n两个镜筒的物品
+在很多的地方有很多的\n朋友的证明
+放在口袋道馆的\n精灵石像
+可以进到里面去的\n大型红色帐篷
+可以进到里面去的\n大型蓝色帐篷
+可以进到里面去的\n大型透明帐篷
+上方关闭\n制造迷路的障碍
+右方关闭\n制造迷路的障碍
+下方关闭\n制造迷路的障碍
+左方关闭\n制造迷路的障碍
+可以任意通过的\n制造迷路的障碍
+用大型落穴\n阻止行动的装置
+用超大型落穴\n阻止行动的装置
+用烟遮挡视线的装置\n擦一擦就能看见了
+用大量的烟遮挡视线的装置\n擦一擦就能看见了
+用岩石阻止行动的装置\n把岩石破坏掉就可以行动了
+用大型岩石阻止行动的装置\n把岩石破坏掉就可以行动了
+用气泡阻止行动的装置\n把气泡打破掉就可以行动了
+用很多气泡阻止行动的装置\n把气泡打破掉就可以行动了
+踏上去就会向大家发送\n打招呼的信号的装置
+踏上去就会向大家发送\n再见的信号的装置
+踏上去就会向大家发送\n到联机大厅去的信号的装置
+踏上去就会向大家发送\n到这里来的信号的装置
+用木叶阻止行动的装置\n吹散就可以行动了
+用很多的花瓣阻止行动的装置\n吹散就可以行动了
+用火苗阻止行动的装置\n吹散就可以行动了
+用大的火焰阻止行动的装置\n吹散就可以行动了
+只会送给真正\n可爱的精灵的奖杯
+只会送给真正\n帅气的精灵的奖杯
+只会送给真正\n美丽的精灵的奖杯
+只会送给真正\n强壮的精灵的奖杯
+只会送给真正\n聪明的精灵的奖杯
+送给亲切的人的\n珍贵的蓝色水晶
+送给温柔的人的\n珍贵的粉红色水晶
+送给努力的人的\n珍贵的红色水晶
+送给实在的人的\n珍贵的黄色水晶
+被修整的很美丽的\n漂亮的宝石
+磨得像镜子一样\n闪耀光辉的宝石
+入手相当困难的\n放出神秘光辉的宝石
+放出眩目的光芒\n非常贵重的宝石
+只送给强大的精灵的\n铜质奖杯
+只送给相当强大的精灵的\n银质奖杯
+只送给强大至极的精灵的\n金质奖杯
+只送给没有输给任何人过的\n强大精灵的超级奖杯
+精灵球外型的\n纪念品
+放出七色光茫的\n非常珍贵的圆形材料
+可以透过去看的\n非常珍贵的透明材料
+小火龙样子的\n很可爱的玩偶
+秒蛙种子样子的\n很可爱的玩偶
+杰尼龟样子的\n很可爱的玩偶
+火球鼠样子的\n很可爱的玩偶
+菊草叶样子的\n很可爱的玩偶
+小锯鳄样子的\n很可爱的玩偶
+火稚鸡样子的\n很可爱的玩偶
+木守宫样子的\n很可爱的玩偶
+水跃鱼样子的\n很可爱的玩偶
+小火猴样子的\n很可爱的玩偶
+嫩苗龟样子的\n很可爱的玩偶
+圆企鹅样子的\n很可爱的玩偶
+皮卡丘样子的\n很可爱的玩偶
+正极兔样子的\n很可爱的玩偶
+负极兔样子的\n很可爱的玩偶
+皮皮样子的\n很可爱的玩偶
+胖丁样子的\n很可爱的玩偶
+果然翁样子的\n很可爱的玩偶
+喵喵样子的\n很可爱的玩偶
+向尾猫样子的\n很可爱的玩偶
+卷尾猫样子的\n很可爱的玩偶
+卷耳兔样子的\n很可爱的玩偶
+玛狃拉样子的\n很可爱的玩偶
+刚比兽样子的\n很可爱的玩偶
+胡说盆栽样子的\n很可爱的玩偶
+模仿魔偶样子的\n很可爱的玩偶
+鲁卡里奥样子的\n珍贵的玩偶
+小蝠鱼样子的\n很可爱的玩偶
+叉尾浮鼬样子的\n很可爱的玩偶
+音符鹦鹉样子的\n很可爱的玩偶
+玛娜菲样子的\n珍贵的玩偶
+卡比兽样子的\n大型玩偶
+鲸鱼王样子的\n大型玩偶
+飞碟磁怪样子的\n大型玩偶
+气球鬼样子的\n很可爱的玩偶
+粉兜蛋样子的\n很可爱的玩偶
+电栗鼠样子的\n很可爱的玩偶
+
+
+
+
+最多可以坐两个人的\n横型的沙发
+经过手艺人培养的\n古雅的盆栽
+非常漂亮的花\n作为装饰的盆景
+非常美丽的花\n作为装饰的盆景
+非常可爱的花\n作为装饰的盆景
+很多豪华的花\n作为装饰的种植器
+返回
+返回了

@@ -1,17 +1,17 @@
-Everyone calls me the Pokémon\nMove Maniac. I prefer Move Tutor.\rI know every move that Pokémon learn\nwhile they’re leveling up, and I can\fteach Pokémon those moves.\rI can teach a move to a Pokémon\nof yours if you’d like.\rI’ll do it if you’ll trade me\na Heart Scale.\r
-Oh! That’s it! That’s an honest-to-\ngoodness Heart Scale!\rLet me guess, you want me to teach\none of your Pokémon a move?\r
-If any of your Pokémon needs to learn a\nmove, come back with a Heart Scale.
-Which Pokémon needs tutoring?\r
-Which move should I teach?\r
-Sorry...\rThere isn’t any move I can teach\nthat Pokémon.
-Hunh?\rDon’t you think it’d be tough for\nan Egg to learn a move?
-                      
-               
+大家都叫我\n口袋技能狂！\r记住,精灵是不断成长的,\n要不断了解所有的技能,\r还要将这些技能\n全部都教给精灵！\r如果带给我心之鳞片的话,\n我可以帮你回忆起它曾经忘记的技能！\r
+哇哦！\n这就是心之鳞片啊！\r想要回忆技能吗？\r
+如果有想让它学会的技能\n就把心之鳞片带来吧！
+要让哪只精灵回忆？\r
+让它回忆哪个技能？\r
+不好意思……\n似乎没有能够学会的技能
+去死……\r让蛋去学技能\n你在搞笑吧？
+让{STRVAR 0,0}回忆起\n哪个技能？
+让它回忆起{STRVAR 6,0}\n吗？
+放弃让{STRVAR 0,0}\n回忆技能吗？
+{STRVAR 0,0}回忆起了\n技能{STRVAR 6,1}！
+想让{STRVAR 0,0}回忆起\n{STRVAR 6,1}……！\r但是{STRVAR 0,0}只能学习\n四个技能！\r为了习得{STRVAR 6,1}\n让它忘记其他技能吗？
+那么放弃回忆{STRVAR 6,1}？\n
+{STRVAR 0,0}没有习得{STRVAR 6,1}！\n
+让它忘记{STRVAR 6,1}\n可以吗？
                            
-                       
-                                                                                    
-                            
-                       
-                     
-                                                                        
-{STRVAR 3, 3} handed over\n{STRVAR 8, 4} in exchange.
+{STRVAR 3, 3}为了表示感谢\n送你一个{STRVAR 8, 4}.

@@ -1,14 +1,14 @@
-Boss: ...I see. You must be the\nTrainer I’ve been hearing about.\rThe foolhardy one that’s trying to\nstand up to Team Galactic.\rAlthough I’d hardly expected to\nsee that the Trainer is a mere child.\rI’d heard that our Commanders had\na rough time with you...\r
-I know why you’re here, I can sense\nit in you.\rIt’s about UXIE, MESPRIT, and AZELF,\ncorrect? You want to save them...\rI no longer have any need for them.\nI am finished with them.\rIf your heart aches to save them,\ngo right ahead, I could care less.\rIt will save me the trouble of\ndisposing of them.\rBut, I must say...\nYou are a remarkable specimen.\rThose Pokémon have nothing to do\nwith you, do they not?\rBut still you came to rescue them\nout of pity?\rSuch pitifully useless emotions...\nIt’s illogical and irrational.\rPity and compassion are products of\nthe weak and lacking human heart.\rYou were compelled to come here by\nsuch vacuous sentimentality!\rI will make you regret paying\nheed to your heart!\r
-Boss: I see.\nYou are indeed strong.\rAnd the basis of your power is your\ncompassion toward Pokémon.\r...How wasteful...\nSuch emotions are but mere illusions.\rAnd, like all illusions, they fade\nover time until death banishes them\fforever.\rThat is why I have abandoned all\nemotions as useless sentimentality.\r...But that doesn’t matter. I doubt\nyou will ever understand my position.\rThat said, I recognize that you are\nstrong and courageous to come alone.\rThis is your reward.\r
-Boss: The Master Ball is the ultimate\nPoké Ball.\rIt will unfailingly catch any Pokémon\nin the wild.\rBut it is not anything that I require.\rUnlike you Trainers, I do not make\nPokémon my friends or partners.\rUnlike other Team Galactic members,\nI don’t use Pokémon as tools.\rInstead, I make the power of Pokémon\nmy own.\r
-If you wish to save the Pokémon from\nthe lakes, take the warp panel ahead.\rI am off to Mt. Coronet.\rThat’s correct. Mt. Coronet.\nWhere you and I first met.\rI will ascend the mountain to its\npeak and put an end to everything...\rNo. I will bring about a new beginning\nfor everything...\r
-The door is locked.\nA special key is needed.
-The door is locked.\nA special key is needed.\rUse the Galactic Key?
-The door opened.
-Team Galactic Warp Panels!\rThe green warp panel returns you\nto the ground floor.\rOnward to a new universe!\n-Team Galactic
-Team Galactic Report\r
-Which report would you like to read?
-Some say the universe originated\nfrom a massive explosion.\rSimilarly, Sinnoh is thought to have\nbeen formed by an explosion in\fancient times.\rNeedless to say, the explosion came\nfrom the power of a Pokémon.\rThe Pokémon must have been the\nmythical creature considered\fa deity by the ancients.\rOur aim is not to capture the\nmythical Pokémon, but to obtain its\fpower...\rThe PC entry ends there...\r
-The mythical Pokémon...\rAccording to myths, the Pokémon\ncreated Sinnoh with its power.\rHowever, capturing the Pokémon with\na Poké Ball prevents it from using\fits full power...\rBut with the Red Chain, the Pokémon\ncan be shackled, and its power can\fbe used without restraint...\rThe PC entry ends there...\r
-The Red Chain...\rThe Pokémon of the three lakes and\nMt. Coronet are somehow connected.\rCapturing the Pokémon of the lakes\nwill free the Pokémon of Mt. Coronet.\rFrom the Pokémon of the lakes,\ncrystals can be extracted to create\fa Red Chain.\rUsing that Red Chain, the mythical\nPokémon can be summoned and shackled\fto do as we command...\rThe PC entry ends there...\r
+老大『……原来是你,\n你就是报告里的\f违抗银河团的训练师吗\r没想到竟然会是小孩子,\n听说银河团的干部们\f都对付不了你啊。\r
+我知道你来这里的原因,\n红蓝黄三只圣菇,\f是为了这３只精灵吧,\r那些精灵们已经不需要了,\n你想要它们的话\f也省得我来处理了,\f就随你便好了,\r但是在那之前,\n先让我看看\f你那反抗银河团的力量吧\r
+老大『原来如此,果然很强,\n并且这份力量来自于\f你对精灵的温柔\r……太可惜了,\n那种东西都是假的,\r看不见的东西都是\n摇摇欲坠,终会消失的,\f死掉了就不再存在的东西,\r所以,\n我抹杀了自己所有的感情\r……算了,\n你是无法理解的,\r但是,对于只身前来的\n你的坚强和勇气,我认可,\f真心的认可。\r
+老大『这个大师球,\n无论什么精灵都能抓住,\f是终极的精灵球,\r但是,\n我不需要,\r我不会像训练师那样\n把精灵当成同伴,\f也不会像银河团的其他人那样,\f把精灵当成道具,\r我只想把精灵的力量\n变成我自身的力量。\r
+想要去救湖之精灵们的话,\n乘上前面的空间移动器就可以了,\r再见了,\n我要回去殿元山了,\f没错,就是和你\f初次相遇的那个地方……\r从那里登上山顶,\n去结束一切……\f不,是去开始一切。\r
+这个门如果不使用\n特定的钥匙就无法打开……
+这个门如果不使用\n特定的钥匙就无法打开……\r要使用银河团的钥匙吗？
+门打开了！
+银河团空间转换器！\r乘上绿色的空间转换器\n就可以回到１Ｆ了！\f崭新的宇宙！    银河团
+银河团报告\r
+要读哪个报告？
+宇宙是从大爆炸中诞生的,\n远古的神奥也可以推测为\f是从某次爆炸中诞生的,\r当然,\n其中有精灵的力量,\f也有被称为神的\f神话精灵的力量,\r不是抓住神\n而是得到神的力量……\r记录里的文章\n在这里中断了……\r
+神话精灵……\r孕育出神奥的\n这传说中的力量,\f被抓进精灵球里的话\f就无法自如地操纵力量,\r但是,拥有赤色锁的话\n神话精灵就能勉强维持\f自如驾驭的能力……\r记录里的文章\n在这里中断了……\r
+赤色锁……\r３只湖之精灵\n和殿元山的神兽\f在某些方面是有联系的,\r将３只湖之精灵捉住的话,\n抑制住殿元山的神兽行动的\f力量就会消失,\r并且,\n取出湖之精灵的结晶,\f使用赤色锁的话,\f连神话精灵也能召唤出来,\f如你所想地操纵它……\r记录里的文章\n在这里中断了……\r

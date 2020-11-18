@@ -1,18 +1,18 @@
-All right, thanks for your patience!\nLet’s begin the Visual Competition!\r
-Dexter: Entry number 1!\n{STRVAR 3, 0}!\r{STRVAR 3, 0} has entered the Contest\nwith {STRVAR 0, 1}!\r
-Dexter: Entry number 2!\n{STRVAR 3, 0}!\r{STRVAR 3, 0} enters our Contest with\n{STRVAR 0, 1}!\r
-Dexter: Entry number 3!\n{STRVAR 3, 0}!\r{STRVAR 3, 0} is in the Contest with\n{STRVAR 0, 1}!\r
-Dexter: Entry number 4!\n{STRVAR 3, 0}!\r{STRVAR 3, 0}’s Contest hopes ride\nwith {STRVAR 0, 1}!\r
-The Dance Competition is next!\nIs everyone up and ready for this?!\r
-    
-    
-    
-    
-    
-    
-             
-                                                   
-    
-                                                                                   
-                     
-OK, let’s watch the reactions of the\naudience toward the Pokémon involved\fin this practice session!\rI’ll pass over the MC duties to\nDexter and call this a rehearsal!\fDexter: Sure thing! I’ve got it!\r
+久等了！\n视觉审核开始！\r
+比克『１号参赛者！\n{STRVAR 3,0}！\r{STRVAR 3,0}派出参赛的是\n{STRVAR 0,1}！\r
+比克『２号参赛者！\n{STRVAR 3,0}！\r{STRVAR 3,0}派出参赛的是\n{STRVAR 0,1}！\r
+比克『３号参赛者！\n{STRVAR 3,0}！\r{STRVAR 3,0}派出参赛的是\n{STRVAR 0,1}！\r
+比克『４号参赛者！\n{STRVAR 3,0}！\r{STRVAR 3,0}派出参赛的是\n{STRVAR 0,1}！\r
+接下来是舞蹈审核！\n准备好了吗\r
+
+
+
+
+
+
+下面开始装扮！\r
+来到会场的各位观众！\n请为你们所喜欢的精灵\f进行投票！\r
+
+
+视觉审查到此结束！\r
+那么,和其他参加练习的精灵\n一起看看各位观众的反应吧！\r接下来就交给\n排练兼主持人的比克先生了！\f比克『ＯＫ！交给我吧！\r

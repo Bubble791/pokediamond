@@ -1,3 +1,3 @@
-Talk to that nice lady at the counter\nand hand her your Pokémon.\rShe’ll heal your Pokémon to perfect\nhealth in no time at all!
-Do you see that PC over there?\nThat fancy blue one?\rIf you’ve got Pokémon with you,\nit’s free to use.
-The top floor of any Pokémon Center\nis the Pokémon Communication Club.\rThere, you can have all sorts of fun\nwith your friends.
+和那里的大姐姐说一声,\n再把精灵给她,\f精灵的体力一下子就恢复了,\f完全恢复健康啊！
+要是你带着精灵的话\n就可以自由使用\f那个蓝色的电脑
+口袋中心２层是\n口袋通信俱乐部！\f可以和朋友们一起玩儿！

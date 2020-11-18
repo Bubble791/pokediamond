@@ -1,15 +1,15 @@
-Welcome to Geonet, the high-tech\nglobe!\r
-What would you like to do?
-Here, you may register the location\nof where you live.\rThat information may be provided to\nfriends and strangers through\rDS Wireless Communications or over\nNintendo WFC.\rWould you like to register your\nhome’s location area?
-Please select the location in which\nyou live.
-Please select the area in which\nyou live.
-Once registered, you may not change\nyour registered location data.\rShould this location be registered\nas where you live?
-{STRVAR 36, 0}
-{STRVAR 37, 0}
-YES
-NO
-SEE LIST
-REGISTER
-EXIT
-Your registered location:\n{STRVAR 36, 0}\n{STRVAR 37, 1}
-To display registered locations, line up\nthe cursor, and press the X Button.
+欢迎来到\n高端地球仪联网！\r
+请问要做什么？
+这里可以登录\n玩家实际所在的地点,\r你登录的地点,\n可以通过ＤＳ无线通信\fＷｉＦｉ连接\f向朋友或他人进行传送,\r要登录你的地点吗？
+请选择所在地点
+请选择所在地域
+所在的场所\n一旦登录将无法更改,\r确定要登录\n这个地点吗？
+{STRVAR 36,0}
+{STRVAR 37,0}
+是
+不是
+查看
+登录
+取消
+登录地点 {STRVAR 36,0}\n{STRVAR 37,1}
+在光点上按Ｘ键\n能够显示地名

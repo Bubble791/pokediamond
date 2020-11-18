@@ -1,11 +1,11 @@
-I’m going to be a Sailor like my\ndaddy!\rHe’s a real man among men!\nEven the sea doesn’t scare him!\rOh, but a Gym Leader’d be cool, too!\nByron is so awesome!
-The little boy is thrashing about\nin his sleep.\rHe appears to be in torment...\nHe is muttering something...\r“DAR...\nDARK...is watching...me...”
-The little boy is thrashing about\nin his sleep.\r{STRVAR 3, 0}’s Lunar Wing began\nto glow...\rThe boy’s sleeping face became\nuntroubled and serene!\r
-The little boy woke up!
-I couldn’t wake up...\nI saw it...\rIt was a scary dream...\nIt was a dark place...\fAnd there was a dark Pokémon...\rBut, Daddy, Mommy...\nI could always hear your voices...
-Oh, my gosh!\nYou’re awake!\rOh, my son...\nI... I don’t know what to say...\r
-Thank you!\nWe’ll never forget you!\r
-Seeing you back to normal makes\nme feel great!\rI’ve regained my spirit as a Sailor!\nCome sail with me later!\r
-Our boy has too much energy!\nI wish he’d be a little quieter.
-I never thought our boy would fall\ninto this endless nightmare...\rIt’s happened in the past in\nCanalave...\rThere were people who never woke\nup from their nightmares...
-Thank you! We can’t thank you\nenough, but thank you!
+哦呀……好想看到父亲啊！\n我也是船员了！\r不论是什么海域都不会害怕的\n男人中的男人！\r不过能当道馆馆主也不错！\n藤元先生超帅呢！
+男孩似乎正做着可怕的噩梦,\n还在念叨着梦话……\r「噩ー……\n噩ー啸……在看这边……
+男孩似乎正做着可怕的噩梦\r{STRVAR 3,0}身上的\n新月之羽散发出光辉……\r男孩的睡容\n变得安详起来！\r
+男孩醒过来了！
+我看到了……\n恐怖的梦……\r一个漆黑的地方\n有一个漆黑的精灵的梦……\r不过……\n能听到爸爸妈妈叫我的声音……
+啊啊！醒了吗！\r太好了……\n真的是太好了……\r
+真的是非常感谢！\n你的大恩我一辈子都不会忘记\r
+看到你个臭小子没事\n我也就放心了！\r港口那边还很忙！\n我晚点再回来！！\r
+犬子大病初愈,\n让他稍微静养一下吧
+难道说家里的孩子\n被噩梦抓住了？\r神奥地区在过去就有\n陷入噩梦无法醒来的传言呢……
+真的非常非常感谢你！

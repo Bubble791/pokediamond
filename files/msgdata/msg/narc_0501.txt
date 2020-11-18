@@ -1,37 +1,37 @@
-Mom: {STRVAR 3, 0}!\r{STRVAR 3, 1} came calling for you\na little while ago.\rI don’t know what it was about, but\nhe said it was an emergency.\r
-Mom: You know how impatient\n{STRVAR 3, 0} is.\rHe took off before I could even\nask what it was about.
-Mom: Bye-bye, {STRVAR 3, 0}!\nYou take care now!
-Mom: But that {STRVAR 3, 0}...\nHe always invites you along.
-Mom: Oh, yes!\n{STRVAR 3, 0}!\rDon’t go into the tall grass.\nWild Pokémon might attack you.\rIt would be OK if you had your own\nPokémon, but you don’t, so...
-Mom: What is it, dear?\nIsn’t {STRVAR 3, 0} waiting for you?
-Mom: What’s up, dear?\r...\rWow.\nI can’t believe that happened to you.\rAm I ever glad that both you and\n{STRVAR 3, 0} are unharmed.\rThe professor you mentioned is\nmost likely Professor Rowan of\fSandgem Town.\rI’ve heard that he is well known for\nhis studies on Pokémon.\rI hear he’s also quite intimidating...\r{STRVAR 3, 1}, I think you need to\nvisit him in Sandgem Town.\rYou need to properly explain why you\nhad no choice but to use his Pokémon.\rDon’t worry!\nI’m sure he will understand.\r
-Oh, I know!\n{STRVAR 3, 0}, put these on.\r
-{STRVAR 3, 0} received a pair of\n{COLOR 1}Running Shoes{COLOR 0}!
-Going to Sandgem Town is like an\nadventure in itself, right?\rWith those Running Shoes, you can\nget to faraway places much faster.\rOK...\nLet me read the instructions...\r“Press the B Button and dash\nabout faster than ever before!\r“Put on the Running Shoes and\nblaze new trails of adventure!”\rWell, isn’t that just nifty!
-Mom: I’ll read you the instructions\nfor the Running Shoes...\r“Press the B Button and dash\nabout faster than ever before!\r“Put on the Running Shoes and\nblaze new trails of adventure!”\rWell, isn’t that just nifty!
-Mom: Welcome home, {STRVAR 3, 0}.\nAre you and your Pokémon healthy?\rIt’s still early in the morning.\nTake a quick rest, dear.\r
-Mom: Welcome home, {STRVAR 3, 0}.\nAre you and your Pokémon healthy?\fTake a quick rest, dear.\r
-Mom: Welcome home, {STRVAR 3, 0}.\nAre you and your Pokémon healthy?\rI just made dinner.\nTake a quick rest, dear.\r
-Mom: Welcome home, {STRVAR 3, 0}.\nAre you and your Pokémon healthy?\rIt’s so late right now...\nTake a quick rest, dear.\r
-Mom: What’s up, {STRVAR 3, 0}?\r...\rWow. Professor Rowan asked you\nto do something that big.\rOK, dear, go for it!\nYour mom’s got your back!\rOh, I know! {STRVAR 3, 0}, I’ve got\nsomething that you’ll find useful.\r
-That’s a Journal. It keeps a record\nof your daily events.\rCheck it, and you’ll be able to\nremember what you did last.\r
-Gee, a journey full of adventure...\nI envy you, kiddo.\rPlus, you’re not alone.\nYou have your Pokémon with you.\fI wish I could go instead!\r
-I’m just joking, dear!\nYup, {STRVAR 3, 0}!\rI’ll be all right by myself, so you\ngo and enjoy your adventure!\rWhen you’re exposed to new things,\nand experience new sensations...\fIt makes your mother happy too.\r...But come back sometimes.\rI would like to see the kinds of\nPokémon you’ve caught, dear.\r
-{STRVAR 3, 1}’s mom: Excuse me.\nIs my little {STRVAR 3, 1} here?\r
-Mom: Oh?\nNo, he’s not...\r
-{STRVAR 3, 1}’s mom: Oh...\nThen, he must have left already...\fWhat to do...\rThat boy shouted about going on an\nadventure, then he bolted.\rHe’s so headstrong and reckless...\nI at least wanted him to take this...\r
-Mom: Not to worry, {STRVAR 3, 0} will\ndeliver that to him.\r
-Won’t you, {STRVAR 3, 0}?\r
-{STRVAR 3, 1}’s mom: Oh, really?\nYou’d do that for me?\r{STRVAR 3, 0}, please take this to\n{STRVAR 3, 1} for me.\r
-{STRVAR 3, 1}’s mom: Oh, really?\nYou’d do that for me?\r{STRVAR 3, 0}, please take this to\n{STRVAR 3, 1} for me.\r
-{STRVAR 3, 1}’s mom: Let me think...\rKnowing my boy, he would probably\nhead straight to Jubilife City...\rOK, please take that to my\n{STRVAR 3, 1}.\r
-Mom: Bye-bye, {STRVAR 3, 0}!\nEnjoy your adventure!\r
-Mom: Bye-bye, {STRVAR 3, 0}!\nEnjoy your adventure!
-MC: Here we are!\nIt’s the Contest Digest!\rThe winner of today’s Normal Rank\nCute Contest is...\rBrooke, who entered a breathtakingly\ncute Pokémon!\rThat’s all the time we have today!\nUntil next time!
-MC: Here we are!\nIt’s the Contest Digest!\rThe winner of today’s Normal Rank\nSmart Contest is...\rWestley, who won with his bright spark\nof a Pokémon!\rThat’s all the time we have today!\nLet’s meet again!
-MC: Here we are!\nIt’s the Contest Digest!\rThe winner of today’s Normal Rank\nTough Contest is...\rDominic, who overwhelmed with his\nawesomely buffed Pokémon!\rThat’s all the time we have today!\nLet’s meet again!
-Mom’s favorite dessert is in\nthe refrigerator.
-Mom’s kitchen is spotless!\nYou can see your face on the floor!
-This is where Mom does all her\ndelicious cooking.
-Mom: {STRVAR 3, 0}!\r{STRVAR 3, 1} came looking for you\na little while ago.\rI don’t know what it was about, but\nhe was shouting about you needing\fto get on a ship at Snowpoint City.\rYou know how impatient he is.\nHe was gone before I could ask.
-Mom: {STRVAR 3, 0}!\r{STRVAR 3, 1} came looking for you\na little while ago.\rI don’t know what it was about, but\nhe was shouting about you needing\fto get on a ship at Snowpoint City.\rYou know how impatient he is.\nHe was gone before I could ask.\rAnyway, how’s it going, kid?\rIs your project with Professor Rowan\ncoming along?
+妈妈『{STRVAR 3,0}！\n刚才{STRVAR 3,1}来找你了,\f好像有什么事,\f很着急的样子！\r
+妈妈『{STRVAR 3,0}那孩子真是个急脾气,\n我还没来得及问什么事他就跑了。
+妈妈『一路顺风,\n{STRVAR 3,0}！小心别受伤啊！
+妈妈『不管怎么说,\n{STRVAR 3,0}总是来找你呢。
+妈妈『对了！{STRVAR 3,0}！\n不可以到草丛里去哦！\r会出现野生精灵的！\r等你有了自己的精灵\n再去冒险吧……
+妈妈『怎么了？{STRVAR 3,0}\n不是在等着你吗？
+妈妈『怎么了？\r…… …… ……\n…… …… ……\r原来发生了那种事呀,\n不过你和{STRVAR 3,0}\f都平安无事就好了！\r我听说过那个博士的事情,\n真砂镇的山梨博士,\f在口袋研究方面\f是非常有名的人物呢,\f不过也有人说他挺吓人……\r{STRVAR 3,1},\n去真砂镇向博士好好解释一下\f为什么要使用精灵吧,\r不要紧！\n博士会原谅你的！\r
+对了！{STRVAR 3,0},\n穿上这个！\r
+{STRVAR 3,0}得到了\n{COLOR 1}跑步鞋{COLOR 0}！
+去真砂镇的话\n也算是冒险吧,\f穿上跑步鞋的话可以走得更快！\r嗯,\n先看一下说明书,\r「穿上跑步鞋以后,\n按Ｂ键可以让你走得更快！\f穿上跑步鞋,\f想跑多快都可以！」\r嗯！很帅气！
+妈妈『总之呢,\n先看一下说明书,\r「穿上跑步鞋以后\n按Ｂ键的话\f可以让你走得更快！\f穿上跑步鞋\f想跑多快都可以！」\r嗯！很帅气！
+妈妈『你回来了！\n{STRVAR 3,0},你和精灵都还好吧？\f就快天亮了,\f去稍微休息下吧！\r
+妈妈『你回来了！\n{STRVAR 3,0},你和精灵都还好吧？\f去休息一下吧！\r
+妈妈『你回来了！\n{STRVAR 3,0},你和精灵都还好吧？\f已经是晚上了,\f去休息一下吧！\r
+妈妈『你回来了！\n{STRVAR 3,0},你和精灵都还好吧？\f这么晚了……\f赶紧去休息一下吧！\r
+妈妈『怎么了,{STRVAR 3,0}？\r…… …… ……\n…… …… ……\r你要去帮助山梨博士\n收集图鉴啊,\f好的！加油\f妈妈会支持你的！\r对了！{STRVAR 3,0},\n有好东西给你。\r
+读读这个冒险笔记就可以\n回忆起自己做过的一切！\r
+真好啊,\n冒险的时候并不是一个人啊,\f还有精灵会陪伴你的呀！\f妈妈也真的好想去啊！\r
+放心吧！\n{STRVAR 3,0}！\f妈妈没关系的！\f一想到你的旅行就很高兴。\r你会遇到许多事情,\n有很多自己的想法,\f妈妈就很满足了！\r……偶尔也要回来看看哦,\n妈妈也想看看\f你抓到了哪些精灵呢！\r
+{STRVAR 3,1}的妈妈『不好意思,\n{STRVAR 3,1}来过这里吗？\r
+妈妈『哎？没来过啊……\r
+{STRVAR 3,1}的妈妈『也没来这里啊,\n已经一整天没见到他了,\f头疼啊……\r那孩子说要去冒险！\n就这么叫着就跑出去了,\f他跑的太快,\f连这个都没来得及给他。\r
+妈妈『不要紧,\n交给{STRVAR 3,0}吧！\r
+没问题吧,{STRVAR 3,0}！\r
+{STRVAR 3,1}的妈妈『可以吗？\n那就拜托你了！\r{STRVAR 3,0},\n请把这个带给{STRVAR 3,1}吧！\r
+{STRVAR 3,1}的妈妈『可以吗？\n那就拜托你了！\r{STRVAR 3,0},\n请把这个带给{STRVAR 3,1}吧！\r
+{STRVAR 3,1}的妈妈『嗯……\n估计那孩子可能快到长寿市了吧……\r{STRVAR 3,1}的事就拜托你了！\r
+妈妈『{STRVAR 3,0},一路顺风！\n旅行中玩得开心！\r
+妈妈『{STRVAR 3,0},一路顺风！\n路上要多小心啊！
+主持人『哟！\n华丽大赛现场直播！\r这次的普通级别\n可爱类选美的优胜者是\f特别漂亮的选手马奇！！\r感谢您的收看！\n下次节目再会！！
+主持人『哟！\n华丽大赛现场直播！\r这次的普通级别\n帅气类选美的优胜者是\f特别潇洒的选手大作！！\r感谢您的收看！\n下次节目再会！！
+主持人『哟！\n华丽大赛现场直播！\r这次的普通级别\n强壮类选美的优胜者是\f特别强壮的选手和彦！！\r感谢您的收看！\n下次节目再会！！
+冰箱里有妈妈\n最喜欢的甜点！
+闪闪发光的厨房！\n能看见自己的脸！
+妈妈做的饭\n特别香！
+妈妈『{STRVAR 3,0}！\n刚才{STRVAR 3,1}来找你了,\f好像说什么金岬市有船了。\r那孩子真是个急脾气,\n我还没来得及问清楚他就跑了。
+妈妈『{STRVAR 3,0}！\n刚才{STRVAR 3,1}来找过你,\f好像说什么金岬市有船了。\r那孩子真是个急脾气,\n我还没来得及问清楚他就跑了。\r对了,\n帮山梨博士的忙还顺利吗？

@@ -1,29 +1,29 @@
-Welcome to the Battle Park!\rIt’s your first time, isn’t it?\nPlease step this way.\r
-Since this is your first visit, you\nneed to be given a Point Card.\rPoint Cards are used only in\nthe Battle Park.\rHere you go.\r
-If you need information on the Point\nCard, please ask the receptionist\fnext to me.\rI’m the one to ask if you need any\ninformation on the facilities here\fin the Battle Park.\rFor information on the battle rules\nused at the Battle Park, please ask\fthe receptionist across from me.\r
-Welcome to the Battle Park!\rIf you need any information on the\nfacilities, I’m the one to ask.\r
-What would you like me to explain?
-The Battle Park is a place where\nTrainers may enjoy battles.\rThere are two facilities in\nthe Battle Park: the Exchange Service\fCorner and the Battle Tower.\r
-The Exchange Service Corner is the\nbuilding that looks like a castle.\rThere, you may exchange the BP\n(Battle Points) you’ve earned for\fitems.\rFabulous prizes are offered, so\nplease do visit the Exchange Service\fCorner when you save up BP.\r
-The Battle Tower is the building\nat the back of the Battle Park.\rThe tower has four sets of Battle\nRooms for different kinds of battles.\rThe Single Battle Rooms are for\nconducting one-on-one battles.\rThe Double Battle Rooms are for\ntwo-on-two battles.\rThe Multi Battle Rooms are for\ntag team battles with a partner.\rThe Wi-Fi Battle Rooms are for\nbattling other Trainers from around\fthe world.\r
-Welcome to the Battle Park!\rI can explain how the Point Card and\nthe BP (Battle Points) work.\r
-What would you like me to explain?
-Every Trainer visiting the Battle Park\nis provided with a Point Card that\fconfirms their challenger status.\rThe Point Card stores BP (Battle\nPoints) that you earn from battling\fin the Battle Tower.\r
-BP, short for Battle Points, are used\nonly in the Battle Park.\rYou will earn BP by hitting certain\nperformance targets battling at\fthe Battle Tower.\rThe BP can be traded for prizes at\nthe Exchange Service Corner.\r
-Welcome to the Battle Park!\rI can give you a rundown of the\nbattle rules that are used at\fthe Battle Tower.\r
-What would you like me to explain?
-In the Battle Tower, you may enter\nPokémon in battles that are capped\fat Lv. 50.\rPokémon up to Lv. 50 may be entered\nwith a few exceptions.\rPokémon above Lv. 50 may also be\nentered, but their level will be\fcut to Lv. 50 in the Battle Tower.\rThe reduced level will be restored\nwhen you leave the Battle Tower.\rPlease keep in mind that your\nopponents will not use Pokémon below\fLv. 50.\r
-Excluding Eggs and certain exotic\nPokémon, virtually every species of\fPokémon may enter the Battle Tower.\rPlease be aware that the number of\nPokémon you may enter will depend\fon the course you challenge.\rYou are also permitted to take only\none of each kind of Pokémon into\fthe Battle Tower.\r
-Your Pokémon may not be holding the\nsame kind of item in the Battle\fTower.\rPlease be sure the Pokémon entering\nthe Battle Tower are all holding\fdifferent items.\r
-Good luck!
-Welcome to the Battle Park!
-EXIT
-BATTLE PARK
-EXCHANGE SERVICE CORNER
-BATTLE TOWER
-POINT CARD
-BP
-LEVEL LIMIT
-SPECIES & NUMBERS
-HOLD ITEMS
-The Battle Tower’s up ahead.\rI wonder what kind of Trainers\nare waiting there?
+欢迎来到战斗公园！\r您是初次来到这里的训练师吧！\n请到这边来！\r
+初次来到本地的训练师,\n请到这里领取\f战斗公园的专用道具\r战斗点数卡片！\r
+如果需要听取点数卡片的说明,\n可以向我身边的服务员询问,\r如果需要听取\n关于战斗公园设施的说明\f请来找我,\r关于战斗公园专用的\n精灵对战规则的说明,\f请询问对面的服务员！\r
+欢迎来到战斗公园！\r这里对战斗公园内的设施\n进行说明\r
+要听哪个说明呢？
+战斗公园是让大家轻松享受\n口袋对战的场所,\r战斗公园内有\n点数兑换处和战斗塔两个设施,\r
+用点数交换奖品的地方\n是那个像城堡一样的建筑。\r在点数兑换处\n你可以用你积累的ＢＰ\f兑换纪念品,\r我们准备有许多漂亮的纪念品,\n所有积累了一定的ＢＰ的话,\f一定要前去兑换！\r
+战斗塔是战斗公园内\n最里面的一幢建筑物,\r在那里有\n可以进行单人对战的\f单人对战房间,\r可以进行双人战斗的\n双人对战房间,\r和自己的搭档一起挑战的\n配合对战房间,\r并且还有可以\n向全世界口袋训练师挑战的\fＷｉーＦｉ对战房间。\r
+欢迎来到战斗公园！\r在此有关于点数卡片和\nＢＰ的使用说明\r
+要听哪个说明呢？
+发给各位训练师的点数卡片是\n战斗塔的挑战证明。\r可以用点数卡片\n积累在战斗塔获得的ＢＰ值。\r
+ＢＰ值是只有在战斗公园内\n可以使用的点值。\r在战斗塔\n可以通过提交规定成绩\f来获得ＢＰ值。\r而ＢＰ可以用来在\n点数兑换处兑换纪念品。\r
+欢迎来到战斗公园！\r这边是战斗塔专用的\n口袋对战规则的说明。\r
+要听哪个说明呢？
+战斗塔的口袋对战\n只有达到５０级的精灵才可以参加\r参赛精灵的等级\n不能低于５０级\r如果参赛精灵的等级\n超过了５０级,\f那么参加战斗塔的对战时\f等级和能力会自动\f降低到５０级的状态。\r降低的等级在战斗结束后\n会恢复原样。\r
+除了蛋以外,\n基本上所有的精灵\f都可以参加战斗塔的对战,\r但是,\n参加战斗的必要的精灵数量是\f根据挑战种类有所限定的。\r另外,无论哪种比赛\n都不允许使用\f两只相同种类的精灵进行战斗。\r
+在战斗塔进行\n对战的时候,\f不可以让两只精灵携带\f相同的道具,\r也就是说,参赛精灵\n必须携带不同种类的道具。\r
+祝您玩得开心！
+欢迎来到战斗公园！
+结束
+战斗公园
+点数兑换处
+战斗塔
+点数卡片
+ＢＰ
+关于等级
+参赛精灵
+携带道具
+……前面就是战斗公园……\n有什么样的训练师在等着呢,\f真的好兴奋啊……

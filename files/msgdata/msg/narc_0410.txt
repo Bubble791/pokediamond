@@ -1,11 +1,10 @@
-LINK SEARCHER
-Searching for wireless\ncommunications activity\nPlease wait.
-Error!
-Search is unusable here.
-Please don’t move\nwhile searching.
-LINK STATUS
-Union Room
-Underground
-Colosseum
-Other Links
-Touch to begin communication!
+通信搜索
+通信人员\n搜索中\n请稍候
+错误！
+这里无法搜索！
+搜索中\n请稍候！
+通信状况
+联机大厅
+地下通路
+竞技场
+其他通信

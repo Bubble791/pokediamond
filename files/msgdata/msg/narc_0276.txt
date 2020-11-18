@@ -1,2 +1,2 @@
-{STRVAR 3, 0}: What are you doing?\nYou’re not supposed to be here.\rThere’s nothing here anyway.\rIf anything were to happen, it’s in\nmy good hands.\rI’ve got my trusty Pokémon with me\nfor one.\rAnd more than anything, I’m tough,\nand you know it!
-{STRVAR 3, 0}: What’d I say?\nI told you I’ll be OK by myself.\rIf you haven’t gone yet, go\nchallenge the Sunyshore Gym.\rI have a feeling things are going\nto keep getting tougher.\rIt could be rough if you don’t\ncollect up some Gym Badges.
+{STRVAR 3,0}『干嘛呀！\n你要去的地方不是这儿吧！\r这儿可什么都没有！\n不过,就算有也没事,\r我有可靠的精灵们\n跟着一起呢,\f而且最重要的是我很强！
+{STRVAR 3,0}『都说了\n我没事了的！\r你应该还没去过吧,\n去挑战金岬市的道馆吧！\r总之为了收集道馆徽章\n不变强的话就糟糕了！

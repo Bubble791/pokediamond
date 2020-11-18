@@ -1,28 +1,28 @@
-{STRVAR 3, 1}: Hey, {STRVAR 3, 0}!\nDid you come to study, too?\rI went ahead and memorized everything\nthat was up on the blackboard.\rAfter all, it’s the Trainer’s job to\navoid having their precious Pokémon\fhurt in battle, right?\rSo, {STRVAR 3, 0}, what brings you?\nHuh?\fYou’ve got something for me?\r
-{STRVAR 3, 0} delivered the Parcel.
-{STRVAR 3, 1}: So, what is this...?\rScore!\nIt’s a Town Map!\rHuh?!\nWhy are there two in here?\rI like it a lot, but I don’t need two.\nHere, {STRVAR 3, 0}, you take one!\r
-{STRVAR 3, 1}: Hmm...\rWell, according to the Town Map,\nI guess Oreburgh City is where\fI should be going next.\rThere’s a Gym, so it’d be perfect for\nraising the Pokémon I just caught.\rWell, I’m on the road to becoming\nthe greatest Trainer of all time!\rSee you around!\r
-You just became a Trainer, did you?\rYou should look up topics that you’re\nnot familiar with.
-                             
-We learned about Pokémon types\ntoday. Umm...\rGrass is weak to Fire,\nFire is weak to Water, and\fWater is weak to Grass!\rI think that’s how it goes!
-Pokémon are smart enough to use\nitems they’re holding.\rBut they won’t know what to do with\nman-made items like Potions and\fAntidotes.
-I wrote an essay in my notebook on \nwhat makes a true Pokémon Trainer.
-Doing it is the best way to learn!\nCan we get a battle with you?
-Go!\nMy Pokémon, go!\r
-Aww! But battling is the best way\nto learn about Pokémon!
-It’s hard to win if you don’t have\nsome Pokémon to choose from.
-Whew! You’re really good!\rWe’ve been studying every day, but\nwe were no match at all!\rYou’d be able to use this Technical\nMachine properly. Here you go!\r
-A Technical Machine, or TM for short,\ncontains a Pokémon move.\rUsing a TM, you can instantly teach\nits move to a Pokémon.\rBut remember--a TM is good for one\nuse only. Don’t waste it!
-I just became friends with my\nPokémon.\rI’m not sure if we can do this\nproperly, but may we battle?
-I need to try the things I learned\nbefore I forget them!\r
-Boo!\nWhere’s your sense of adventure?\rDon’t be shy about talking to people\nand getting into battles!
-Do you think we would have done\nbetter if I used Potions?
-We were actually confident that we\nwould do pretty good.\rBut I’m completely impressed by how\ntough you are.\rIf you’d like, talk to my friend and\nget a Technical Machine from him.
-The blackboard lists status changes\nthat may affect Pokémon in battle.\r
-Which would you like to read about?
-If a Pokémon is poisoned, it will\nsteadily lose HP.\rThe effects of poison remain after\na battle.\rA poisoned Pokémon’s HP will drop\nwhile it is traveling.\rHeal a poisoning using an Antidote.\r
-If a Pokémon becomes paralyzed,\nits Speed stat drops.\rIn addition, it may not be able to\nmove while it is in battle.\rParalysis remains after battle.\nCure it using a Parlyz Heal.\r
-If a Pokémon falls asleep, it will be\nunable to attack.\rThe Pokémon may wake up on its own,\nbut if a battle ends while it is\fsleeping, it will stay asleep.\rWake it up using an Awakening.\r
-A burn reduces the Attack stat and\nsteadily reduces the victim’s HP.\rA burn lingers after battle.\nCure a burn using a Burn Heal.\r
-If a Pokémon is frozen, it becomes\ncompletely helpless.\rThe Pokémon may thaw out on its own,\nbut if a battle ends while it is\ffrozen, it will stay frozen.\rThaw it out using an Ice Heal.\r
-It’s a notebook filled with writing.\nLet’s see...\rPokémon are to be caught using\nPoké Balls.\rUp to six Pokémon can accompany\na Trainer.\rA Trainer is someone who catches\nPokémon, raises them, and battles\fwith them.\rA Trainer’s mission is to defeat the\nstrong Trainers who await challengers\fin Pokémon Gyms.
+{STRVAR 3,1}『呀,{STRVAR 3,0}！\n你也在学习吗？\r我把黑板上的东西\n全都记住了！\r为了不伤害\n自己宝贵的精灵而努力,\f那才是真正的口袋训练师！\r对了,{STRVAR 3,0},\n你到这儿来干嘛？\f什么？有东西要交给我？\r
+{STRVAR 3,0}\n交还了托付的物品！
+{STRVAR 3,1}『这是什么……？\n太棒了！是地图！\r怎么有两个！？\n反正我也用不着,\f{STRVAR 3,0}给你一个吧！\r
+{STRVAR 3,1}『嗯……\n照地图来看的话,\f下个城市是黑金市啊,\r在那儿有口袋道馆,\n刚好可以试试\f刚抓到的精灵！\r没事了,\n我要向着最强训练师之路前进了,\f闪了！\r
+你想成为口袋训练师吧,\n那你最好在这里\f学习一下还不明白的东西
+我的梦想是,\n将来成为精英训练师！
+今天学习了精灵的属性！\n那个……\r草比火弱\n火比水弱\f水又比草弱！\f没记错吧？
+精灵会自己使用\n带在身上的道具！\r但是,像伤药或解毒剂\n这种由人工制作的道具\f精灵们是不会自己使用的
+想把口袋训练师的知识\n总结在笔记本上！
+首先从实战开始学起！\n可以进行口袋对战吗？
+去吧！\n我的精灵！！\r
+啊！想要了解精灵的话\n战斗是最重要的！
+不多带几只精灵的话\n要赢是很困难的吧！
+你好厉害！\n虽然我们也在努力,\f不过还差得很远呢！\r如果是你的话一定能\n好好利用这个技能训练机！\f请收下！\r
+使用技能训练机\n能够让精灵在瞬间\f学会这个招式,\r但是,技能训练机使用过一次后\n就会消失,所以要慎重考虑！
+我才刚刚和精灵成为朋友,\n还不知道战斗能不能顺利进行,\f请和我试一次吧！
+趁记住的东西还没忘记\n先来试一下！\r
+不行！\n要再积极一点！\r多和别人搭话！\n多和别人战斗！
+刚才使用伤药的话\n也许就会表现的更好了
+虽然我们有自信\n自己很能干,\f还是被你的强大打败了,\r可以的话,请从我旁边那人那里\n收下技能训练机吧！
+在黑板上写着\n关于精灵在战斗时\f引起的异常状态的变化\r
+想要看哪个？
+中毒了的话,\n每回合体力都会减少,\r并且战斗结束后毒会残留在体内,\n走路时体力也会减少,\r用解毒剂来治好吧\r
+麻痹后速度会下降,\n偶尔也会使不出招式,\r在战斗结束后\n也会持续麻痹状态,\r用麻痹药来治好吧\r
+睡着了的话,\n在睡眠期间不能攻击,\r虽然过几回合会自动醒过来,\n如果在睡着期间战斗结束的话,\f就会保持睡眠状态,\r用清醒剂来治好吧\r
+烧伤后,\n不但攻击力会下降,\f体力也会渐渐减少,\r即使战斗结束后\n也会持续烧伤的状态,\r用烧伤药来治好吧\r
+冰冻后,\n完全无法行动,\r虽然过几回合会自动融化,\n如果在冰冻期间战斗结束的话,\f就会一直持续冰冻状态,\r用解冻药来治好吧\r
+留下了写了\n许多东西的笔记……\r同时携带6只用精灵球,\n捕获精灵,\f并且培育它们的人,\f被称为口袋训练师。\r口袋训练师的目标是\n战胜在世界各地的口袋道馆里的\f实力强大的馆主们！

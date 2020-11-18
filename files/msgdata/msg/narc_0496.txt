@@ -1,28 +1,28 @@
-Dawn: Hey, {STRVAR 3, 0}?\nThe professor told me something.\rHe thinks {STRVAR 0, 1} may have\nreappeared at the Spear Pillar...
-Dawn: Hi, {STRVAR 3, 0}!\rYou’re friends with the elder of\nCelestic Town, aren’t you?\rShe told me that she had something\nshe wanted to show you.
-Dawn: Hi, {STRVAR 3, 0}!\nMay I see your Pokédex?\r...\rOh, my gosh! You’ve seen every kind\nof Pokémon in Sinnoh!\rHave you shown your Pokédex to\nProf. Rowan yet?
-Dawn: Hey, {STRVAR 3, 0}, have you\never chatted with my kid sister?
-Dawn: Oh, {STRVAR 3, 0}, are you\nacquainted with Bebe?\rShe lives in Hearthome City.\rEvery Trainer should make it a point\nto pay Bebe a visit.
-Dawn: Hey! {STRVAR 3, 0}, you’ve got\na Poké Radar?\rWatch for tall grass to rustle wildly\nwhen you use your Poké Radar.\rThat could be a sign that a rare\nPokémon is hiding in there.
-Dawn: Hi, {STRVAR 3, 0}!\nHow’s your Poké Radar?\rWhen you use it, do you sometimes\nsee more than one patch of tall\fgrass rustling?\rThe patch farther away gives you a\nbetter chance of seeing the same\fkind of Pokémon in a row.\rThat’s the feeling I get, anyways.
-Dawn: Sometimes a patch of grass\nsparkles when a Poké Radar is used.\rPeople say a different-colored\nPokémon is hiding there!\rCould that be true?
-Dawn: So, {STRVAR 3, 0}.\rI’m also helping the professor put\ntogether the National Pokédex.\rCatching Pokémon can be really\nchallenging, can’t it?\rBut, it’s also so much fun!
-Dawn: {STRVAR 3, 0}!\r{STRVAR 3, 0}, {STRVAR 3, 0},\n{STRVAR 3, 0}!\rCongratulations for completing\nthe National Pokédex!
-Dawn: Is today maybe...\nYour birthday, {STRVAR 3, 0}?
-Dawn: Giggle...\nCongratulations, {STRVAR 3, 0}!\fAnd many more happy returns!
-Dawn: Oh, it isn’t?\rI wonder what made me think that\ntoday was your birthday?
-Dawn: {STRVAR 3, 0}!\nI heard from the professor!\rCongratulations, Champ!
-Lucas: Hey, {STRVAR 3, 0}!\nThe prof told me something cool.\rHe thinks {STRVAR 0, 1} has\nreappeared at the Spear Pillar!
-Lucas: Hi, {STRVAR 3, 0}!\rYou know the elder of Celestic Town,\nright?\rShe told me she wanted to show you\nsomething.
-Lucas: Hey, {STRVAR 3, 0}!\nLet me take a look at your Pokédex.\r...\rAwesome! You’ve seen every kind\nof Pokémon in Sinnoh!\rHave you shown this Pokédex to\nProf. Rowan yet?
-Lucas: Hey, {STRVAR 3, 0}, have you\never seen my kid sister?
-Lucas: Hey, {STRVAR 3, 0}, have you\nmet Bebe?\rShe lives out in Hearthome City.\rIf you’re a Trainer, you owe it to\nyourself to visit her.
-Lucas: Hey! {STRVAR 3, 0}, you’ve got\nyourself a Poké Radar, too?\rWatch for tall grass to rustle wildly\nwhen you use that Poké Radar.\rThat’s a sign that rare Pokémon\nmay be hiding there.
-Lucas: Hi, {STRVAR 3, 0}!\nHow’s your Poké Radar working out?\rWhen you use it, do you sometimes\nsee more than one patch of tall\fgrass rustling?\rThe patch farther away gives you a\nbetter chance of seeing the same\fkind of Pokémon right in a row.\rI think that’s how it goes.
-Lucas: Sometimes a patch of grass\nsparkles when a Poké Radar is used.\rThey say a different-colored\nPokémon is hiding there!\rI wonder if that’s true?
-Lucas: So, {STRVAR 3, 0}.\rI’m also helping the professor out\nwith the National Pokédex.\rCatching Pokémon can be really\nchallenging, can’t it?\rBut I also have a ton of fun doing it!
-Lucas: {STRVAR 3, 0}!\rWow! I don’t know what to say!\nI mean, it’s so awesome and all...\rSincerely, congratulations for\ncompleting the National Pokédex!
-Lucas: Hey, {STRVAR 3, 0}?\nIs it maybe your birthday today?
-Lucas: I thought so!\nCongratulations, {STRVAR 3, 0}!\fYou know, I’m glad we’re friends!
-Lucas: Huh?\nIt isn’t?\rNow, what made me think it was\nyour birthday? Freaky weird.
-Lucas: {STRVAR 3, 0}!\nThe professor told me the news!\rCongratulations, Champ!
+小光『啊,是{STRVAR 3,0}！\n我已经听博士说过了,\f真的觉得在殿元山顶的时候\f{STRVAR 0,1}真是太帅了……
+小光『{STRVAR 3,0}！\r你认识冠凤镇的长老吗？\f她说有想让{STRVAR 3,0}\f看看的东西呢！
+小光『{STRVAR 3,0}！\n给我看看你的图鉴！！\r…… …… ……\n…… …… ……\r厉害啊！！\n神奥的全部精灵都见过了！\r给山梨博士看过图鉴了吗？
+小光『啊,是{STRVAR 3,0}！\n{STRVAR 3,0}跟我妹妹说过话吗？
+小光『啊！{STRVAR 3,0}！\n你认识水木吗？\r她住在绿缘市,\n是口袋训练师的话\f就去见见她吧！
+小光『啊！\n{STRVAR 3,0}带着精灵搜索器吗？\r使用精灵搜索器的时候\n草丛要是晃动,\f就说明那里可能\f有珍贵的精灵哦！
+小光『啊！{STRVAR 3,0},\n精灵搜索器怎么样？\r使用精灵搜索器的时候,\n远处摇动的草丛里\f容易遇到同样的精灵吧？
+小光『使用精灵搜索器时\n草丛里要是闪光的话,\f说不定有闪光精灵呢,\f你见过吗？
+小光『喂,{STRVAR 3,0},\n虽然我也在收集全国图鉴……\f但抓精灵真的太难了……\f不过非常有趣啊！
+小光『{STRVAR 3,0}！\r{STRVAR 3,0}……\r祝贺你完成全国图鉴！！
+小光『另外……\n{STRVAR 3,0}的生日\f是今天吗？
+小光『嘻嘻,\n{STRVAR 3,0}生日快乐！\f今天开心地玩吧！
+小光『是吗搞错了啊,\n难道是我记错了……
+小光『{STRVAR 3,0}！\n听博士说你得冠军了,\f祝贺你！
+小辉『{STRVAR 3,0}！\n我听博士说过了,\f真的觉得在殿元山顶的时候\f{STRVAR 3,0}表现得太强了……
+小辉『{STRVAR 3,0}！\n你认识冠凤镇的长老吗？\f她说有想让{STRVAR 3,0}\f看看的东西！
+小辉『{STRVAR 3,0}！\n给我看看你的图鉴！！\r…… …… ……\n…… …… ……\r厉害啊！！\n神奥的全部精灵都见过了！\r给山梨博士看过图鉴了吗？
+小辉『对了,{STRVAR 3,0},\n你认识我妹妹吗？
+小辉『对了！\n{STRVAR 3,0}和水木是朋友？\r她住在绿缘市,\n是口袋训练师的话\f就去见见她吧！
+小辉『啊！\n{STRVAR 3,0}带着精灵搜索器吗？\r使用精灵搜索器的时候\n草丛要是晃动\f就说明那里可能\f有珍贵的精灵！
+小辉『啊！{STRVAR 3,0},\n精灵搜索器怎么样？\r使用精灵搜索器的时候\n远处摇动的草丛里\f很容易遇到同样的精灵吧？
+小辉『使用精灵搜索器的时候\n草丛里要是闪光的话,\f说不定有闪光精灵呢,\f你见过吗？
+小辉『那个,{STRVAR 3,0},\n虽然我也在收集全国图鉴……\f但抓精灵真的太难了……\f不过很有趣啊！
+小辉『{STRVAR 3,0}！\r不论如何,不得不说,\n你太厉害了,\f恭喜你完成全国图鉴！！
+小辉『那个……\n{STRVAR 3,0}的生日是今天吗？
+小辉『是吧！\n{STRVAR 3,0}生日快乐！\f今天开心地玩吧！
+小辉『是吗搞错了啊,\r难道是我记错了……
+小辉『{STRVAR 3,0}！\n听博士说你得冠军了,\f祝贺你！

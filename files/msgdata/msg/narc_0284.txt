@@ -1,14 +1,14 @@
-Your Pokémon will be restored to\nfull health.
-You will be facing opponent no. {STRVAR 50, 0}.\nAre you ready?
-Would you like to save and\nquit the game?
-Would you like to cancel your\nBattle Room challenge?
-Saving...\nDon’t turn off the power.
-Your Pokémon will be restored to\nfull health.
-You will be facing opponent no. {STRVAR 50, 0}.\nAre you ready?
-Would you like to save and\nquit the game?
-Would you like to cancel your\nBattle Room challenge?
-Congratulations on your winning\nstreak, challenger!\rThe Tower Tycoon has sent word\nthat he is impressed with you.\rHe recognizes your skill, and he’d\nlike to challenge you to a battle!\rAre you ready to battle the Tower\nTycoon?
-Hi!\nMy name’s Palmer.\rI remember you from when you were\nin Twinleaf, {STRVAR 3, 0}.\rYou were always playing with my son\n{STRVAR 3, 1}, right?\rYou’ve grown up since then, and\nmost impressively, too!\rSo, I’d like you to show me.\rShow me the bond you’ve built\nwith your Pokémon.\rShow me the skill you’ve acquired\nas a Trainer!\r
-Palmer: So, you’ve come this far!\rAs the Tower Tycoon, I’ll have to\ngive you my best effort.\rThat’s how the best Trainers show\nrespect to each other.\rBy battling all out as dedicated\nstudents of Pokémon!\r
-Bravo!\rOne day, I imagine my son will come\nchallenge me just as you have.\rThat’s something I look forward\nto a great deal.\rYou will become even more skilled,\nthe very same way your father did.\rKeep battling Trainers from around\nthe world and keep growing greater\fin stature!\r
-Bravo!\nI feel inspired in my heart!\rIt brings back a memory of that day\nlong ago...\rI went out to the lake with your\nfather that day...\rWe were attacked by a wild Pokémon.\rWe fended it off, but I don’t recall \nhow. It was that desperate.\rThat was my first step as\na Trainer.\rI wonder if the professor is doing\nwell?\r...That’s enough reminiscing.\rMy young friend, the world and\nyour future hold infinite promise.\rGo on, you can be all that you\ndesire!\rThere is no limit to where you\ncan go!\r
+现在为您的精灵\n回复体力
+接下来是第{STRVAR 50,0}个对手！\n准备好了吗？
+记录后\n要中断游戏吗？
+要中止挑战吗？
+游戏记录中,\n请不要切断电源
+现在为您的精灵\n回复体力
+接下来是第{STRVAR 50,0}个对手！\n准备好了吗？
+记录后\n要中断游戏吗？
+要中止挑战吗？
+尊敬的客人！\n恭喜！\r一直取胜到现在,\n你的实力已经得到了认可,\f塔主想要和您进行对战！\r接下来就要与塔主\n进行对战了！\f做好准备了吗？
+我是黑津,\n我记得你！\r双叶镇的{STRVAR 3,0}\n和我的儿子\n{STRVAR 3,1}玩的很好,\f不过就算是那样\f我也不会手下留情！\r既然你来到了这里,\n就把你和你培养出来的\f精灵之间的友情,\r还有你自己作为训练师的\n真正的实力展现出来吧！\r
+黑津『到此为止了吗！\n作为塔主要全力攻击！\r那是一个对精灵\n充满热爱的训练师……\r通过精灵对战\n来对彼此表示尊敬的\f最好方法！\r
+干得漂亮！\n什么时候我儿子也能\f来向我挑战呢……\f那一定也很有意思！\r你真的很强！\n就像你的父亲一样！\r世界上还有更多的口袋训练师们\n等待着你去挑战,\f去向着目标奋斗吧！\r
+干得漂亮！\n我从心里觉得感动。\r让我想起了很久以前\n和你的父亲一起\f在湖边遭到精灵袭击……\r那梦幻般的一战\n就是我作为口袋训练师\f的开始吧……\r那个博士现在还好吗\n……怀旧到此为止！\r你的面前是宽广的\n未来和世界……\f无限的时间和空间！\r好了,去吧！\n带着无限的希望\f去做你自己吧！\f去走遍世界每个角落！\r

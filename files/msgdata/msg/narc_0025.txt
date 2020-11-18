@@ -1,58 +1,58 @@
-Why don’t you try dressing up your\nPokémon now?\rWe have a Fitting Room on\nthe second floor.\rDress up your Pokémon nicely with\nAccessories!
-                                
-                                                                                         
-                                                          
-This is the Pokémon Lottery Corner.\rIf your drawn number matches the\nID No. of any of your Pokémon,\rstarting with the far right digit,\nyou will receive a fabulous gift.\rWould you like to draw a Pokémon\nLoto Ticket?
-You’ve already drawn a Loto Ticket\ntoday. Please come back tomorrow.
-Oh. I see.\nPlease do visit us again.
-Please draw a Loto Ticket.\r...\r
-Your Loto Ticket number is {STRVAR 54, 0}.\rNow, let’s see if it matches the\nID No. of any of your Pokémon.\r
-Congratulations!\rThe ID No. of your team’s\n{STRVAR 1, 0} matches your Loto\fTicket number!\r
-Congratulations!\rThe ID No. of your PC-boxed\n{STRVAR 1, 0} matches your Loto\fTicket number!\r
-I’m sorry.\nYou didn’t get a match...
-The last digit matched, so you\nwin the fourth prize!\r
-You gained a new Backdrop for use\nin Fitting Rooms.
-The last two digits matched, so you\nwin the third prize!\r
-The last three digits matched, so you\nwin the second prize!\r
-The last four digits matched, so you\nwin the first prize!\r
-Oh, my goodness, all five digits\nmatched!\rYou’ve won the jackpot prize!\nThis is just so incredible!\r...Oh, I’m sorry! Your prize!\nI got carried away there.\rHere you go!\r
-...Oh?\nYou seem to have no room for this.\rPlease make room in your Bag and\nthen let me know.
-{STRVAR 3, 0}?\nYes, I’ve been expecting you.\rThis is the prize we’ve been holding\nfor you. Here you go!
-Please do visit again.
-They keep records of things like\nhow many battles you’ve won in a row,\for how many Pokémon you’ve caught.\rYou can check everyone’s records\nup on the third floor.
-I’m going to get commercials shown\non TV.\rThey’ll attract more customers to\nthe department store.
-The Trainers that gather over there\nare looking for battles.\rThat corner used to be for karaoke,\nbut now it’s all battling!
-More than singing!\nMore than dancing!\rI love Pokémon!\nSo, shall we battle?
-I’ll let you join my fan club if you\ncan beat me!\r
-Aww... That’s heartbreaking...\nI’m an Idol, too...
-Well, that’s me and my Pokémon!\nI hope you’ll support us!\rJust so you know, our latest single\nis called “Jigglin’ Pokémon Wub!”
-I’m working on a story.\nCan you battle me?
-Join me for a live report!\r
-Press coverage denied...\nBut you’re so intriguing!
-Interviews are about taking the\ninitiative.
-I’ve spotted a charismatic Trainer!\nIs it OK to go for the scoop?\n
-As a professional cameraman, I always\ngo for the best shot!\r
-That’s a downer...\rI thought I’d found a Trainer and\nPokémon who’d shine on camera.
-The lively expressions on you and\nyour Pokémon’s faces...\rIt makes for some great TV!
-Are we all ready to have some fun?\nI sure am! Aren’t you having fun?!\fLet’s make it fun! OK?!
-OK, how shall we do this?\nShall we do something fantastical?\r
-Oh, how shall I say this...?\nIt makes me all lonely, I say...
-A clown’s makeup is a face that’s\ncrying while laughing.\rIt defines what we do!
-Two Pokémon! If you had two Pokémon,\nwe’d get a great shot here.
-Oh! You’re ready for a battle\nwith us?
-You’re live on camera, but try\nto act natural, OK?\r
-OK, that’s how it is, huh.\nCan’t do anything about that.
-I’d like to take that footage and\nhave it broadcast worldwide.
-Oh, no. What we really want to see\nis you in action with two Pokémon!
-Giggle!\nWill you have a battle with us?
-We’ll check you out thoroughly as\na Trainer!\r
-Oh, too bad!\nI wanted to check out your Pokémon!
-I lost but I’m totally thrilled!\nWe made a wonderful spectacle!
-Po-Po-Pokémon!\rI want to become more like\na PIKACHU! Will you battle me?
-Pi-pikachu!\r
-Pikachu!
-I need to get more into the\ncharacter of a Pokémon...
-Come on, let’s show off our Pokémon!\nLet’s do battle, kiddo!
-Your spirit’s vibes... I can feel\nyou’ve got rock in your veins!\r
-Now, that is so lame.\nYou have to let your passion burn!
-Rock is about your spirit!\nBattling is about spirit, too!\fThat’s why a battle is rock!
+来吧,\n给你的精灵戴上饰品吧！\r去2楼的话,\n在换衣间里能让精灵带上饰品！
+去吧！\n快上２楼去试试戴上饰品！
+感觉怎样？\n带上饰品后\f精灵看上去不一样了吧？\r而且在这个电视台里\n可以把戴上饰品后的精灵的样子\f向全国放送！\r
+在电视台里\n能收集到很多信息,\r所以你也去各个地方\n参观一下吧！
+这里是精灵九字抽签处,\n如果抽到签的编号和\f您的精灵的ＩＤ一致的话\f就能获得奖品！\r想试试抽签吗？
+下次的抽签在明天进行,\n欢迎再次光临！
+这样啊,\n欢迎下次光临
+那么请抽签\r…… …… ……\n……　……　……\r
+中奖的号码是\n{STRVAR 54,0}！\r请对比一下您的精灵的ＩＤ\n和中奖号码是否一致！\r
+恭喜您！\r您携带的\n{STRVAR 1,0}的ＩＤ\f与中奖号码对上了！\r
+恭喜您！\r存放在电脑里的\n{STRVAR 1,0}的ＩＤ\f与中奖号码对上了！\r
+非常遗憾,\n全部都没有中……
+中了1位数\n请收下4等奖的奖品！\r
+能在试衣间\n使用的背景增加了
+中了2位数\n请收下3等奖的奖品！\r
+中了3位数\n请收下2等奖的奖品！\r
+中了4位数\n请收下1等奖的奖品！\r
+5位数全部都中了！\n特等奖！太厉害了！！\r……啊,对了,奖品,\n兴奋过头都忘记了,\f那么请到这边来！\r
+………咦？\n背包好像满了,\r请整理道具后\n再来领奖！
+{STRVAR 3,0}\n恭候您多时了！\r这边请！\n请收下奖品！
+欢迎再次光临！
+纪录就是各种挑战纪录,\n比如连胜纪录,捕获精灵数量等等,\r去３楼的话\n能看到大家的纪录
+打个广告吧！\r这样的话才会有\n更多的顾客到商场来！
+可以与那边的训练师\n进行精灵对战哦,\r以前我只为自己的歌喉感到自豪,\n不知什么时候开始\f为自己的精灵自豪了
+比起唱歌和跳舞\n我更喜欢精灵！\f所以跟我对战吧？
+如果战胜我的话\n就让你加入粉丝俱乐部！\r
+啊,总觉得好失望\n人家明明是偶像的说……
+虽然输了,\n以后也请支持我和我的精灵哦！\r告诉你个小秘密,这次的新歌是\n「精灵之歌」！
+作为取材,\n能与我来场对战吗？
+突击取材！\r
+取材被拒绝……\n明明很好奇你的经历！
+因为是拼命做采访呢！
+发现了感觉不错的训练师！\n能让我采访一下吗？
+作为摄影师,\n目标是最佳瞬间！\r
+好可惜啊\n本来想找英俊的训练师和精灵的
+你和精灵的生动的表情……\n真是太棒了！
+那么,从现在开始进行\n令人激动的口袋对战,\fOK？
+是啊,\n不知怎么想做些惊天动地的事\r
+是啊,\n不知怎么感觉莫名的寂寞啊
+小丑的化妆就是\n即使哭看上去也是笑着的脸,\f就像这样！
+2只！有2只精灵的话\n就可以拍到好画面了
+哟！\n和我们来场口袋对战吧？
+虽然是在镜头前\n也不要紧张哦！\r
+是吗,原来是这样啊,\n那就没办法了。
+刚才的战斗的情景\n真想让全世界都看到啊！
+真想看到你抓住\n2只精灵时的画面！
+嘿！和我们\n来场口袋战斗吧？
+让我来确认一下\n你是怎样一个训练师！\r
+好可惜,无论如何都想看一下\n你的精灵的……
+虽然输了不过好兴奋！\n怎么会有如此壮观的景象呢！
+口袋,口袋妖怪！\r我想把自己变成皮卡丘,\n来战斗吧？
+皮,皮卡丘！！\r
+皮卡丘！！
+看来我还要再多把自己\n想象成精灵一些……
+来秀自己的精灵吧！\n战斗吧！
+让你的灵魂摇滚起来吧！\r
+消沉之棒\n是不是看上去精神更振奋了？
+摇滚是灵魂！\n口袋对战也是灵魂！\f就是说口袋对战是摇滚！

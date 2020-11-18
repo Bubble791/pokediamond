@@ -1,15 +1,15 @@
-Choose a word or phrase.
-Your feeling at the battle’s start?
-What do you say if you win a battle?
-What do you say if you lose a battle?
-What’s popular?
-A greeting for the Union Room?
-Is this your answer?
-Please enter a phrase or word.
-Quit without doing anything?
-Yes
-No
-GROUP
-MODE
+选择话语。
+请考虑对战前的话语
+请考虑购买时的台词
+请考虑输了时的话语
+流行的物品是？
+请考虑联机的目的
+这样可以了吗？
+请输入一些话语！
+什么都不想说吗？
+是
+不是
+分组
+模式
 ABC
-MODE
+模式

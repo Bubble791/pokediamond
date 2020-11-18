@@ -1,16 +1,16 @@
-Welcome! This is the Global Trade\nStation, or GTS for short.\rWe enable the trading of Pokémon with\npeople worldwide over Nintendo WFC.\rWould you like to do a global\nPokémon trade?
-Hello!\nWelcome to the GTS!\rWould you like to do a global\nPokémon trade over Nintendo WFC?
-You may trade Pokémon one of two\nways at the GTS.\rYou may offer a Pokémon for trade,\nor search among offered Pokémon.\rShould I describe things in greater\ndetail?
-You will be asked to put up the\nPokémon you are offering to trade.\rAt that time, you will be asked what\nPokémon you would like in return.\rIf another player offers your desired\nPokémon in return for your offered\fPokémon, the trade will go through.\rShould I explain anything else?
-You may search among the Pokémon\nthat are offered by other Trainers.\rThey will all identify what Pokémon\ntheir Trainers want back in return.\rIf you find one that you want, you\nmust provide us with the kind of\fPokémon wanted in return.\rShould I explain anything else?
-Would you like to make a global\nPokémon trade?
-Please do visit again.
-I hope you enjoy your visit\nto the GTS!\r
-Wow... Uh-oh!\rI’m sorry, but your team and all\nyour PC Boxes are full.\rIf you wish to use the GTS, you must\nhave room on your team or in\fa PC Box.
-...Uh-oh!\nYou only have one Pokémon with you.\rIf you wish to use the GTS, you must\nhave at least two Pokémon with you.\rPlease come back with more Pokémon\non your team.
-That’s a big globe, eh?\rWhere do I live on it now?\nLet’s see if I can point it out...
-They say if you communicate with\nsomeone, their location is\frecorded on this giant globe.
-All I need to do is leave a Pokémon\nhere to trade.\rWho knows, it might be traded while\nI’m asleep tonight.
-You can easily trade Pokémon with\nPokémon fans around the world.\rIsn’t that something?
-You can register where you live on\nthis giant globe.\rOnce you do, your location will\nbe displayed to anyone you\fcommunicate with.
-Is Nintendo WFC something even I\ncan use easily?\rIf it is really that easy, I’d love\nto trade Pokémon, too!
+初次见面！\n这里是全球交换中心\f简称ＧＴＳ！\r在这里可以\n使用ＷｉーＦｉ\r与全世界的人一起\n享受交换精灵的乐趣！\r请问需要进行精灵全球交换吗？
+你好！\n欢迎来到ＧＴＳ！\r请问需要使用ＷｉＦｉ\n进行精灵全球交换吗？
+在ＧＴＳ中可以使用\n存放精灵和查找精灵\f两种方法进行精灵交换,\r需要听详细的说明吗？
+把您想交换出去的精灵\n交给我们,\r同时告诉我们\n您想获得的精灵,\r在存放的期间\n如果有符合条件的精灵的话\f交换自动成立并进行。\r需要再听其他的\n详细说明吗？
+您输入查找的精灵的条件后\n将自动查找符合条件的精灵,\r请从您的电脑中选择\n符合对方要求条件的精灵,\r找到对方要求的精灵后\n确定与之交换,\f交换则自动成立并进行。\r需要再听其他的\n详细说明吗？
+想要进行精灵全球交换吗\n？
+期待您的再次光临
+祝您在ＧＴＳ\n玩得愉快！\r
+……咦？\n您的身上与电脑中的\f精灵都满了呢！\r想使用ＧＴＳ的话\n请在身上或电脑中\f空出存放位置。
+……咦？\n请稍等！\r要使用ＧＴＳ的话\n至少需要有２只精灵,\r请带上更多的精灵后\n再来光临。
+好大的地球仪啊！\n不过地球仪上的点\f到底是什么意思呢？
+这个地球仪好像能够记录\n通信过的朋友所在的地方！
+把精灵寄放在这里的话\n就算我在关机睡觉的时候\f也能进行精灵交换呢！
+能与全世界的口袋爱好者\n一起轻松地交换精灵\f实在是太了不起了！
+在这个地球仪中\n能登陆自己所在的地方哦！\r这样的话,在通信的时候\n就能告诉对方自己在哪里了！
+ＷｉＦｉ联机\n其实很简单吧？\r要是简单的话\n我也来试试精灵交换吧！

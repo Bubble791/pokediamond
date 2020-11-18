@@ -1,80 +1,80 @@
-    
-    
-    
-    
-    
-{STRVAR 11, 0}
-BOX 1
-BOX 2
-BOX 3
-BOX 4
-BOX 5
-BOX 6
-BOX 7
-BOX 8
-BOX 9
-BOX 10
-BOX 11
-BOX 12
-BOX 13
-BOX 14
-BOX 15
-BOX 16
-BOX 17
-BOX 18
-JUMP
-WALLPAPER
-NAME
-CANCEL
-SCENERY 1
-SCENERY 2
-SCENERY 3
-ETCETERA
-FRIENDS 1
-FRIENDS 2
-FOREST
-CITY
-DESERT
-SAVANNA
-CRAG
-VOLCANO
-SNOW
-CAVE
-BEACH
-SEAFLOOR
-RIVER
-SKY
-POKé CENTER
-MACHINE
-CHECKS
-SIMPLE
-SPACE
-BACKYARD
-NOSTALGIC
-TORCHIC
-TRIO
-PIKAPIKA
-LEGEND
-TEAM GALACTIC
-MOVE
-PLACE
-SHIFT
-SUMMARY
-WITHDRAW
-STORE
-ITEM
-MARK
-RELEASE
-CANCEL
-CONFIRM
-CANCEL
-GIVE
-TAKE
-INFO
-SWITCH
-BAG
-CANCEL
-SET ON LEFT
-SET ON RIGHT
-Yes
-No
+{STRVAR 0,0}
+{STRVAR 1,0}
+携带物品
+性格
+特性
+{STRVAR 11,0}
+１号箱子
+２号箱子
+３号箱子
+４号箱子
+５号箱子
+６号箱子
+７号箱子
+８号箱子
+９号箱子
+１０号箱子
+１１号箱子
+１２号箱子
+１３号箱子
+１４号箱子
+１５号箱子
+１６号箱子
+１７号箱子
+１８号箱子
+跳至箱子
+变换壁纸
+改名
+取消
+风景１
+风景２
+风景３
+其他
+收藏夹１
+收藏夹２
+森林
+城市
+沙漠
+热带草原
+岩山
+火山
+雪山
+洞窟
+海边
+海底
+河流
+天空
+口袋中心
+金属
+粉格
+简单
+宇宙
+庭院
+怀旧
+小火鸡
+三主角
+皮卡丘
+传说
+银河团
+抓起
+放下
+替换
+查看
+取出
+存放
+携带物品
+标记
+放生
+取消
+决定
+取消
+携带
+存放
+说明
+交换
+查看背包
+取消
+左固定
+右固定
+是
+否

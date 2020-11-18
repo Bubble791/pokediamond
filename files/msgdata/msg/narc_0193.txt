@@ -1,21 +1,21 @@
-JUMP
-UP
-FRONT
-LEFT
-RIGHT
-Excellent!
-Good!
-Miss!
-The Dance Competition is ready to\nget under way!\rCan the backup dancers flawlessly\nfollow the main dancer’s steps?!\rOK! Everybody, let’s dance!\nStart the music!\r
-{COLOR 2}Perform {STRVAR 50, 0} steps as the main dancer!{COLOR 0}
-{COLOR 1}Copy the Pokémon before you!{COLOR 0}
-                                
-                                                                                                                                                                                                                                                                 
-                            
-                
-  
-   
-        
-That’s it for the Dance Competition!\rLeading in points right now is\n{STRVAR 3, 0}!\rCan anyone turn things around in the\nActing Competition?\r
-Welcome! Thanks for joining our\npractice Contest!\rFeel free to practice all you want\nand train for the big show!\rI’ll be taking part to practice up\non being an MC!\r
-Looks like everyone’s here, so let’s\nget on with our dance practice!\r{STRVAR 1, 0}, you need to dance just\nlike the main dancer.\rAfter dancing twice, the main dancer\nswitches with a backup dancer.\rYou get to be the main dancer last.\nDo a dance that no one can imitate!\rOK! Start it up!\r
+跳
+上
+下
+左
+右
+精彩!
+不错!
+失败了!
+来吧,舞蹈审核开始！\r后排伴舞精灵能准确地\n模仿领舞精灵的舞步吗！？\r来让我们跳舞吧！\n音乐,ＧＯ！！\r
+{COLOR 2}领舞精灵跳了{STRVAR 50,0}次舞！{COLOR 0}
+{COLOR 1}模仿领舞精灵的动作吧！{COLOR 0}
+主持人『下面,终于到了你的\n自由展示魅力的时间！是不是已经等不及了呢！\r
+首先,你的精灵将作为\n伴舞者出场！\r请在领舞者完成后,\n跳出和它相同的舞步！\r请触摸下屏的按钮来控制精灵,\n跳出和领舞精灵\f舞步相同的方向！\r旋律在红色电子板之时\n决定舞蹈次数！\r之后伴舞精灵和\n领舞精灵轮换！\r领舞精灵请在\n蓝色电子板之时\f开始跳舞！\r那么,舞蹈审核开始！\n音乐,ＧＯ！\r
+那么,舞蹈审核开始！\n音乐,ＧＯ！\r
+要再跳一次吗？\r
+是
+不是
+再来吧！\r
+舞蹈审核结束！\r到目前为止,总得分位于\n第１位的是{STRVAR 3,0}！\r在最后的演技审核中\n会出现逆转吗？\r
+欢迎参加练习比赛！\r经过不断的练习之后,\n你的选美技术也会越来越好！\r我也将在这里\n练习着做主持人！\r
+那么,各位请注意,\n舞蹈练习开始了！\r{STRVAR 1,0}请模仿\n领舞精灵来跳舞！\r２次舞蹈结束后,领舞精灵\n和后排的伴舞精灵交换！\r最后,成为领舞精灵时\n跳出别人无法模仿的舞步吧！\r那么,开始！\r

@@ -1,16 +1,16 @@
-BERRY TAG
-SPICY
-DRY
-SWEET
-BITTER
-SOUR
-{STRVAR 51, 0}
-{STRVAR 8, 0}
-SIZE /
-{STRVAR 51, 0}.{STRVAR 50, 1}”
-FIRM /
-Very soft
-Soft
-Hard
-Very hard
-Super hard
+树果种类
+辣
+涩
+甜
+苦
+酸
+{STRVAR 51,0}
+{STRVAR 8,0}
+大小
+{STRVAR 51,0}．{STRVAR 50,1}ｃｍ
+形状
+很软
+软
+硬
+很硬
+出奇的硬

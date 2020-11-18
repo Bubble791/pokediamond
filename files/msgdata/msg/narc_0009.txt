@@ -1,25 +1,25 @@
-Please take your designated position\nand start the battle.
-Please wait a moment...\nPress the B Button to cancel.
-Let’s check out {STRVAR 3, 0}’s\nTrainer Case...\r...It’s a Normal Card!
-Let’s check out {STRVAR 3, 0}’s\nTrainer Case...\r...It’s a Bronze Card!
-Let’s check out {STRVAR 3, 0}’s\nTrainer Case...\r...It’s a Copper Card!
-Let’s check out {STRVAR 3, 0}’s\nTrainer Case...\r...It’s a Silver Card!
-Let’s check out {STRVAR 3, 0}’s\nTrainer Case...\r...It’s a Gold Card!
-Let’s check out {STRVAR 3, 0}’s\nTrainer Case...\r...It’s a Black Card!
-              
-Communication will be ended.\nIs that OK?
-YES
-NO
-Ending communication.\nPlease wait.
-Please choose the Pokémon to be\nentered.\r
-Waiting for {STRVAR 3, 0} to choose.
-The battle has been canceled.
-Please come again.
-Please select one of your opponent’s\nPokémon.
-Is {STRVAR 0, 1} your choice?
-Please select the three Pokémon\nthat will participate.\r
-In a Mix Battle, you and your\nopponent first choose one of each\fother’s Pokémon.\rThen, you exchange the chosen\nPokémon and battle.\r
-CANCEL
-SUMMARY
-OK
-CANCEL
+请到指定地点开始对战
+请稍候\n……按Ｂ键取消
+{STRVAR 3,0}的训练师信息\n显示出来了！\r……普通等级训练师卡！
+{STRVAR 3,0}的训练师信息\n显示出来了！\r……青铜等级训练师卡！
+{STRVAR 3,0}的训练师信息\n显示出来了！\r……黄铜等级训练师卡！
+{STRVAR 3,0}的训练师信息\n显示出来了！\r……白银等级训练师卡！
+{STRVAR 3,0}的训练师信息\n显示出来了！\r……黄金等级训练师卡！
+{STRVAR 3,0}的训练师信息\n显示出来了！\r……黑金等级训练师卡！
+读取中……
+通信结束,\n确定吗？
+可以
+不可以
+正在结束通信,\n请稍候
+请选择要参战的精灵\r
+等待\n{STRVAR 3,0}的选择中
+对战取消了
+那么,下次再见
+请选择\n对手的一只精灵
+{STRVAR 0,1}确定吗？
+请选择\n要参战的３只口袋妖怪\r
+混合战斗\n由我方选择的对方精灵\f和对方选择的我方精灵\f换入后开始对战\r
+取消
+查看状态
+决定
+返回

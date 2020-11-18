@@ -1,24 +1,24 @@
-Grr... The package hasn’t arrived\nfrom the Veilstone warehouse yet...\rI have to wait here until then?\nI’m going batty from this wait...\rOh, man, I wish I could do something\nthat involved lots of explosives!\rYup, this is going to be a smashing\njob for Team Galactic...
-Grr...\nThis is so annoying...\rWhat is it, you? Oh, some kid with\nonly three Gym Badges.\rLittle buggers like you should know\nto stay out of Team Galactic’s way!\r...Now, this package from Veilstone...\nWhere should I set it off...?\rYup, this is going to be a smashing\njob for Team Galactic...
-Hahah! The package finally came from\nthe Veilstone warehouse!\rSo, now it’s my job to deliver this\nto the lake!\rThis is an important mission.\nNo failure allowed!\rNo making boo-boos like wandering\noff into the Great Marsh!\r
-You were eavesdropping!\nI was just talking loudly to myself!\rIf I wasn’t in a hurry, I’d pulverize\nyou with my Pokémon!\rBut I have to get on my way to the\nlake ASAP! So, you’re lucky! I’m out!\rOh, and listen up, you!\nDon’t you dare follow me!\r
-Gweh!\nPersistent pest!\rIf our plan works, our boss’s dream\ncomes closer to fruition!\rOur boss’s ideal world is going\nto be created!\rSo, I’m not going to waste my time\non a nobody like you!\rI’m telling you now, don’t you come\nchasing after me!\r
-{STRVAR 3, 0}: Whoops!\rHehehe! I’m not always going to plow\ninto you every time we meet!\rSo how’s it going, {STRVAR 3, 1}?\nBuffing up your Pokémon, eh?\rI’ll test you and your Pokémon out\nto see how buff and tough you are!\r
-{STRVAR 3, 0}: Heh, yeah, maybe you\ndid get a bit tougher since last time.\rThat even shocked me a bit, so yeah,\nI got beat ’cause I was careless.\rSo, hey, what was that Team Galactic\nguy all freaking out about?\rI don’t know what he’s up to, but\nyou should chase him down!\rIf you’re not a Pokémon, and you run\nlike that... You’re a bad guy.\rAll right, {STRVAR 3, 1}!\nNext time, I’m not holding back!\r
-                                                                                                                                                                                    
-Here where I am standing, I’m\nsmack-dab in the middle of town.
-I study rare Pokémon that appear\nonly in the Great Marsh.
-Some Trainers deliberately prevent\ntheir Pokémon from evolving.\rThey wait until the Pokémon levels up\nand learns certain moves.
-I’m visiting the area because I\nwanted to see the Great Marsh.\rI’m staying at the lakeside hotel.
-Pastoria’s Gym Leader is like...\nBreathtaking... In a weird way.\rIt’s hard to explain.\nYou’ll know what I mean, though.
-Wasn’t the Pastoria Gym Leader\nkind of breathtaking in a weird way?\rBut don’t judge him by the way\nhe looks and acts.\rI hear he uses the prize money to\nhelp people and Pokémon in trouble.
-The Great Marsh keeps the weather\ncool in the summertime.\rThis is a good town for Water-type\nPokémon.
-CLEFAIRY: Fiiih?!
-You’re just like a totally impatient\nboy I met earlier.\rJust like you, he was very close with\nhis Pokémon.\rHey, thanks for making me smile!\nThis might put a smile on your face.\rTry dressing up a Pokémon with\nthis {STRVAR 31, 0}.\r
-Someone gave me a Berry, so I\nplanted it and grew some more.\rThen, I took the Berries and cooked\nthem into Poffins.\rAll the work is worth it when I see\nhow happy they make my Pokémon!
-Someone in the Great Marsh offered\nme a Hidden Machine, but I declined.\rI don’t need it ’cause the Gym\nLeader will do Defog for us\fif we ever need it in this city.
-Have you been to the Pokémon\nMansion?\rThe owner, Mr. Backlot, likes to brag\nabout his rare Pokémon.
-Pastoria City\nThe Marsh City
-Pastoria City Pokémon Gym\nLeader: Crasher Wake\fThe Torrential Masked Master!
-Pastoria Great Marsh\nObservatory Gate
-Try the Safari Game in\nPastoria’s Great Marsh!
+真是的……户张市\n仓库的货物又运不过来了……\r非得在这里等着……\n啊啊啊真该死！\f真想立刻做笔大买卖,\r这才是银河团\n华丽的作风嘛……！！
+真是的……\n干嘛啊你？\f除了三个破徽章啥都没有,\f小屁孩少来给我们银河团\f找麻烦了！\r刚从户张市运来的东西……\n用在哪里好呢,\r对嘛,这才是银河团\n华丽的作风嘛……！！
+东西终于从\n户张市那里运来了！\r我想起来了！\n先在湖那里试试吧！\r这可是关键的任务！\n绝对不能失败,\r去大湿原那边的话\n碍事的家伙就多了！\r
+你是不是偷听到了！\n刚才我跟自己说的话！\r要不是老子现在有急事\n要去湖那边的话\f早用精灵干掉你了！\r来不及了要赶紧去了！\n你给我听好！\f不要跟过来！！\r
+又是你！！\n好烦人啊！\f我们的实验顺利完成的话,\f离我们老大的理想世界\f也就不远了！\r你少来给我添烦了,\n再看到你跟着我\f就让你好看！！\r
+{STRVAR 3,0}『哦哟！！\n怎么总是碰到你这家伙！\r好吧,{STRVAR 3,1}！\n你的精灵都锻炼过了吗！\r你和你的精灵到底有多强,\n让我看看吧！\r
+{STRVAR 3,0}『哼哼,\n是稍微厉害一点了嘛,\r被你的进步稍微吓了一跳\n就一不小心输给你了……\r对了,\n刚才的那个银河团的怎么了？\r虽然不知道你在干嘛\n不过赶紧去吧！\r只会逃跑的如果不是精灵\n就绝对是坏蛋！\r我闪了！{STRVAR 3,1}！\n下次我可不会手下留情了！！\r
+{STRVAR 3,0}『哼哼,\n是稍微厉害一点了嘛\r被你的进步稍微吓了一跳\n就一不小心输给你了……\r对了,\n你刚才在跟银河团的家伙干什么？\r跟那些家伙扯上关系\n还不如花点时间\f多陪陪你的精灵！\r而且你还没拿到这里的\n道馆徽章吧？\r我闪了！{STRVAR 3,1}！\n下次我可不会手下留情了！\r
+我现在站的地方\n可是这个城市的中心点哦！
+我要去调查只在大湿原那里\n才有的珍稀的精灵
+挺说有些人为了让精灵\n提前学会新的技能\f也会不让自己的精灵进化！
+因为想去看大湿原\n所以就住在湖边的旅馆里了
+野濑市道馆的馆主\n实力是非常强的！\r我没法说的很清楚,\n总之去挑战就知道了！
+野濑市道馆的馆主\n实力非常强吧？\r啊啊,战术礼节\n是为了人类和精灵\f才使用的呢！
+在大湿原夏天也感觉不到热,\n对水系精灵来说真是个好地方啊！
+皮皮『皮皮ー！？
+你刚才的冲刺\n也是为了和喜欢的人\f还有精灵一起生活吧,\r好羡慕啊,我把这个给你,\n收下{STRVAR 31,0}吧！\r
+得到了树果种下去\n或者在绿缘市做成松饼……\r给精灵吃的时候\n它们高兴的心情\f也会传达给自己的！
+在大湿原有个赠送\n秘传训练机０６「清雾」的人\f可是我们没要！\r因为这个技能\n道馆馆主已经给我们了
+精灵豪宅去过了吗？\n豪宅的主人浦山先生\f见过很珍稀的精灵哦
+这里是野濑市\n拥有大湿原的城市
+野濑市的口袋道馆\n馆主假面英雄\f水流冲击最强者
+野濑市大湿原\n展望台正门
+在野濑市的大湿原有\n加速自行车比赛

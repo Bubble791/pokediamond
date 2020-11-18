@@ -1,16 +1,16 @@
-Hello, hello!\nI am the official Name Rater!\rWant me to rate the nicknames of\nyour Pokémon?
-Which Pokémon’s nickname should\nI critique?
-{STRVAR 1, 0}, is it?\nThat’s a decent nickname!\rBut would you like to give it\nan even better name?\rHow about it?
-Ah, good. Then, what shall the new\nnickname be?
-Done! From now on, this Pokémon\nshall be known as {STRVAR 1, 0}!\rIt is a better name than before!\nHow fortunate for you!
-I see.\nPlease come visit again.
-Done! From now on, this Pokémon\nshall be known as {STRVAR 1, 0}!\rIt looks no different from before,\nand yet, this is vastly superior!\rHow fortunate for you!
-{STRVAR 1, 0}, is it?\nThat is a truly impeccable name!\rTake good care of {STRVAR 1, 0}!
-Now, now. That is merely an Egg!\nAn Egg can go by no other name!\n
-Excuse me, but do you got that\nPokémon named BUIZEL?\rWanna trade it for my CHATOT?
-Yes! So awesome! A BUIZEL!\nI so promise I’ll be good to it!\rOh yeah, CHATOT can learn some human\nspeech pretty quickly.\rTry out its move Chatter.\nYou’ll totally see what I mean.
-What I totally want is a BUIZEL...
-Oh, OK. Totally got it.\nIt’s all right if you don’t want to.\rBut if you change your mind,\nlet’s totally trade some Pokémon.
-Did that CHATOT I traded you totally\nlearn that Chatter move?\rIt will mimic your speech if you use\nthat move outside of battle.
-Hi! I’m the building superintendent.\nI maintain a vigilant 24-hour watch!
-I’m...building...superintendent...\n...maintain...24-hour watch... Zzz...
+好的好的！\n我可以通过精灵的名字\f给精灵占卜未来的命运,\r要给你的精灵的名字\n占卜一下吗？
+给哪个精灵占卜呢？
+嗯,\n{STRVAR 1,0}吗……\r和你很像嘛,\n名字不错啊,\r但是ー\n想要给它再取一个\f更好些的名字吗？
+这样啊,\n叫什么好呢
+好,\n以后就叫它{STRVAR 1,0}吧！\r比以前的好很多呢,\n不是吗？！
+是吗,\n明白了,那以后再说吧。
+好的,\n以后就叫它{STRVAR 1,0}吧！\r虽然和以前差不多\n但是这次的名字更好一些！\f不是吗？！
+嗯,\n{STRVAR 1,0}吗！\r这个名字不错,\n非常吉利！\r{STRVAR 1,0}今后也要变得\n和名字一样可爱哦！
+喂喂……\n那不是蛋嘛！
+喂喂,你带着叉尾浮鼬吗？\r可以的话,\n我拿音符鹦鹉和你交换好不好？
+太好了！叉尾浮鼬！\n我会好好照顾它的！\r对对,音符鹦鹉\n会模仿人说过的话！\f试着和它说说话吧！
+我真得很想要\n叉尾浮鼬啊……
+嗯,明白了！\n不想的话也没办法,\r什么时候改变主意\n再来和我换吧！
+和你交换的音符鹦鹉\n记住聊天的技能了？\r不战斗的时候\n它会模仿你的话哦！
+嗯！我是管理人\n２４小时监视中！
+嗯……我是管理人\n２４小时……监视中……

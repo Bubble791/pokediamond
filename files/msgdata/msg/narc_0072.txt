@@ -1,24 +1,24 @@
-Hello! Welcome to the Oreburgh\nMining Museum!
-Hello, hello!\nHow are you?\rI study Pokémon Fossils!\nMe! Right here and now!\r
-You have a Fossil for me, yes?\nShall I turn it into a Pokémon?
-Which Fossil should I turn back\ninto a Pokémon? Choose! Now!
-OK, I will do that! Turn that Fossil\nback into a Pokémon, surely I will!
-You don’t wish that I extract any\nPokémon from a Fossil. Fine, then!
-I am in the process of extracting\nyour Pokémon from a Fossil.\rYou go outside, yes, please. Now!\nTime alone is what I now need. NOW!!!
-You were gone too long!\nYou kept us waiting! Unacceptable!\rThis is your {STRVAR 0, 0}!\nYou be good to it, OK!\r
-{STRVAR 3, 0} received\nthe {STRVAR 0, 1}!\r
-Give a nickname to the {STRVAR 0, 1}\nyou received?
-But, no, I cannot do this!\nYou have too many Pokémon with you!\rI must hold it for you, so come back,\nyou, and take it away, please.
-If it is a Fossil that you obtain,\nbring it to me if you must.
-On the verge of a breakthrough,\nI am, to achieve extraction from\fFossils.\rFrom Fossils I can extract Pokémon,\nbut not yet, not yet.
-Whoa! So this is coal?\nI never expected something this big!
-Wow! The Pokémon that carried this\nmust be terribly strong!
-Well, how about that!\rThe Oreburgh Mine extends\nunder the seafloor!
-How Coal Is Made   1\r“In a time long before history,\nvegetative matter was swept along\rby rain and rivers. It came to be\nburied under the ground.”
-How Coal Is Made   2\r“The buried plant matter was\nforced ever deeper under the ground\rdue to tremors and fissures caused\nby the shifting landmasses.”
-How Coal Is Made   3\r“Deep under the ground, the\nplant matter was subjected to heavy\rpressure and the heat of magma.\nIt gradually turned into coal.”
-Samples of coal from different regions\nare displayed.
-The box contains categorized samples\nof coal.
-Different kinds of lamps are\ndisplayed.\rThey appear to have been worn\non someone’s head while underground.
-Badly scarred wooden tools are\ndisplayed.\rThey apparently dug out coal using\nthese tools in the olden days.
-The everyday items and tools of\npast mine workers are displayed.
+你好！\n这里是黑金炭矿博物馆！
+你好！\n我在这里研究精灵的化石\r
+你也带着化石啊,\n要把它还原成精灵吗？
+要把哪个化石\n还原成精灵呢？
+明白了！\n把这块化石还原成精灵！
+不要把它还原成精灵吗？\n明白了！
+正在复原精灵！\n请在外面稍等一会儿,\f需要一点时间！
+哦！\n久等了！\r这是{STRVAR 0,0}！\n请保管好！\r
+{STRVAR 3,0}\n得到了{STRVAR 0,1}！\r
+要给{STRVAR 0,1}起昵称吗？
+虽然已经完成复原了,\n不过你带的精灵太多了,\r去空出个位置\n再来这里取吧！
+要是带着化石的话\n请再到这里来！
+还差一点\n就可以把化石复原了……\r嗯,就是可以把化石\n复原成精灵了。
+哈哈！这个是煤啊！\n好大的一块啊！
+好厉害！！连这个都能\n搬运的精灵力气好大！
+哎？\n这样啊！\f黑金炭矿一直延伸到海底吗！
+变成煤的条件1\r「很远很远很远的以前\n各种植物被\r雨或者河水冲走\n被埋在地下
+变成煤的条件2\r「土里的植物\n受地震或者地裂的影响\r被埋到\n更深的地方
+变成煤的条件3\r「地里的植物\n受地震或者岩浆的影响\r逐渐\n变成了煤
+这里有各地的煤\n的标本！
+箱子里煤的标本\n被细致地分了类！
+这里展示着\n各种各样的探矿灯！\r把这个带在头上\n就可以去地下探险了！
+这里有一个\n伤痕累累的道具！\r以前就是用这个\n把煤挖出来的吧！
+以前在这里工作过的人们的\n生活道具也被展示出来了！

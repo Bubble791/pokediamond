@@ -1,45 +1,45 @@
-Hello there!\nIt’s so very nice to meet you!\rWelcome to the world of Pokémon!\r
-My name is Rowan.\rHowever, everyone just calls me\nthe Pokémon Professor.\rBefore I go any further, is this\nyour first adventure?\rIf you need advice, I’m certainly\ncapable of giving it.\r
-Moves the main character.\nAlso used to choose various\nheadings and selections.\n\nUsed to confirm a choice, check\nthings, chat, and scroll text.\n\nUsed to exit, cancel a choice,\nand cancel a mode.
-Press to open the menu.\n\nPress to use an item, such\nas a Bicycle, that has been\nregistered in advance.
-The lower screen is called\nthe Touch Screen.\n\nThe Touch Screen will display\na variety of touch buttons\ndepending on the situation.
-If this mark is shown in the\nmessage window, there are active\nbuttons you can touch on the\nTouch Screen below.
+哟！！\n等你很久了！\f欢迎来到口袋妖怪的世界！\r
+你好,我是山梨博士！\n大家都叫我口袋博士。\r就是你要在这里开始新的冒险吗？\n先让我教你一些\f你需要知道的事情吧！\r
+控制主人公进行移动。\n同时,\n在选择选项时也可以使用。\n\n\n确定,继续显示对话时使用。\n\n\n返回,中止及取消时使用。
+开启游戏菜单。\n\n钓竿,自行车等道具\n登录快捷键后\n可以直接使用。
+下屏的画面是触摸屏。\n\n\n触摸屏画面上\n在游戏过程中\n会出现各种各样的按钮。
+当对话框里出现了\n这个标志的时候,\n就需要使用下面的触摸屏\n对出现的按钮进行操作。
 {YESNO 0}
-Do you understand everything\nso far?{YESNO 0}
-Please touch a button on the\nTouch Screen below.{YESNO 0}
-Would you like to know more about\nanything else?\r
-You are about to enter a world\nwhere you will embark on a grand\nadventure of your very own.
-Speak to people and check things\nwherever you go, be it in towns,\nroads, or caves.\nGather information and hints from\nevery possible source.
-New paths will open to you when\nyou help people in need, overcome\nchallenges, and solve mysteries.
-At times, you will be challenged\nby others to a battle.\nAt other times, wild creatures\nmay stand in your way.\n\nBy overcoming such hurdles,\nyou will gain great power.
-However, your adventure is not\nsolely about becoming powerful.
-On your travels, we hope that\nyou will meet countless people\nand, through them, achieve\npersonal growth.\n\nThis is the most important\nobjective of this adventure.
-This world is widely inhabited by\ncreatures known as Pokémon.\r
-Here, I have a Poké Ball.\rTouch the button on the middle of\nthe Poké Ball, if you’d please.{YESNO 0}
-No, no! Not that button!\nThe button on the Poké Ball.{YESNO 0}
-We humans live alongside Pokémon\nas friends.\rAt times we play together,\nand at other times we\fwork together.\rSome people use their Pokémon\nto battle and develop\fcloser bonds with them.\rWhat do I do?\rI conduct research so that we may\nlearn more about Pokémon.\r
-Now, why don’t you tell me\na little bit about yourself?\r
-Are you a boy?\nOr are you a girl?\r
-All right, so you’re a boy?\r
-All right, so you’re a girl?\r
-Tell me, what is your name?\r
-Your name is {STRVAR 3, 0}?\r
-Your name is {STRVAR 3, 0}?\r
-OK...\nSo, you’re {STRVAR 3, 0}?\rA fine name that is!\rNow, this boy here...\nI believe he’s your friend.\r
-What might his name be?\r
-{STRVAR 3, 1}, is it?\nThat’s your friend’s name?\r
-All right, {STRVAR 3, 0}, the time\nhas come.\rYour very own tale of grand\nadventure is about to unfold.\rOn your journey, you will meet\ncountless Pokémon and people.\rI’m sure that along the way you will\ndiscover many things, perhaps even\fsomething about yourself.\rNow, go on, leap into the world of\nPokémon!\r
-CONTROL INFO
-ADVENTURE INFO
-NO INFO NEEDED
-YES
-NO
-New name!
-Barry
-Damion
-Tyson
-Markus
-Clint
-Ralph
-Lewis
-Tommy
+到这里的解说都明白了吗？
+请点击下屏画面\n触摸屏上的按钮。{YESNO 0}
+还有其他想要了解的事情吗？
+你从现在开始\n将成为这个世界的主人公,\n踏上自己的冒险旅程。
+城市,建筑,道路,草丛,\n还有洞窟和森林……\n你将在很多很多地方\n与许多许多人相遇。
+帮助有困难的人\n解开谜题以后,\n新的道路就会开启通行。
+有时会有其他人\n向你发出挑战,\n还会出现野生的精灵\n阻碍你的前进。\n\n只要战胜他们,\n你也会逐渐成长强大起来。
+不过,变得强大\n并不是冒险的真正目的。
+在冒险的旅途中\n与许多人相互交流,\n自己也不断地\n成长起来,\n这才是\n冒险中最大的目标。
+在这个世界里生存着一种\n叫做「口袋妖怪」的\f不可思议的生物。\r
+这里是一个精灵球！\n轻轻点击一下\f精灵球正中的开关！{YESNO 0}
+哦哟,不对啊。\n点击下屏精灵球正中的开关！{YESNO 0}
+我们人类同口袋妖怪在一起生活,\n和它们一起玩乐,一起工作,\f还能通过对战来加深感情……\r我为了详细了解\n这些与精灵有关的事情\f也在进行着研究！\r
+那么,接下来\n该告诉我一些关于你的事情了。\r
+你是男孩,\n还是女孩？\r
+男孩,确定吗？\r
+女孩,确定吗？\r
+你的名字是？\r
+{STRVAR 3,0},确定吗？
+{STRVAR 3,0},确定吗？
+嗯……\n你叫{STRVAR 3,0}啊！\f不错的名字呢！\r这个少年是你的朋友,\r
+他的名字也请你告诉我吧！\r
+{STRVAR 3,1}啊,\n是叫这个名字吗？\r
+{STRVAR 3,0}！！\n从现在开始,\f属于你的冒险就开始了！\r在这个世界里\n你不仅会遇到各种各样的精灵,\f也会遇到各种各样的人物和事件！\r宏大的口袋妖怪的世界\n正在等待着你的冒险！\r
+操作方法是？
+冒险是？
+没问题
+是
+不是
+手动输入
+小顺
+小茂
+小望
+明人
+久志
+宗佑
+敏信
+孝治

@@ -1,9 +1,9 @@
-Your name?{YESNO 0}
-{STRVAR 1, 0}’s nickname?{YESNO 0}
-Box name?{YESNO 0}
-Your friend’s name?{YESNO 0}
-Enter the Friend Code.{YESNO 0}
-Group name?{YESNO 0}
-Thank who?{YESNO 0}
-Group
-        
+你的名字是？{YESNO 0}
+{STRVAR 1,0}的名字是？{YESNO 0}
+精灵盒的名字是？{YESNO 0}
+朋友的名字是？{YESNO 0}
+请输入朋友号码{YESNO 0}
+组群的名字是？{YESNO 0}
+想传达感谢之情给谁？{YESNO 0}
+组群
+改变形式

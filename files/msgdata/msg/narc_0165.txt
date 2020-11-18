@@ -1,14 +1,14 @@
-...\n...\r...So, you’re the latest challenger\nup against the Sunyshore Gym...\r
-All right, I’ve decided!\rIf I find you to be weak, I’m going\nto challenge the Pokémon League.\rI’m all done with renovating the\nGym, so I don’t need to be here.\rMore than anything, I want to have\nbattles that can thrill me again.\r
-As the toughest Gym Leader in Sinnoh,\nI’m going to unleash everything in\fmy arsenal on you.\r
-{STRVAR 3, 0} took a look through\nthe binoculars.\r
-The Vista Lighthouse represents\nsafety and protection to us Sailors.
-I love how far away you can see with\nthe binoculars.\rI’m going to go that far away with\nmy Pokémon one day!
-                                                                     
-                 
-                                
-          
-                                                                                          
-                                                                                             
-                                             
-                           
+…… …… ……\n…… …… ……\r……口袋训练师\n是来挑战名木道馆的啊！\r
+决定了！\r要是你很弱的话,\n我会用我的战斗\f告诉你什么是口袋对战！\r口袋道馆改建正好也完工了,\n没有什么比来一场对战\f更让我期待的了！\r
+面对神奥地区的最强馆主,\n充分展现你的实力吧！\r
+{STRVAR 3,0}\n从望远镜看了过去！\r
+灯塔是守护我们的象征啊！
+我最喜欢从望远镜\n眺望远处的风景,\r什么时候可以和\n精灵一起看啊！
+我是叠纸飞机的高手,\n可以让写着字的信飞起来,\r有没有写好的信？\n可以叠成纸飞机飞起来哟！
+这样啊……\n真是遗憾啊。
+嗯嗯！那么持有邮件的\n是哪个精灵？
+那么下次再来哦！
+那么来把这封信\n叠成纸飞机！\r…… …… ……\n…… 哈哈！\r完成了！\n不知道能飞多远呢,\f那么,要飞了哦！
+…… …… ……\n…… …… ……\r哦ー！飞了！飞起来了！\n可以飞到{STRVAR 4,0}号道路的\f附近呢！\r下次想要飞纸飞机\n的时候再来哦！
+…… …… ……\n…… …… ……\r{SIZE 200}啊啊啊！{SIZE 100}\r掉下来了！\n失败了,\f对不起哦。
+哎？\n那个精灵没带着信件哦！

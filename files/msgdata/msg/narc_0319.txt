@@ -1,4 +1,4 @@
-{STRVAR 0, 0} hatched from the Egg!
-Would you like to nickname the newly\nhatched {STRVAR 0, 0}?
-Yes
-No
+蛋孵化了,\n{STRVAR 0,0}出生了！
+要给刚刚出生的{STRVAR 0,0}\n取名字吗？
+是
+不是

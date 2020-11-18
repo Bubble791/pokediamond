@@ -1,56 +1,56 @@
-MC: Good morning!\nIs everyone raising Pokémon?\rIt’s time for the Battling Trainers!\r
-MC: Good day!\nIs everyone raising Pokémon?\rIt’s time for the Battling Trainers!\r
-MC: Good evening!\nIs everyone raising Pokémon?\rIt’s time for the Battling Trainers!\r
-OK, let’s get with it and check in\non our Trainers!\r
-MC: All righty!\nWhat’s next on Battling Trainers?\r
-MC: I hope you enjoyed this\nshowing of Battling Trainers.\rUntil the next broadcast...\nGood-bye, and good battling!
-MC: On Battling Trainers, we’re\nalways on the hunt for news.\rOur interviewers have scattered\nthroughout Sinnoh.\rWe look forward to hearing about\nyou, Trainers!\rThat’s all the time we have today!\nGood-bye, and good battling!
-MC: Good morning.\nIt’s time for Trainer Research.\rWe examine the latest Pokémon trends\nby going directly to the Trainers.\r
-MC: Good day.\nIt’s time for Trainer Research.\rWe examine the latest Pokémon trends\nby going directly to the Trainers.\r
-MC: Good evening.\nIt’s time for Trainer Research.\rWe examine the latest Pokémon trends\nby going directly to the Trainers.\r
-OK, let’s take a look at the first\npiece of research we conducted.\r
-MC: Next up is this piece of\nresearch.\r
-MC: We hope you enjoyed this edition\nof Trainer Research.\rWho knows, you may be the subject\nof our research next time.\rThat’s it for this show today.\nFarewell!
-MC: On Trainer Research, we always\nseek Trainers willing to be interviewed\ffor the show.\rIf you spot an interviewer anywhere,\nplease stop by to say hello and grant\fus an interview.\rThat’s all today. Farewell.
-MC: Pokémon! Battle! Watch!\rGood morning!\nEveryone keeping up the good battle?\rIt’s time for Pokémon Battle Watch,\nwhere we do in-depth analyses of\fhot-blooded battling Trainers!\r
-MC: Pokémon! Battle! Watch!\rGood day!\nEveryone keeping up the good battle?\rIt’s time for Pokémon Battle Watch,\nwhere we do in-depth analyses of\fhot-blooded battling Trainers!\r
-MC: Pokémon! Battle! Watch!\rGood evening!\nEveryone keeping up the good battle?\rIt’s time for Pokémon Battle Watch,\nwhere we do in-depth analyses of\fhot-blooded battling Trainers!\r
-Let’s get on with the show!\nBattle! Watch!\r
-MC: Let’s move to the next segment!\nBattle! Watch!\r
-MC: Oops, looks like we’re all out\nof time!\rLet’s meet again here!\nBattle! Watch!
-MC: Pokémon Battle Watch needs\nyour help!\rWe’re always after news about your\nhot Pokémon battles.\rWe’d also love it if you’d mix records\nwith friends in a Union Room.\rThat way, we can get battle news\nabout your friends, too.\rLet’s meet again here!\nBattle! Watch!
-MC: A Trainer’s Day!\rThis program offers unique looks into\nthe daily lives of Trainers.\rWe cover a variety of topics that\naffect and concern Trainers.\r
-MC: A Trainer’s Day!\rThis program offers unique looks into\nthe daily lives of Trainers.\rWe cover a variety of topics that\naffect and concern Trainers.\r
-MC: A Trainer’s Day!\rThis program offers unique looks into\nthe daily lives of Trainers.\rWe cover a variety of topics that\naffect and concern Trainers.\r
-Let’s examine one aspect of\na Trainer’s day.\r
-MC: Let’s take a look at a Trainer’s\nday from another perspective.\r
-MC: This brings us to the conclusion\nof today’s A Trainer’s Day.\rWe hope you found it informative\nand entertaining.\rIn even seemingly ordinary daily\nroutines, there is so much drama.\rWe’ll keep bringing you more looks\ninto the days of Trainers.\rGood-bye, but just for now!
-MC: We seek tips on Trainer-related\nnews for coverage on the show.\rPlease also consider mixing records\nwith friends in a Union Room.\rThat will allow us to check the\nroutines of your friends, too.\rPlease tune in again next time.\nGood-bye, but just for now!
-MC: Sinnoh News Net.\rGood morning.\nThis is Sinnoh News Net.\r
-MC: Sinnoh News Net.\rHello.\nThis is Sinnoh News Net.\r
-MC: Sinnoh News Net.\rGood evening.\nThis is Sinnoh News Net.\r
-This is today’s lead story.\r
-We now bring you this news story.\r
-MC: That’s all the news today.\nThank you for watching.
-MC: Sinnoh News Net has crews\ngathering news all over Sinnoh.\rHelp our news-gathering efforts by\nmixing records at any Union Room.\rThat will allow us to get news that\nconcerns your friends, too.\rPlease join us for the next showing\nof the Sinnoh News Net.\rThank you for watching.
-MC: Good morning!\rIt’s now time for Rack ’Em Up\nRecords!\rLike always, we look at a variety\nof cool records set by Trainers.\r
-MC: Hello!\rIt’s now time for Rack ’Em Up\nRecords!\rLike always, we look at a variety\nof cool records set by Trainers.\r
-MC: Good evening!\rIt’s now time for Rack ’Em Up\nRecords!\rLike always, we look at a variety\nof cool records set by Trainers.\r
-All right, let’s have our experts\nSerge and Tanya take over.\rHere’s hoping they have some\ninteresting records to cover!\r
-MC: Let’s have our experts examine\nanother eyebrow-raising record!\r
-MC: We hope you enjoyed today’s\nRack ’Em Up Records as we did.\rThat’s all for today!\nBye-bye!
-MC: Rack ’Em Up Records wants to\nhear from you!\rDon’t be shy about telling us if you\nset any new records.\rPlease also mix records with friends\nat any Union Room.\rThat will let us examine the records\nof your friends as well as yours.\rWe hope to catch the record-setting\nmoments of you, our loyal viewers!\rThat’s all for today!\nBye-bye!
-MC: Sinnoh! Now!\rThis is it!\nThe one you’ve all been waiting for!\rIt’s time for Sinnoh Now, your portal\nto what’s hip and happening in Sinnoh!\r
-MC: Sinnoh! Now!\rThis is it!\nThe one you’ve all been waiting for!\rIt’s time for Sinnoh Now, your portal\nto what’s hip and happening in Sinnoh!\r
-MC: Sinnoh! Now!\rThis is it!\nThe one you’ve all been waiting for!\rIt’s time for Sinnoh Now, your portal\nto what’s hip and happening in Sinnoh!\r
-Here’s the first story on the cutting\nedge of Sinnoh trends!\r
-MC: Here’s another story on the\ncutting edge!\r
-MC: Did you enjoy this edition of\nSinnoh Now?\rYou can always count on us to keep\nbringing you the information you want!\rSee you again!
-MC: Sinnoh Now goes the extra\ndistance to bring you news.\rWe promise to do our best to keep\nyou informed with the news you want!\rSee you again!
-MC: Good morning!\rTune in to this show and you’ll always\nbe on the cutting edge of fashion!\rYou guessed it!\nIt’s the Trend Tracker Show!\r
-MC: Hello!\rTune in to this show and you’ll always\nbe on the cutting edge of fashion!\rYou guessed it!\nIt’s the Trend Tracker Show!\r
-MC: Good evening!\rTune in to this show and you’ll always\nbe on the cutting edge of fashion!\rYou guessed it!\nIt’s the Trend Tracker Show!\r
-Let’s go to our latest trendy news\nstory. Take it away!\r
-Don’t go away, we have another\ntrendy news story next!\r
-MC: We do hope you found the Trend\nTracker Show informative.\rPlease tune in on our next\nbroadcast!\rOver and out!
-MC: We do hope you found the Trend\nTracker Show informative.\rWe’ll be sure to keep you informed\nabout what’s in and not out!\rPlease tune in on our next\nbroadcast!\rOver and out!
+主持人『早上好ー！\n大家培育精灵了吗？\r战斗训练师时间到了！\r
+主持人『大家好ー！\n大家培育精灵了吗？\r战斗训练师时间到了！\r
+主持人『晚上好ー！\n大家培育精灵了吗？\r战斗训练师时间到了！\r
+那么赶快来看一看\n训练师的样子吧！\r
+主持人『接下来的\n战斗训练师的信息在这里！\r
+主持人『战斗训练师\n记下了吗？\r那么这次的节目就到这里了！\n下次再会！再见了！
+主持人『战斗训练师\n正在收集训练师的资料,\r采访将在神奥地区\n随机进行,\r还请协助我们的采访！\r今天的节目就到这里了,\n再见！
+主持人『早上好,\r向口袋训练师突击提问的\n训练师大搜索时间又到了！\r
+主持人『大家好！\r向口袋训练师突击提问的\n训练师大搜索时间又到了！\r
+主持人『晚上好！\r向口袋训练师突击提问的\n训练师大搜索时间又到了！\r
+那么来介绍一下\n初次的搜查！\r
+主持人『接下来的\n搜查在这里！\r
+主持人『这次的\n训练师搜查如何呢？\r下次的搜查对象\n说不定就是你！\r这次就到这里了！再见！
+主持人『训练师搜查\n接受采访的训练师征集中！\r如果采访到你的话\n请一定不要错过！\r那么再见了！
+主持人『口袋妖怪！！\n对战！！观赏！！\r早！\n来场口袋对战吧！？\r又到了每日火热的\r口袋训练师记录\n口袋对战观赏时间了！\r
+主持人『口袋妖怪！！\n对战！！观赏！！\r大家好！\n来场口袋对战吧！？\r又到了每日火热的\r口袋训练师记录\n口袋对战观赏时间了！\r
+主持人『口袋妖怪！！\n对战！！观赏！！\r晚上好！\n来场口袋对战吧！？\r又到了每日火热的\r口袋训练师记录\n口袋对战观赏时间了！\r
+那么赶快来看看吧！\n对战！观赏！\r
+主持人『下面是这里！\n对战！观赏！\r
+主持人『哦呀,\n已经到这个时间了啊！\r那么下次节目再见吧！\n对战！观赏！
+主持人『口袋对战观赏\n火热的口袋对战情报征集中！\r在联机大厅中进行通信,\r也可以收集到\n朋友的情报！\r那么下次节目再见吧！\n对战！观赏！
+主持人『训练师的一天！\r本节目是对口袋训练师\n身边发生的各种事情\f进行报道的电视节目。\r
+主持人『训练师的一天！\r本节目是对口袋训练师\n身边发生的各种事情\f进行报道的电视节目。\r
+主持人『训练师的一天！\r本节目是对口袋训练师\n身边发生的各种事情\f进行报道的电视节目。\r
+那么先来看一看\n最初的一天！\r
+主持人『再来看一看\n接下来的一天！\r
+主持人『训练师的一天已经\n看完了,各位感觉如何呢？\r虽然只是平凡的一天也还是\n有很多有意思的事情发生呢！\r那么下次还会为大家\n介绍很棒的一天,\r下次节目再见！
+主持人『本节目正在\n收集训练师遇见的轶事,\r在通信大厅里进行通信,\n也可以获得朋友的一天的信息,\r那么下次节目再见了！
+主持人『神奥新闻网\r早上好,\n这里是神奥新闻网,\r
+主持人『神奥新闻网\r您好,\n这里是神奥新闻网,\r
+主持人『神奥新闻网\r晚上好,\n这里是神奥新闻网,\r
+首先是最初的报道。\r
+接下来的报道。\r
+主持人『新闻播报完毕,\n再见。
+主持人『神奥新闻网\n有很多特派员\r被派遣到各个地方\n进行新闻收集,\r在联机大厅进行通信\n也可以获得朋友的新闻信息,\r下次的神奥新闻网再见！
+主持人『早上好,\r介绍口袋训练师建立的\n各种纪录的口袋纪录时间到了！\r
+主持人『大家好,\r介绍口袋训练师建立的\n各种纪录的口袋纪录时间到了！\r
+主持人『晚上好,\r介绍口袋训练师建立的\n各种纪录的口袋纪录时间到了！\r
+那么赶快来向大家\n介绍一下这些纪录吧！\r
+主持人『下面的纪录\n也一起来介绍一下吧\r
+主持人『这次的口袋纪录节目\n各位感觉如何？\r那么这次就到这里了,\n下次节目再见！
+主持人『口袋纪录节目\n大家达成的纪录征集中！\r在联机大厅进行通信,\n从朋友处获得的纪录也大欢迎！\r期待着各位达成纪录的时刻！\r那么这次节目就到这里了,\n再见ー！
+主持人『神奥！！此刻！！\n果然发生了！\r神奥出现的各种信息\n足不出户就能知道！\f神奥・此刻的时间又到了！\r
+主持人『神奥！！此刻！！\n果然发生了！\r神奥出现的各种信息\n足不出户就能知道！\f神奥・此刻的时间又到了！\r
+主持人『神奥！！此刻！！\n果然发生了！\r神奥出现的各种信息\n足不出户就能知道！\f神奥・此刻的时间又到了！\r
+首先的最新的\n神奥信息是！\r
+主持人『接下来的最新的\n神奥信息是！\r
+主持人『神奥・此刻\n感觉如何？\r以后还会给大家带来\n更多的信息！\r下次节目再会！\n再见！
+主持人『神奥・此刻\n大家有用的各种信息征集中。\r还会给大家带来\n更多更新的信息！\r下次节目再会！\n再见！
+主持人『早ー上好！\r看过我们的节目,\n你从今天开始也将\f走在流行最前端！\r流行通信时间到了！\r
+主持人『你ー好ー吗！\r看过我们的节目,\n你从今天开始也将\f走在流行最前端！\r流行通信时间到了！\r
+主持人『晚ー上ー好！\r看过我们的节目,\n你从今天开始也将\f走在流行最前端！\r流行通信时间到了！\r
+赶快来看看\n首先的流行信息！\r
+接下来的流行信息\n在这ー里！\r
+主持人『流行通信\n感觉如何？\r那么下次节目再会吧！\n再见！
+主持人『流行通信\n感觉如何？\r此后也会为大家带来\n流行最前端的信息！\r那么下次节目再会吧！\n再见！

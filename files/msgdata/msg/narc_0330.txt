@@ -1,14 +1,14 @@
-Welcome! This is the Global Trade\nStation, or GTS for short.\rWe enable the trading of Pokémon with\npeople worldwide over Nintendo WFC.\rWould you like to do a global\nPokémon trade?
-Hello!\nWelcome to the GTS!\rWould you like to do a global\nPokémon trade over Nintendo WFC?
-You may trade Pokémon one of two\nways at the GTS.\rYou may offer a Pokémon for trade,\nor search among offered Pokémon.\rShould I describe things in greater\ndetail?
-You will be asked to put up the\nPokémon you are offering to trade.\rAt that time, you will be asked what\nPokémon you would like in return.\rIf another player offers your desired\nPokémon in return for your offered\fPokémon, the trade will go through.\rShould I explain anything else?
-You may search among the Pokémon\nthat are offered by other Trainers.\rThey will all identify what Pokémon\ntheir Trainers want back in return.\rIf you find one that you want, you\nmust provide us with the kind of\fPokémon wanted in return.\rShould I explain anything else?
-Would you like to make a global\nPokémon trade?
-Please do visit again.
-I hope you enjoy your visit\nto the GTS!
-That’s a big globe, eh?\rWhere do I live on it now?\nLet’s see if I can point it out...
-They say if you communicate with\nsomeone, their location is\frecorded on this giant globe.
-All I need to do is leave a Pokémon\nhere to trade.\rWho knows, it might be traded while\nI’m asleep tonight.
-You can easily trade Pokémon with\nPokémon fans from around the world.\rIsn’t that something?
-You can register where you live on\nthis giant globe.\rOnce you do, your location will\nbe displayed to anyone you\fcommunicate with.
-Is Nintendo WFC something\neven I can use easily?\rIf it is really that easy, I’d love\nto trade Pokémon, too!
+开始了！这里是\nＧＬＯＢＡＬ ＴＲＡＤＥ ＣＥＮＴＥＲ\f简称 ＧＴＣ！\r在这里通过ＷｉＦｉ连接,\n可以同陌生人一起\f享受交换精灵的快乐！\r你要进行\n全球精灵交换吗？
+你好！\n欢迎来到ＧＴＣ！\r你要使用ＷｉＦｉ连接\n进行全球精灵交换吗？
+在ＧＴＣ上可以发布精灵\n或查找精灵。\r使用的方法\n与普通的精灵交换类似。\r要查看详细说明吗？
+请先选择要进行交换的精灵,\n然后请选择自己需要的精灵,\r在发布了精灵的期间\n如果有符合条件的人出现,\f那么交换就会自动成立并进行,\r想要查看\n其他详细说明吗？
+在这里所保管的许多的精灵中,\n可以找到你所需要的精灵。\r用你所发布的精灵\n来交换你所需要的精灵。\r想要查看\n其他详细说明吗？
+要进行\n全球精灵交换吗？
+请稍候
+现在就可以开始\n享受ＧＴＣ的乐趣了！
+一个巨大的地球仪啊,\r地球仪上的地点\n表示着什么呢？
+通信时,\n对方所在的位置\f能记录在这个地球仪上！
+在这里发布的精灵,\n在你休息时也可以进行交换！
+同没有见过面的陌生人\n轻松地进行精灵交换,\f是非常了不起的呢！
+这个地球仪\n同样能够记录\f自己所居住的地方。\r这样一来,\n通信时对方也可以看到\f你所在的位置！
+使用ＷｉＦｉ连接\n简单吧？\r简单的话\n我也想要赶快\f试一次精灵交换！

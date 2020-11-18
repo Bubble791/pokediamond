@@ -1,468 +1,468 @@
 \n\n\n\n
-The foe is physically\npounded with a long\ntail or a foreleg,\netc.\n
-The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.\n
-The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times in a row.\n
-The foe is hit with\na flurry of punches\nthat strike two to\nfive times in a row.\n
-The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.\n
-Numerous coins are\nhurled at the foe to\ninflict damage.\nMoney is earned\nafter battle.
-The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n
-The foe is punched\nwith an icy fist.\nIt may leave the\ntarget frozen.\n
-The foe is punched\nwith an electrified\nfist. It may leave\nthe target with\nparalysis.
-Hard, pointed, and\nsharp claws rake the\nfoe to inflict damage.\n\n
-Huge, impressive\npincers grip and\nsqueeze the foe.\n\n
-A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.
-A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.
-A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.
-The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees.
-A gust of wind is\nwhipped up by wings\nand launched at the\nfoe to inflict damage.\n
-The foe is struck\nwith large, imposing\nwings spread wide\nto inflict damage.\n
-The foe is blown away,\nto be replaced by\nanother Pokémon\nin its party. In the\nwild, the battle ends.
-The user soars, then\nstrikes on the second\nturn. It can also be\nused for flying to\nany familiar town.
-A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.
-The foe is slammed\nwith a long tail,\nvines, etc., to inflict\ndamage.\n
-The foe is struck\nwith slender, whiplike\nvines to inflict\ndamage.\n
-The foe is stomped\nwith a big foot.\nIt may also make the\ntarget flinch.\n
-The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n
-The foe is attacked\nby a kick launched\nwith muscle-packed\npower.\n
-The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.
-The user cuts a\nquick spin and lashes\nout with a sharp\nkick.\n
-Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n
-The user sticks its\nhead out and rams\nstraight forward.\nIt may make the\nfoe flinch.
-The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.\n
-The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times in a row.\n
-The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.
-A physical attack\nin which the user\ncharges and slams\ninto the foe with\nits whole body.
-The user drops onto\nthe foe with its full\nbody weight.\nIt may leave the foe\nparalyzed.
-A long body or vines\nare used to wrap and\nsqueeze the foe for\ntwo to five turns.\n
-A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little.
-The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.
-A reckless, life-\nrisking tackle.\nIt also damages the\nuser by a fairly large\namount, however.
-The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.
-The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.
-The foe is stabbed\ntwice by a pair of\nstingers.\nIt may also poison\nthe target.
-Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.
-The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.
-The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n
-The user growls in an\nendearing way, making\nthe foe less wary.\nThe target’s Attack\nstat is lowered.
-The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.
-A soothing lullaby is\nsung in a calming\nvoice that puts the\nfoe into a deep\nslumber.
-The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.
-The foe is hit with a\ndestructive shock\nwave that always\ninflicts 20 HP damage.\n
-For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused.
-The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.
-The foe is attacked\nwith small flames.\nThe target may also\nbe left with a burn.\n
-The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.
-The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.
-The foe is blasted\nwith a forceful shot\nof water.\n\n
-The foe is blasted by\na huge volume of\nwater launched under\ngreat pressure.\n
-It swamps the entire\nbattlefield with a\ngiant wave.\nIt can also be used\nfor crossing water.
-The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.
-A howling blizzard is\nsummoned to strike\nthe foe.\nIt may also freeze\nthe target solid.
-The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n
-A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.
-The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.
-The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.
-The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n
-A corkscrewing\nattack with the\nsharp beak acting\nas a drill.\n
-The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.
-A powerful low kick\nthat makes the foe\nfall over. It inflicts\ngreater damage on\nheavier foes.
-A retaliation move\nthat counters any\nphysical attack,\ninflicting double the\ndamage taken.
-The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.
-The foe is slugged\nwith a punch thrown\nat maximum power.\nIt can also be used\nto move boulders.
-A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.
-A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.
-A seed is planted on\nthe foe. It steals\nsome HP from the foe\nto heal the user on\nevery turn.
-The user’s body is\nforced to grow all at\nonce. It raises the\nSp. Atk stat.\n
-A sharp-edged leaf is\nlaunched to slash at\nthe foe. It has a\nhigh critical-hit\nratio.
-A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.
-A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.
-The user scatters a\ncloud of paralyzing\npowder.\nIt may paralyze the\ntarget.
-The user scatters a\nbig cloud of sleep-\ninducing dust around\nthe foe.\n
-The user attacks by\nscattering petals for\ntwo to three turns.\nThe user then\nbecomes confused.
-The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.
-The foe is stricken\nby a shock wave.\nThis attack always\ninflicts 40 HP\ndamage.
-The foe becomes\ntrapped within a\nfierce vortex of fire\nthat rages for two\nto five turns.
-A jolt of electricity\nis hurled at the foe\nto inflict damage.\nIt may also leave the\nfoe paralyzed.
-A strong electric\nblast is loosed at\nthe foe.\nIt may also leave the\nfoe paralyzed.
-A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.
-A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.
-The user picks up\nand throws a small\nrock at the foe to\nattack.\n
-The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n
-The user opens up a\nfissure in the ground\nand drops the foe in.\nThe target instantly\nfaints if it hits.
-The user burrows,\nthen attacks on the\nsecond turn.\nIt can also be used\nto exit dungeons.
-A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.
-The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.
-The foe is hit by a\nstrong telekinetic\nforce. It may also\nreduce the foe’s\nSp. Def stat.
-The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.
-The user meditates\nto awaken the power\ndeep within its body\nand raise its Attack\nstat.
-The user relaxes and\nlightens its body to\nmove faster.\nIt sharply boosts\nthe Speed stat.
-The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.
-While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n
-Use it to flee from\nany wild Pokémon.\nIt may also be used\nto warp to the last\nPoké Center visited.
-The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.
-The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.
-An earsplitting\nscreech is emitted to\nsharply reduce the\nfoe’s Defense stat.\n
-By moving rapidly, the\nuser makes illusory\ncopies of itself to\nraise its evasiveness.\n
-A self-healing move.\nThe user restores its\nown HP by up to half\nof its max HP.\n
-The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n
-The user compresses\nits body to make\nitself look smaller.\nThe user’s evasion\nstat is boosted.
-The user releases an\nobscuring cloud of\nsmoke or ink.\nIt reduces the foe’s\naccuracy.
-The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.\n
-The user withdraws\nits body into its hard\nshell, raising its\nDefense stat.\n
-The user curls up to\nconceal weak spots\nand raise its Defense\nstat.\n
-The user throws up a\nsturdy wall that\nsharply raises its\nDefense stat.\n
-A wondrous wall of\nlight is put up to\nsuppress damage from\nspecial attacks for\nfive turns.
-The user creates a\nhaze that eliminates\nevery stat change\namong all the Pokémon\nengaged in battle.
-A wondrous wall of\nlight is put up to\nsuppress damage from\nphysical attacks for\nfive turns.
-The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.
-The user endures\nattacks for two\nturns, then strikes\nback to cause double\nthe damage taken.
-The user waggles a\nfinger and stimulates\nthe brain into\nrandomly using nearly\nany move.
-The user counters\nthe foe by mimicking\nthe move last used\nby the foe.
-The user blows up to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.
-A large egg is hurled\nwith maximum force at\nthe foe to inflict\ndamage.\n
-The foe is licked with\na long tongue, causing\ndamage.\nIt may also paralyze\nthe target.
-The foe is attacked\nwith a discharge of\nfilthy gases.\nIt may also poison\nthe target.
-Unsanitary sludge is\nhurled at the foe.\nIt may also poison\nthe target.\n
-The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n
-The foe is attacked\nwith an intense blast\nof all-consuming fire.\nIt may also leave the\ntarget with a burn.
-The user charges the\nfoe at an awesome\nspeed.\nIt can also be used\nto climb a waterfall.
-The foe is clamped\nand squeezed by\nthe user’s very thick\nand sturdy shell for\ntwo to five turns.
-Star-shaped rays are\nshot at the foe.\nThis attack never\nmisses.\n
-The user tucks in its\nhead to raise its\nDefense in the first\nturn, then rams the\nfoe on the next turn.
-Sharp spikes are\nfired at the foe to\nstrike two to five\ntimes in rapid\nsuccession.
-The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.
-The user temporarily\nempties its mind to\nforget its concerns.\nIt sharply raises the\nuser’s Sp. Def stat.
-The user distracts\nthe foe by bending a\nspoon.\nIt may lower the\ntarget’s accuracy.
-The user restores\nits own HP by up to\nhalf of its max HP.\nMay be used in the\nfield to heal HP.
-The foe is attacked\nwith a knee kick from\na jump. If it misses,\nthe user is hurt\ninstead.
-The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n
-An attack that works\nonly on a sleeping\nfoe. It absorbs half\nthe damage caused to\nheal the user’s HP.
-A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget.
-Round objects are\nhurled at the foe to\nstrike two to five\ntimes in a row.\n
-A blood-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.
-With a scary face,\nthe user forces a\nkiss on the foe.\nIt may make the\ntarget fall asleep.
-A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.
-The user transforms\ninto a copy of the\nfoe right down to\nhaving the same move\nset.
-A spray of countless\nbubbles is jetted at\nthe foe.\nIt may also lower the\ntarget’s Speed stat.
-The foe is hit with a\nrhythmically launched\npunch that may also\nleave it confused.\n
-The user scatters\nbursts of spores\nthat induce sleep.\n\n
-The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.
-The foe is attacked\nwith an odd, hot\nenergy wave.\nThe attack varies in\nintensity.
-The user just flops\nand splashes around\nto no effect at all...\n\n
-The user alters its\ncellular structure to\nliquefy itself,\nsharply raising its\nDefense stat.
-The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n
-The user explodes to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.
-The foe is raked with\nsharp claws or\nscythes for two to\nfive times in quick\nsuccession.
-The user throws the\nbone it holds. The\nbone loops to hit the\nfoe twice, coming and\ngoing.
-The user goes to\nsleep for two turns.\nIt fully restores the\nuser’s HP and heals\nany status problem.
-Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.
-The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.
-The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.
-The user changes its\ntype to become the\nsame type as one of\nits moves.\n
-The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.
-The user chomps hard\non the foe with its\nsharp front fangs.\nIt cuts the target’s\nHP to half.
-The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.
-The user makes a\ncopy of itself using\nsome of its HP.\nThe copy serves as\nthe user’s decoy.
-An attack that is\nused in desperation\nonly if the user has\nno PP. It also hurts\nthe user slightly.
-It enables the user\nto learn a move used\nby the foe.\nOnce used, the move\nSketch disappears.
-A consecutive three-\nkick attack that\nbecomes more\npowerful with each \nsuccessive hit.
-The user attacks and\nsteals the foe’s held\nitem simultaneously.\nIt can’t steal if the\nuser holds an item.
-The user ensnares\nthe foe with a thin,\ngooey silk so it can’t\nflee from battle.\n
-The user senses the\nfoe’s movements\nwith its mind to\nensure its next\nattack does not miss.
-A sleeping foe is\nshown a nightmare\nthat inflicts some\ndamage every turn.\n
-The user cloaks\nitself in fire and\ncharges at the foe.\nIt may also leave the\ntarget with a burn.
-An attack that can\nbe used only if the\nuser is asleep. The\nharsh noise may also\nmake the foe flinch.
-A move that works\ndifferently for the\nGhost type than for\nall the other types.\n
-The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.
-The user changes its\ntype to make itself\nresistant to the type\nof the attack it\nlast took.
-A vortex of air is\nshot at the foe to\ninflict damage.\nIt has a high\ncritical-hit ratio.
-The user releases\ncottonlike spores\nthat cling to the\nfoe, sharply reducing\nits Speed stat.
-An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n
-The user looses its\ngrudge on the move\nlast used by the foe\nby cutting 4 PP from\nit.
-The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.
-It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.
-The user throws a\npunch at blinding\nspeed.\nIt is certain to\nstrike first.
-The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.
-The user draws up to\nthe foe disarmingly,\nthen throws a sucker\npunch.\nIt hits without fail.
-The user kisses the\nfoe with a sweet,\nangelic cuteness that\ncauses confusion.\n
-The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.
-The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.
-The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n
-The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.
-The user lays a trap\nof spikes at the\nfoe’s feet. The trap\nhurts foes that\nswitch into battle.
-The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.
-Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.
-When this move is\nused, if the user\nfaints, the foe that\nlanded the knockout\nhit also faints.
-Any Pokémon that\nhears this song\nfaints in three turns\nunless it switches\nout of battle.
-The user attacks with\na gust of chilled air.\nIt also lowers the\ntarget’s Speed stat.\n
-It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.
-The user strikes at\nthe foe with a hard\nbone two to five\ntimes in a row.\n
-The user takes sure\naim at the foe.\nIt ensures the next\nattack does not fail\nto hit the target.
-The user rampages\nand attacks for two\nto three turns.\nHowever, it then\nbecomes confused.
-A five-turn sand-\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.
-A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.
-The user endures any\nattack, leaving 1 HP.\nIts chance of failing\nrises if it is used in\nsuccession.
-The user charmingly\nstares at the foe,\nmaking it less wary.\nThe target’s Attack\nis sharply lowered.
-The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.
-A restrained attack\nthat prevents the\nfoe from fainting.\nThe target is left\nwith at least 1 HP.
-The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.
-The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP.
-The user throws an\nelectrically charged\ntackle at the foe.\nIt may also leave the\ntarget paralyzed.
-The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.
-The foe is hit with\nwings of steel.\nIt may also raise the\nuser’s Defense stat.\n
-The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.
-If it is the opposite\ngender of the user,\nthe foe becomes\ninfatuated and less\nlikely to attack.
-While it is asleep, the\nuser randomly uses\none of the moves it\nknows.\n
-The user makes a\nsoothing bell chime\nto heal the status\nproblems of all the\nparty Pokémon.
-A full-power attack\nthat grows more\npowerful the more\nthe user likes its\nTrainer.
-The user attacks by\ngiving the foe a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.
-A full-power attack\nthat grows more\npowerful the less\nthe user likes its\nTrainer.
-The user creates a\nprotective field that\nprevents status\nproblems for five\nturns.
-The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.
-The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.
-The user looses a\nground-shaking quake\naffecting everyone in\nbattle. Its power\nvaries.
-The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.
-Utilizing its tough\nand impressive\nhorn, the user\nrams into the foe \nwith no letup.\n
-The user exhales\na mighty gust that\ninflicts damage.\nIt may also paralyze\nthe target.
-The user switches\nplaces with a party\nPokémon in waiting,\npassing along any\nstat changes.
-The user compels the\nfoe to keep using\nonly the move it last\nused for two to six\nturns.
-An attack move that\ninflicts double damage\nif used on a foe that\nis switching out of\nbattle.
-A spin attack that\ncan also eliminate\nsuch moves as Bind,\nWrap, Leech Seed,\nand Spikes.
-A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.
-The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.
-The foe is raked\nwith steel claws.\nIt may also raise the\nuser’s Attack stat.\n
-The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.
-The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather.
-The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather.
-The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather.
-A unique attack that\nvaries in type and\nintensity depending\non the Pokémon using\nit.
-The user delivers a\ndouble chop with its\nforearms crossed.\nIt has a high\ncritical-hit ratio.
-The user whips up a\nvicious twister to\ntear at the foe.\nIt may also make the\nfoe flinch.
-The user summons a\nheavy rain that falls\nfor five turns,\npowering up Water-\ntype moves.
-The user intensifies\nthe sun for five\nturns, powering up\nFire-type moves.\n
-The user crunches up\nthe foe with sharp\nfangs. It may also\nlower the target’s\nDefense stat.
-A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.
-The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n
-The user charges the\nfoe at blinding speed.\nThis attack always\ngoes before any\nother move.
-The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.
-The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat.
-Two turns after this\nmove is used, the foe\nis attacked with a\nhunk of psychic\nenergy.
-The user slugs the\nfoe with a shattering\npunch.\nIt can also smash\ncracked boulders.
-The user traps the\nfoe inside a fast,\nvicious whirlpool that\nlasts for two to five\nturns.
-The user gets all the\nparty Pokémon to\nattack the foe. The\nmore party Pokémon,\nthe more damage.
-An attack that hits\nfirst and makes the\ntarget flinch.\nThis move works only\non the first turn.
-The user attacks in\nan uproar for two to\nfive turns. Over that\ntime, no one can fall\nasleep.
-The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.
-The power stored\nusing the move\nStockpile is released\nat once in an attack.\n
-The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.
-The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.
-The user summons a\nhailstorm lasting five\nturns. It damages all\nPokémon except the\nIce type.
-The user torments\nand enrages the foe,\nmaking it incapable of\nusing the same move\ntwice in a row.
-Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.
-The user shoots a\nsinister, bluish white\nflame at the foe to\ninflict a burn.\n
-The user faints upon\nusing this move.\nIn return, it sharply\nlowers the target’s\nAttack and Sp. Atk.
-An attack move that\ndoubles its power if\nthe user is poisoned,\nparalyzed, or has a\nburn.
-The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.
-This attack inflicts\ndouble damage on a\nparalyzed foe. It\nalso cures the foe’s\nparalysis, however.
-The user draws\nattention to itself,\nmaking all foes take\naim only at the user.\n
-An attack that makes\nuse of nature’s\npower. Its effects\nvary depending on the\nuser’s environment.
-The user boosts the\npower of the Electric\nmove it uses next.\nIt also raises the\nuser’s Sp. Def stat.
-The foe is taunted\ninto a rage that\nallows it to use only\nattack moves for two\nto four turns.
-A move that boosts\nthe power of the\nally’s attack in a\nDouble Battle.\n
-The user catches the\nfoe off guard and\nswaps the foe’s held\nitem with its own.\n
-The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n
-A self-healing move.\nThe user restores its\nown HP by up to half\nof its maximum HP\nin the next turn.
-The user hurriedly\nand randomly uses a\nmove among those\nknown by other\nPokémon in the party.
-The user lays roots\nthat restore HP on\nevery turn.\nBecause it is rooted,\nit can’t switch out.
-The user attacks the\nfoe with great power.\nHowever, it also\nlowers the user’s\nAttack and Defense.
-A barrier reflects\nback to the foe\nmoves like Leech\nSeed and moves\nthat damage status.
-The user recycles a\nsingle-use item that\nhas been used in\nbattle so it can be\nused again.
-An attack move that\ninflicts double the\ndamage if the user\nhas been hurt by the\nfoe in the same turn.
-The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect.
-The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.
-The user slaps down\nthe foe’s held item,\npreventing the item\nfrom being used\nduring the battle.
-An attack move that\ncuts down the foe’s\nHP to equal the\nuser’s HP.\n
-The user attacks in\nan explosive fury.\nThe lower the user’s\nHP, the less powerful\nthis attack becomes.
-The user employs its\npsychic power to\nexchange abilities\nwith the foe.\n
-If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.
-The user rests\nto cure itself of a\npoisoning, burn, or\nparalysis.\n
-If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.
-The user steals the\neffects of any\nhealing or status-\nchanging move the foe\nattempts to use.
-The user attacks with\na secret power. Its\nadded effects vary\ndepending on the\nuser’s environment.
-A two-turn attack.\nThe user dives\nunderwater on the\nfirst turn, then hits\non the next turn.
-The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.
-The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.
-The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.
-The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.
-A mistlike flurry of\ndown envelops and\ndamages the foe. It\nmay also lower the\ntarget’s Sp. Atk.
-The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.
-The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n
-The user launches a\nkick with a high\ncritical-hit ratio.\nIt may also leave the\ntarget with a burn.
-The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.
-The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.
-The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.
-The user slacks off,\nrestoring its own HP\nby up to half of its\nmaximum HP.\n
-The user lets loose\na horribly echoing\nshout with the\npower to inflict\ndamage.
-The user bites the\nfoe with toxic fangs.\nIt may also leave the\nfoe badly poisoned.\n
-The user slashes the\nfoe with hard and\nsharp claws.\nIt may also lower the\ntarget’s Defense.
-The foe is razed by\na fiery explosion.\nThe user must rest\non the next turn,\nhowever.
-The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.
-The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.
-The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.
-An attack move that\nvaries in power and\ntype depending on\nthe weather.\n
-The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.
-The user feigns\ncrying to make the\nfoe feel flustered,\nsharply lowering its\nSp. Def stat.
-The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.
-The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.
-Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.
-Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSpeed by preventing\nits movement.
-The foe is attacked\nwith powdery scales\nblown by wind.\nIt may also raise all\nthe user’s stats.
-A horrible sound like\nscraping metal is\nemitted to sharply\nreduce the foe’s\nSp. Def stat.
-The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n
-The user tickles the\nfoe into laughing,\nreducing its Attack\nand Defense stats.\n
-The user absorbs a\nmystical power from\nspace to raise its\nDefense and Sp. Def\nstats.
-The user spouts\nwater to damage the\nfoe. The lower the\nuser’s HP, the less\npowerful it becomes.
-The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n
-The user throws a\npunch at the foe from\nthe shadows.\nThe punch lands\nwithout fail.
-The user attacks with\nan odd, unseeable\npower.\nIt may also make the\nfoe flinch.
-The user attacks the\nfoe with an uppercut\nthrown skyward\nwith force.\n
-The user traps the\nfoe inside a harshly\nraging sandstorm for\ntwo to five turns.\n
-The foe is attacked\nwith a blast of\nabsolute-zero cold.\nThe foe instantly\nfaints if it hits.
-The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.
-The user forcefully\nshoots seeds at the\nfoe. Two to five\nseeds are shot in\nrapid succession.
-The user confounds\nthe foe with speed,\nthen slashes.\nThe attack lands\nwithout fail.
-The user launches\nsharp icicles at the\nfoe. It strikes two\nto five times in a\nrow.
-The user hardens\nits body’s surface\nlike iron, sharply\nraising its Defense\nstat.
-The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.\n
-The user howls loudly\nto raise its spirit,\nboosting its Attack\nstat.\n
-The user slashes the\nfoe with huge, sharp\nclaws.\n\n
-The foe is slammed\nwith an enormous\ntree.\nThe user can’t move\non the next turn.
-The user tenses its\nmuscles to bulk up\nits body, boosting\nboth its Attack and\nDefense stats.
-The user bounces up\nhigh, then drops on\nthe foe on the second\nturn. It may also\nparalyze the foe.
-The user attacks by\nhurling a blob of mud\nat the foe.\nIt also reduces the\ntarget’s Speed.
-An attack with a\nhigh critical-hit\nratio. This tail \nattack may also \npoison the foe.
-The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n
-The user electrifies\nitself, then charges\nat the foe. It causes\nconsiderable damage\nto the user as well.
-The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.
-The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.
-The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.
-The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.\n
-The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.
-The user hurls hard\nrocks at the foe.\nTwo to five rocks are\nlaunched in quick\nsuccession.
-The user strikes the\nfoe with a quick jolt\nof electricity.\nThis attack cannot be\nevaded.
-The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.
-Two turns after this\nmove is used, the\nuser blasts the foe\nwith a concentrated\nbundle of light.
-The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.
-The user lands and\nrests its body.\nIt restores the\nuser’s HP by up to\nhalf of its max HP.
-Gravity is intensified\nfor five turns, making\nmoves involving flying\nunusable and\nnegating Levitation.
-Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.
-This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.
-The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however.
-The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage.
-The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured.
-If the foe’s HP is\ndown to about half,\nthis attack will hit\nwith double the\npower.
-The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.
-An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.
-The user pecks the\nfoe. If the foe is\nholding a Berry, the\nuser plucks it and\ngains its effect.
-The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns.
-The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats.
-The user retaliates\nagainst the foe that\nlast inflicted damage\non it with much\ngreater power.
-After making its\nattack, the user\nrushes back to switch\nplaces with a party\nPokémon in waiting.
-The user fights the\nfoe in close without\nguarding itself. It\nalso cuts the user’s\nDefense and Sp. Def.
-If the user can use\nthis attack after the\nfoe attacks, its\npower is doubled.\n
-If the foe has\nalready taken some\ndamage in the same\nturn, this attack’s\npower is doubled.
-It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.
-The user flings its\nheld item at the foe\nto attack. Its power\nand effects depend\non the item.
-Using its psychic\npower of suggestion,\nthe user transfers\nits status problems\nto the target.
-The fewer PP this\nmove has, the more\npower it has for\nattack.\n
-The user prevents\nthe foe from using\nany HP-recovery\nmoves for five turns.\n
-The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power.
-The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.
-The user hurls up its\nstomach acids on\nthe foe. The fluid\neliminates the effect\nof the foe’s ability.
-The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.
-The user tries to cut\nahead of the foe to\nsteal and use the\nfoe’s intended move\nwith greater power.
-The user mimics the\nmove used immediately\nbefore it. The move\nfails if no other move\nhas been used yet.
-The user employs its\npsychic power to\nswitch changes to\nits Attack and\nSp. Atk with the foe.
-The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe.
-This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n
-This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.
-A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.
-This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.
-The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.
-The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n
-The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.
-The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n
-The user cloaks\nitself in fire and\ncharges at the foe.\nThe user sustains\nserious damage, too.
-The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n
-The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.
-The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n
-The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.
-The user releases a\nhorrible aura imbued\nwith dark thoughts.\nIt may also make the\ntarget flinch.
-The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio.
-The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n
-The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above.
-The user attacks with\na blade of air that\nslices even the sky.\nIt may also make the\ntarget flinch.
-The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.
-The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.
-The foe is attacked\nwith a shock wave\ngenerated by the\nuser’s gaping mouth.\n
-The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch.
-The user attacks with\na ray of light that\nsparkles as if it were\nmade of gemstones.\n
-An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target.
-The user whirls its\nfists to send a wave\nof pure vacuum at\nthe foe. This move\nalways goes first.
-The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.
-The user draws power\nfrom nature and\nfires it at the foe.\nIt may also lower the\ntarget’s Sp. Def.
-The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage.
-The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.
-The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n
-The user charges at\nthe foe using every\nbit of its power.\nThe user must rest\non the next turn.
-The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.
-The user strikes\nwith a tough punch as\nfast as a bullet.\nThis move always goes\nfirst.
-An attack move that\ninflicts double the\ndamage if the user\nhas been hurt by the\nfoe in the same turn.
-The user flash\nfreezes chunks of\nice and hurls them.\nThis move always goes\nfirst.
-The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.
-The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.
-The user bites with\ncold-infused fangs.\nIt may also make the\nfoe flinch or freeze.\n
-The user bites with\nflame-cloaked fangs.\nIt may also make the\nfoe flinch or sustain\na burn.
-The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.
-The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.
-The user tears at\nthe foe with blades\nformed by psychic\npower. It has a high\ncritical-hit ratio.
-The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.
-The user looses a\nflash of energy from\nits polished body.\nIt may also lower the\ntarget’s accuracy.
-The user gathers all\nits light energy and\nreleases it at once.\nIt may also lower the\nfoe’s Sp. Def stat.
-A charging attack\nthat may also leave\nthe foe confused.\nIt can also be used\nto scale rocky walls.
-Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc.
-The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.
-Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.
-A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.
-An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns.
-A storm of sharp\nleaves is whipped up.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.
-The user violently\nwhirls its vines or\ntentacles to harshly\nlash the foe.\n
-The user launches a\nhuge boulder at the\nfoe to attack.\nIt must rest on the\nnext turn, however.
-A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.
-The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.
-The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.
-The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.
-The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n
-If it is the opposite\ngender of the user,\nthe foe is charmed\ninto sharply lowering\nits Sp. Atk stat.
-The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.
-The user snares the\nfoe with grass and\ntrips it. The heavier\nthe foe, the greater\nthe damage.
-The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.
-The user releases\ncountless shots of\nlight. Its type varies\nwith the kind of Plate\nthe user is holding.
-The user bites the\nfoe. If the foe is\nholding a Berry, the\nuser eats it and\ngains its effect.
-The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.
-The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage.
-The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.
-The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio.
-The user calls out\nits underlings to\nmake a living shield,\nraising its Defense\nand Sp. Def stats.
-The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP.
-The user delivers a\nlife-endangering head\nbutt at full power.\nThe user also takes\nterrible damage.
-The user slams the\nfoe with a tail, etc.\nThe target is hit\ntwice in a row.\n
-The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.
-The user tears the\nfoe along with the\nspace around it.\nThis move has a high\ncritical-hit ratio.
-The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its status and\nHP fully restored.
-The foe is crushed\nwith great force.\nThe attack is more\npowerful the more HP\nthe foe has left.
-The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns.
-The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n
-The user generates\na shock wave from\nwithin its body.\nIt may also lower the\ntarget’s Sp. Def.
-The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.
-The user disappears,\nthen strikes the foe\non the second turn.\nIt hits even if the\nfoe used Protect.
+用长长的尾巴或手臂拍\n打对手进行攻击。
+用猛烈的手刀拍打对手\n进行攻击。容易命中要\n害。
+用连续的拍打拍击对手\n进行攻击。２~５次的\n连续攻击。
+用怒涛般的拳头打击对\n手进行攻击。２~５次\n的连续攻击。
+用集中全部力量的拳击\n向对手进行攻击。
+向对手的身体投掷小钱\n进行攻击。战斗后可获\n得金钱。
+用集中火焰的拳击向对\n手进行攻击。１０%几\n率使对手烧伤。
+用集中冷气的拳击向对\n手进行攻击。１０%几\n率使对手冰冻。
+用集中电气的拳击向对\n手进行攻击。１０%几\n率使对手麻痹。
+用又硬又尖锐的爪子抓\n挠对手进行攻击。
+使用又大又狠的钳子夹\n住对手进行攻击。
+用超大的钳子切杀对手\n进行攻击。如果命中一\n击必杀。
+第1回合做出风之刃第\n２回合进行攻击。容易\n命中要害。
+跳出激烈的战斗之舞提\n升士气。自身的攻击上\n升二级。
+使用爪子等切伤对手进\n行攻击。可以切断地图\n上的小树。
+用翅膀卷起猛烈的风向\n对手进行攻击。
+用又大又宽的翅膀向对\n手进行攻击。
+将对手吹飞使其他精灵\n替换上场。野生战斗时\n使用则战斗强制结束。
+第１回合飞上高空第２\n回合进行攻击。地图上\n使用可飞回去过的城市
+使用长长的身体或蔓藤\n在２~５回合中捆紧对\n手进行攻击。
+使用长长的尾巴或蔓藤\n等拍打对手进行攻击。
+用鞭子般柔软细长的蔓\n藤拍打对手进行攻击。
+用巨大的脚掌践踏对手\n进行攻击。３０%几率\n使对手害怕。
+用双脚向对手飞踢进行\n攻击。一回合给予２次\n连续伤害。
+集中恐怖的力量向对手\n发动飞踢进行攻击。
+跳到高处使用飞踢向对\n手进行攻击。没有命中\n的话自身会受到伤害。
+一边让身体快速旋转着\n一边向对手飞踢进行攻\n击。
+向对手的脸上撒沙使对\n手命中率下降。
+用头部猛撞直线冲撞对\n手进行攻击。３０%几\n率使对手害怕。
+用尖锐的角向对手进行\n攻击。
+用角或嘴向对手进行攻\n击。２~５次的连续攻\n击。
+用旋转的角向对手相手\n突刺进行攻击。如果命\n中一击必杀。
+向着对手用整个身体冲\n撞进行攻击。
+用整个身体压住对手进\n行攻击。３０%几率使\n对手麻痹。
+使用长长的身体或者蔓\n藤在２~５回合中卷住\n对手进行攻击。
+以惊人的力量向对手冲\n撞进行攻击。自己承受\n对方伤害１／４的伤害。
+２~３回合陷入暴走进\n行攻击。暴走过后自身\n陷入混乱状态。
+拼命向对手突进攻击。\n自己承受对方受到伤害\n的１／３的伤害。
+尾巴左右摇摆做出可爱\n的样子引诱对手疏忽。\n使对手的防御下降。
+用有毒的针刺向对手突\n刺进行攻击。３０%几\n率使对手中毒。
+用２个针刺向对手突刺\n进行攻击。一回合２次\n连续攻击。
+向对手发射锐利的针刺\n进行攻击。２~５次的\n连续攻击。
+用严厉的视线恐吓对手\n使其防御下降一级。
+用尖锐的大牙咬伤对手\n进行攻击。３０%几率\n使对手害怕。
+用可爱的叫声吸引对手\n注意使其疏忽。使对手\n的攻击下降一级。
+吓走对手使其他精灵替\n换上场。野生战斗时使\n用则战斗强制结束。
+用舒适而美妙的歌声使\n对手进入睡眠状态。
+从身体里发出特殊的音\n波使对手陷入混乱。
+用冲击波向对手进行攻\n击。给予对手固定２０\n伤害。
+停止对手的行动。使其\n最后使用的技能在几个\n回合中不能使用。
+使用强酸向对手进行攻\n击。１０%几率使对手\n特防下降。
+向对手发射小型火焰进\n行攻击。１０%几率使\n对手烧伤。
+向对手发射猛烈火焰进\n行攻击。１０%几率使\n对手烧伤。
+用白色的雾覆盖身体。\n５回合内不会被对手降\n低能力。
+向对手发射猛烈水柱进\n行攻击。
+向对手发射大量而且猛\n烈的水柱进行攻击。
+用大型水波向周围所有\n东西进行攻击。地图上\n使用可以在水面上前进。
+向对手发射冻结的光线\n进行攻击。１０%几率\n使对手冰冻。
+向对手喷出猛烈的暴风\n雪进行攻击。１０%几\n率使对手冰冻。
+向对手发射神秘的射线\n进行攻击。１０%几率\n使对手混乱。
+向对手发射猛烈的水泡\n进行攻击。１０%几率\n使对手速度下降。
+向对手发射双色的射线\n进行攻击。１０%几率\n使对手攻击下降。
+向对手发射强烈的光线\n进行攻击。下一回合自\n身无法行动。
+用尖锐的嘴或角向对手\n突刺进行攻击。
+一边旋转一边用尖嘴向\n对手扎去进行攻击。
+在地面上将自己投向对\n手进行攻击。自己将承\n受对方伤害的１／４的\n伤害。
+用足部的强力踢击使对\n手翻转进行攻击。对手\n越重威力越大。
+将自己受到对手的物理攻\n击造成的伤害以２倍返\n还给对手。
+利用引力扔飞对手。\n给予对手与自身等级相\n同数值的伤害。
+使用全身的力量打击对\n手进行攻击。地图上使\n用可以推动大石头。
+吸收养分进行攻击,\n自身可回复给予对手伤\n害的一半的HP。
+吸收养分进行攻击,\n自身可回复给予对手伤\n害的一半的HP。
+每回合吸收被种上种子\n的对手１／８的HP用\n于回复自身体力。
+身体迅速成长变大使自\n己的特攻上升一级。
+用飞舞的叶片切伤对手\n进行攻击。容易命中要\n害。
+第１回合采集阳光第２\n回合发射光束攻击。
+喷洒有毒的粉末使对手\n陷入中毒状态。
+喷洒麻痹的粉末使对手\n陷入麻痹状态。
+喷洒催眠的粉末使对手\n陷入睡眠状态。
+２~３回合中散布花瓣\n进行攻击,散布过后陷\n入混乱状态。
+从嘴里吐出丝线困住对\n手,使对手的速度下降\n一级。
+用冲击波向对手进行攻\n击,给予对手固定４０\n伤害。
+在２~５回合内使对手\n被包围在激烈的火焰的\n漩涡中进行攻击。
+给予对手电气的刺激进\n行攻击。１０%几率使\n对手麻痹。
+给予对手强烈的电击进\n行攻击。１０%几率使\n对手麻痹。
+给予对手很弱的电击使\n对手陷入麻痹状态。
+用激烈的落雷向对手落\n下进行攻击。３０%几\n率使对手麻痹。
+举起小型岩石向对手投\n掷进行攻击。
+用地震的冲击向周围的\n全部东西进行攻击。
+使对手陷进地裂的裂缝\n进行攻击。如果命中一\n击必杀。
+第１回合潜入地下第２\n回合向对手进行攻击。\n地图上使用可从洞穴脱\n出。
+使对手陷入剧毒状态。\n随回合增加受到毒的伤\n害也增加。
+用较弱的念力向对手进\n行攻击。１０%几率使\n对手混乱。
+用强力的念力向对手进\n行攻击。１０%几率使\n对手特防下降。
+使用引发睡意的暗示使\n对手陷入睡眠状态。
+从身体中引发沉睡的力\n量,使自己的攻击上升\n一级。
+抽出力量使身体变轻以\n高速进行移动。自身的\n速度上升二级。
+用眼睛都无法捕获的惊\n人速度向对手突击。必\n定先制攻击。
+使用技能后如果受到攻\n击愤怒的力量造成的伤\n害会增加。
+从野生精灵的战斗中脱\n出。地图上使用可返回\n最后进入的精灵中心。
+使对手看到幻觉,给予\n对手与自身等级相同数\n值的伤害。
+可以在战斗中把对手最\n后使用的技能作为自己\n的技能来使用。
+发出捂住耳朵都能听见\n的讨厌的声音,使对手\n的防御下降二级。
+快速移动制造出分身迷\n惑对手,自身回避率上\n升一级。
+细胞再生,回复自身最\n大HP的一半的HP。
+集中全身的力量使身体\n变硬,使自身的防御上\n升一级。
+缩小身体,使自身的回\n避率上升一级。
+用烟或油墨吹向对手,\n使对手的命中率下降一\n级。
+使对手看到怪异的光线\n受到迷惑,使对手陷入\n混乱状态。
+钻入壳中保护身体,\n自身的防御上升一级。
+身体缩成球型,\n自身的防御上升一级。
+制作出结识的墙壁,\n自身的防御上升二级。
+５回合中用神秘的墙壁\n使从对手处受到的特殊\n攻击造成的伤害减弱。
+放出黑雾使在战斗中出\n场的精灵全员的能力变\n化恢复原状。
+５回合中用神秘的墙壁\n使从对手处受到的物理\n攻击造成的伤害减弱。
+深深地吸气集中精神,\n自身的攻击会心一击率\n上升。
+２回合中忍受攻击,\n第三回合将所受的攻击\n以２倍伤害返还对手。
+摇动手指刺激大脑从全\n部的技能中随机使用其\n中的１项。
+模仿对手刚才使用的技\n能,自己也使用相同的\n技能。
+产生爆炸对周围的全部\n东西进行攻击,使用后\n无法继续战斗。
+把巨大的蛋用全力向对\n手投掷进行攻击。
+用长长的舌头舔对手进\n行攻击。３０%几率使\n对手麻痹。
+向对手喷发污染的瓦斯\n进行攻击。４０%几率\n使对手中毒。
+向对手投掷污染的泥弹\n进行攻击。３０%几率\n使对手中毒。
+用手持的骨棒击打对手\n进行攻击。１０%几率\n使对手害怕。
+用大字型的火焰烧尽对\n手。１０%几率使对手\n烧伤。
+用惊人的力量向对手冲\n击进行攻击。地图上使\n用可以逆流攀上瀑布。
+用非常结实很厚的壳在\n２~５回合中夹住对手\n进行攻击。
+向对手发射星型的光进\n行攻击。必定命中。
+第１回合把头缩回使自\n身的防御上升一级。第\n２回合进行攻击。
+向对手发射锐利的针刺\n进行攻击。２~５次的\n连续攻击。
+用触手或者蔓藤缠绕对\n手进行攻击。１０%几\n率使对手速度下降。
+头脑里一瞬间忘掉所有\n的事情,使自身的特防\n上升二级。
+将汤匙弯折引起对手注\n意,使对手精灵的命中\n率下降一级。
+回复自身最大HP一半\n的HP。地图上使用可\n以将自己的HP分给同\n伴。
+跳到高处用膝踢向对手\n进行攻击。没有命中的\n话自身会受到伤害。
+用吓人的样子恐吓对手\n使其陷入麻痹状态。
+吃掉睡着的对手的梦进\n行攻击,给予对手伤害\n的一半回复自身HP。
+向对手的脸上吹毒瓦斯\n使对手陷入中毒状态。
+向对手投掷圆形物品进\n行攻击。２~５次的连\n续攻击。
+吸血进行攻击。给予对\n手伤害的一半回复自身\n的HP。
+用恐怖的脸强迫亲吻,\n可以使被亲吻的对手陷\n入睡眠状态。
+第２回合向对手进行攻\n击。容易命中要害。\n３０%几率使对手害怕。
+变身为对手的精灵,使\n用与对手完全相同的技\n能。
+向对手发射无数的泡泡\n进行攻击。１０%几率\n使对手速度下降。
+打出有节奏的拳击进行\n攻击。２０%几率使对\n手混乱。
+散发出有催眠效果的孢\n子,使对手陷入睡眠状\n态。
+用闪光使对手命中率下\n降。地图上使用可照亮\n黑暗的洞穴。
+向对手发射神秘的念力\n进行攻击。使用时造成\n的伤害会变化。
+只是扑扑地乱跳什么作\n用都没有……
+用变化细胞变成液体,\n自身的防御上升二级。
+用超大的钳子拍击对手\n进行攻击。容易命中要\n害。
+以大型爆炸向周围所有\n东西进行攻击,使用后\n无法继续战斗。
+用爪子之类的挠伤对手\n进行攻击。２~５次的\n连续攻击。
+用手中持有的骨棒向对\n手投掷飞去飞回,２次\n连续攻击伤害。
+２回合中进入睡眠。\nHP和身体的异常状态\n全部回复。
+猛力扔出大型岩石进行\n攻击。３０%几率使对\n手害怕。
+用锐利的前齿强力地啃\n咬进行攻击。１０%几\n率使对手害怕。
+增加身体的边角变方,\n自身的攻击提升一级。
+自身的属性转变为随机\n一项习得技能的属性。
+用３种光线进行攻击。\n２０%几率使对手陷入\n烧伤,麻痹,冰冻状态\n之一。
+用锐利的前齿猛烈地啃\n咬攻击。对手的HP变\n为当前HP的一半。
+用爪子或镰刀切裂对\n手进行攻击。容易命中\n要害。
+削减自身HP的１／４\n制造分身。分身将代替\n自身接受攻击伤害。
+PP全部用尽时,挣扎\n向对手进行攻击。自身\n受到最大HP１／４的\n伤害。
+将对手使用的技能变成\n为自己的技能。使用１\n次后本技能消失。
+发出３次连续的踢击进\n行攻击。命中时威力依\n次上升。
+攻击的同时偷取道具。\n如果自身持有道具无法\n偷盗。
+用粘粘的很细的丝粘住\n对手,使其无法从战斗\n中逃走。
+用心感觉对手的行动,\n下回合攻击必定命中。
+使睡眠状态的对手看到\n噩梦,每回合减少最大\nHP１／４的HP。
+包裹着火焰向对手突进\n攻击。１０%几率使对\n手烧伤。
+自己处于睡觉状态时发\n出鼾声攻击。３０%几\n率使对手害怕。
+鬼系精灵削减１／２的\nHP诅咒对手,鬼系以\n外的精灵速度降低攻防\n提升。
+垂死时挣扎进行攻击。\n自身的HP越少技能威\n力越大。
+自身的属性改变为可抵\n抗最后受到的攻击的技\n能属性的属性之一。
+向对手发射空气的漩涡\n进行攻击。容易命中要\n害。
+用棉花一样柔软的孢子\n包裹对手,使对手的速\n度下降二级。
+用尽全力进行攻击,\n自身的HP越少技能威\n力越大。
+对于对手最后使用的技\n能怀有怨恨,使那技能\n的PP值减少４点。
+向对手吹寒冷的细雪进\n行攻击。１０%几率使\n对手冰冻。
+完全不受到对手攻击。\n连续使用容易失败。
+用眼睛看不到的惊人速\n度出拳攻击。必定先制\n攻击。
+用吓人的脸盯着恐吓对\n手,使对手的速度下降\n二级。
+向对手靠近,趁疏忽的\n间隙打击对手。攻击必\n定命中。
+用天使般可爱的亲吻使\n对手陷入混乱状态。
+削减自身最大HP的一\n半使自身的攻击上升到\n最高。
+用污染的泥弹向对手投\n掷进行攻击。１０%几\n率使对手中毒。
+向对手的脸投掷泥浆进\n行攻击。使对手的命中\n率下降。
+向对手的脸喷墨进行攻\n击。５０%几率使对手\n命中率下降。
+在对手的脚下撒布微小\n的菱。交换出场的对方\n精灵将受到伤害。
+向对手发射大炮般的电\n气进行攻击。使对手陷\n入麻痹状态。
+使对鬼系无效的技能或\n对于回避率高的对手的\n攻击能够命中。
+使用技能后如果受到攻\n击被击倒则攻击的对手\n也成为濒死状态。
+听到的精灵在３回合后\n变为濒死状态。交换精\n灵后效果消失。
+向对手吹寒冷的冷气进\n行攻击。同时对手的速\n度下降。
+完全不受到对手攻击。\n连续使用容易失败。
+用坚硬的骨棒打击对手\n进行攻击。２~５次的\n连续攻击。
+准确地进行瞄准,\n下回合的攻击必定命中\n对手。
+２~３回合中陷入暴走\n进行攻击。暴走过后陷\n入混乱状态。
+５回合中扬起沙尘暴,\n对岩地钢属性以外的精\n灵造成伤害。
+吸收养分进行攻击。\n给予对手伤害的一半的\n用于回复自身体力。
+受到攻击也必定使HP\n剩下１点。连续使用容\n易失败。
+用可爱的样子诱惑对手\n使其攻击下降二级。
+５回合中连续滚动进行\n攻击。技能命中的话威\n力逐渐上升。
+估量着进行攻击,\n使对手的HP至少残余\n１点。
+激怒对手使其混乱,\n愤怒的对手的攻击上升\n二级。
+回复自身最大HP一半\n的HP。地图上使用可\n以将自己的HP分给同\n伴。
+包裹着电气突进进行攻\n击。３０%几率使对手\n麻痹。
+用镰或爪之类的切伤对\n手进行攻击。连续命中\n威力上升。
+用坚硬的翅膀拍击对手\n进行攻击。１０%几率\n自身防御上升。
+用仿佛能吸入的黑色的\n眼神牢牢地盯住对手,\n使对手无法逃走。
+诱惑异性使其陷入着迷\n状态。５０%几率使对\n手无法行动。
+使用自身已习得技能的\n一种,只有自身处于睡\n眠状态可以使用。
+用舒适的铃声的音色使\n我方全员的异常状态回\n复。
+为了训练师用全力向对\n手进行攻击。亲密度越\n高威力越大。
+设置了陷阱的礼物给对\n手进行攻击,有时也会\n回复对手HP。
+由于不满用全力向对手\n进行攻击。亲密度越低\n威力越大。
+５回合中用神秘的力量\n守护我方不会陷入异常\n状态。
+将自身的HP与对方的\nHP相加然后再双方进\n行平分。
+用神秘的火焰烧尽对手\n进行攻击。５０%几率\n使对手烧伤。
+振动地面向周围的所有\n东西进行攻击,技能的\n威力有很多变化。
+用尽浑身的力量打出拳\n击进行攻击,对手必定\n陷入混乱状态。
+用坚硬的大角向对手突\n刺进行攻击。
+向对手喷出惊人的吐息\n进行攻击。３０%几率\n使对手麻痹。
+交换精灵上场,替换上\n场的精灵将接替下场精灵\n的能力变化。
+对手在２~６回合中只\n能一直使用最后使用的\n技能。
+对手的精灵交换下场的\n时候使用该技能可以用\n２倍威力进行攻击。
+旋转攻击。能够消除捆\n绑寄生种子撒菱之类的\n效果。
+用香味使对手回避率下\n降。地图上使用可以在\n草丛等地引出精灵。
+用坚硬的尾巴拍打对手\n进行攻击。３０%几率\n使对手防御下降。
+用钢铁的爪子切裂对手\n进行攻击。１０%几率\n自身攻击上升。
+按照对手的痕迹进行攻\n击,攻击必定命中。
+回复自身HP。\n根据天气回复的多少发\n生变化。
+回复自身HP。\n根据天气回复的多少发\n生变化。
+回复自身HP。\n根据天气回复的多少发\n生变化。
+根据使用技能的精灵,\n本技能的属性及威力发\n生变化。
+用双手手刀拍打对手攻\n击。容易命中要害。
+制造龙卷风卷起对手进\n行攻击。２０%几率使\n对手害怕。
+５回合中成为雨天,\n水系的技能威力上升。
+５回合中日照变强,\n火系的技能威力上升。
+用力地撕咬对手进行攻\n击。２０%几率使对手\n防御下降。
+把受到对手的特殊攻击\n造成的伤害以２倍伤害\n返还给对手。
+用向自己进行暗示的方\n法使自己具有与对手相\n同的能力变化状态。
+用眼睛无法捕获的惊人\n速度向对手突进,必定\n先制攻击。
+用原始力量进行攻击。\n１０%几率自身全部能\n力上升。
+向对手投掷黑色影块进\n行攻击。２０%几率使\n对手特防下降。
+使用技能后的第２回合\n结束时用无属性念力块\n向对手进行攻击。
+用能打碎岩石的拳击向\n对手进行攻击。地图上\n使用可打碎有裂纹的岩\n石。
+２~５回合中将对手封\n闭在卷起激烈的漩涡的\n水中进行攻击。
+我方全员进行攻击。\n我方精灵数量越多技能\n的威力越大。
+先制攻击使对手害怕。\n只能在刚出场时使用才\n能成功。
+２~５回合吵闹攻击。\n在此期间谁都无法进入\n睡眠状态。
+蓄积力量临时提升自身\n的防御与特防。最多能\n够蓄力３次。
+放出蓄积力量向对手进\n行攻击。蓄积越多威力\n越大。
+使用蓄积的力量回复自\n身的HP。蓄积越多回\n复越多。
+向对手喷发炙热的气息\n进行攻击。１０%几率\n使对手烧伤。
+５回合中冰雹天气,\n冰属性以外的精灵受到\n伤害。
+受到寻衅的精灵无法连\n续使用相同的技能。
+煽动对手使其陷入混乱\n状态,同时对手的特攻\n上升二级。
+放出可怕怪异的火焰,\n使对手陷入烧伤状态。
+以自身濒死为代价,\n使对手的攻击及特攻下\n降二级。
+自身处于中毒,麻痹,\n烧伤状态时,使用该技\n能的威力变为２倍。
+提高精神打出拳击。\n使用技能前受到攻击则\n使用失败。
+攻击麻痹状态的对手威\n力变为２倍,同时对手\n的麻痹状态消失。
+使自身引人注目,\n吸引对手的全部攻击转\n移到自己身上。
+用自然力量进行攻击。\n根据使用的场所使用技\n能发生变化。
+下一回合使用的电气系\n的技能威力上升。同时\n自身特防上升一级。
+激怒对手,\n２~４回合中对手不能\n使用非攻击技能。
+帮助搭档,\n被帮助的精灵的技能威\n力上升５０%。
+利用对手的疏忽将我方\n与对方的持有物交换。
+使自己变为与对手具有\n相同的特性。
+下一回合回复自身体力\n最大HP一半的HP。
+借助我方队友的力量,\n随机使用我方全部精灵\n的任意１项技能。
+将根扎入大地每回合回\n复HP。由于已经生根\n无法替换下场。
+向对手以惊人的力量进\n行攻击。自身的攻击和\n防御下降一级。
+将异常状态,能力下降,\n寄生种子之类的攻击返\n还给对手。
+使战斗中已经使用消失\n的自身持有道具再生,\n可再次使用。
+遭受到对手攻击时给予\n对手更大的２倍伤害。
+用坚硬的拳进行攻击。\n可以破坏光之壁和反射\n盾。
+用呵欠引诱对手睡觉。\n下一回合对手陷入睡眠\n状态。
+将对手携带的道具打落\n掉,在战斗结束前无法\n使用。
+给予对手伤害,\n使对手的HP与自身的\nHP相同。
+愤怒爆发进行攻击。\n自身HP越少技能威力\n越低。
+用超能力交换自身的特\n性与对手的特性。
+如果对手与自己习得了\n相同技能的话,对手不\n能使用那个技能。
+让身体休息,\n使自身的中毒,麻痹,\n烧伤的异常状态回复。
+受到对方技能攻击被击\n倒时,使用怨念使该技\n能的PP值成为０。
+抢夺对手即将使用的回\n复技能或能力变化技能\n对自己使用。
+用秘密力量进行攻击。\n根据使用的场所追加效\n果发生变化。
+第１回合潜入深处第２\n回合浮起,向对手进行\n攻击。
+张开双手猛推对手进行\n攻击。２~５次的连续\n攻击。
+水面草丛洞穴等等,\n根据场所改变自身的属\n性。
+用闪烁的光统一精神,\n自身的特攻上升二级。
+发出眩目的光线进行攻\n击。５０%几率使对手\n特防下降。
+用雾状的羽毛包住身体\n进行攻击。５０%几率\n使对手特攻下降。
+振动飞舞的羽毛进行攻\n击。被缠绕身体的对手\n的攻击下降二级。
+跳起眩晕的舞步使周围\n全部的精灵陷入混乱状\n态。
+被攻击的对手１０%几\n率被烧伤。容易命中要\n害。
+撒泥土搞得到处是泥。\n自身在场上时电气系技\n能减弱。
+５回合中连续旋转进行\n攻击。技能命中后威力\n逐渐上升。
+猛烈地挥动带刺的手臂\n进行攻击。３０%几率\n使对手害怕。
+偷懒休息。\n回复自身最大HP一半\n的HP。
+发出又吵又响的巨大振\n动向对手进行攻击。
+用有毒的牙啃咬对手进\n行攻击。３０%几率使\n对手中剧毒。
+用坚硬锐利的爪子切裂\n对手进行攻击。５０%\n几率使对手防御下降。
+用爆发的火焰烧尽对手\n进行攻击。下一回合无\n法行动。
+向对手发射水的大炮进\n行攻击。下一回合无法\n行动。
+打出如同彗星般的拳击\n进行攻击。２０%几率\n自身攻击上升。
+用超大的声音出其不意\n地惊吓对手进行攻击。\n３０%几率使对手害怕
+使用的时候根据天气,\n技能的属性及威力发生\n变化。
+用舒适而安静的香味使\n我方全员的异常状态回\n复。
+假装哭泣流出眼泪,\n扰乱对手使对手的特防\n下降二级。
+用锐利的风刃切伤对手\n进行攻击。容易命中要\n害。
+用全力向对手攻击,\n使用后的反作用使自身\n的特攻降低二级。
+使对鬼系无效的技能或\n对于回避率高的对手的\n攻击能够命中。
+投掷岩石进行攻击,\n封印对手行动使对手的\n速度下降。
+在风中带着磷粉进行攻\n击。１０%几率自身全\n部能力上升。
+摩擦金属发出讨厌的声\n音。使对手的特防下降\n二级。
+用舒适的笛子的音色使\n对手陷入睡眠状态。
+挠对方的身体使对手发\n笑,使对手的攻击和防\n御下降。
+使用从宇宙获得的神秘\n的力量,使自身的防御\n和特防上升。
+喷发海潮进行攻击。\n自身HP越少技能威力\n越低。
+发射出神秘的光进行攻\n击。１０%几率使对手\n混乱。
+打出切破影子的拳击。\n攻击必定命中。
+使用无法看到的神秘力\n量进行攻击。１０%几\n率使对手害怕。
+将对手高高地击打向高\n空进行攻击。
+２~５回合中将对手封\n闭在猛烈的沙尘暴中进\n行攻击。
+用绝对零度的寒冷向对\n手进行攻击。如果命中\n一击必杀。
+向对手发射浑浊的泥水\n进行攻击。３０%几率\n使对手命中率下降。
+向对手发射猛烈的种子\n弹进行攻击。２~５\n次的连续攻击。
+快速移动迷惑对手冲上\n攻击。攻击必定命中。
+向对手发射锐利的冰柱\n进行攻击。２~５次的\n连续攻击。
+皮肤变得钢铁般坚硬,\n自身的防御上升二级。
+张开双手堵在对手逃跑\n的道路上,使其无法逃\n走。
+大声吼叫提升士气,\n自身的攻击上升一级。
+用尖锐巨大的爪子切裂\n对手进行攻击。
+用巨大的树木拍击对手\n进行攻击。下一回合无\n法行动。
+身体集中力量使肌肉绷\n紧,使自身的攻击和防\n御上升一级。
+第1回合飞跳至高空第\n２回合攻击。３０%几\n率使对手麻痹。
+向对手投掷泥块进行攻\n击。同时使对手的速度\n下降一级。
+用尾巴拍打。１０%几\n率使对手中毒。容易命\n中要害。
+做出可爱的样子靠近对\n手,将对手持有的道具\n夺取过来。
+包裹着电气向对手突进\n进行攻击。自己受到对\n方伤害１／３的伤害。
+发射能够跟踪对手的神\n秘叶片。必定命中。
+泼上水变得潮湿。\n自己在场上时火属性的\n技能威力减弱。
+静静地统一精神,平静\n心情,自身的特攻和特\n防上升一级。
+用尖锐的叶片切伤对手\n进行攻击。容易命中要\n害。
+跳起激烈的神秘的强有\n力的舞蹈。自身的攻击\n和速度上升一级。
+向对手发射坚硬的岩石\n进行攻击。２~５次的\n连续攻击。
+快速向对手发出电击。\n攻击必定命中。
+用水的振动向对手进行\n攻击。２０%几率使对\n手混乱。
+使用技能后第二回合结\n束时,用无数的光束向\n对手进行攻击。
+用尽全力向对手进行攻\n击,使用后的反作用使\n自身的特攻降低二级。
+落到地面上休息。回复\n最大HP一半的HP。\n飞行及浮游怪兽本回合\n会被地面攻击命中。
+５回合内重力变强。飞\n行及浮游怪兽受到地面\n攻击,飞行及跳跃招数\n不能使用。
+对手回避率复原,并且\n超能系招式能够命中恶\n系怪兽。
+给予睡眠状态的对手２\n倍伤害。不过同时会惊\n醒对手。
+挥动又强又重的拳给予\n对手伤害。自己的速度\n下降一级。
+身体高速回旋着撞击攻\n击。比对手速度越慢,\n招式威力越大。
+自身变为濒死状态,下\n一只出场怪兽的异常状\n态和HP全回复。
+对手的HP在一半以下\n时,招式威力两倍化。
+从果实中得到力量进行\n攻击。根据携带果实的\n不同,招式的属性和威\n力而变化。
+对使用保护或见切的对\n手也能够攻击。只能攻\n击保护和见切的对手,\n保护效果解除。
+用鸟喙攻击。如果对手\n携带着果实,能将其啄\n掉,并对自身发动果实\n效果。
+制造激烈的旋风。３回\n合内,我方全员速度上\n升两级。
+点击穴道,使身体活性\n化。自身能力中随机一\n项上升两级。
+把出招前最后受到的伤\n害,以更大的伤害返还\n给对手。
+攻击后,以惊人的速度\n交换怪兽上场。
+不顾防御向对手内怀进\n行突击。自身的防御和\n特防下降一级。
+蓄力攻击。如果比对手\n后攻,招式的威力两倍\n化。
+本回合中,如果对手先\n受到伤害的话,招式威\n力两倍化。
+对手携带的道具不能使\n用。并且训练师也不能\n对其使用道具。
+把携带的道具快速掷出\n进行攻击。根据道具不\n同,威力及效果不同。\n使用后道具消失。
+用超能力施加暗示,把\n自身的异常状态转移给\n对手。
+所剩技能点数越少,招\n式威力越大。
+５回合内,不能使用回\n复HP的招式。
+强烈的缠绕攻击。根据\n对手所剩HP威力发生\n变化,HP越高威力越\n大。
+用超能力将自己的防御\n力和攻击力交换。
+向对手的身体吐胃液。\n粘附上的胃液能消除对\n手特性的效果。
+向神祈祷,一定回合内\n对手的攻击不会命中我\n方要害。
+模仿对手即将使用的招\n式,并且威力上升,对\n手没有出招则无效。只\n在先攻时有效。
+模仿场上怪兽最后使用\n的招式,如果没有出招\n则无效。
+用超能力,把自己和对\n方的攻击和特攻能力进\n行交换。
+用超能力,把自己和对\n方的防御和特防能力进\n行交换。
+根据对手能力的强化程\n度增加威力,对手能力\n等级越高威力越大。
+在战斗中使用过自己习\n得的全部其他招式后,\n才能使用该招式。
+在心里种下烦恼种子,\n使对手睡不着觉。对手\n的特性变为不眠。
+比对手先攻。如果对手\n使用的不是攻击招式,\n则使用失败。
+在对方场地撒上毒菱。\n交换上场的怪兽会陷入\n中毒状态,撒２次后变\n为剧毒。
+用超能力将自身与对手\n的能力变化等级进行交\n换。
+用水之屏障覆盖在身体\n周围。每回合回复\n１／１６的HP。
+利用电气制造出的磁力\n悬浮在空中。５回合内\n变为浮游状态。
+用火焰铠甲包裹住身体\n进行突进。自身要承受\n给予对手伤害的１／３\n的损伤。１０%几率使\n对手烧伤。
+用冲击波向对手的身体\n进行攻击。３０%几率\n使对手麻痹。
+放射出身体内集聚的波\n动的力量。攻击必定命\n中。
+磨擦身体以减少空气的\n阻碍。速度上升两级。
+用有毒的触手和手腕刺\n击对手。３０%几率使\n对手中毒。
+从身体里发射出充满怨\n念的恐怖光线。２０%\n几率使对手害怕。
+瞬间向对手发起切裂攻\n击。容易命中要害。
+用巨大的尾巴扬起激烈\n的波涛来攻击对手。
+用有坚硬外壳的巨大种\n子投向对手进行攻击。
+用能够切裂天空的空气\n之刃进行攻击。３０%\n几率使对手害怕。
+用爪子之类的东西像钳\n子一样交差刺击攻击切\n裂对手。
+用翅膀的振动制造出音\n波发动攻击。１０%几\n率使对手特防下降。
+从口中发出巨大的冲击\n波对对手进行攻击。
+用凌厉的杀气威慑对手\n进行攻击。２０%几率\n使对手害怕。
+发射出宝石一样的明亮\n的光芒攻击对手。
+从拳击中吸收对手的力\n量。自身能够回复给对\n手造成伤害的一半的\nHP。
+挥动拳头制造出真空的\n波动。必定先制攻击。
+集中运气放出全身的力\n量攻击。１０%几率使\n对手特防下降。
+从自然里集中生物的力\n量并发射出来。１０%\n几率使对手特防下降。
+收起翅膀低空飞行中发\n动突击。自身要承受给\n予对手伤害的１／３的\n损伤。
+在对手的脚下释放出大\n地的力量。１０%几率\n使对手特防下降。
+以无法看到的速度交换\n自己与对手持有的道具。
+把自己的力量全部使出\n进行突击攻击。下一回\n合不能行动。
+想出一些坏点字来活动\n头脑。自身特攻上升两\n级。
+使用子弹一样快速的硬\n拳进行攻击。必定先制\n攻击。
+后制攻击,如果受到对\n手攻击,那么该招式的\n威力将变为２倍来攻击\n对手。
+瞬间制造出冰块并迅速\n放出。必定先制攻击。
+用在影子中作出的锐利\n的爪子切裂对手。容易\n命中要害。
+用储存着电气的牙咬伤\n对手。１０%几率使对\n手麻痹或害怕。
+用隐藏着冷气的牙咬伤\n对手。１０%几率使对\n手冰冻或害怕。
+用缠绕着火焰的牙咬伤\n对手。１０%几率使对\n手烧伤或害怕。
+伸长影子,从对手的背\n后发起攻击。必定先制\n攻击。
+向对手发射用坚硬的泥\n球进行攻击。３０%几\n率使对手命中率下降。
+用心之刀刃刺向真身,\n将对手切裂。容易命中\n要害。
+将意念的力量集中在额\n前发动攻击。２０%几\n率使对手害怕。
+经过打磨后从身体中放\n出闪光的力量。３０%\n几率使对手命中率下降。
+将身体的光集中在一点\n放射出来进行攻击。\n１０%几率使对手特防\n下降。
+用突进攻击使对手陷入\n混乱。２０%几率使对\n手混乱。地图上使用能\n够攀登坚固的峭壁。
+清除障碍物使对手回避\n率下降。能够清除地图\n上的浓雾,以及战斗中\n盾壁的效果。
+制造幻象的神秘空间。\n５回合之内速度慢的怪\n兽先攻。
+从天空中落下巨大的陨\n石。使用后自身的特攻\n下降两级。
+放出眩目的电击攻击周\n围的全部东西。３０%\n几率使对手麻痹。
+放出炙热的火焰攻击周\n围的全部东西。３０%\n几率使对手烧伤。
+用尖锐的叶片制造出风\n暴。使用后自身的特攻\n下降两级。
+剧烈地挥动藤鞭,触手\n之类的东西打击对手。
+向对手发射巨大的岩石\n进行攻击。下一回合不\n能行动。
+切裂对手。１０%几率\n使对手中毒,容易命中\n要害。
+向对手投掷垃圾进行攻\n击。３０%几率使对手\n中毒。
+用钢一样坚硬的脑袋进\n行攻击。３０%几率使\n对手害怕。
+发射出会自动吸附在对\n手身上的钢铁爆弹进行\n攻击。攻击必定命中。
+用尖锐的岩石向对手发\n动刺击攻击。容易命中\n要害。
+诱惑异性对手,使异性\n对手的特攻下降两级。
+使对方场地上漂浮着无\n数的岩石,交换上场的\n怪兽将受到伤害。
+把草打成绳结来绊倒对\n手。对手越重则威力越\n大。
+用记录的语言制造音波\n进行攻击。能够使对手\n陷入混乱。请使用ＤＳ\n主机的麦克风功能。
+放出无尽的审判。技能\n属性根据自身携带的石\n板类道具而改变。
+啃咬攻击。对手携带果\n实时将果实吃掉,并对\n自身发动果实的效果。
+向对手发射电击光束。\n积聚了电气后,７０%\n几率使自身特攻上升。
+用坚硬的身体向对手扣\n打攻击。自身要承受给\n予对手伤害的１／３的\n损伤。
+以无法看到的惊人速度\n向对手突袭。必定先制\n攻击。
+召唤手下对对手进行攻\n击。容易命中要害。
+召唤手下保护自己的身\n体。提升自身的防御及\n特防。
+召唤手下治疗伤害。回\n复最大HP的一半。
+拼命使出全身力量用头\n撞攻击。自身要承受给\n予对手伤害的１／２的\n损伤。
+使用尾巴之类的向对手\n进行攻击。一回合内进\n行２次连续攻击。
+释放出能够使时间发生\n扭曲的力量进行攻击。\n下一回合不能行动。
+破坏对手周围的空间给\n对手造成伤害。容易命\n中要害。
+自身变为濒死状态,交\n替上场的怪兽的HP,\n异常状态及技能值全部\n回复。
+用恐怖的力量紧紧握住\n对手。对手的HP残留\n越少威力越大。
+将对手封闭在猛烈燃烧\n的火焰中进行攻击,２\n~５回合内对手不能交\n换怪兽。
+将对手引落在暗黑的世\n界中,使对手陷入睡眠\n状态。
+从身体里放出冲击波。\n４０%几率使对手特防\n下降。
+制造出吓人的阴风。\n１０%几率使自身全能\n力上升。
+第１回合从眼前消失,\n第２回合攻击对手。就\n算使用保护也会被攻击\n到。

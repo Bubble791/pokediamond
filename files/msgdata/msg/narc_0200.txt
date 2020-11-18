@@ -1,6 +1,6 @@
-                 
-A communication error has occurred.\n\nIf you were in the Union Room, you\nwill be returned there.\nIn all other cases, you will be\nreturned to wherever you last\nsaved.\nPlease press the A Button.
-An error occurred while attempting\nto communicate. ({STRVAR 54, 0})\nPlease turn off the power, restart\nthis DS system, and try again.\n\nIf this message keeps appearing,\nplease contact Nintendo\nConsumer Service.
-A communication error has occurred.\n\nYou will be returned to the title\nscreen.\nPlease press the A Button.
-The GTS is extremely busy now.\nPlease wait a while and try again.\n\nPlease press the A Button.
-An error occurred while attempting\nto communicate.\nPlease turn off the power, restart\nthis DS system, and try again.\n\nIf this message keeps appearing,\nplease contact Nintendo\nConsumer Service.
+通信失败……
+发生\n通信错误,\n\n在通信大厅中出错时\n将会重新进入通信大厅,\n否则\n会回到最后\n记录的状态\n请按Ａ键
+通信中\n发生错误（{STRVAR 54,0}）,\n请关闭电源\n重新设置,\n\n如果反复出现\n此类信息,\n请向任天堂总部\n寻求帮助
+发生\n通信错误,\n\n返回标题画面,\n请按Ａ键
+ＧＴＳ繁忙中,\n请稍后\n再尝试连接\n\n请按Ａ键
+通信中\n发生错误\n请关闭电源\n重新进入\n\n如果反复出现\n此类信息,\n请向任天堂总部\n寻求帮助

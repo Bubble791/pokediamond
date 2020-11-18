@@ -1,61 +1,61 @@
-DECORATE
-STORE GOODS
-RECEIVE GOODS
-CHECK FLAGS
-USE RADAR
-EXIT
-Decoration goods stored on the PC\ncan be brought out and displayed.
-Store decoration goods on the PC.
-Take out stored decoration goods\nfrom the PC.
-Check your collection of Flags.
-Search for hidden things in the\nunderground passages.
-Switch off the PC.
-{STRVAR 1, 1}’s Base
-Flags obtained:
-{STRVAR 55, 6}
-Most recent Flag:
-{STRVAR 1, 0}’s Flag
-ID: {STRVAR 54, 5}
-         
-         
-        
-          
-   
-         
-         
-        
-          
-   
-Goods on\nhand
-Treasures\non hand
-Traps on\nhand
-Spheres\non hand
-Goods in\nPC
-Treasures\nin PC
-Traps in\nPC
-Spheres\nin PC
-The {STRVAR 25, 2} was withdrawn\nfrom the PC.
-The {STRVAR 25, 2} was stored\non the PC.
-Your PC is full.
-You can’t carry any more\ngoods with you.
-TREASURE SEARCH
-SPHERE SEARCH
-TRAP SEARCH
-CANCEL
-Scan for Treasure hidden in the\nunderground passages.
-Scan for Spheres you buried\nyourself.
-Scan for Traps hidden in the\nunderground passages.
-Turns off the Radar.
-The Treasure Search System was\nbooted up.\rThe Radar is now scanning for\nTreasure and Spheres.
-The Sphere Search System was\nbooted up.\rThe Radar is now scanning for\nSpheres you buried yourself.
-The Trap Search System was\nbooted up.\rThe Radar is now scanning for\nTraps.
+调整摆设
+存放家具
+取出家具
+查看旗子
+使用雷达
+取消
+可以自由摆放\n电脑里存放的家具
+向电脑里放入\n持有的家具
+从电脑里取出\n已经放入的家具
+查看到目前为止\n获得的旗子
+可以探测出\n地下各种各样物品的所在
+关闭开关
+{STRVAR 1,1}基地
+取得旗子数
+{STRVAR 55,6}
+最近取得旗子
+{STRVAR 1,0}的旗子
+ＩＤ：{STRVAR 54,5}
+存放家具
+存放宝物
+存放玉石
+存放陷阱
+返回
+取出物品
+取出财宝
+取出玉石
+取出陷阱
+返回
+持有的\n物品
+持有的\n财宝
+持有的\n陷阱
+持有的\n玉石
+电脑的\n物品
+电脑的\n财宝
+电脑的\n陷阱
+电脑的\n玉石
+从电脑里取出了\n{STRVAR 25,2}
+{STRVAR 25,2}\n放入电脑了
+电脑已经满了
+持有的家具\n已经满了
+查找化石
+查找玉石
+查找陷阱
+返回
+可以查找出在地下世界里\n化石的所在位置
+可以查找出\n自己埋的玉石的所在位置
+可以查找出在地下世界里\n设置陷阱的所在位置
+返回中
+启动化石查找器！\r化石的位置在雷达上\n显示出来了！
+启动玉石查找器！\r玉石的位置在雷达上\n显示出来了！
+启动陷阱查找器！\r陷阱的位置在雷达上\n显示出来了！
 -------
 ID:-----
-                
-               
-Displayed decoration goods can’t\nbe withdrawn.
-It’s unsafe if you get a visitor\nwhile you are decorating.\rPlease keep the entrance closed.
-The Treasure Search System was\nbooted up.\r...\rNothing showed up on the Radar\nbecause the entrance is closed.
-The Sphere Search System was\nbooted up.\r...\rNothing showed up on the Radar\nbecause the entrance is closed.
-The Trap Search System was\nbooted up.\r...\rNothing showed up on the Radar\nbecause the entrance is closed.
-Please store goods in the PC before\ndecorating.
+{STRVAR 25,2}把{STRVAR 51,6}\n取出了
+{STRVAR 25,2}把{STRVAR 51,6}\n放下了
+已经摆设的家具\n无法取出
+摆设调整的时候\n如果有人进来就危险了！\r请先关闭秘密基地入口
+启动化石查找器！\r…… …… …… …… ……\r由于秘密基地入口关闭,\n雷达上什么都显示不出来了！
+启动玉石查找器！\r…… …… …… …… ……\r由于秘密基地入口关闭,\n雷达上什么都显示不出来了！
+启动陷阱查找器！\r…… …… …… …… ……\r由于秘密基地入口关闭,\n雷达上什么都显示不出来了！
+电脑中存放了家具,\n请调整摆设

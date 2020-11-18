@@ -1,29 +1,29 @@
-Oh, is that a Pokédex?\nYou must be helping Professor Rowan?\rWhat’s your name?\r...\rOK, hello, {STRVAR 3, 0}.\nI’ll be sure to remember that name!\rMy name is Cynthia.\nI’m a Trainer just like you.\rI’ve been studying Pokémon mythology\nlately, just out of curiosity.\r
-Here in Eterna City, there is a\nstatue of an ancient Pokémon.\rAccording to myth, it was an\nextremely powerful Pokémon.\rWho knows? You may encounter\nsomething like it while you’re\ftraveling with your Pokédex.\rTry using this.\nIt should help you on your way.\r
-Cynthia: Remember, the hidden move\nCut can be used in the field.\rIt will let you go places that were\npreviously inaccessible to you.\rThat’s important for filling up your\nPokédex, right?\rThen luck be with you, young Trainer!\r
-Hey! You there, kid!\nStay away from that Pokémon statue!\rTeam Galactic is conducting an\nofficial investigation here!
-Hey, you! Yeah, you, Trainer!\rErrr...\nIt’s OK. Never mind. You look tough.\rI won’t take... Um, I’ll just let you\nkeep your Pokémon. Carry on!
-Have you seen our building?\rTeam Galactic is so stinking rich\nthat we can have one built instantly!
-Since that Team Galactic building went\nup, the city’s atmosphere has gotten\fall creepy and tense.\rI don’t know what those people are\ndoing up in that place...
-With Team Galactic gone, what’s going\nto happen to their building?
-My friend said Team Galactic took his\nfavorite Pokémon away.\rI don’t think he’s telling the truth.\nTeam Galactic looks so cool.\fThey don’t look like common thugs.
-Do you use Bike stands?\rIt looks so cool to hop off your Bike\nand then lean on it. It looks so smooth!
-If you’re visiting Eterna, you need to\nget yourself a Bicycle and take a\fride down the Cycling Road.
-                                                                 
-They say this is an old city.\rIt doesn’t look it, though.\nNot with all these tall buildings.
-Eterna City’s not anything like it\nwas before, way back in the day.
-They say this is a Pokémon that lived\nlong, long ago.
-Oh, don’t tell me you don’t have\nan Explorer Kit?\rYou should have a word with the man\nnext door to the Pokémon Center.\r
-Oh, don’t tell me you don’t have\nan Explorer Kit?\rYou should have a word with the man\nnext door to the Pokémon Center.
-Going underground with the Explorer\nKit is a blast, isn’t it?
-Oh, wow!\nYou got a Bicycle!\rYou can ride down Cycling Road\nand end up in Hearthome City.\rIt’s a fast and fun ride.\nYou should check it out!\r
-Oh, wow!\nYou got a Bicycle!\rYou can ride down Cycling Road\nand end up in Hearthome City.\rIt’s a fast and fun ride.\nYou should check it out!
-It feels great riding a Bike with the\nwind in your face, doesn’t it?
-Eterna City\nHistory Living
-Eterna City Pokémon Gym\nLeader: Gardenia\fMaster of Vivid Plant Pokémon!
-Rad Rickshaw’s Cycle Shop\nGet On and Ride!
-Team Galactic Eterna Building\nWe Want Your Pokémon!
-Underground Man’s House\nGoin’ Down for Adventure!
-Eterna Condominiums\nName-Rating Services Available
-There is some writing on the\nPokémon statue...\r...creation of DIA...\n...giver of time...\rIn laughter, there is tears...\nAnd, likewise...\rThe same time flows...\n...the blessing of DIA...\rThe text is barely legible and\nhas faded completely in places...
-There is some writing on the\nPokémon statue...\r...birth of PAL...\n...creator of parallel dimensions...\rAlive, yet not alive...\n...rifts in space...\rTo arrive in the same univer...\n...the blessing of PAL...\rThe text is barely legible and\nhas faded completely in places...
+嗯？口袋图鉴？\n你是山梨博士的助手？\f你叫什么……？\r…… …… ……\n…… …… ……\r哦,叫{STRVAR 3,0}啊,\n我记住你的名字了！\r我叫茜罗娜,\n是非常喜欢调查口袋神话的\f口袋训练师！\r
+在白岱市里有仿照\n以前的精灵做成的石像,\r据说是有着\n神秘力量的口袋妖怪,\r要是你也在寻找精灵的话,\n也会和它相遇的吧。\r对了！\n你还没有这个吧？\r
+茜罗娜『使用居合斩就可以\n到达一些以前去不了的地方了,\f这对完成图鉴来说很重要吧！\r那么要加油哦,小家伙！\r
+喂！那边的小子,\n离口袋塑像远点！\r我们银河团正在调查！
+喂！该死的训练师\n呜呜呜！\f你有两下子啊！\r这次就放过你算了……\n啊！不可原谅！
+看见我们的大楼了吗？\n银河团可有钱了\f所以才能这么快建成！
+靠近银河团的大楼\n总觉得有些讨厌的感觉,\r那些人到底想干什么,\n真是搞不懂……
+银河团已经没有了,\n那栋大楼会变成什么样呢？
+我的精灵朋友……\n银河团抢走了我宝贵的精灵！\r太过分了……\n银河团……\f他们到底想干什么
+单车道？\n骑着自行车飚车的动作太酷了！
+来到白岱市的话\n当然要去单车道看看吧！
+你的精灵\n相当不错嘛！\r可以去绿缘市参加\n选美大会试试看,\f说不定还能获奖呢！
+虽然路看起来很旧,\n但有很多新的建筑,\f而且看起来都很现代
+白岱市也和以前\n完全不一样
+这个城市很久以前开始\n就有精灵存在了！
+嘿嘿,\n你还没有挖掘装备吗？\r口袋中心旁边住着一位老人,\n去问问他怎么样？\r
+嘿嘿,\n你还没有挖掘装备吗？\r口袋中心旁边住着一位老人,\n去问问他怎么样？
+带上挖掘装备\n去地下探险吧！
+已经有自行车了啊！\n骑着它顺着高速单车道\f就能到绿缘市了！\r这可是很有趣的事情啊！\n出发吧！\r
+已经有自行车了啊！\n骑着它顺着高速单车道\f就能到绿缘市了！\r这可是很有趣的事情啊！\n出发吧！\r
+骑上车\n心情也变得愉快了！
+这是白岱市\n连结过去与现在的城市
+白岱市口袋道馆\n馆主 奈多\f使用洋溢着绿色的精灵
+「轮子商店\n自行车神力」
+「银河团白岱大厦」\n精灵募集中！
+「地下老人的家」\n目标！地下冒险！
+「白岱公寓」\n更改精灵昵称
+精灵石像的说明文字……\r大海的迪亚……\n我们一起度过了很长时间,\f虽然已经分离,\f泪流不止……\f生活在同一片天空……\f多亏精灵……的保佑\r有些地方的字已经看不清了,\n无法读下去……
+精灵石像的说明文字……\r大海的帕鲁……\n我们一起度过了很长时间\f虽然已经分手\f泪流不止……\f生活在同一片天空……\f多亏精灵……的保佑\r有些地方的字已经看不清了,\n无法读下去……

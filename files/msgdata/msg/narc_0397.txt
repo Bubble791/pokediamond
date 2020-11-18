@@ -1,20 +1,20 @@
-Please!\n{STRVAR 28, 0}!
-Go! {STRVAR 28, 0}!
-I’ll battle with\n{STRVAR 28, 0}!
-It’s {STRVAR 28, 0}!
-{STRVAR 28, 0}, I’m going\nwith {STRVAR 28, 1}!
-Look at {STRVAR 28, 0}!
-I’ll show you {STRVAR 28, 0}!
-Now!\n{STRVAR 28, 0}!
-I’ll show you my\n{STRVAR 28, 0} strategy!
-I’ll {STRVAR 28, 0}!
-I’ll shock you with\n{STRVAR 28, 0}!
-This is the beginning\nof {STRVAR 28, 0}!
-This battle is\n{STRVAR 28, 0}!
-I don’t think I’ll\never lose at {STRVAR 28, 0}!
-Team {STRVAR 28, 0} is here!
-You think you can beat\n{STRVAR 28, 0}?
-{STRVAR 28, 0}!\n{STRVAR 28, 1} power!
-This is the {STRVAR 28, 0}\nPokémon!
-{STRVAR 28, 0} won’t lose!
-Please {STRVAR 28, 0}!\n{STRVAR 28, 1}!
+拜托了！\n{STRVAR 28,0}！
+上啊！{STRVAR 28,0}！
+{STRVAR 28,0}\n一决胜负！
+{STRVAR 28,0}！
+{STRVAR 28,0}\n{STRVAR 28,1}要上了！
+{STRVAR 28,0}看着！
+{STRVAR 28,0}看着哟！
+好了！\n{STRVAR 28,0}！
+{STRVAR 28,0}的作战\n好好看着！
+{STRVAR 28,0}！
+{STRVAR 28,0}\n会吓你一跳的！
+{STRVAR 28,0}的\n处女战！
+这场胜负是\n{STRVAR 28,0}！
+只有{STRVAR 28,0}是\n输了也不会在意！
+{STRVAR 28,0}\n队伍参上！
+用{STRVAR 28,0}\n加分如何？
+{STRVAR 28,0}！\n{STRVAR 28,1}力量！
+这就是\n{STRVAR 28,0}口袋妖怪哟！
+{STRVAR 28,0}的话\n不会输！
+拜托了{STRVAR 28,0}！\n{STRVAR 28,1}！

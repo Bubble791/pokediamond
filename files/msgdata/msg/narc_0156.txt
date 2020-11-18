@@ -1,6 +1,6 @@
-...All right, challenger.\rIt’s not often, but some Trainers\nmanage to come and challenge me.\rBut they’ve all been boring battles.\nI didn’t break a sweat beating them.\r...Sigh...\nI’m Volkner, the Gym Leader.\rThey say I’m the top Gym Leader in\nSinnoh, but...\rAnyway, I guess we’d better get this\ndone.\rI hope you’re the Trainer who’ll make\nme remember how fun it is to battle!\r
-...Hehehe.\rHahahah!\r...That was the most fun I’ve had\nin a battle since...I don’t know when!\rIt’s also made me excited to know\nyou and your team will keep battling\fto greater heights!\rThis is your eighth Gym Badge.\nYou’ve earned this!\r
-{STRVAR 3, 0} received\nthe Beacon Badge from Volkner.
-That Beacon Badge lets you use\nthe hidden move Waterfall even when\fyou’re not in a battle.\rWaterfall happens to be key if you’re\ngoing to the Pokémon League.\rAlso, because you’ve collected all\neight Badges, any Pokémon at any\flevel will now obey you without fail.\rI want you to take this, too.\r
-What’s inside that {STRVAR 8, 0}\nis the move {STRVAR 6, 1}.\rIt may raise Special Attack if it\nlands. It’s pretty hot.
-Your next step is the Pokémon\nLeague challenge.\rIt’s time for you to cross the sea\nand win your way through the\fgauntlet that is Victory Road.\rDemonstrate to the Pokémon League\nyour mastery of your team.\rAgainst you, even the Elite Four will\nbe pushed to fend off your challenge!
+……那么,挑战者,\n虽然偶尔也有够资格\f做我对手的训练师,\f但都是些无聊\f而且不堪一击的家伙……\r……唔,\n我是馆主电磁,\f他们都叫我最后的馆主……\r不说这个了,\n让我教你怎么去体会\f口袋对战真正的乐趣吧,\f来吧！\r
+……哼哼哼\r哈哈哈！\r……好久没有体验过\n这么痛快的对战了！\f从今往后,\f无论是和你的精灵！还是你！\r无论进行什么形式的战斗,\n我都会非常期待！\r这第８个道馆徽章,\n收下吧！\r
+{STRVAR 3,0}从电磁那里\n获得电气徽章！
+带着这电气徽章的话,\n就可以使用秘传技能「攀瀑」了,\f那是前往精灵联盟必需的技能！\r现在你已经集齐了所有的徽章！\n不管什么精灵都会老实听话了！\r另外,这个也拿去用吧！\r
+这个{STRVAR 8,0}里面是\n{STRVAR 6,1}！\r是攻击一旦命中\n精灵的特攻就会提升的强力技能！
+终于可以挑战\n精灵联盟了啊！\r渡过这大海,\n穿过冠军之路,\r让精灵联盟的人好好看看\n你和你精灵的实力吧！\r我相信你的实力,\n一定能和精灵联盟的四天王\f来一场漂亮的战斗！

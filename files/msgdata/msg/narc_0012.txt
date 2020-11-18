@@ -3,4 +3,4 @@ A Mystery Gift signal has\nbeen located!\n\nYou may receive a Mystery Gift!\n\nA
 A solicitation message arrived\nfrom a Pokémon Ranger.\n\nHowever, to communicate with the\nPokémon Ranger, you must get\nfarther into your adventure and\nobtain a Pokédex first.\nPress the A Button to advance.
 A Mystery Gift signal has\nbeen located.\n\nHowever, to receive a Mystery\nGift, you must get farther into\nyour adventure and obtain a\nPokédex first.\nPress the A Button to advance.
          
-\n{COLOR 1}WARNING!\n{COLOR 0}There is already another saved game\nfile. If you start an adventure now,\nyou will not be able to save it.\nPress Up + SELECT + B Button on\nthe title screen if you want to erase\nthe current saved game file.\n\nA Button: Begin adventure\nB Button: Return to the menu
+\n{COLOR 1}注意!\n{COLOR 0}由于现有其他游戏存档\n此后开始的冒险\n中途无法存档.\n\n\nＡ键: 开始游戏\nＢ键: 返回菜单

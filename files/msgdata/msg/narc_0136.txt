@@ -1,10 +1,10 @@
-Hello.\nI’m pleased to meet you.\rI’m Maylene, and I’m the Gym\nLeader.\rI don’t really know what it means to\nbe strong, or how I got to be the\fGym Leader.\rBut I will do the best I can as the\nGym Leader.\rI take battling very seriously.\nWhenever you’re ready!\r
-...OK.\nYou win.\rThat was a tough loss.\nI learned a lot from it.\rPlease, accept this Gym Badge.\r
-{STRVAR 3, 0} received\nthe Cobble Badge from Maylene.
-Um...\nI should explain about that Badge.\rIf you have that official Pokémon\nLeague Badge, you can use the hidden\fmove Fly outside of battle.\rOh, and please take this as well.\r
-That {STRVAR 8, 0} contains\nthe move {STRVAR 6, 1}.\rUm... That move inflicts damage,\nand it robs the target’s HP.
-Gee, I’m hungry...\rOh, sorry, it’s nothing.\nI didn’t say anything.\r{STRVAR 3, 0}, I can’t explain what\nit means to be strong.\rI don’t know how much effort goes\ninto being strong...\rBut being with Pokémon lets us\nkeep making the effort, doesn’t it?
-Hey, there!\nHow’s it going, Champ-to-be?\rThe Gym Leader is a user of\nFighting-type Pokémon.\rShe’d be a terror against Normal-type\nPokémon.\rBut! And it’s a big but!\nJust between you and me...\rMaylene, the Gym Leader, said Flying-\nand Psychic-type Pokémon could be\freal trouble for her!
-Oh! {STRVAR 3, 0}!\nYou’ve beaten the Gym Leader!\rOf course, I thought you’d win.
-Veilstone City Pokémon Gym\nLeader: Maylene\rCertified Trainers:\n{STRVAR 3, 1}
-Veilstone City Pokémon Gym\nLeader: Maylene\rCertified Trainers:\n{STRVAR 3, 0}\f{STRVAR 3, 1}
+初次见面,\n请多多指教。\r我是馆主,\n名叫李子,\r至于为什么会成为馆主,\n是实力强大还是其他什么,\f我自己也不很清楚,\r但是作为一馆之主,\n我一定会用我的方式认真战斗的,\f从哪里进攻都可以,来吧！\r
+……是的,\n是我输了,\r很久没有尝过失败的滋味了,\n但是我也学到了很多,\r所以,这个道馆徽章\n请你收下吧！\r
+{STRVAR 3,0}从李子处\n得到连击徽章！
+那个……\n一旦持有这枚精灵联盟公认的\f道馆徽章,\f就可以随时随地使用\f秘传技能「飞天」了！\r另外,这个也请你收下\r
+这个{STRVAR 8,0}里面是\n技能{STRVAR 6,1},\r如果使用这个技能的话,\n不仅可以给与对方伤害,\f还能够吸收对方的体力。
+肚子好饿啊……\n啊,没事没事,\f就当我什么都没说,\r{STRVAR 3,0}实力很强了,\n不用多说,无论走到哪里\f都会很努力的,\r虽然不太明白……\n但是因为有精灵的陪伴,\f我一直都会努力的！
+哟！未来的冠军！\n这儿的馆主\f是格斗系的！\r对于普通系的精灵来说\n恐怕会陷入苦战！\r但是！\n千万不能告诉别人……\f用飞行系和超能系的精灵\f来对付她的话太容易了,\f道馆馆主李子自己说的！
+哦！{STRVAR 3,0}！\n战胜馆主了啊！\r我早就知道,\n你肯定没问题！
+户张市口袋道馆\r馆主 李子\n认定训练师！\f{STRVAR 3,1}
+户张市口袋道馆\r馆主 李子\n认定训练师！\f{STRVAR 3,0}\f{STRVAR 3,1}

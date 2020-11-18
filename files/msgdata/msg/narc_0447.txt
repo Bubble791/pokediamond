@@ -1,3 +1,3 @@
-Ah, hello. You wish to stay a night?\nAh, but you’ve no reservations.\rI’m afraid we are totally booked.\nYou may rest a while, if you wish.\r
-We’ve restored your Pokémon\nto full health.\rWe hope to see you again!
-This hotel is so romantic...\rI hope a knight on a Pokémon will\nsweep me away for a honeymoon here!
+欢迎光临,\n要住宿吗？\r真不巧,已经没空房了,\n就在大厅休息一会儿吧。\r
+又精神满满了啊。\n欢迎再次光临！
+真漂亮啊这旅店……\n什么时候把精灵带上\f和王子一起来这里度蜜月……

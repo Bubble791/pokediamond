@@ -1,81 +1,81 @@
-Dawn: Hi, {STRVAR 3, 1}!\nAre you catching Pokémon?\r
-Wow! You’ve already got {STRVAR 50, 0} Pokémon\nwith you!\rAt that pace, your Pokédex should\nbe full in no time at all!\r
-...Um...\rI think you’d feel a lot safer if you\nwere to catch some more.\r
-                                                    
-In Jubilife City, there’s the Trainers’\nSchool, which... Well, you know.\r{STRVAR 3, 0}, you should visit it.\nYou’ll get some tips on Pokémon.\rOh yes, {STRVAR 3, 1} went to the\nTrainers’ School earlier.\rOK, bye now!\r
-Lucas: Hey, {STRVAR 3, 1}!\nHow many Pokémon have you caught?\r
-Whoa! You already have {STRVAR 50, 0} Pokémon\nwith you!\r
-Huh?\nI think you should catch some more.\rIt might be more of a challenge\nraising a lot of Pokémon...\rBut it’s worth it. The more Pokémon\nyou have, the happier you’ll be.\r
-                                                         
-In Jubilife City, there’s the Trainers’\nSchool. Check it out, {STRVAR 3, 0}.\rOh yeah, {STRVAR 3, 1} went to the\nTrainers’ School earlier.\rOK, see you around!\nWork hard on your Pokédex!\r
-Jubilife City’s built on land they\ncarved out of a mountain.\rThe people and Pokémon of\nOreburgh City helped out with\fthat undertaking.
-Hello! Let me ask you, have you paid\na visit to the TV station?\rIf you’ve never been, you owe it to\nyourself to make the trip.\rAnd, if you’ve been there before,\nit never hurts to visit again.\rAfter all, you can be a star!\nOr at least dream of being one!
-Jubilife City is the love of my life.\nWords can’t do it justice.\r
-By the way, have you visited the\nTrainers’ School?\rNot yet, right?\nYou really must visit there!\r
-                                          
-By the way, have you participated\nin the Pokétch campaign?\rNot yet, right?\nYou really must try!\r
-Hello! Yes, you!\nYou with that cool scarf!\rYou should have seen the boy that\ncame running by earlier.\rHe ran past me so quickly, I couldn’t\neven manage a hello.
-Jubilife City is a big place.\nTake your time sightseeing.
-Jubilife City is the love of my life\nWords can’t do it justice.
-By the way, have you visited the\nTrainers’ School?\rNot yet, right?\nYou really must visit there!
-By the way, have you participated\nin the Pokétch campaign?\rNot yet, right?\nYou really must try!
-Oh, oh, oh?\rYou call yourself a Pokémon Trainer?\nAnd yet you have no Pokétch?\rThat is, Pokémon Watch, or Pokétch\nfor short!\rOh my, you are a rare case\nindeed!\r
-You see, I invented, and now\nmanufacture, Pokétches.\rNot only that, I’m now conducting\nthe Pokétch promotional campaign!\rAll you have to do is find three\nclowns in Jubilife City.\rIf you can find them...\nI will gift you with a Pokétch!
-The three clowns will each ask you\na skill-testing question.\rThe questions will all have to do\nwith Pokémon.\rAfter all, a Pokétch is a tool for\nPokémon Trainers.\rCollect a Coupon from each clown,\nthen come see me, OK?
-OK, let me count your Coupons!\nI’ll use the Pokétch here...\rOne, two, three!\nBravo! I say, bravo!\rIn return for these Coupons,\nI present you this Pokémon Watch,\for Pokétch for short!\r
-{STRVAR 3, 0} received a {COLOR 1}Pokétch{COLOR 0}!{YESNO 1}
-You can add apps to your Pokétch\nto make it even more versatile!\rTouch the Pokétch screen and please\ndo try it out!\r
-Hi! I’m a Pokétch campaign clown!\nLet’s roll out my question!\rDoes a Pokémon grow by defeating\nothers and gaining Exp. Points?
-Ding-ding!\nYou’re absolutely correct!\r
-Bzzzzt!\nThat’s the wrong answer...
-Pokémon grow stronger by defeating\nother Pokémon in battle.\rSome Pokémon even grow into an\nentirely different form in a process\fknown as evolution.\r
-Here you go!\nYour Pokétch Coupon!\r
-Pokémon grow stronger through\nbattling.\rSome Pokémon even grow into an\nentirely different form in a process\fknown as evolution.
-Hi! I’m a Pokétch campaign clown!\nLet’s roll out my question!\rJust like Pokémon types, the moves\nof Pokémon also have types?
-Ding-ding!\nYou’re absolutely correct!\r
-Bzzzzt!\nThat’s the wrong answer...
-If the Pokémon’s type matches its\nmove’s type, that move is made much\fmore powerful!\r
-Here you go!\nYour Pokétch Coupon!\r
-If the Pokémon’s type matches its\nmove’s type, that move is made much\fmore powerful!
-Hi! I’m a Pokétch campaign clown!\nLet’s roll out my question!\rCan a Pokémon hold an item?
-Ding-ding!\nYou’re absolutely correct!\r
-Bzzzzt!\nThat’s the wrong answer...
-A Pokémon may hold a single item.\rSome items become effective as soon\nas they are held by a Pokémon.\rBerries are eaten by Pokémon as\nnecessary during battle.\r
-Here you go!\nYour Pokétch Coupon!\r
-Hi, there. You should stick around.\nWe’re doing a Pokétch campaign soon.\rBefore it starts, I think you should\nbrush up at the Trainers’ School.
-A Pokémon may hold a single item.\rSome items become effective as soon\nas they are held by Pokémon.\rBerries are eaten by Pokémon as\nnecessary during battle.
-Rowan: Ah, {STRVAR 3, 0}.\nImpeccable timing as always.\rThese miscreants are babbling utter\nnonsense that I just can’t stomach.\rShow them some manners, if you will.\r
-Mystery man: Oh, Professor Pokémon,\nmust you be so difficult?\rWe are approaching you strictly\nas businessmen.\rAll you must do is provide us with\nall your research findings.\rIn return, we’ll refrain from causing\nmassive damage to your assistant.\r
-Dawn: {STRVAR 3, 1}!\rLet’s battle together and teach\nthese horrible men a lesson!\r
-Lucas: {STRVAR 3, 1}!\nJoin me and battle these guys!\r
-Grunt: You leave us no option.\nWe will retreat for now.\rBecause Team Galactic is benevolent\nto all, we shall leave.\r
-Rowan: That lot...\nThey called themselves Team Galactic.\rWhen Pokémon evolve, they seem to\nrelease some type of energy...\rHowever, I believe that it’s a mystic\npower far beyond our control.\rBut Team Galactic seems to be trying\nto use that power for something...\rAnyway, {STRVAR 3, 0}, well done!\nYou battle quite capably.\rThe sight of you Trainers and Pokémon\nbattling together...\rI made the right decision in\nentrusting you with a Pokédex!\r
-                                  
-                         
-                                                  
-Dawn: {STRVAR 3, 1}, did you know?\rThe professor studies the evolution\nof Pokémon, too.\rAccording to his research, 90% of\nall Pokémon are somehow tied\fto evolution!\rI guess that means some Pokémon\nmust undergo startling evolutions.\rSo, {STRVAR 3, 1}...\nLet’s keep working on our Pokédex\fproject for the professor!\r
-Lucas: {STRVAR 3, 1}, did you know\nabout this?\rThe professor studies about the\nevolution of Pokémon, too.\rAccording to his research, 90% of\nall Pokémon are somehow tied\fto evolution!\rI guess that means some Pokémon\nmust undergo weird evolutions.\rSo, {STRVAR 3, 1}...\nLet’s keep working on our Pokédex\fproject for the prof!\r
-Oh, that was very good!\nNicely done! Truly excellent!\rOh, I beg your pardon, I’m from\nJubilife TV!\rI’d like you to have something for\nletting me see that smashing battle!\r
-Contained within that Fashion Case...\rYou will find a whole spectrum of chic\nAccessories and tasteful Backdrops!\rDress up your Pokémon and watch\ntheir appeal grow!\rAnd, right now the TV station is\noffering its facilities so visitors\fcan dress up their Pokémon!\rThere are also prize giveaways, too!\nPlease do visit our TV station!\r
-The way you look...\nYou’re obviously a Trainer!\rCan you tell me what type of Pokémon\nyou like?
-The Fire type?\nYou must have a fiery personality.
-A person that likes the Water type\nmust be somewhat cool.
-You chose the Grass type?\nNo wonder you look so calm.
-Did you see me on TV?\nI was in an interview!
-When you walk with your Pokémon,\nthey gradually grow friendlier.
-OK, set six Poké Balls in my\nbelt...\rYeah, that’ll do it. At most, you\ncan have six Pokémon with you.
-                                                         
-Hiya, where’d you come from?\r...\rTwinleaf Town, huh...\nIt’s a nice place. Quiet and all.\rJubilife City is a big place, so it\nmight be a bit of a shock to you.
-Hello, Trainer!\nDo you know much about Pokémon?
-Ah, I see!\nYou are knowledgeable!\rI imagine you wouldn’t see the need\nto visit the Trainers’ School, then.\rBut do visit if you have the time.\nYou may discover something new!
-Oh, you’re not knowledgeable...\nBut not to worry!\fThere’s the Trainers’ School.\rThe school will teach you the\nbasics of Pokémon.
-Past here is the GTS, which stands\nfor Global Trade Station.\rOh, I’m sorry, you don’t have\nany Gym Badges.\rThe GTS is off-limits if you don’t\nhave a Gym Badge. Sorry!\r
-Past here is the GTS, which stands\nfor Global Trade Station.\rTrading Pokémon means connecting\nwith friends, both old and new.\rThat’s awesome!
-I’m trading Pokémon with my buddy!
-I made my Pokémon hold an item\nbefore trading it.\rThat will make the other Trainer\ndouble happy!
-Jubilife City\nCity of Joy
-Jubilife Condominiums\nTenants Wanted!
-The Pokétch Company\nPokémon Watches for the World!
-Trainers’ School\nThe First Step for Trainers!
-Jubilife TV\nThe Fun-and-Games TV Station!
-Global Trade Station\nWorldwide Pokémon Trading!
+小光『{STRVAR 3,1}！\n已经抓到精灵了吗？\r
+好厉害！\n已经抓到{STRVAR 50,0}只了呢！\r照这样下去,\n图鉴也能顺利地完成呢！\r
+……嗯,\n再多抓一些的话\f我想会更好吧！\r
+对了！\n给你个好东西！\r看,地图！\n在寻找精灵的时候\f使用的话会很方便呢！\r
+对了,在长寿市有专门为培养\n口袋训练师建立的学校\f口袋训练师学校！\r{STRVAR 3,0}也可以去看看哦！\n在那儿能更加详细地了解精灵的事情！\r对了！刚刚看到{STRVAR 3, 1}也在\n训练师学校里呢！\r那么,再会啦！\r
+小辉『嘿！{STRVAR 3, 1},\n抓住了多少精灵了？\r
+哇！\n已经抓住{STRVAR 50,0}只了啊！\r
+咦？\n再抓多点比较好吧！\r不过抓到很多的话,\n培养起来也许会很辛苦,\f但同时也会获得更多的乐趣呢！\r
+对了！\n给你个好东西！\r看,地图！\n在寻找精灵的时候\f使用的话会很方便！\r
+对了对了,\n在长寿市有个口袋训练师学校！\f{STRVAR 3,0}也可以去看看！\r说起来刚才\n{STRVAR 3, 1}好像也到那儿了,\r那么再会啦！\n努力完成口袋图鉴呀！\r
+在长寿市东边的山洞里\n正在挖掘通向黑金市的隧道,\r需要借助精灵的力量！
+嘿！\n你去过长寿电视台吗？\r如果还没去过的话,\n应该去看看哦,\r当然就算已经去过\n也可以再去,\f因为每个人都做过明星梦吧！
+我深爱着长寿市\r
+对了,\n你去过口袋训练师学校了吗？\f还没有吧？\r请一定要去一次！\r
+对了,\n你去过长寿电视台了吗？\f还没有吧？\r请一定要去一次！\r
+对了,\n你参加过口袋手表大挑战了吗？\f还没有吧？\r请一定要试一下！\r
+喂,你！\n你的围巾很漂亮！\r刚刚跑过去的少年很厉害呢！\n不过他跑得太快了,\f没来得及跟他说话……
+长寿市很大,\n请慢慢地参观！
+我深爱着长寿市
+对了,\n你去过口袋训练师学校了吗？\r还没有吧？\n请一定要去一次
+对了,\n你参加过口袋手表大挑战了吗？\r还没有吧？\n请一定要去试一下
+咦？\n你是口袋训练师\f却没有口袋手表？\r口袋妖怪手表\n简称口袋手表！\f不过还真是很少见呢！\r
+叔叔是口袋手表的开发人员！\n现在正在参加口袋手表大挑战！\r帮我寻找\n在长寿市的三个小丑吧,\r成功的话我会把\n口袋手表送给你当礼物！
+三个小丑会各自\n提出一个简单的问题,\r口袋手表是协助\n口袋训练师的道具,\f所以对精灵不了解是不行的！\r集齐三张交换券后\n就来找我吧！
+让我数一下交换券！\n……\r 1枚,2枚,3枚！\n干得漂亮！\r交换券我收下了,\n给你口袋妖怪手表\f口袋手表,拿着吧！！\r
+{STRVAR 3,0}\n获得了{COLOR 1}口袋手表{COLOR 0}!{YESNO 1}
+口袋手表追加上各种插件的话\n功能会增加哦！\r可以用触摸笔触摸下屏,\n尝试着使用一下！\r
+欢迎,这里是口袋手表大挑战！\n马上开始挑战！\r精灵打倒别的精灵,\n得到经验值之后会变强吗？
+ＢＩＮＧＯ！\n答对了！\r
+可惜！\n答错了……
+精灵打倒了\n其他精灵之后会变强,\r并且,在变强时也会发生进化,\n外形和能力\f都会发生彻底的改变！\r
+那么,请收下\n口袋手表交换券！\r
+精灵可以通过战斗来变强,\n并且,在变强时也会发生进化,\f外形和能力\f都会发生彻底的改变！
+欢迎,这里是口袋手表大挑战！\n马上开始挑战！\r除了精灵本身,\n精灵的招式也有属性吗？
+ＢＩＮＧＯ！\n答对了！\r
+可惜！\n答错了……
+精灵本身的属性和\n使用技能的属性一致的话\f威力会增强哦！\r
+那么,请收下\n口袋手表交换券！\r
+精灵本身的属性和\n使用技能的属性一致的话\f威力会增强！
+欢迎,这里是口袋手表大挑战！\n马上开始挑战！\r精灵能够携带道具吗？
+ＢＩＮＧＯ！\n答对了！\r
+可惜！\n答错了……
+每只精灵只能携带一个道具,\n根据道具种类的不同,\f携带时就会产生不同的效果。\r如果携带着树果道具的话,\n精灵在战斗中会自己使用！\r
+那么,请收下\n口袋手表交换券！\r
+啊,\n口袋手表大挑战马上就要开始了！\r在口袋训练师学校\n学习一些相关知识\f会比较好哦！
+每只精灵只能携带一个道具,\n根据道具种类的不同,\f携带时就会产生不同的效果。\r如果携带着树果道具的话,\n精灵在战斗中会自己使用！
+山梨博士『{STRVAR 3,0},\n你来的正是时候,\r这群奇怪的家伙们\n尽说些莫名其妙的话！\f给他们一点教训吧！\r
+谜之男『你搞错了吧,\n老头儿！\r你是不是以为\n我们跟你在做交易谈判？\r少罗嗦！\n赶快把我们的东西交出来！\r不然的话,你身边这位助手\n就要吃点苦头了！\r
+小光『{STRVAR 3, 1}！\n我们一起战斗\f让他们知道厉害吧！\r
+小辉『{STRVAR 3, 1}！\n准备战斗！\r
+银河团员『完蛋了……\n今天先撤……\f我们银河团迟早让你好看！\r
+山梨博士『那帮家伙\n说自己是银河团……\r的确在精灵进化的时候\n也许会放出某种未知的能量,\r但这对人类来说\n是触及不到的神秘力量吧,\r不过银河团看起来\n想利用这点策划什么阴谋,\r话说回来,{STRVAR 3,0}！\n真是精彩的战斗啊！\r将训练师和精灵的力量\n很好地融合在一起……\r看来我把将精灵和图鉴\n交给你没有错！\r
+山梨博士『背包满了的话也没办法\n我在这里等你！
+山梨博士『{STRVAR 3,0},\n把这个拿去吧！\r
+这是不变之石,\n让精灵携带的话\f精灵就不会进化了！\r
+小光『{STRVAR 3, 1}！\n博士正在研究精灵的进化哦！\r博士的研究中\n百分之九十都与精灵进化有关！\r意想不到的精灵\n也许会有意想不到的进化,\r所以,{STRVAR 3, 1},\n为了协助博士的研究\f努力完成口袋图鉴吧！\r
+小辉『{STRVAR 3, 1}！\r博士正在研究精灵的进化！\r博士的研究中\n百分之九十都与精灵进化有关！\r意想不到的精灵\n也许会有意想不到的进化,\r所以,{STRVAR 3, 1},\n为了协助博士的研究\f要努力完成口袋图鉴！\r
+呀,刚才太精彩了！\n太棒了！真的！\r啊,我是长寿市电视台的人,\n你让我看到了一场精彩的对战,\f作为感谢请收下这个！\r
+你可以往饰品盒里放进\n各式各样的饰品！\r让自己喜欢的精灵戴上的话\n魅力会上升哦！！\r顺带说一声,现在去电视台\n能拿到豪华饰品的正装！\f参加抽奖,万事皆有可能！\r请一定要去电视台看看！\r
+看样子,\n你应该是口袋训练师吧！\r告诉我\n你喜欢什么属性的精灵吧！
+火属性啊,\n那么你一定拥有一颗炙热的心！
+喜欢水属性的人\n不管在哪里都很平静哦！
+选择了草属性的话……！\n难怪看上去很冷静呢！
+那个,你看过\n我做的电视访谈了吗？
+把精灵一直带在身上的话\n渐渐就会变得亲近起来……\f一定要记住哦
+将精灵球挂在皮带上！\n……！\f好！最多能带6只精灵
+将精灵球挂在皮带上！\n……！\f好！最多能带6只精灵
+你是从哪里来的？\r……\n……\r双叶镇啊……\n那是个宁静的好地方呢\r看到这么大的长寿市\n会不会很吃惊？
+哎呀哎呀,\n你对精灵很了解吗？
+是吗！很了解啊！\r这样的话\n就不用特意去口袋训练师学校了,\r有时间的话顺路去转转就行了,\n说不定有什么新发现哟！
+是吗……不太了解啊,\n不过没有关系！\r有口袋训练师学校呢,\n在那里能学到许多\f关于精灵的事情
+在这前面是ＧＴＳ！\r全称是\nGlobal Trade Station！\f全球交换中心！\r啊,对了！\n还没有取得道馆徽章的话\f是进不了GTS的！抱歉！\r
+在这前面是ＧＴＳ！\r全称是\nGlobal Trade Station！\f全球交换中心！\r交换精灵就是\n和朋友间友谊的表现！太棒了！
+刚刚和朋友交换了精灵！
+让精灵携带道具吧！\n这样的话对方收到精灵时\f会加倍高兴的呢！
+这里是长寿市,\n被称为幸福的城市
+长寿市公寓\n欢迎入住！
+「口袋手表公司」\n全球畅销的口袋手表
+「口袋训练师学校」\n训练师的第一步！
+「长寿市电视台」\n大家一起看电视
+Global Trade Station\n与全世界交换精灵

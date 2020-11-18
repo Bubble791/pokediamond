@@ -1,10 +1,10 @@
-{STRVAR 3, 0} obtained\nthe {STRVAR 8, 1}!
-The Bag is full...
-{STRVAR 3, 0} put the {STRVAR 8, 1}\nin the {STRVAR 8, 2} Pocket.
-{STRVAR 3, 0} found\n{STRVAR 8, 1}!
-Obtained the {STRVAR 8, 0}!\rToo bad!\nThe Bag is full...
-{STRVAR 3, 0} put the {STRVAR 8, 1}\nin the Bag.
-{STRVAR 3, 0} found\n{STRVAR 8, 1} {STRVAR 6, 2}!
-{STRVAR 3, 0} obtained\nthe {STRVAR 8, 1}!
-{STRVAR 3, 0} obtained\nthe {STRVAR 8, 1}!
-{STRVAR 3, 0} put the {STRVAR 8, 1}\nin the {COLOR 2}{STRVAR 60, 2}{COLOR 0} Pocket.
+{STRVAR 3,0}\n获得了{STRVAR 8,1}！
+道具栏已经满了！
+{STRVAR 3,0}把{STRVAR 8,1}\n放进了{STRVAR 8,2}口袋中！
+{STRVAR 3,0}\n发现了{STRVAR 8,1}！
+获得了{STRVAR 8,0}！\r太遗憾了！\n背包已经满了……
+{STRVAR 3,0}把{STRVAR 8,1}\n放进了背包！
+{STRVAR 3,0}发现了{STRVAR 8,1}\n「{STRVAR 6,2}」！
+{STRVAR 3,0}\n获得了{COLOR 2}{STRVAR 8,1}{COLOR 0}！
+{STRVAR 3,0}\n获得了{COLOR 1}{STRVAR 8,1}{COLOR 0}！
+{STRVAR 3,0}把{COLOR 2}{STRVAR 8,1}{COLOR 0}放入了\n{COLOR 2}{STRVAR 31,2}{COLOR 0}口袋。

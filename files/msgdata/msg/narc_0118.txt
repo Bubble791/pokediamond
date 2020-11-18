@@ -1,10 +1,10 @@
-Hiya!\nOh, you’re a Trainer!\rThat means you’re using Pokémon\nBoxes! I love meeting end users!\rOh, what’s up?\nWhy that astonished look?\rOh, right, sorry!\nThere I go running my mouth again!\rMy name’s Bebe!\rYou know the PC Pokémon Boxes?\nI’m the system administrator!
-Bebe: My buddy Bill developed the\nbasic storage system.\rI tinkered with it here and there\nto make it easier for me to use.
-Bebe: Hiya! Been a long time!\nHow’s it going? Using the PC Boxes?\rOh? Now lookie here, that’s a National\nPokédex I’m seeing. Good for you!\rYou’ll be using my Boxes like crazy\nif you’re using that now.\rWell, I always thought a good Trainer\nought to juggle Boxes smartly, though\fI shouldn’t be the one to say so.\rOh yeah, do you want a Pokémon named\nEEVEE?
-Bebe: So, do you want that EEVEE\nthat I’ve got?
-Bebe: Here you go!\nNow, you be good to it.\r
-{STRVAR 3, 0} obtained\nan EEVEE!\r
-Would you like to give a nickname\nto the EEVEE that Bebe gave you?
-Bebe: Here you go!\rWait, I can’t do that! You can’t\ntake any more Pokémon with you!\rRight about now, my Pokémon Boxes\ncome in handy!
-Bebe: Oh, OK...\nGuess I’ll have to raise it myself.
-Bebe: That EEVEE I gave you,\nI got it from a good mate in Johto.\rWho knows how many EEVEE he’s raised\nover the years.
+午安！\n这不是训练师嘛！\r啊,你在使用精灵存放系统呀！\n好高兴呀！\r怎么了,\n一副吃惊的表情？\r啊,抱歉,\n忘了自我介绍了！\r我的名字叫水木！\n你电脑里使用的精灵盒子\f就是我管理的！
+水木『最初的这东西是\n我的一个叫正树的朋友做的,\r我为了让它使用起来更方便\n做了许多的完善工作！
+水木『哦,好久不见！\n怎么了？还在用存放系统吗？\r这个不是全国图鉴嘛,\n你好厉害呀,\r这样下去,还会更多地\n使用精灵存放系统吧！\r虽然轮不到我来评价,\n但是掌握存放系统的使用技巧,\f也是作为训练家的基本要求呢。\r对了,\n你知道伊布这个精灵吗？
+水木『你知道叫\n伊布的精灵吗？
+水木『好！\n那就给你一只吧\r
+{STRVAR 3,0}\n得到伊布了！\r
+要给获得的伊布\n取名字吗？
+水木『啊！\r不行呀！\n身上已经放不下精灵了！\r现在正是使用\n我的精灵系统的时候！
+水木『这样啊……\n那就让我先照看它吧！
+『那个伊布是从\n关东的朋友那里得到的……\f他到底养了多少只伊布啊……

@@ -1,6 +1,6 @@
-{SIZE 200}Ohohoho!!{SIZE 100}\rFinally, you have arrived!\rSince I came to this country, always\nI try to learn new things.\rThey hold Contests in this city?\nI say to myself, enfin, I will excel.\rThat is why I dress this way.\nC’est une performance!\rAlso, I study Pokémon very much.\nI have come to be Gym Leader.\rAnd, uh, so it shall be that you\nchallenge me.\rBut I shall win.\nThat is what a Gym Leader does, non?\r
-I am dumbfounded!\rSo very, very strong!\nYou, your Pokémon, so strong!\rYour power is admirable!\nI shall honor it with this Gym Badge!\r
-{STRVAR 3, 0} received\nthe Relic Badge from Fantina!
-That Badge will let you use the\nhidden move Surf outside of battle.\rAlso, you can make use of this\nTechnical Machine.\rThat is what I think.\r
-That {STRVAR 8, 0}...\nIt contains {STRVAR 6, 1}.\rA very startling move it is.\nIts hits turn critical often!
-Five Gym Badges...\rBut you must not forget this.\nThere are many other Trainers.\rStrong Trainers, too.\nThere are many more in Sinnoh.\rHave patience! You must become\nstronger, one at a time.
+{SIZE 200}哦ー活活活！！{SIZE 100}\r久等了！！\r自从我来到这个国家,\n学到了许多东西,\r这个城市举行了华丽大赛,\n所以我才穿成这样,\r因为学习了很多口袋妖怪的知识,\n才成为了道馆馆主,\r嗯ー所以说呢,\n向我挑战吧！\f我一定会打败你的！\f这就是一个道馆馆主该做的！\r
+真的让我很吃惊！\n我和我的精灵明明已经很强了！\r作为对你战胜我的这份强大的称赞,\n把这个徽章拿去吧！\r
+{STRVAR 3,0}从梅丽莎处\n获得了华丽徽章！
+拿着那个徽章就可以使用\n秘传技能「冲浪」了！\r另外这个技能训练机……\n相信你一定能好好使用的！\f我对你有信心！\r
+那个{STRVAR 8,0}里是\n{STRVAR 6,1}！\r容易击中要害的\n很厉害的技能呀！！
+已经获得５个道馆徽章了……\r不过神奥这个地方\n还有许多更强大的训练师,\f绝对不要忘了这点,\r继续努力地锻炼自己\n变得更加强大吧！

@@ -1,117 +1,117 @@
-Welcome to the Battle Tower!\rI am your guide to the Single\nand Double Battle Rooms.\r
-Would you like to take the\nBattle Room challenge?
-We hope to see you again!
-The Battle Tower’s Single Battle\nRooms are facilities for conducting\fSingle Battles with three Pokémon.\rSimilarly, the Double Battle Rooms\nare facilities for conducting Double\fBattles with four Pokémon.\rThere are many Battle Rooms in the\nBattle Tower for team battles.\rIn each of the Battle Rooms, seven\nTrainers await your challenge.\rIf you manage to defeat all seven,\nyou will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\r
-Which Battle Room would you like?\nSingle or Double?
+欢迎来到战斗塔！\r可以带您前往单人对战和\n双人对战２个对战房间。\r
+挑战战斗房间吗？
+欢迎下次光临！
+战斗塔 单人使用３只精灵,\n双人使用４只精灵,\f这是进行战斗的设施,\r塔里已经准备好了大量的\n战斗房间,\f参加对战时,\r各个战斗房间里\n有７名训练师等待你的挑战,\r顺利地打倒这７人的话\n将赠送战斗点数ＢＰ。\r另外,中途中断挑战的话\n请一定要做好记录,\f否则将视为挑战无效,\f请注意！\r
+单人对战和双人对战,\n要进行哪一种对战？
                                                                                                                                                                                         
                                                                                                                                                                                                                                                
-                                
-Please select the Pokémon you wish\nto enter.\r
-Your Pokémon must all be different.\r
-Hold items must all be different.\r
-I will now show you to the\nBattle Room.
-Congratulations!\nYou’ve beaten all seven Trainers!\r
-Congratulations!\nYou’ve beaten the Tower Tycoon!\rWe present you with these Battle\nPoints in recognition of your talent!\r{STRVAR 3, 0} received\n{STRVAR 50, 1} BP!\r
-Saving...\nDon’t turn off the power.
-We hope to see you again.
-We’ve been waiting for you!\rBefore entering a Battle Room, your\nprogress will be saved.\rSaving...\nDon’t turn off the power.
-                      
-         
-Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r
-Welcome to the Battle Tower!\rI am your guide to the Multi\nBattle Rooms.\r
-Would you like to take the Multi\nBattle Room challenge?
-                          
-The Battle Tower’s Multi Battle\nRooms are facilities for conducting\fMulti Battles.\rFor Multi Battles, you must partner\nwith a Trainer in the tower and enter\fwith two Pokémon each.\rInside the tower is a room named\nthe Battle Salon where you can meet\fother Trainers.\rThere, you must find a Trainer to act\nas your partner in the Multi Battles.\rOnce you have partnered up, you will\nbe shown to a Multi Battle Room.\rIn the Multi Battle Room, seven\ntag teams await your challenge.\rIf you manage to defeat all seven\nteams, you will earn Battle Points.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rAlso, if you are in a tag team with\na friend, you may not interrupt your\fchallenge.\r
-                                                                                                                                                                                                                                                
-                                
-Would you like to communicate with\na friend and form a tag team?
-One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.”
-                          
-               
-                 
-                     
-I’ll direct you to your\nMulti Battle Room now.
-Both Trainers have chosen the\nPokémon {STRVAR 0, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r
-Both Trainers have chosen the\nPokémon {STRVAR 0, 0} and\f{STRVAR 0, 1}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r
-I will now show you to the\nBattle Salon.\r
-Welcome to the Battle Tower!\rI am your guide to the Wi-Fi\nBattle Rooms.\r
-Would you like to take the Wi-Fi\nBattle Room challenge?
-The Battle Tower’s Wi-Fi Battle Rooms\nare places to conduct battles over\fNintendo Wi-Fi Connection (WFC).\rIn Wi-Fi Battles, you will be battling\nTrainers from around the world over\fNintendo WFC.\rInside the Battle Tower, there are\nmany Battle Rooms.\rIn each of the Battle Rooms, seven\nTrainers await your challenge.\rIf you manage to defeat all seven,\nyou will earn Battle Points.\rDepending on how you do, you may\neven become the room’s leader!\rAlso, the Wi-Fi Battle Rooms are\noperated on a ranking system.\rTrainers will go up in rank if they\nkeep winning Wi-Fi Battles.\rContrarily, their rankings could go\ndown if they lose consistently.\rTo raise your rank, keep winning,\nespecially against tougher Trainers.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\r
-We hope to see you again!
-                                
-                                                                                                                                                                                                                                                  
-                          
-               
-                 
-                                                     
-                            
-OK. I’ll direct you to your Battle\nRoom now.\rAre you ready?
-Would you like to save and\ninterrupt your challenge?
-                        
-                               
-                      
-I’ve downloaded the Rank {STRVAR 51, 0}, Battle\nRoom {STRVAR 52, 1}’s past leader history.\rPlease confirm it on the Performance\nMonitor next to me.
-Thank you for playing!\r
-Congratulations!\nYou’ve beaten all seven Trainers!\r
-{STRVAR 3, 0}, you have also been\npromoted to Rank {STRVAR 51, 1}!\r
-Saving...\nDon’t turn off the power.
-Would you like to send these results\nusing Nintendo WFC?
-For your 7-win streak, we present\nyou these Battle Points!\r{STRVAR 3, 0} obtained\n{STRVAR 50, 1} BP.\r
-                          
-Your results were sent out using\nNintendo WFC!\r
-It’s good to see you back.\rYour previous results were not sent\nout using Nintendo WFC.\rWould you like to send them now?
-                                              
-                          
-           
-It’s very unfortunate, but you have\nbeen demoted to Rank {STRVAR 51, 0}...\r
-                                 
-                          
-                           
-Your record will be saved.\nPlease wait.
-Congratulations on achieving\nRank {STRVAR 51, 0}.\rYour winning Pokémon team has won\nspecial Ribbons for this feat!
-Congratulations on achieving {STRVAR 52, 0}\nconsecutive wins!\rYour winning Pokémon team has been\ngiven a special award for this feat!
-{STRVAR 3, 0} obtained {STRVAR 8, 1}!
-Congratulations on achieving your\n50-win streak.\rYour winning Pokémon team has won\nspecial Ribbons for this feat!
-Yeah, I used to live in a place\ncalled Hoenn.\rThere was a place like this back\nthere, too.
-The Wi-Fi Battle Rooms are full of\nsurprises.\rCan you imagine running into an old\nrival who moved far away?\rWho knows what cool encounters you’ll\nhave?
-They profile you on TV if you set\na good record here.\rThis is my only chance to regain\nmy glory as an Idol!
-I trained my little guy till we\ncouldn’t take any more.\rHe’s going to do a 100-win streak\nfor sure...\rRight, PIKACHU?
-PIKACHU: ...
-Ooh-la-la!\nYou look tremendously powerful!\rVerily, I shall look forward to\nengaging you in a battle.
-There are so many tough Trainers\naround...\rIt’s scary, but let’s do our best,\nPIKACHU!
-PIKACHU: Pichuu! Pichuu!
-Congratulations on achieving\na 50-win streak!\rThe Pokémon on your team will be\nprovided with commemorative Ribbons.
-Congratulations on advancing to\nRank {STRVAR 50, 0}!\rThe Pokémon on your team will be\nprovided with commemorative Ribbons.
-Congratulations on defeating\nthe Tower Tycoon!\rThe Pokémon on your team will be\nprovided with commemorative Ribbons.
-Congratulations on achieving\nyour {STRVAR 52, 0}-win streak!\rPlease accept this trophy for your\nfantastic achievement!\r
-...Uh-oh... You’ve run out of room\nfor decoration goods.\rPlease make room, and come back\nfor your prize.
+在进入前,需要进行游戏记录,\n可以吗？
+接着请选择参赛精灵\r
+有重复的精灵！\r
+持有重复道具！\r
+现在带您前往战斗房间！
+恭喜！\n顺利打倒７人了！\r
+恭喜！\n顺利在战斗塔对战中取得胜利！\r作为表彰,\n赠送您战斗点数,\r{STRVAR 3,0}获得\n战斗点数{STRVAR 50,1}ＢＰ！\r
+记录中,\n请不要关闭电源
+欢迎下次光临！
+久等了！\r带您前往战斗房间之前,\n请先进行游戏记录
+现在带您前往战斗房间！\r
+请这里走！
+抱歉！\r上一回没有作记录\n就中断了吧？\r对不起,在这种情况下\n挑战视为无效！\r
+欢迎来到战斗塔！\r这里可以带您前往配合对战房间\r
+要挑战配合对战房间吗？
+欢迎下次光临！
+配合对战房间在战斗塔里\n训练师限定携带２只精灵,\f在配合战斗中进行对战前,\r在塔内有叫做战斗休息室的房间,\n那里聚集了很多训练师,\r他们等待着和您\n一起组成组合进行挑战,\f您可以自由选择搭档！\r通过通信和朋友一起\n组成搭档的话\f将直接进入配合战斗房间！\r这个配合战斗房间里\n有７组训练师组合\f在等待您的挑战,\r顺利打倒７人的话\n会赠送战斗点数。\r另外,中途中断挑战的话\n请一定要做好记录,\f否则将视为挑战无效！\f请注意！\r
+
+进入之前要保存游戏进度吗？
+通过通信和朋友们组队吗？
+双人状态下\n选择一人作为队长,\r选择另一个人\n加入组群
+请选择参加的精灵
+有重复的精灵！\r
+持有重复的道具！\r
+正在等待朋友的选择！
+请往这边走,\n前往配合战斗房间！
+选择\n和{STRVAR 0,0}的一样！\r请和朋友商量以后\n再来参赛\r
+和朋友同样选择了\n{STRVAR 0,0}和\f{STRVAR 0,1}！\r请和朋友\n商量后再来参赛。\r
+请往这边走,\n前往战斗休息室！\r
+欢迎来到战斗塔！\r这里可以带您进入\fＷｉＦｉ对战房间！\r
+挑战ＷｉＦｉ对战房间吗？
+ＷｉＦｉ对战房间是\n通过ＷｉＦｉ连接全世界训练师\f并与他们进行对战为目的的设施。\r塔内有许多对战房间可供选择,\n有７个训练师在等待着\f你的挑战。\r打倒这７人后\n能获得战斗ＢＰ点数,\r然后你有机会成为\n这个对战房的首领！\r另外,ＷｉＦｉ战斗塔\n采用级别系统,\r连续获胜级别就会上升,\n连战连败的话就会降低。\r要想与更强的对手对战,\n就请保持胜利。\r此外,\n如果中途需要中断挑战时,\f请一定要中断保存,\f否则挑战无效。\f请务必注意。\r
+欢迎下次光临！
+进入之前,需要进行存档,\n可以吗？
+
+请选择要参加对战的精灵
+相同种类的精灵不能参赛！\r
+精灵持有的道具不能重复！\r
+{STRVAR 3,0}\n目前的等级为{STRVAR 51,1},\r请进入要挑战的对战房间
+房间{STRVAR 52,0}！\n请稍候
+现在前往对战房间吗？
+需要进行中断存档吗？
+ＷｉＦｉ连接准备中\r
+查看成绩,\n请选择对战房间的等级
+请选择对战房间的编号
+等级{STRVAR 51,0} 对战房间{STRVAR 52,1}的\n历代首领资料下载完毕。\r请在旁边的成绩显示器上\n查看确认。
+您辛苦了！\r
+恭喜！\n７人连胜达成！\r
+{STRVAR 3,0}成为\n等级{STRVAR 51,1}！\r
+保存记录中,\n请不要切断电源
+现在的成绩要传送到\nＷｉＦｉ联机系统上吗？
+７人连胜达成,\n获得战斗点数！\r{STRVAR 3,0}得到\n战斗点数{STRVAR 50,1}ＢＰ！\r
+欢迎您下次再来！
+成绩传送到了\nＷｉＦｉ联机系统！\r
+久等了！\r上次的成绩没有传送到\nＷｉＦｉ联机系统,\f以后传送吗？
+辛苦了！\r保存记录中,\n请不要切断电源
+欢迎下次再来！
+辛苦了！\r
+很遗憾,本次等级\n下降到{STRVAR 51,0}……\r
+本次成绩要传送到\nＷｉＦｉ联机系统吗？
+欢迎下次再来！
+成绩传送到了\nＷｉＦｉ联机系统！\r
+进入之前,需要进行存档,\n可以吗？
+等级变为{STRVAR 51,0}\n参加的精灵得到缎带！
+{STRVAR 52,0}连胜达成！\n获得纪念品！
+{STRVAR 3,0}\n得到{STRVAR 8,1}！
+５０连胜达成！\n参加战斗的精灵得到缎带！
+以前住在方圆地区,\n总有一种好像\f对这里很熟悉的感觉……
+在ＷｉＦｉ战斗房间里和\n从远处来的对手突然再次见面！\r说不定还会有什么\n意想不到的事情呢！
+在这里如果成绩好的话,\n会在电视里放映吗？\r在我还没有出名的时候,\n只有这里是我展示的舞台！！
+锻炼！锻炼啊！\n努力锻炼完之后,\f即使１００连胜也肯定……\r是吧？\n皮卡丘？
+皮卡丘『……
+哇哟,好像很厉害啊,\n在这里会有精彩的对战吗？\f我好期待啊！
+看起来厉害的训练师真不少啊……\n虽然有点害怕,但是一起努力吧！\f皮卡丘！！
+皮卡丘『皮丘！！皮丘！！
+恭喜！\n５０连胜达成,\f参赛的精灵得到缎带！
+恭喜！\n等级提升到{STRVAR 50,0},\f我们为参赛的精灵\f准备了纪念缎带！
+恭喜！\n你战胜了塔主,\f我们为参赛的精灵\f准备了纪念缎带！
+恭喜！\n{STRVAR 52,0}连胜达成,\f我们为您准备了优胜纪念品！\r
+……啊,东西好像\n已经满了啊……\r对不起,请整理好\n物品之后再来吧！
                                                            
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs are not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs and {STRVAR 0, 1} are\nnot allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, and {STRVAR 0, 2}\nare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\nand {STRVAR 0, 3} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, and {STRVAR 0, 4}\fare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4}, and\f{STRVAR 0, 5} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, and {STRVAR 0, 6}\nare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6}, and\n{STRVAR 0, 7} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, and {STRVAR 0, 8}\fare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\fand {STRVAR 0, 9} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, and {STRVAR 0, 10}\nare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\nand {STRVAR 0, 11} are ineligible.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, and {STRVAR 0, 12}\fare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\fand {STRVAR 0, 13} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, and {STRVAR 0, 14}\nare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\nand {STRVAR 0, 15} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n{STRVAR 0, 15}, and {STRVAR 0, 16}\fare not allowed to enter.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n{STRVAR 0, 15}, {STRVAR 0, 16},\fand {STRVAR 0, 17} are not allowed.\rPlease come see me when you are\nready.\r
-Excuse me!\rYou don’t have {STRVAR 50, 0} eligible Pokémon.\rYou must have {STRVAR 50, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n{STRVAR 0, 15}, {STRVAR 0, 16},\r{STRVAR 0, 17}, and {STRVAR 0, 18}\nare not allowed to enter.\rPlease come see me when you are\nready.\r
-Thank you so much for participating!\nPlease come again!
-Hi, there!\rCan you tell me how you’d introduce\nyourself before a battle, and what\fyou’d say if you won or lost?
-OK! So, how would you introduce\nyourself before a battle?
-OK! So, what would you say if \nyou lost a battle?
-OK! So, what would you say if \nyou won a battle?
-Thanks for telling me. You’d say\n“{STRVAR 284}”...
-Oh? You’re not going to tell me?\nThat’s too bad...
-There doesn’t appear to be any\ndata yet...\r
-DS Wireless Communications will\nbe launched.
-We look forward to your next visit.\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋和{STRVAR 0, 1}\n不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, 和 {STRVAR 0, 2}\n不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n和 {STRVAR 0, 3} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, 和 {STRVAR 0, 4}\f不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4}, and\f{STRVAR 0, 5} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, 和 {STRVAR 0, 6}\n不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6}, and\n{STRVAR 0, 7} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, 和 {STRVAR 0, 8}\f不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\f和 {STRVAR 0, 9} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, 和 {STRVAR 0, 10}\n不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n和 {STRVAR 0, 11} are ineligible.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, 和 {STRVAR 0, 12}\f不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\f和 {STRVAR 0, 13} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, 和 {STRVAR 0, 14}\n不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n和 {STRVAR 0, 15} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n{STRVAR 0, 15}, 和 {STRVAR 0, 16}\f不能进入.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n{STRVAR 0, 15}, {STRVAR 0, 16},\f和 {STRVAR 0, 17} are not allowed.\r请准备好了再来\r
+尊敬的客人!\r你没有{STRVAR 50, 0}只宝可梦.\r你必须要有{STRVAR 50, 0}只不同的\n宝可梦才能进入.\r他们必须携带\n不同的道具。\r蛋, {STRVAR 0, 1}, {STRVAR 0, 2},\n{STRVAR 0, 3}, {STRVAR 0, 4},\r{STRVAR 0, 5}, {STRVAR 0, 6},\n{STRVAR 0, 7}, {STRVAR 0, 8},\r{STRVAR 0, 9}, {STRVAR 0, 10},\n{STRVAR 0, 11}, {STRVAR 0, 12},\r{STRVAR 0, 13}, {STRVAR 0, 14},\n{STRVAR 0, 15}, {STRVAR 0, 16},\r{STRVAR 0, 17}, 和 {STRVAR 0, 18}\n不能进入.\r请准备好了再来\r
+您辛苦了,\n欢迎再次光临！
+嗨！\n你不想告诉我些像对战之前\f的自我介绍,胜败时的心情\f之类的话吗？
+那就拜托对战前\n自我介绍一下吧！
+那就拜托说一下\n对战输了后的心情吧！
+那就拜托说一下\n对战赢了后的心情吧！
+谢谢你告诉我！\n是吗,是“{STRVAR 284}”...
+什么？不告诉我？\n遗憾啊……
+好像还没有存档……\r
+ＤＳ无线通信启动
+期待您下次光临！\r

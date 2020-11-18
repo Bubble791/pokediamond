@@ -1,2 +1,2 @@
-Pokémon are wonderful, deeply\nmysterious creatures.\rBut to Trainers, it seems the only\nthing that matters is battling!
-Hello there, Trainer!\rIf you get stumped and don’t know\nwhat to do...\rTalk to people!\nTalk to everyone you see!\rGo places!\nGo wherever you can!\rYou’ll find many new places by\ndoing just that.
+口袋妖怪是\n非常难于理解的神秘生物,\r但是作为口袋训练师,\n基本要领只是\f让精灵去战斗而已。
+口袋训练师,你好！\r当不知怎么办的时候\f就要学会交谈！\r去各个地方找人说话！\n这样前进的道路就会出现！

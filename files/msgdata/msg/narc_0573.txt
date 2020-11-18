@@ -1,49 +1,49 @@
-Red
-Blue
-Yellow
-Green
-Baseball
-Soccer
-Swimming
-Marathon
-The sea
-Mountains
-Fields
-Towns
-Language
-Math
-Science
-Social Studies
-Language
-Math
-Science
-Social Studies
-Pokémon collecting
-Pokémon battles
-Contests
-Going underground
-Kind people
-Strong people
-Funny people
-Smart people
-Clothes
-Books
-Food
-Games
-Get happy
-Get rich
-Get famous
-Become no. 1
-Sweet food
-Spicy food
-Salty food
-Sour food
-Cute Pokémon
-Strong Pokémon
-Cool Pokémon
-Weak Pokémon
-Play outside
-Go shopping
-Study
-Sleep
-Don’t know
+红
+蓝
+黄
+绿
+棒球
+足球
+游泳
+马拉松
+海
+山
+原野
+城镇
+国语
+算数
+理科
+社会
+国语
+算数
+理科
+社会
+收集精灵
+口袋对战
+选美
+地下探险
+温柔的人
+强大的人
+有趣的人
+聪明的人
+衣服
+书
+食物
+游戏
+变得幸福
+变得有钱
+变得有名
+变成第一
+甜食
+辣食
+咸食
+酸食
+可爱的精灵
+强大的精灵
+帅气的精灵
+弱小的精灵
+在外面玩
+购物
+学习
+睡觉
+不知道

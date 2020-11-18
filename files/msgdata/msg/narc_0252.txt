@@ -1,4 +1,4 @@
-It’s a statue of a Pokémon.\nIt seems to exude power...\r{STRVAR 3, 0} read the engraved\nwriting...\rA body of rock.\rA body of ice.\rA body of steel.\rWhen gathers the three Pokémon,\nthe king shall appear.
-It’s a statue of a Pokémon.\nIt seems to exude power...\r{STRVAR 3, 0} read the engraved\nwriting...\rA body of rock.\rA body of ice.\rA body of steel.\rWhen gathers the three Pokémon,\nthe king shall appear.\r...\n...\r
-...Zut zutt!\r
-REGIGIGAS disappeared from view...
+散发着神秘力量的\n精灵的塑像……\r{STRVAR 3,0}\n读了上面的文字……\r岩石的身体\r冰的身体\r钢的身体\r集合３只精灵时\n王将会现身于世
+散发着神秘力量的\n精灵的像……\r{STRVAR 3,0}\n读了上面的文字……\r岩石的身体\r冰的身体\r钢的身体\r集合３只精灵时\n王将会现身于世\r…… …… ……\n…… …… ……\r
+……呲 呲！！\r
+圣柱王消失了……

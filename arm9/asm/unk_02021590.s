@@ -268,6 +268,18 @@ FUN_02021750: ; 0x02021750
 	lsr r1, r1, #0x10
 	blx r3
 	pop {r3, pc}
+_fonts:
+	mov r2, #0xfd
+	lsl r2, r2, #0x1
+	cmp r1, r2
+	bhi _fonts2
+	ldr r0, [r0, #0x74]
+	ldrb r0, [r0, r1]
+	bx lr
+_fonts2:
+	mov r0, #12
+	bx lr
+	nop
 	.balign 4
 
 	thumb_func_start FUN_02021774
@@ -490,16 +502,9 @@ _02021920: .word 0x0000FFFE
 
 	thumb_func_start FUN_02021924
 FUN_02021924: ; 0x02021924
-	mov r2, #0xfd
-	lsl r2, r2, #0x1
-	cmp r1, r2
-	bhi _fonts
-	ldr r0, [r0, #0x74]
-	ldrb r0, [r0, r1]
-	bx lr
-_fonts:
-	mov r0, #12
-	bx lr
+	b _fonts
+	nop
+	nop
 	.balign 4
 
 	thumb_func_start FUN_0202192C

@@ -1,10 +1,10 @@
-My big sister collects shards.\rShe says they remind her of the place\nshe worked at long ago.
-If you find ten shards of the same\ncolor, please let me know.\rI would gladly trade you a Technical\nMachine for them.
-You’ve got ten shards in the same\ncolor, haven’t you?\rWould you like to trade them for\na Technical Machine?
-For your ten Red Shards, you get\nthis {STRVAR 8, 0} {STRVAR 6, 1}.\r
-For your ten Blue Shards, you get\nthis {STRVAR 8, 0} {STRVAR 6, 1}.\r
-For your ten Yellow Shards, you get\nthis {STRVAR 8, 0} {STRVAR 6, 1}.\r
-For your ten Green Shards, you get\nthis {STRVAR 8, 0} {STRVAR 6, 1}.\r
-You don’t want anything?\nI feel unwanted...
-Oh, your Bag is full.\rGiggle... It’s OK, I can trade\nanytime. Next time will be fine.
-Red Shards: Sunny Day\nBlue Shards: Rain Dance\fYellow Shards: Sandstorm\fGreen Shards: Hail\f...The Weather Institute
+姐姐在收集碎片\r很早以前就开始了！
+喂喂！收集到\n１０个颜色一样的碎片的话\f就告诉我,\r我可以拿身上的训练机\n和你交换！
+你拿着碎片啊！\r可以的话和我交换\n技能机器吧？
+用１０个红色碎片和\n{STRVAR 8,0}进行「{STRVAR 6,1}」的\f交换\r
+用１０个蓝色碎片和\n{STRVAR 8,0}进行「{STRVAR 6,1}」的\f交换\r
+用１０个黄色碎片和\n{STRVAR 8,0}进行「{STRVAR 6,1}」的\f交换\r
+用１０个绿色碎片和\n{STRVAR 8,0}进行「{STRVAR 6,1}」的\f交换\r
+啊？不要吗？\n真遗憾啊！
+啊,行李满了！\r不过什么时候都能交换,\n所以请放心。
+红色碎片是晴天\n蓝色碎片是求雨\f黄色碎片是沙暴\f绿色碎片是冰雹\f……气象研究局

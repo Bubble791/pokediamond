@@ -1,216 +1,181 @@
-{COLOR 1}Pokémon Diamond{COLOR 0}
-{COLOR 1}Pokémon Pearl{COLOR 0}
-{COLOR 1}Credits{COLOR 0}
-{COLOR 2}Director{COLOR 0}
-    Junichi Masuda
-{COLOR 2}Art Director{COLOR 0}
-    Ken Sugimori
-{COLOR 2}Battle Director{COLOR 0}
-    Shigeki Morimoto
-{COLOR 2}Program Leader{COLOR 0}
-    Tetsuya Watanabe
-{COLOR 2}Battle System Programmer{COLOR 0}
-    Hisashi Sogabe
-{COLOR 2}Field System Programmer{COLOR 0}
-    Sousuke Tamada
-{COLOR 2}Communication System Programmer{COLOR 0}
-    Akito Mori
-{COLOR 2}Programmers{COLOR 0}
-    Yoshinori Matsuda
-    Keita Kagaya
-    Hiroyuki Nakamura
-    Masao Taya
-    Satoshi Nohara
-    Tomomichi Ohta
-    Miyuki Iwasawa
-    Nozomu Saito
-    Daisuke Goto
-    Tomoya Takahashi
-    Katsumi Ono
-    Satoshi Mitsuhara
-{COLOR 2}Graphic Leader{COLOR 0}
-    Takao Unno
-{COLOR 2}Pokémon Designers{COLOR 0}
-{COLOR 2}{CURSOR_X 86}&{COLOR 0}
-{COLOR 2}{CURSOR_X 58}Graphic Designers{COLOR 0}
-    Ken Sugimori
-    Takao Unno
-    Motofumi Fujiwara
-    Satoshi Ohta
-    Hironobu Yoshida
-    Kanako Eo
-    Kenkichi Toyama
-    Hiroki Fuchino
-    Hiroyuki Yagi
-    Emi Yoshida
-    Yusuke Omura
-    Hiroyuki Goto
-{COLOR 2}Pokémon Designer{COLOR 0}
-    Atsuko Nishida
-{COLOR 2}Graphic Designer{COLOR 0}
-    Kei Hoshiba
-{COLOR 2}Music Leader{COLOR 0}
-    Go Ichinose
-{COLOR 2}Music Composition{COLOR 0}
-    Hitomi Sato
-    Junichi Masuda
-{COLOR 2}Sound Effects{COLOR 0}
-    Satoshi Nohara
-{COLOR 2}Pokémon Voices{COLOR 0}
-    Go Ichinose
-{COLOR 2}Game Design Leader{COLOR 0}
-    Shigeru Ohmori
-{COLOR 2}Game Designers{COLOR 0}
-    Kouji Nishino
-    Kenji Matsushima
-    Tetsuji Ohta
-    Hitomi Sato
-    Takeshi Kawachimaru
-    Teruyuki Shimoyamada
-    Tadashi Takahashi
-    Akihito Tomisawa
-    Suguru Nakatsui
-    Hiro Nakamura
-{COLOR 2}Plot Scenario{COLOR 0}
-    Junichi Masuda
-    Toshinobu Matsumiya
-    Kouji Nishino
-    Shigeru Ohmori
-{COLOR 2}Game Scenario{COLOR 0}
-    Toshinobu Matsumiya
-    Hitomi Sato
-    Akihito Tomisawa
-    Suguru Nakatsui
-{COLOR 2}Map Designers{COLOR 0}
-    Tadashi Takahashi
-    Suguru Nakatsui
-    Shigeru Ohmori
-    Akihito Tomisawa
-    Hiro Nakamura
-    Kouji Nishino
-    Teruyuki Shimoyamada
-{COLOR 2}Pokédex Text{COLOR 0}
-    Kenji Matsushima
-{COLOR 2}Parametric Designers{COLOR 0}
-    Kouji Nishino
-    Tetsuji Ohta
-    Teruyuki Shimoyamada
-    Shigeki Morimoto
-{COLOR 2}Battle Tower Data{COLOR 0}
-    Osamu Fujita
-    Takeshi Saigo
-    Yoshihito Tsuji
-    Kouji Kobayashi
-    Motoki Nakajima
-    Etsuko Fukushima
-    Keisuke Fukushima
-    Tetsuji Ohta
-{COLOR 2}Script Designers{COLOR 0}
-    Satoshi Nohara
-    Tomomichi Ohta
-    Miyuki Iwasawa
-    Sousuke Tamada
-{COLOR 2}Environment & Tool Programmers{COLOR 0}
-    Hisashi Sogabe
-    Sousuke Tamada
-    Hiroyuki Nakamura
-    Masao Taya
-    Miyuki Iwasawa
-{COLOR 2}Nintendo Wi-Fi Connection{COLOR 0}
-  {COLOR 2}Server System Director{COLOR 0}
-    Mikihiro Ishikawa
-  {COLOR 2}Server System Programmers{COLOR 0}
-    Daisuke Nakamura
-    Shigetoshi Kitayama
-    Yuuki Hayashi
-  {COLOR 2}Program Support{COLOR 0}
-    Kazuki Yoshihara
-{COLOR 2}NCL Product Testing{COLOR 0}
-    Akira Yano
-    Super Mario Club
-{COLOR 2}Special Thanks{COLOR 0}
-    Kenji Tominaga
-    Yoshio Tajiri
-    Masafumi Saito
-    Saya Tsuruta
-    HyunJung Lee
-    Takenori Ohta
-    Teiko Sasaki
-    Yuichiro Mori
-    Sachiko Hamano
-    Emi Endo
-    Kenjiro Ito
-    Tomotaka Komura
-    Susumu Fukunaga
-    Masami Tanaka
-    Michiko Takizawa
-    Kenichi Arai
-    Yumi Hoshi
-    Jiro Koga
-    Norihide Okamura
-    Shunsuke Kohori
-    Takanao Kondo
-    Hiroyuki Uesugi
-    Teruki Murakawa
-    Kimiko Nakamichi
-    Souichi Yamamoto
-    Akira Kinashi
-    Hiroshi Akune
-    Takao Nakano
-{COLOR 2}Information Supervisors{COLOR 0}
-    Hiromi Sagawa
-    Yuri Sakurai
-    Naoko Yanase
-{COLOR 2}Artwork{COLOR 0}
-    Sachiko Nakamichi
-    Kiyomi Oe
-    Yasuko Sugiyama
-{COLOR 2}Coordinators{COLOR 0}
-    Shusaku Egami
-    Kazuki Yoshihara
-    Kaori Ando
-{COLOR 2}English Version Coordinators{COLOR 0}
-    Seth McMahill
-    Keisuke Tominaga
-{COLOR 2}English Version Assistant Coordinator{COLOR 0}
-    Joel Simon
-{COLOR 2}Translator{COLOR 0}
-    Nob Ogasawara
-{COLOR 2}Text Editors{COLOR 0}
-    Teresa Lillygren
-    Seth McMahill
-{COLOR 2}NOA Product Testing{COLOR 0}
-    Thomas Hertzog
-    Leland Jones
-    Patrick Taylor
-    Mika Kurosawa
-{COLOR 2}NOA Special Thanks{COLOR 0}
-    Nicola Wright
-    Devon Ryning
-    Hitomi Ross
-    Kyle Hudson
-    Joshua Newman
-{COLOR 2}Localization{COLOR 0}
-    Teruki Murakawa
-    Kimiko Nakamichi
-    Souichi Yamamoto
-    Akira Kinashi
-    Noriko Nakao
-    Ken Kato
-    Norihito Ito
-    Haruhiko Imatake
-    Tomoko Nakayama
-    Hiroshi Akune
-    Kazuhiro Fujihara
-    Yuuki Tanikawa
-    Ryo Yamaguchi
-{COLOR 2}Producers{COLOR 0}
-    Hiroyuki Jinnai
-    Hitoshi Yamagami
-    Gakuji Nomoto
-    Hiroaki Tsuru
-{COLOR 2}Executive Producers{COLOR 0}
-    Satoshi Tajiri
-    Satoru Iwata
-    Tsunekaz Ishihara
-Fin
+{COLOR 1}口袋妖怪 钻石{COLOR 0}
+{COLOR 1}口袋妖怪 珍珠{COLOR 0}
+游戏制作人员名单
+{COLOR 2}总监制{COLOR 0}
+  ますだ じゅんいち
+{COLOR 2}艺术监制{COLOR 0}
+  すぎもり けん
+{COLOR 2}战斗监制{COLOR 0}
+  もりもと しげき
+{COLOR 2}程序组长{COLOR 0}
+  わたなべ てつや
+{COLOR 2}战斗系统程序{COLOR 0}
+  そがべ ひさし
+{COLOR 2}地图系统程序{COLOR 0}
+  たまだ そうすけ
+{COLOR 2}通信系统程序{COLOR 0}
+  もり あきと
+{COLOR 2}程序员{COLOR 0}
+まつだ よしのり/かがや けいた
+  なかむら ひろゆき
+たや まさお/のはら さとし
+  おおた ともみち
+  いわさわ みゆき
+  さいとう のぞむ
+  ごとう だいすけ
+  たかはし ともや
+  おおの かつみ
+  みつはら さとし
+{COLOR 2}美工组长{COLOR 0}
+  うんの たかお
+{COLOR 2}精灵sb美工设计{COLOR 0}
+すぎもり けん/うんの たかお
+  ふじわら もとふみ
+おおた さとし/よしだ ひろのぶ
+えお かなこ/とやま けんきち
+ふちの ひろき/やぎ ひろゆき
+  よしだ えみ
+  おおむら ゆうすけ
+  ごとう ひろゆき
+{COLOR 2}精灵原型设计{COLOR 0}
+  にしだ あつこ
+{COLOR 2}美工设计{COLOR 0}
+  ほしば けい
+{COLOR 2}音乐组长{COLOR 0}
+  いちのせ ごう
+{COLOR 2}音乐{COLOR 0}
+さとう ひとみ/ますだ じゅんいち
+{COLOR 2}音效{COLOR 0}
+  のはら さとし
+{COLOR 2}精灵音效{COLOR 0}
+  いちのせ ごう
+{COLOR 2}游戏设计组长{COLOR 0}
+  おおもり しげる
+{COLOR 2}游戏设计{COLOR 0}
+にしの こうじ/まつしま けんじ
+おおた てつじ/さとう ひとみ
+  かわちまる たけし
+  しもやまだ てるゆき
+  たかはし ただし
+  とみさわ あきひと
+  なかつい すぐる
+  ひろ なかむら
+{COLOR 2}剧情构思{COLOR 0}
+  ますだ じゅんいち
+  まつみや としのぶ
+にしの こうじ/おおもり しげる
+{COLOR 2}剧本{COLOR 0}
+  まつみや としのぶ
+  さとう ひとみ
+  とみさわ あきひと
+  なかつい すぐる
+{COLOR 2}地图设计{COLOR 0}
+  たかはし ただし
+  なかつい すぐる
+  おおもり しげる
+  とみさわ あきひと
+ひろ なかむら/にしの こうじ
+  しもやまだ てるゆき
+{COLOR 2}图鉴文本{COLOR 0}
+  まつしま けんじ
+{COLOR 2}参数设定{COLOR 0}
+にしの こうじ/おおた てつじ
+  しもやまだ てるゆき
+  もりもと しげき
+{COLOR 2}战斗塔数据{COLOR 0}
+ふじた おさむ/さいごう たけし
+つじ よしひと/こばやし こうじ
+  なかじま もとき
+  ふくしま えつこ
+  ふくしま けいすけ
+  おおた てつじ
+{COLOR 2}脚本设定{COLOR 0}
+のはら さとし/おおた ともみち
+  いわさわ みゆき
+  たまだ そうすけ
+{COLOR 2}环境sb工具程序{COLOR 0}
+そがべ ひさし/たまだ そうすけ
+  なかむら ひろゆき
+たや まさお/いわさわ みゆき
+{COLOR 2}任天堂ＷｉＦｉ连接{COLOR 0}
+{COLOR 2}服务器系统监督{COLOR 0}
+  いしかわ みきひろ
+{COLOR 2}服务器系统程序{COLOR 0}
+  なかむら だいすけ
+  きたやま しげとし
+  はやし ゆうき
+{COLOR 2}技术支持{COLOR 0}
+  よしはら かずき
+{COLOR 2}调试员{COLOR 0}
+  やの あきら
+  スパマリオクラブ
+{COLOR 2}特别感谢{COLOR 0}
+とみなが けんじ/たじり よしお
+  さいとう まさふみ
+つるた さや/リ ヒョンジョン
+おおた たけのり/ささき ていこ
+  もり ゆういちろう
+はまの さちこ/えんどう えみ
+  いとう けんじろう
+こむら ともたか/ふくなが すすむ
+たなか まさみ/たきざわ みちこ
+  あらい けんいち
+ほし ゆみ/こが じろう
+  おかむら のりひで
+  こほり しゅんすけ
+  こんどう たかなお
+  うえすぎ ひろゆき
+  むらかわ てるき
+  なかみち きみこ
+  やまもと そういち
+きなし あきら/あくね ひろし
+  なかの たかお
+{COLOR 2}信息管理{COLOR 0}
+さがわ ひろみ/さくらい ゆうり
+  やなせ なおこ
+{COLOR 2}艺术加工{COLOR 0}
+なかみち さちこ/おえ きよみ
+  たかはし やすこ
+{COLOR 2}负责人{COLOR 0}
+  えがみ しゅうさく
+よしはら かずき/あんどう かおり
+{COLOR 2}出品人{COLOR 0}
+  じんない ひろゆき
+  やまがみ ひとし
+のもと がくじ/つる ひろあき
+{COLOR 2}执行制作{COLOR 0}
+たじり さとし/いわた さとる
+  いしはら つねかず
+ＹＹＪＯＹ口袋汉化组成员名单
+{COLOR 2}破解{COLOR 0}
+  ＤＮＡ
+{COLOR 2}协助{COLOR 0}
+  沙滩凉鞋
+{COLOR 2}翻译{COLOR 0}
+  非典型性废言
+  猫猫爱雪
+  jiofu
+  口袋茶叶
+  Tristan
+  初二的夏天
+  天使 li9s等
+{COLOR 2}润色{COLOR 0}
+  非典型性废言
+{COLOR 2}美工{COLOR 0}
+  Deapho
+  月下风铃
+  
+{COLOR 2}监制sb打杂{COLOR 0}
+  幺幺的任天堂
+  ＡＫ４７
+  
+{COLOR 2}特别感谢{COLOR 0}
+   ＡｃｅＫａｒｄ工程师
+       雷峰
+  协助解决字库问题
+  
+      谨以此游戏汉化版
+           献给
+广大喜爱口袋妖怪系列的中国玩家
+{COLOR 2}       ＹＹＪＯＹ汉化组{COLOR 0}
+剧终

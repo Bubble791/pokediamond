@@ -1,20 +1,20 @@
-Backlot: Hello, hello!\nWelcome to my opulent mansion!\rThere’s a lot for me to be proud of\ninside, and outside, of this home...\rBut what makes me the most proud is\nmy trophy garden in the back!\rWhy bother traveling afar when\nPokémon are attracted by my garden?\rThey come to me in hopes of seeing\nthe garden!\rYou’re welcome to join them and\nmarvel at my garden!
-                                                                                                                            
-                                                                                                                      
-Backlot: Er-hem!\rThere’s a lot for me to be proud of\ninside, and outside, of this home...\rBut what makes me the most proud is\nmy trophy garden in the back!\rWhy bother traveling afar when\nPokémon are attracted by my garden?\rThey come to me in hopes of seeing\nthe garden!\rWell, doesn’t that make you envious?\nYou are envious, yes?
-I know you’re really envious...\nYou’re not fooling anyone...
-Backlot: Muhohoho... I bet you are!\nI knew you would be!\rBut I don’t mind! I enjoy sharing\nmy stories with you!\rSo! When I go out into my prized\ngarden, Pokémon come running to me.\rThey sidle up, as happy as they can\nbe to see me!\rWell? Doesn’t that make you envious?\nYou are envious, yes?
-Backlot: Muhohoho... I bet you are!\nI knew you would be!\rBut I don’t mind! I enjoy sharing\nmy stories with you!\rSo! This is what happened this morning\nwhen I went into my trophy garden.\rI noticed a cute-eyed {STRVAR 0, 0},\nwhich joyously ran over to me.\rThe {STRVAR 0, 0} ran up and gave me\na smooch on my cheek...\r
-Butler: M-Master!\nTh-that Pokémon you mentioned...\fIt doesn’t exist in the garden...\r
-Backlot: Wha...\rErm...\rWh-what are you saying?\nI’m no blowhard!\rListen... Mutter, mutter...\nWhisper, whisper...\r
-Butler: Yes, Master!\nRight away, sir!\r
-Backlot: ...It’s true, I tell you!\nNo lies ever leave these lips!\rThere really are cute {STRVAR 0, 0}\nin my trophy garden! Honest truth!
-Butler: Master is a truly wonderful\nand generous person!\rIt’s on his orders that the garden,\nhis pride and joy, is open to all,\feven Trainers.
-Butler: Master actually quite enjoys\nshowing his prized garden to strong\fTrainers.
-Butler: Master took a stroll in his\ntrophy garden today, like usual.
-Butler: Did you see them? There were\nsome {STRVAR 0, 0}, weren’t there?\rBut that’s only to be expected.\nIt’s Master’s trophy garden.
-Butler: How do you find it? Master’s\nupgraded trophy garden, I mean.\rYou did notice the influx of quite\nrare Pokémon, yes?\rBut that’s only to be expected.\nIt’s Master’s trophy garden.
-You may look, but please refrain from\ntouching this Pokémon statue.
-I’m very sorry. But please refrain\nfrom touching this statue.\r
-It’s a very expensive-looking Pokémon\nstatue...\r...!\nYou got fingerprints on it...
-It’s a very expensive-looking book\non Pokémon.
+浦山『哈哈,\n来得正好,\f欢迎来到我的豪宅！\r哈哈哈！\n这是令我骄傲的\f漂亮的庭院！\r特地远道而来,\n请随意参观吧,\f随便参观！\r只要你愿意,\n到处随便走走也行！哈哈哈！
+这是令我骄傲的\n漂亮的庭院,\f它以前的样子更让我满意！\r要说为什么,\n当然就是因为各种各样的精灵！\r这里有很多你没见过的精灵！\r
+浦山『哈哈！\n这是令我骄傲的\f漂亮的庭院！\r你要是进去也可以……\r说起理想,\n就是让它成为\f有很多完美的训练师的\f完美的庭院！
+浦山『哈哈！\n这是令我骄傲的\f漂亮的庭院！\r特地远道而来,\n请随意参观,\f抓些精灵也可以！\r怎么样！羡慕吧？\n羡慕吧？
+虽然很羡慕……\n也不能乱来啊……
+浦山『哈哈哈……\n我说的没错吧！\f还有更让你吃惊的呢！\r只要我一进庭院,\n精灵也会很高兴地靠近过来！\r怎么样！羡慕吧？\n羡慕吧？
+浦山『哈哈哈……\n对了对了！\f还有还有！\r就是……\n今天早上,\f我一到庭院里,\f就看到了它可爱的双眼,\f{STRVAR 0,0}也看着我……\r
+管家『您在说什么！\n那种精灵……\f院子里没有啊……\r
+浦山『说……\r说……\r说什么呢！\n我没撒谎！\r不信我……哼,哼……\n呜,呜……\r
+管家『呃……\n好的,我知道了！\r
+浦山『……真的,\n这是令我骄傲的漂亮的庭院,\f真的有{STRVAR 0,0}！\f真的！
+管家『他是个\n追求完美的人！\r无论如何\n也要向大家开放\f令他骄傲的漂亮的庭院！
+管家『他很喜欢\n让强大的训练师\f到这里参观他的庭院
+管家『今天\n大家可以在院子里闲逛下
+管家『怎么样？\n见到{STRVAR 0,0}吗？\r当然了！因为这是\n令他骄傲的漂亮的庭院！
+管家『怎么样？\n越来越完美的庭院！\r有很多珍贵的精灵吧？\r当然了！因为这是\n令他骄傲的漂亮的庭院！
+请在远处观看\n这个精灵的铜像
+不好意思,\n请不要碰这个铜像\r
+竖立着一个\n非常高的精灵铜像\r……！\n好脏……
+竖立着一个\n非常高的精灵铜像

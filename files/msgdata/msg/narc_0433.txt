@@ -1,8 +1,8 @@
-Howdy, traveler!\rSome of our customers are rowdy\ntypes that want to battle.\rBut pay it no mind and stay a while.
-How are ya doing?\nWhatcha having?\r’Course, all we ever have is\nMoomoo Milk.\rMoomoo Milk, $500.\nWant a bottle?
-Here’s your Moomoo Milk.\nEnjoy.\r
-Oh!\nYour Bag’s full, sweetie.
-Oh!\nYou don’t have the money, sweetie.
-All right, then.\rI should tell you, it’s not that we\ncan only get Moomoo Milk. No.\rWe choose to serve only Moomoo Milk.\nWe’re very particular about it.
-Youngster, you’ve seen the\nPSYDUCK huddled outside?\rPSYDUCK are Pokémon that suffer from\nchronic headaches...\rI’m afraid we’ll have to wait for them\nto get better.
-Well, well! So I hear you’ve relieved\nthe PSYDUCK of their headaches.\rThe person who gave you the\nSecretPotion must be quite the Trainer!
+欢迎光临,\n来这里进行对战的训练师先生,\f请尽情享受
+欢迎光临！\n需要点什么？\f不过这里只有哞哞牛奶,\r售价５００元一瓶,\n需要吗？
+哞哞牛奶,请！\r
+哞！\n装不下了哦！
+哞！\n钱不够了哦！
+这样啊！顺便说一下,\n这里不是只有哞哞牛奶,\f而是只卖哞哞牛奶,\f不要搞错了！
+你看到外面的可达鸭们了吗？\n可达鸭们是很容易头痛的精灵……\r不知道有什么\n可以治好它们的药吗？
+呵呵！\n把可达鸭们的头痛治好了吗,\f那个给你药的训练师\f真是个了不起的人物啊！

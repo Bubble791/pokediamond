@@ -1,5 +1,5 @@
-{STRVAR 3, 0} examined the ancient\ncave painting.\rMysterious designs cover a whole\nsection of the wall.\rThere are three strange things\nforming a triangle.\rIn the middle of them, a shining\nsphere?\rWhat is this all about?\r
-The cave painting’s meaning seems\nto be this...\rThere existed a being...\rA being so powerful, it was\nconsidered a deity at the time.\rOpposing this powerful being\nwere three Pokémon.\rThe three kept balance with the\nbeing, as if they formed a triangle.\rIt’s an ancient legend of Sinnoh\nthat is still told in Celestic Town.\r
-Oh, yes. I found something useful.\nYou should take this.\rIt belonged to my granddaughter,\nbut she doesn’t use it anymore.\r
-If a Pokémon learns Surf, it can\ncarry you across water and the sea.\rBut my granddaughter said something\nabout this hidden move...\rOh, yes! To use Surf outside of\nbattle, the Hearthome Gym Badge\fmust first be obtained.\rOn that matter, you will have to\nhandle it yourself, I’m afraid.\r
-{STRVAR 3, 0} examined the ancient\ncave painting.\rMysterious designs cover a whole\nsection of the wall.\rThere are three strange things\nforming a triangle.\rIn the middle of them, a shining\nsphere?\rWhat is this all about?
+{STRVAR 3,0}\n看到一幅很古老的壁画,\r在墙上刻画着\n看不太懂的图案,\f呈三角形状,\f那３个是什么……\r还有中央发亮的东西,\n到底是什么呢……？\r
+这面墙壁……\r……上面的神灵\n有着强大的力量,\f为了维持这力量,\f有３只精灵成鼎足之势\f维持着平衡……\r这是流传在冠凤镇的\n神奥地区的古老传说。\r
+刚才想起了一样好东西,\n把这个拿去！\f以前是我孙女的东西,\f不使用的话就浪费了！\r
+带上习得冲浪技能的精灵,\n去海上河上试试看吧！\f但是我记得孙女好像\f说过什么……\r对了,对了！\n想要在战斗之外使用的话,\f必须要取得绿缘市的徽章！\r要是想用的话\n就自己去试试吧！\r
+{STRVAR 3,0}\n看到一幅很古老的壁画,\r看不太懂的图案,\n刻在一面墙上\f成三角形状\f那３个是什么……\r而且中央发亮的东西\n到底是什么呢……？

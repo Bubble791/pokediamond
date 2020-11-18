@@ -1,3 +1,3 @@
-Do you make your Pokémon hold items?\rIf you’d like, let one hold this\n{STRVAR 8, 0}.\r
-That {STRVAR 8, 0} intensifies the\npower of Rock-type moves.\rUnfortunately, none of my Pokémon\ncan use Rock-type moves, so...
-PSYDUCK: Duuuck?
+你给精灵带上道具了？\n可以的话,\f请收下这个{STRVAR 8,0}\r
+{STRVAR 8,0}可以增强\n岩石系的技能,\r但我的精灵\n使不了岩石系的技能……
+可达鸭『咕呱？？

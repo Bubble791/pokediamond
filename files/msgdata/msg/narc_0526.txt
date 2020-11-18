@@ -1,8 +1,8 @@
-I’m using Seals to learn the\nalphabet!
-Oh, that {STRVAR 0, 0} looks just like\nmy Seals!\rI’ll give you a bunch of Seals that\nlook like it.\r
-I wonder which came first, that\nPokémon or the alphabet?\fI think it’s kind of neat.
-I wanted to give you some Seals,\nbut you don’t have a Seal Case!\fYou should talk to my mom!
-The {STRVAR 10, 0} were\nput away in the Seal Case.
-You can customize Poké Balls by\naffixing Seals on them.\rOh, you don’t have a Seal Case?\nWell, here you go!\r
-First, check the heading “Ball\nCapsules” in your PC menu.\rNext, choose a Capsule and apply\nSeals to it as you wish.\rWhen you’re done, put the Capsule\non a Poké Ball.
-My son goes out to the ruins\nwhenever he gets the chance.\rHe says that it’s good for making\nSeals for his Ball Capsules.\rIf you don’t mind, can you show him\nthe Pokémon you catch in the ruins?
+我用贴纸\n学习英语！
+啊！那个{STRVAR 0,0}\n和我带着的贴纸很像啊！\f好,就多给你点\f这种贴纸吧！\r
+精灵放在首位\n还是学习放在首位,\f总觉得很有意思啊！
+哦哟！想给你贴纸,\n但是你没有带贴纸盒！\f去和我妈妈说说看！
+把{STRVAR 10,0}\n放进了贴纸盒！
+贴上各种贴纸\n装饰精灵球！\r哎呀,你没有贴纸盒啊？\n那么请收下吧！\r
+首先啊,请打开\n电脑的精灵胶囊菜单！\r然后在喜欢的胶囊上\n贴上贴纸,\f装饰在喜欢的球上就好了！
+我家的小孩\n没事就去遗迹,\f不管说什么都要\f做精灵胶囊的贴纸……\r你要是方便的话\n就把从遗迹抓到的精灵\f给我家孩子看看吧！

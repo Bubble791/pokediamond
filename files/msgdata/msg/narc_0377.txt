@@ -1,14 +1,14 @@
-You haven’t caught all your\nPokémon yet, but...\rWould you like to retire from your\nCatching Show?
-I see...\rI’m disappointed that you dropped\nout. Make up for it next time!\r
-That’s the spirit, {STRVAR 3, 0}!\nI like how you don’t give up!
-That’s the spirit, {STRVAR 3, 0}!\nI like how you don’t give up!
-                                    
-Ding-dong!\nCongratulations!\r{STRVAR 3, 0} has successfully\ncaught the stocked Pokémon!\r
-                                    
-                                      
-Would you like to retire?
-Let the countdown begin!
-Three...
-Two...
-One...
-Start!
+还没有抓到全部的精灵……\n中止捕获吗？
+是吗……\r这次非常遗憾……\n期待下一次的成功！\r
+不愧是{STRVAR 3,0}！\n非常努力呢！
+不愧是{STRVAR 3,0}！\n非常努力呢！
+叮咚！精灵球用完了,\n捕获结束！
+叮咚！\n恭喜！\r{STRVAR 3,0}\n成功捕获了全部精灵！\r
+这是……超出色的时间呢！\n{STRVAR 3,0}太了不起了！\r
+这是……还算说得过去的时间呢。\n{STRVAR 3,0}辛苦了！\r
+放弃吗？
+那么,准备开始！
+３
+２
+１
+开始！

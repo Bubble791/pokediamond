@@ -1,5 +1,5 @@
-We’re here to make sure Snowpoint’s\nGym Leader doesn’t disturb us!
-You’re here to see the lake Pokémon,\ntoo?\rYou must be bored to fight your\nway through the snow to get here...
-Standing guard is a very important\nassignment!\rI’ll make this a success and earn\nmyself a CLEFAIRY!
-The Pokémon of the three lakes\nappear to be connected somehow.\rWhen they blew up Lake Valor,\na cavern appeared in the middle of\fthis lake!
-Lake Acuity ahead
+不想被金岬市馆主找麻烦的话\n还是待在这里吧！
+你难道也看到了湖里的精灵？\n在雪里悠然自得的家伙……
+看守也是份了不起的任务！\n要是任务顺利的话\f就能弄到皮皮了！
+３个湖里的精灵之间\n似乎有着什么联系,\f律诗湖发生爆破的时候\f里面的洞窟就暴露了出来！
+前面就是英知湖

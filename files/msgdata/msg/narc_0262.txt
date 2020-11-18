@@ -1,13 +1,13 @@
-Welcome.\nThis is Team Galactic Headqu...\rI’m sorry, this is the Galactic\nVeilstone Building.\rCosmic energy for the win!\rWouldn’t it be wonderful if we\ncould harness that boundless energy?
-Welcome.\nThis is Team Galactic Headqu...\rI’m sorry, this is the Galactic\nVeilstone Building.\rWe have no public events planned\nat this time.
-Team Galactic conducts R&D around\nthe clock here.\rWe focus on the development of new\nenergy resources.
-This is where we, Team Galactic, work.\nWhat are we supposed to do?\rI’m not sure how, but we’re supposed\nto chase our dream.\rOur dream of making a wonderful\nnew world!
-We, Team Galactic, will take everything\nthat can be taken!\rWe will eliminate everything that is\nnot needed!\rThat is Team Galactic’s policy!
-We, Team Galactic, will take everything\nthat can be taken!\rWe will eliminate everything that is\nnot needed!\rThat is Team Galactic’s policy!\rAt least it used to be.\nThere’s nothing left now...
-You’re too young for us...\nYou can join us when you’re older.
-I wonder where our boss went...
-Saturn: So, it’s you...\rI’ve heard about you and what took\nplace at the Spear Pillar.\rWhat our boss really wanted...\nEven I don’t know that.\rHis confident manner of speaking...\nHis logical words...\rI think people just became so\nenthralled by him.\rI allowed myself to believe his words\nbecause I wanted to see the world\fhe intended to make.\rI’ve been left in charge of this\nHQ building and the remnants of\fthe membership...\rThe decision on what Team Galactic\nshould do rests with me...\rBut I’ve learned that extremism\nis never the solution...
-The door is locked.\nA special key is needed.
-The door is locked.\nA special key is needed.\rUse the Galactic Key?
-The door opened.
-The Team Galactic credo!\nEverything belongs to Team Galactic!\rLook beyond the world--space will\nbecome Team Galactic’s!
+欢迎光临\n这里是银河团总部……\r不对不对,\n是银河户张大厦服务处,\r宇宙能量！\r能自由的使用的话\n不觉得很棒吗？
+欢迎光临\n这里是银河团总部……\r不对不对,\n是银河户张大厦服务处\r总之,\n现在没有任何预定
+银河团在这里\n为了孕育新的能量\f日夜研究着
+银河团在这里……\n该做些什么好呢,\r为了最初的理想\n实现完美的世界\f还在继续努力着呢
+我们银河团要把\n能抢的东西全部抢走！\f不需要的东西全部扔掉！\r这就是银河团的政策！
+我们银河团要把\n能抢的东西全部抢走！\f不需要的东西全部扔掉！\r这就是银河团的政策！\r已经是过去式了,什么都没做成\n什么都没了
+小孩,喂……\n长大的话让你做我的同伴
+话说回来,老大他\n跑到哪去了？
+撒旦『是你啊……\n我听说了,\f老大使用了强大的力量,\r但是我也不知道\n老大真正追求的到底是什么。\r……那个人充满自信的\n合乎逻辑的种种,\f溶解了人的心灵,\r所以我想要看看,\n那个人能创造出什么样的世界,\f虽然从来没说出口过……\r也不知道银河团会怎么处理\n这残留下来的总部大厦,\f看来什么都是做过火就不好了……\r这还是你曾经告诉我的吧。
+这个门如果不使用\n特定的钥匙就无法打开……
+这个门如果不使用\n特定的钥匙就无法打开……\r要使用银河团的钥匙吗？
+门开了！
+银河团规章制度！\n一切都是银河团的东西！\r世界是愚蠢的,\n将银河变为银河团的所有物！

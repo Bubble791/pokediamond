@@ -1,40 +1,40 @@
-SINGLE BATTLES
-DOUBLE BATTLES
-MULTI BATTLES
-LINK MULTI BATTLES
-WI-FI BATTLES
-AVG WIN STREAK
-POKéMON DEFEATED
-POKéMON CAUGHT
-POKéMON EGGS
-ENCOUNTERED WHILE FISHING
-CONTEST WINS
-CONTEST WIN %
-RIBBONS
-EXIT
-{STRVAR 50, 0}. {STRVAR 3, 1}
-{STRVAR 53, 0} wins
-{STRVAR 50, 0} wins
-{STRVAR 54, 0}
-{STRVAR 55, 0}
-{STRVAR 55, 0}
-{STRVAR 52, 0}%
-{STRVAR 53, 0}
-Which record would you like to see?
-The Battle Tower’s win-streak record\nin Single Battles.
-The Battle Tower’s win-streak record\nin Double Battles.
-The Battle Tower’s win-streak record\nin Multi Battles.
-The Battle Tower’s win-streak record\nin Link Multi Battles.
-The Battle Tower’s win-streak record\nin Wi-Fi Battles.
-The average win-streak record\nat the Battle Tower.
-The number of Pokémon defeated.
-The number of Pokémon caught using\nPoké Balls.
-The number of Pokémon that were\nhatched from Eggs.
-The number of Pokémon that were\ncaught fishing.
-The number of Contest wins.
-The winning percentage of Contests.
-The number of Ribbons won in\nContests.
-DEL RECORD
-Select the record you want to\ndelete, then press the A Button.
-Delete this record?
-Your own record can’t be deleted.
+单人对战
+双人对战
+配合对战
+通信配合对战
+ＷｉＦｉ对战
+平均胜利数
+击倒精灵
+捕获精灵
+精灵的蛋
+钓上精灵
+华丽大赛优胜回数
+华丽大赛胜率
+缎带获得数
+结束
+{STRVAR 50,0}．{STRVAR 3,1}
+{STRVAR 53,0}胜
+{STRVAR 50,0}人
+{STRVAR 54,0}个
+{STRVAR 55,0}只
+{STRVAR 55,0}只
+{STRVAR 52,0}%
+{STRVAR 53,0}次
+查看哪个记录？
+战斗塔记录\n单人对战连胜数
+战斗塔记录\n双人对战连胜数
+战斗塔记录\n配合对战连胜数
+战斗塔记录\n通信配合对战连胜数
+战斗塔记录\nＷｉＦｉ对战连胜数
+战斗塔记录\n平均胜利数
+击倒精灵数量
+用精灵球捕获的\n精灵数量
+从蛋里孵化的\n精灵数量
+钓上来的精灵数量
+华丽大赛\n优胜的次数
+华丽大赛的胜率
+华丽大赛中获得的\n缎带数量
+消除记录
+选择要消除的记录\n请按Ａ键
+确定要消除吗？
+你的记录无法消除！

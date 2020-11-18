@@ -1,12 +1,12 @@
-POKéDEX
-POKéMON
-BAG
-{STRVAR 3, 0}
-SAVE
-OPTIONS
-EXIT
-CHAT
-RETIRE
-SAFARI BALLS
-PARK BALLS
-Stock: {STRVAR 51, 0}
+图鉴
+精灵
+背包
+{STRVAR 3,0}
+记录
+设定
+结束
+聊天
+放弃
+狩猎球
+公园球
+剩余 {STRVAR 51,0}个

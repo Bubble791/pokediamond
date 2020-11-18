@@ -1,23 +1,23 @@
-Hi!\nHow’s it going?\rYou’re in the {STRVAR 61, 1} group with\n{STRVAR 3, 0} as leader, right?\rWould you like to leave that group\nand join another one?
-Hi!\nHow’s it going?\rYou’re in the {STRVAR 61, 1} group with\n{STRVAR 3, 0} as leader, right?\rWould you like to leave that group\nand make a new one?
-Hi, I know it’s a little sudden, but\nwould you like to join a group?\rIf you join a group, you can compete\nor cooperate with fellow members.\rIt’s a lot of fun.\nWant to join?\r
-Which group would you like to join?
-Oh.\nThat’s too bad.
-Oh, you want to make a new group?\nSure thing!\rThe group you made before will be\ndisbanded, though. Is that OK?
-Yay, cool! What do you want to name\nyour group?
-The {STRVAR 61, 0} group, huh?\nThat’s a great name!\rThe leader is {STRVAR 3, 1}.\nI hope the group gets more members.
-The {STRVAR 61, 0} group?\n{STRVAR 3, 1} is the leader.\fWould you like to join this group?
-OK! {STRVAR 3, 0} is now a member\nof the {STRVAR 61, 1} group.
-When you form or join a new group,\nbe sure to visit any Union Room.\rMix your records with group members,\nand you’ll become integrated.\rWhen you’re in the same group,\nevents can happen simultaneously.\rIt makes things a lot more fun\nplaying in a group!\rAnyone can make a group, and anyone\ncan join.\rI hope you recruit lots of friends\nso everyone can have fun!
-MAKE GROUP
-JOIN GROUP
-INFO
-EXIT
-{STRVAR 61, 0} Group
-{STRVAR 61, 1} Group
-{STRVAR 61, 2} Group
-{STRVAR 61, 3} Group
-{STRVAR 61, 4} Group
-EXIT
-That group?\nDidn’t {STRVAR 3, 0} make it already?
-Isn’t there already another group\nwith that name?
+呀！怎么了？\r你所在的组群\n{STRVAR 1,1}的组长是\f{STRVAR 3,0}吗？\r要退出现在的组群,\n换个组群吗？
+呀！怎么了？\r你所在的组群\n{STRVAR 1,1}的组长是\f{STRVAR 3,0}吗？\r要退出现在的组群,\n换个组群吗？
+喂,虽然很突然,\n你想加入组群吗？\r加入组群,\n和通信的朋友一起比赛,\f一起比试是很快乐的哟！\r
+想加入哪个组群？
+原来是这样,很遗憾……
+创建一个组群！\r此前创建的组群会消失,\n这样可以吗？
+哇哦！\n那么请决定组群的名字吧！
+{STRVAR 1,0}组啊！\n不错的名字呢！\r组长是{STRVAR 3,1}呢！\n还要更多朋友加入才好！
+{STRVAR 1,0}组啊！\n组长是{STRVAR 3,1}！\f加入这个组群？
+那么,从现在开始,\n{STRVAR 3,0}就成为\f{STRVAR 1,1}组的成员！
+在联机房间中建立队伍并记录,\n可以和朋友一起加入或退出组群！\r加入同一个组群,\n或者一起退出同一个组群,\f是非常快乐的事情呢！\r不论是谁都可以建立组群,\n当然也可以加入哟！\r让更多的朋友加入进来,\n大家一起享受快乐吧！
+建立组群
+加入组群
+查看说明
+取消
+{STRVAR 1,0}组
+{STRVAR 1,1}组
+{STRVAR 1,2}组
+{STRVAR 1,3}组
+{STRVAR 1,4}组
+取消
+要建立\n{STRVAR 3,0}组吗？
+这个名字的组群\n好像已经有了？

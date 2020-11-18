@@ -1,2 +1,2 @@
-The data could not be read.\n\nPlease turn off the power, then\nremove and reinsert the DS Game\nCard.
+无法读取记录,\n请关闭电源,\n重新插入卡带
 Error reading data.\n\nThe GBA Game Pak was removed.\nPlease turn off the power and retry.

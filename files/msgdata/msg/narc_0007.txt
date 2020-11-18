@@ -1,112 +1,112 @@
-USE
-TOSS
-REGISTER
-GIVE
-CHECK TAG
-CONFIRM
-WALK
-   
-CANCEL
-   
-   
-     
-    
-   
-    
-    
-CHECK
-  
-DESELECT
-   
-     
- 
- 
-  
----
- 
- 
-  
-  
- 
- 
-    
+使用
+丢弃
+登录
+携带
+查看详细
+决定
+下降
+返回
+取消
+查看
 
-    
-          
-         
-   
-{STRVAR 52, 0}
-x
-  
-      
-CLOSE BAG
-{STRVAR 8, 0} is\nselected.
-                     
-            
-Move the {STRVAR 8, 0} where?
-The {STRVAR 8, 0} can’t be held.
-                         
-                 
-                  
-                
-                             
-Toss out how many\n{STRVAR 8, 0}(s)?
-Threw away {STRVAR 51, 1} {STRVAR 8, 0}.
-Is it OK to throw away\n{STRVAR 52, 1} {STRVAR 8, 0}?
-                                        
-You can’t dismount your Bike here.
-Your Coins: {STRVAR 54, 0}
-Booted up a TM.{WAIT 3}{WAIT 4}\n
-Booted up an HM.{WAIT 3}{WAIT 4}\n
-It contained\n{STRVAR 6, 0}.\rTeach {STRVAR 6, 0}\nto a Pokémon?
-{STRVAR 3, 0} used the\n{STRVAR 8, 1}.
-Since a Repel’s effects still linger,\nyou can’t use this now.
-{STRVAR 3, 0} used the\n{STRVAR 8, 1}.\rWild Pokémon will be lured.
-{STRVAR 3, 0} used the\n{STRVAR 8, 1}.\rWild Pokémon will be repelled.
-The Box is full.
-            
-No.{STRVAR 51, 0}{STRVAR 6, 1}
-No.{STRVAR 51, 0}{STRVAR 6, 1}
-{STRVAR 51, 0}{STRVAR 6, 1}
-      
-                              
-             
-                       
-{STRVAR 8, 0}? Oh, no.\nI can’t buy that.
-{STRVAR 8, 0}?\nHow many would you like to sell?
-I can pay ${STRVAR 55, 0}.\nWould that be OK?
-Turned over the {STRVAR 8, 0}\nand received ${STRVAR 55, 1}.
-MONEY
-${STRVAR 55, 0}
-x{STRVAR 51, 0}
-${STRVAR 55, 0}
-Yes
+取消
+携带物品
+信件
+保管
+存放
+查看
+无
+解除
+???
+?????
+/
+-
+--
+---
+♂
+♀
+Lv
 No
-x{STRVAR 52, 0}
-    
++
+→
+IDNo
+
+光标
+返回之前处
+请选择
+存放
+{STRVAR 52,0}
+x
+果实
+{STRVAR 53,0}枚
+关闭
+要对{STRVAR 8,0}做什么？
+在这里不能写信！
+没有精灵了！
+要把{STRVAR 8,0}\n放在哪里？
+{STRVAR 8,0}\n无法携带！
+在这里{STRVAR 8,0}\n无法携带！
+要存放多少个\n{STRVAR 8,0}？
+存放了{STRVAR 51,1}个\n{STRVAR 8,0}
+已经存满,无法再存！
+这个是重要物品,\n无法丢弃！
+要扔掉多少个\n{STRVAR 8,0}？
+扔掉{STRVAR 51,1}个\n{STRVAR 8,0}
+扔掉{STRVAR 52,1}个\n{STRVAR 8,0},可以吗？
+爸爸说过……\n{STRVAR 3,0}！\f这个东西不能在这里使用！
+这里无法下来！
+总共拥有代币{STRVAR 54,0}枚
+使用技能训练机器！{WAIT 3}{WAIT 4}\n
+使用秘传训练机器！{WAIT 3}{WAIT 4}\n
+训练内容是\n{STRVAR 6,0}！\r要让精灵学会\n{STRVAR 6,0}吗？
+{STRVAR 3,0}使用了\n{STRVAR 8,1}！
+之前使用的喷雾剂\n还有效果！
+{STRVAR 3,0}使用了\n{STRVAR 8,1}！\f现在容易遇到精灵！
+{STRVAR 3,0}使用了\n{STRVAR 8,1}！\f现在不容易遇到精灵！
+箱子满了！
+粉的数量:{STRVAR 53,0}
+No{STRVAR 51,0}{STRVAR 6,1}
+No{STRVAR 51,0}{STRVAR 6,1}
+{STRVAR 51,0}{STRVAR 6,1}
+树果的粉末
+吹响了口袋妖怪之笛！\n美妙的笛声在空中飞扬！
+吹响了口袋妖怪之笛！
+笛声把精灵叫醒了
+无法购买\n{STRVAR 8,0}！
+要卖掉多少{STRVAR 8,0}？
+总共是\n{STRVAR 55,0}元
+从{STRVAR 8,0}处获得\n{STRVAR 55,1}元
+零用钱
+{STRVAR 55,0}元
+x{STRVAR 51,0}
+{STRVAR 55,0}元
+可以
+不可以
+x{STRVAR 52,0}
+取出
 PP
-POWER
-ACCURACY
-CATEGORY
-{STRVAR 51, 0}
-{STRVAR 52, 0}
-Seals: {STRVAR 53, 0}
-Accessories: {STRVAR 52, 0}\nBackdrops: {STRVAR 51, 1}
-Close Bag
-PLANT
-OPEN
-Saved Battle Points\n{STRVAR 53, 0}BP
-TYPE
-A Key Item in the Bag can be assigned\nto this button for instant use.
-                  
-             
-                  
-          
-               
-                            
-The battery has run dry!\nFor it to recharge, you need to walk\fanother {STRVAR 51, 0} steps.
-The grassy patch remained quiet...
-No. of Poffins:
-{STRVAR 52, 0}/100
-Please choose the Berry you want to\ncook from your Bag.
-It can’t be used when you have\nsomeone with you.
+威力
+命中
+分类
+{STRVAR 51,0}
+{STRVAR 52,0}
+贴纸:{STRVAR 53,0}枚
+饰品:{STRVAR 52,0}个\n壁纸:{STRVAR 51,1}张
+关闭背包
+埋入
+打开
+战斗点数共计\n{STRVAR 53,0}ＢＰ\n
+种类
+可以对放入背包的道具\n设定快捷键进行使用
+从宝物袋子中扔掉了！
+取出了\n{STRVAR 8,0}！
+{STRVAR 8,0}存入了\n{STRVAR 27,0}
+全部取出了！
+里面什么都没有……
+但是{STRVAR 27,0}满了,\n无法取出……
+电力不足！\n离充电完毕还需\f{STRVAR 51,0}步
+草丛里什么都没出现……
+松饼数量
+{STRVAR 52,0}/100
+请从背包选择\n制作松饼要使用的树果！
+在有同伴的时候不能使用！

@@ -1,17 +1,17 @@
-Hi, hi!\rI’m the president of the Pokétch\nCompany!\r
-I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get a Gym Badge.
-Hi, hi!\nYour patience is rewarded!\rI’ve developed a new Pokétch app!\r
-That’s the Memo Pad!\nIt’s... Well, it is what it is!
-I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get three Gym Badges.
-Hi, hi!\nYour patience is rewarded!\rI’ve developed another new Pokétch\napp!\r
-Having a map constantly displayed\nis convenient, no?\rYou can also mark things, so it’s\nthat much more useful.
-I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get five Gym Badges.
-Hi, hi!\nYour patience is rewarded!\rI’ve developed yet another new\nPokétch app!\r
-I think it will be useful to know how\nmany people are communicating, like\fin the Union Room.
-I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get seven Gym Badges.
-Hi, hi!\nYour patience is rewarded!\rI’ve developed still yet another new\nPokétch app!\r
-Check type matchups so you can make\nall your attacks super effective!\rYou’ll become stronger than ever!
-Yup, all sorts of people will give\nyou Pokétch apps.\rEveryone gets super happy that way!
-So, yup, what to do?\rDo you think I should solicit new\nPokétch ideas?
-Oh, you can be sure I will keep\ndeveloping Pokétch apps.\rJust like Pokémon, my Pokétch is\nsomething that evolves!
-Welcome to the Pokétch Company.\rWe’re actually a family-run business,\nso we’re not very impressive.
+哈哈！\r我就是口袋手表公司的社长！\r
+对了,\n等你拿到道馆徽章的时候\f就可以用新的口袋手表插件了,\r就是这种感觉！
+呀~久等了~！\n新的插件已经开发出来了哟！\r
+那是涂鸦板哦~！\n不过上面还什么都没有呢~
+对了,\n等你拿到３个道馆徽章的时候\f就可以用新的口袋手表插件了,\r就是这种感觉！
+呀~久等了~！\n新的插件已经开发出来了哟！\r
+随时可以查看地图\n这么方便很了不起吧~\r还可以在上面做标记,\n都是很实用的功能呢
+对了,\n等你拿到５个道馆徽章的时候\f就可以用新的口袋手表插件了,\r就是这种感觉！
+呀~久等了~！\n新的插件已经开发出来了哟！\r
+能知道在联机大厅等处\n正在进行无线通信的人数\f真是非常方便啊
+对了,\n等你拿到７个道馆徽章的时候\f就可以用新的口袋手表插件了,\r就是这种感觉！
+呀~久等了~！\n新的插件已经开发出来了哟！\r
+使用这个可以查看属性克制效果！\n这样一来对战就方便很多了！
+是啊！可以从很多人那里\n获得很多的手表功能,\f一定感觉很幸福吧！
+是啊！以后征集一下\n~~想要这样的口袋手表！\f之类的建议吧！
+口袋手表的插件还会有更多哦！\n没错,口袋手表和精灵一样,\f是会进化的道具！
+欢迎来到口袋手表公司！\n其实也只是普通公司,\r没有什么特别的

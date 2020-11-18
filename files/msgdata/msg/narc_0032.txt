@@ -1,6 +1,6 @@
-Hello, thank you for taking the time\nout of your busy day to visit us.\rTo which floor may I take you?
-I look forward to serving you again.
-Certainly.\nElevator going up.\r
-Certainly.\nElevator going down.\r
-Sorry, we are already on that floor.
-Here we are!
+欢迎光临,\r感谢您今天的使用。\r请问您要前往哪层？
+期待您再次使用
+好的,\n电梯下行\r
+好的,\n电梯上行\r
+已经到达
+到达您前往的楼层,\n感谢您的使用！

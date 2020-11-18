@@ -1,14 +1,14 @@
-POKéMON
-POKéMON 2
-MOVE
-MOVE 2
-STATUS
-TRAINER
-PEOPLE
-GREETINGS
-LIFESTYLE
-FEELINGS
-TOUGH WORDS
-UNION
-???
-CANCEL
+口袋妖怪
+口袋妖怪２
+技能
+技能２
+特性
+训练师
+人员
+语气
+生活
+心情
+流行语
+联机
+？？？
+返回

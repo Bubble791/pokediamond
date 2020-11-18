@@ -1,11 +1,11 @@
-                                              
-When a Pokémon faints, it just means\nit doesn’t have the power to battle.\rBut it can still use hidden moves\noutside of battle!
-Team Galactic took my Pokémon away.\nThey took other people’s, too.\rSomething should be done, but Team\nGalactic creeps everyone out...\rWhat are they doing to my Pokémon?
-I got my Pokémon back!\rI’m so happy, I feel like riding my Bike\ndown Cycling Road together with it!
-BUNEARY: Bunbun!
-Hi, you cute little Trainer!\nWhat kinds of Pokémon are with you?\rThis Pokétch app will show how\nclose your Pokémon feel to you.\r
-If you spend enough time with them,\nall Pokémon will open up to you.
-Hi, you cute little Trainer!\nWhat kinds of Pokémon are with you?\rOh, your {STRVAR 0, 0}...\r
-It seems to like you.\nIt must be happy being with you.
-It’s becoming comfortable around\nyou, I think.
-Hmm...\nIt needs to get used to you more.
+看来要想变强的话\n不好好培养各种精灵\f是不行的啊！
+即使精灵已经处于\n无法战斗的状态,\f仍然可以在地图上使用秘传训练技能！
+最近被银河团\n抢走精灵的人很多啊！\r不管谁去调查,\n银河团真得很可怕……\f我的精灵……
+我的精灵回来了！\n我太高兴了,\f想和它一起骑车去单车道玩！
+卷耳兔『咪咪！！
+优秀的训练师\n都带着什么样的精灵呢？\r这个口袋手表功能\n可以显示你和你的精灵\f之间的亲密度！\r
+不论什么精灵\n和你在一起呆久了\f也会与你心灵相通的哦！
+优秀的训练师\n都带着什么样的精灵呢？\r啊,你的{STRVAR 0,0}……\r
+和你很亲近呢！\n在一起的话很幸福吧！
+有点亲昵呢！\n有这种感觉！
+嗯……\n还差一点的感觉。

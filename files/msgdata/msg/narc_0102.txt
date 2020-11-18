@@ -1,3 +1,3 @@
-Question: 3 times 13 is?\nAnswer: ←39 ↑93 →33
-Correct!\nCongratulations!
-Please answer the quiz!
+问题「３×１３=？\n答案「←３９ ↑９３ →３３
+答对了！\n恭喜恭喜！
+请看问题！

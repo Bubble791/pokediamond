@@ -1,29 +1,29 @@
-Spicy Poffin
-Spicy-Dry Poffin
-Spicy-Sweet Poffin
-Spicy-Bitter Poffin
-Spicy-Sour Poffin
-Dry-Spicy Poffin
-Dry Poffin
-Dry-Sweet Poffin
-Dry-Bitter Poffin
-Dry-Sour Poffin
-Sweet-Spicy Poffin
-Sweet-Dry Poffin
-Sweet Poffin
-Sweet-Bitter Poffin
-Sweet-Sour Poffin
-Bitter-Spicy Poffin
-Bitter-Dry Poffin
-Bitter-Sweet Poffin
-Bitter Poffin
-Bitter-Sour Poffin
-Sour-Spicy Poffin
-Sour-Dry Poffin
-Sour-Sweet Poffin
-Sour-Bitter Poffin
-Sour Poffin
-Rich Poffin
-Overripe Poffin
-Foul Poffin
-Mild Poffin
+辣味松饼
+辣涩松饼
+辣甜松饼
+辣苦松饼
+辣酸松饼
+涩辣松饼
+涩味松饼
+涩甜松饼
+涩苦松饼
+涩酸松饼
+甜辣松饼
+甜涩松饼
+甜味松饼
+甜苦松饼
+甜酸松饼
+苦辣松饼
+苦涩松饼
+苦甜松饼
+苦味松饼
+苦酸松饼
+酸辣松饼
+酸涩松饼
+酸甜松饼
+酸苦松饼
+酸味松饼
+味浓松饼
+油腻松饼
+难吃松饼
+圆润松饼

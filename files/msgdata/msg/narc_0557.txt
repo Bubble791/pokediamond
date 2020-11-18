@@ -1,14 +1,14 @@
 IDNo.
-NAME
-MONEY
-POKéDEX
-SCORE
-TIME
-ADVENTURE STARTED
-HALL OF FAME DEBUT
-TIMES LINKED
-LINK BATTLES
-LINK TRADES
+名字
+金钱
+口袋图鉴
+ＳＣＯＲＥ
+游戏时间
+冒险开始时刻
+第一次通关
+通信次数
+通信对战
+通信交换
 :
 --
 --:--

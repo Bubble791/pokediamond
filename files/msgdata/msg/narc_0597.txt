@@ -1,14 +1,14 @@
-None
-Alberta
-British Columbia
-Manitoba
-New Brunswick
-Newfoundland and Labrador
-Northwest Territories
-Nova Scotia
-Nunavut
-Ontario
-Prince Edward Island
-Quebec
-Saskatchewan
-Yukon Territory
+无
+亚伯
+不列颠哥伦比亚省
+曼尼托巴
+新不伦瑞克
+纽芬兰和拉布拉多
+西北地区
+新斯科舍
+努纳武特
+安大略
+爱德华王子岛
+魁北克
+萨斯喀彻温省
+育空地区

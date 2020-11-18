@@ -1,18 +1,18 @@
-You’re holding a Flag!\nYou can’t deal with this now!\rOr, would you like to throw away\nthe Flag you’re holding?
-                               
-Discarded the Flag.
-                 
-                 
-Something is buried in front of you.\nBut you’re holding a Flag!
-You don’t have the time to stop\nand chat!
-The obtained Flag was registered\non the PC!
-You’ve obtained the Flag\nfrom {STRVAR 1, 0}’s Base!
-You already have a Flag!
-{STRVAR 1, 0} took away your Flag!
-{STRVAR 1, 0} took back the Flag!
-Took a Flag from {STRVAR 1, 0}!
-Took back the Flag!
-...\rOne Flag has been registered,\nso your Flag became a Bronze Flag!\rYou may now display up to a dozen\ndecoration goods.\rYou may also put away one Big\nBoulder.
-...\rThree Flags have been registered,\nso your Flag became a Silver Flag!\rYou may now display up to 15\ndecoration goods.\rYou may also put away five Big\nBoulders.
-...\rTen Flags have been registered,\nso your Flag became a Gold Flag!\rYou may now put away ten Big\nBoulders.\rYou may now also use the Radar from\nyour PC.
-...\rFifty Flags have been registered,\nso your Flag became a Platinum Flag!\rYou may now put away any number\nof Big Boulders.
+带着旗子\n无法到那里去！\r要把旗子扔掉吗？
+地下点数减少{STRVAR 51,6}点\n可以吗？
+扔掉了旗子
+地下点数\n减少{STRVAR 51,6}！
+地下点数\n获得{STRVAR 51,6}！
+前面好像埋着什么东西\n带着旗子什么都干不了！
+现在没有\n说话的时间！
+获得的旗子\n登录到电脑里了！
+{STRVAR 1,0}基地的旗子\n入手了！
+已经带着旗子了！
+旗子被{STRVAR 1,0}\n夺去了！
+旗子被{STRVAR 1,0}\n取回了！
+从{STRVAR 1,0}那里\n夺得了旗子！
+被夺走的旗子取回来了！
+……\r登录１个旗子\n旗子变成了青铜旗帜！\r可以放置\n１２个物品了！\r可以处理\n１个大型岩石！
+……\r登录３个旗子\n旗子变成了白银旗帜！\r可以放置\n１５个物品了！\r可以处理\n５个大型岩石！
+……\r登录１０个旗子\n旗子变成了黄金旗帜！\r可以处理\n１０个大型岩石！\r可以从电脑里\n使用雷达了！
+……\r登录５０个旗子\n旗子变成了白金旗帜！\r可以处理\n全部的大型岩石！

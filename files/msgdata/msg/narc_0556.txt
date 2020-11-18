@@ -1,130 +1,130 @@
-Fly to where?
-GUIDE MAP
-A small path through a lush, green,\nwooded area. The densely grown trees\ngive off a thick aroma.
-A winding path that twists through\ngrassy fields. Young Trainers like to\ntest their battle skills here.
-Despite being so close to a big town,\nthis path retains its relaxed, natural\natmosphere.
-Once one gets through the tunnel,\nthe city of Oreburgh is just a stone’s\nthrow away.
-A charmingly natural path that wanders\npast many ponds and groves of trees.
-The Ravaged Path was hewn through\na rocky outcropping. It is a shortcut\nthat leads straight to Floaroma Town.
-A wide, wooden walkway spans a large\npond. Fishermen idle their time away\ndangling lines from the walkway.
-A quietly flowing stream and hilly\nterrain with one-way ledges make this\na fun area for adventure.
-Near the entrance of Eterna Forest\nis a cabin whose keepers offer rest\nto weary travelers that stop by.
-Smoothly paved in asphalt, the Cycling\nRoad is heavenly for bicycle lovers.
-Below the Cycling Road, one can see\nthe entrance to Wayward Cave.
-Located at the foot of Mt. Coronet,\nthis road is carved into the rugged,\nrocky terrain.
-A lush field of grass spreads from\nMt. Coronet’s sheer rock face,\ncreating a vista of contrasts.
-The Berry Master, an old man who loves\nnature, Pokémon, and Berries, makes\nhis home here.
-The streams forded by this path wind\npast copses and grassy patches in\na serene and soothing manner.
-The Lost Tower is where Pokémon are\nlaid to rest when their lives come\nto an end.
-A path made by clearing an overgrown\ncanyon between mountains. It is always\nshrouded by a dense fog.
-Grandma Wilma’s house stands alone in an\nisolated spot deep among mountains.
-This narrow route is lined with deep,\ntall grass that tickles the noses of\npeople straying off the path.
-The Cafe Cabin stands in a wood.\nThe house special is freshly milked\nMoomoo Milk.
-A mountain path that tunnels through\nMt. Coronet, one of the tallest\nmountains in Sinnoh.
-A tall, sturdy wall surrounds an\nexpansive estate that takes up nearly\nhalf of the road space.
-Beyond the wall, one can see the\nstately Pokémon Mansion and the\nowner’s prized garden behind it.\n
-This path weaves among deep puddles\nmade by the unending rainfall. It is\nwet and miserable for Trainers.
-There is a house here whose residents\noffer to trade TMs for Red, Blue,\nYellow, or Green Shards.
-Offshore boulders form a jetty that\nbecalms waves reaching the beach.\nA resort hotel overlooks the water.
-In a small house on the beach lives\na single man who refers to himself as\nDr. Footstep.
-The road joining Veilstone City and a\nlake is described as either “wildly\nnatural” or simply “a mess.”
-There is a cave hewn into the sheer\nrock wall at the roadside. The hole\nwas made by a Ruin Maniac.
-This area is always inundated by heavy\nrainfall. Only hardy Trainers that can\ntake the rain gather here.
-This mountainous road leads from Mt.\nCoronet. Its constant snowfall and\ndeep snowdrifts impede travelers.
-Snow blows down from Mt. Coronet and\ngrows into a harsh, ceaseless blizzard.\nBe prepared for the worst.
-Despite its shortness, this road is\nrevered by fishing enthusiasts as a\ngreat, yet little known, fishing spot.
-A beautiful white-sand beach only five\nseconds on foot from Sandgem Town.\nA pleasant breeze blows from the sea.
-The sea here is perfect for swimming,\nwith gentle winds and tides. There are\nsandbars for resting, too.
-A straight path hemmed by green grass\nand sparse stands of trees.
-At the end of the path stands the\ngateway to Pal Park.
-A sandy beach extends from the road.\nThe beach is busy with avid Fishermen\nhappily casting at the water’s edge.
-A man who loves fishing lives near\nhere. There is also a man who will\ncompare sizes of caught fish.
-A marine route that requires travelers\nto navigate around jutting rocks and\nsandbars.
-With grass fields, rocky outcroppings,\nthe sea, and sandbars, this area is\nlike a miniature of the Sinnoh region.
-The path makes its way up and down\namong rocky outcroppings. It is\nphysically challenging.
-A path that winds precariously along\nsheer cliffs that go right to the edge\nof the sea’s pounding waves.
-There is a small island in the bay.\nAn odd man who speaks foreign\nlanguages lives there.
-A rugged and steep mountain path\nwhere vision is limited by steadily\nfalling volcanic ash.
-This rough path is harshly raked by\na horizontally blowing sandstorm\ndriven by strong winds off the sea.
-A seaside path that makes its way\nthrough wildly growing trees and\nplants.
-A sea route that stretches from west\nto east. There is an island that is\nrich with plant life along the way.
-A straight path bounded by the sea on\nboth sides. It leads to the Flower\nParadise.
-A small town with the fresh scent\nof new leaves in the air. It feels\nlike a place where adventures start.
-Your own home and your best friend’s\nhouse are located here.
-A sandy town that is located right\nnext to a beach. It is redolent with\nthe salty scent of the sea.
-Prof. Rowan’s lab is the town’s\nlandmark. He conducts his\nstudies on Pokémon here.
-A town of flower lovers, Floaroma Town\nis always perfumed with the sweet\nscent of flowers.
-A short, floral pathway opens up to\na sprawling sea of flowers in bloom.
-In the center of town is the flower\nshop called Pick a Peck of Colors.
-The temperate climate makes this town\na relaxed and casual place for people\nand Pokémon to live in.
-There is a Pokémon Day Care and\na Pokémon Center here.
-Beyond a path hemmed by stands of\ntrees, one can find the entrance\nto the Solaceon Ruins.
-A tiny town that preserves the history\nof Sinnoh and the old ways of life.
-In the center of the town is a small\nshrine that dates to ancient times.
-A city where hot-blooded Trainers\ngather to work out and hone their\nbattling skills.
-A city that attracts Trainers who\nknow there are other ways of enjoying\nPokémon than battling.
-The most modernized city in the Sinnoh\nregion. It is bustling with people on\nthe go.
-The Pokétch Company, the developer\nand manufacturer of the Pokétch, is\nlocated here.
-Jubilife TV, Sinnoh’s TV network, is\nlocated here. It is an entertaining\nplace to visit.
-The Global Trade Station--GTS for\nshort--is located here.
-Located here is the Trainers’ School.\nDrop in to study up on the basics of\nPokémon.
-A port city that is bisected by a\ncanal. It has a distinctly exotic air\nof foreign culture.
-Head to the library if you want a\nworkout for the mind. Head to the Gym\nif you just want to work out.
-Large ships can always be seen\nmoored at the town’s piers.
-A vibrant and energetic mining town\nthat is blessed with a precious natural\nresource.
-There is a Gym where mine workers\ntake breaks in between their\nexhausting work shifts.
-There is a museum that specializes in\nexhibits related to the town’s coal\nmine.
-Huge deposits of coal still sleep\nunderneath the ground. The entrance\nto the Oreburgh Coal Mine is here.
-An old city that shows fading and\nalmost-forgotten vestiges of ancient\nhistory.
-The Cycle Shop is located here.\nThere is also a big building with\na slightly sinister atmosphere.
-A statue of an ancient Pokémon is\nprominently and reverentially displayed.
-A Gym is indispensable in any town that\nhas many people coming and going.\nThis city is no exception.
-This friendly city started as a place\nwhere people and Pokémon gathered,\nthen grew into a center of commerce.
-The entrance to Amity Square is here.\nThe square is a place where Trainers\ncan stroll peacefully with Pokémon.
-If you care about the looks of your\nPokémon, head for the Contest Hall.\nFor toughness, go to the Gym.
-There is a building here that is\nsymbolic of the city’s status as a\nplace where different cultures meet.
-A nice fountain with benches, as well\nas the Pokémon Fan Club, are among\nthe city’s amenities.
-This city was originally founded to\nprotect the Great Marsh. It has grown\nnaturally over the years.
-The Gym is a good example of the\nabundant water resources available to\nthe city.
-There is a lookout that affords views\nof the Great Marsh. The gates to\nthe Safari Zone are also here.
-This city was made by carving out\nsteep, rocky mountains. Its isolation\nlimits its contact with other cities.
-There are warehouses for storing a\nvariety of goods. There is also a\nmajor department store.
-At the highest point in the city is\nTeam Galactic’s headquarters.
-The city puts effort into providing\nentertainment. Naturally, one can find\na Gym here.
-Conveniently located right next door\nto the Game Corner is the Prize\nExchange.
-A port city that was built around the\nbay portion of the cape. It is criss-\ncrossed by elevated walkways.
-The Gym is located atop a rocky\noutcropping. Down on the beach is\na festive bazaar.
-The Vista Lighthouse’s bright beacon\nilluminates the Sinnoh region.
-A winter wonderland of a city where\nstout trees and buildings are blanketed\nin thick snow.
-The Gym is at the heart of the city.\nTo the north is the Snowpoint Temple.
-Trainers seeking to become the best\narrive here after enduring a long and\ngrueling journey.
-The Pokémon League reception counter\nis located here. Only those who have\nbeaten all the Gyms may enter.
-Victory Road is the last and toughest\nof the challenges leading up to the\nPokémon League.
-A tiny port town where Trainers who\nlove battling more than eating gather.
-Moored at the pier is the ferry to\nSnowpoint City.
-The gateway to the Battle Park is\nlocated here.
-One of the lakes that is symbolic of\nthe water-rich Sinnoh region. There is\nan odd legend associated with it.
-It is possible to enter the cave\nunderneath the lake from the\nisland in the middle.
-One of the lakes that is symbolic of\nthe water-rich Sinnoh region. There is\nan odd legend associated with it.
-It is possible to enter the cave\nunderneath the lake from the\nisland in the middle.
-A high-class restaurant is located\non a hill overlooking the lake.
-One of the lakes that is symbolic of\nthe water-rich Sinnoh region. There is\nan odd legend associated with it.
-It is possible to enter the cave\nunderneath the lake from the\nisland in the middle.
-The fourth lake of Sinnoh that was\nkept secret.
-Beneath the lake’s surface is a cave\nwhere dimensions are distorted.
-Numerous wind turbines stand in the\nvicinity of the Valley Windworks.
-Winds blowing through the canyon feed\nthe wind turbines to generate clean\nelectricity.
-A forest enveloped in chilly air.\nThick stands of trees turn the forest\ninto a natural maze.
-Deep in the forest is the Old Chateau.\nIt is falling into disrepair after\nbeing abandoned by its owner.
-The sprawling ironworks is located\nwith the forest at its back.
-The ironworks refines iron ore mined\nfrom Mt. Coronet to make iron and\nto manufacture mechanical parts.
-A sacred mountain that is capped the\nyear round with snow. A gigantic maze\nsprawls inside it.
-There is an ancient ruin named the\nSpear Pillar located here.
-A small, crescent-shaped pond that\nlies inside a closed-off forest.
-A rugged, seemingly indestructible rock\nmountain that is thickly blanketed by\nthe volcanic ash it spews.
-Inside the mountain, fissures in spilled\nand hardened lava form enormous\ncaverns.
-A speck of an island far from any\ncivilization. It is covered in an\nabundance of flowers.
-A small, ore-rich island that is\noff the coast of Eterna City.
-Inside the island are remnants of an\niron ore mining operation from the\npast.
-A small, round pond that lies\ninside a closed-off forest.
-The Battle Tower--where the best of\nthe best Trainers gather to test\ntheir skill--is located here.
+飞往哪里？
+向导地图
+生长着茂密的绿叶,\n清新的树木气息漂浮的林间小道。
+曲折的道路上遍布草丛,\n年轻的训练师在等待着挑战。
+位于很大的城市旁边的\n一条直到现在还保留着自然气息的道路。
+穿过洞穴\n黑金市就在这里。
+有着若干池塘,树木并排生长,\n散发着自然魅力的道路。
+通过巨大落差形成的\n高低隧道以后\n就能够到达索诺镇了。
+在巨大的池塘上面架有\n曲折的桥,桥上的\n钓鱼人悠闲地看着钓线。
+静静流淌的河水和\n起伏的地形,正是\n上演精彩冒险的道路。
+在白岱森林入口的附近\n有一间民居能够解除疲劳。
+用沥青铺设的\n单车道是热爱自行车\n的人们的圣地。
+单车道的下面\n能看到迷失洞穴的入口,也有隐藏入口。
+有着坚硬岩石的地表,\n荒凉的殿元山脉的道路。
+殿元山尖锐的岩石\n与松软广阔的草坪\n成为相衬风景的道路。
+热爱着自然,精灵,以及树果的\n树果爷爷的住所在这里。
+从树林和草丛中的\n缝隙里流出的水流\n让人有安心的感觉。
+精灵墓塔是死去的精灵们\n的魂魄安眠的场所。
+被开凿的山谷里\n总是弥漫着浓雾,\n那是大自然的警告。
+远离人烟的深山里\n龙之老人的房屋就建在这里。
+生长着繁茂的一人高的草丛,\n踏进去的时候鼻子也会痒痒的。
+在树林中建造的咖啡林间小屋。\n以挤出的新鲜牛奶而闻名。
+以神奥地区\n最险要的地方而闻名的\n贯穿殿元删两侧的山道。
+占了道路面积将近一半的\n宽阔的地面被\n高高的墙壁包围了起来。
+围墙的里面能够看到\n被称为精灵公馆的豪宅。\n后庭确实是宅主的骄傲。
+一直下着大雨,\n所以到处都是水坑。\n这里的训练师都被淋透了。
+能够用红色,蓝色,黄绿相间的碎片\n以及各种各样的碎片来交换技能训练机的\n房屋。
+海面上的岩石形成了天然防潮堤,\n保护着海边的宁静。\n在高台上建立的是丽扎德旅馆。
+海边的小房屋里\n被叫做足迹博士的\n人独自住在这里。
+连接户张市和湖的道路,\n说得好听点是自然本来的面目,\n说得不好听就是任其荒废的道路。
+遗迹先生在山表处开凿,\n开辟了洞穴的入口。
+不论什么时候总是下着大雨。\n在这里聚集着的是即使在雨中\n也不会逃避的训练师口袋迷们。
+从殿元山开始延续的道路,\n一直在下着的雪厚厚地积累着,\n走起路来感觉步伐很迟钝。
+从殿元山吹下的雪花\n变成了猛烈的暴风雪。\n要进入这里前要做好足够的心理准备。
+短短的道路其实是\n热心的钓鱼人们\n隐居的圣地变成的。
+从真砂镇步行\n只要５秒就能到达的白色的沙滩。\n从海面吹来的海风十分舒服。
+舒适的海风和平静的海流,\n最适合海水浴的海区。\n游泳累了的时候可以在海中的沙洲上休息。
+平铺在稀疏的树林中的\n绿色的道路。
+道路的尽头处是\n帕鲁公园的大门。
+沿着道路的宽阔的沙滩\n有很多挑战垂钓的\n快乐的人们的身影。
+喜欢钓鱼,并且还喜欢\n比较钓起精灵大小的\n大叔的家就在这附近。
+水面上有很多突出的岩石和浅滩\n阻碍前进的海路。
+草丛和岩山,海和浅滩,\n简直就像是整个神奥地区的\n缩小版的场所。
+有高低差的地形,\n一会爬上一会降下的繁忙的道路。
+被波浪拍打的高高的悬崖,\n狭窄的道路。
+湾内漂浮着小岛,\n说着其他国家的话的\n神秘人物住在这里。
+落下的火山灰会\n妨碍旅行者视线的危险的道路。
+强劲的海风\n卷起剧烈沙尘暴的\n苛酷的道路。
+自然的草丛和树木\n无规律地繁茂生长着的道路。
+横向延伸的水路的途中\n有草花生长繁茂的小岛。
+一直向前延伸的道路。\n一直延伸到花的乐园。
+漂浮着嫩叶的气息,似乎能感觉到\n什么即将开始的小镇。
+自己的家\n和朋友的家在这里。
+座落在海边,\n漂浮着清新的海风的砂之镇。
+全心钻研精灵研究的\n山梨博士的研究所\n是小镇的标志。
+被盛开的鲜花的芬芳包围的\n居住着热爱花的人们的小镇。
+从花的小路里进去后\n前面是一片广阔的花海。
+小镇中央的\n花之商店有各种各样的装饰品。
+温暖的气候,无论是人还是精灵\n都能舒适地随意生活的小镇。
+精灵饲育屋和\n精灵中心在这里。
+从树林的中间穿过去,\n前面就是花蕊遗迹的入口。
+现在还流传着过去的\n历史和传说的小镇。
+小镇中央是残留下来的\n古代的祠堂。
+精灵对战热情燃烧\n的人们为了锻炼自己\n而集中到这里的小镇。
+对于精灵对战以外\n有关精灵的其他乐趣\n感兴趣的人们聚集的小镇。
+神奥地区当中\n尤其是近代发展迅速,\n很多人都前往的城市。
+开发口袋手表的\n口袋手表公司在这里。
+各种各样娱乐节目的电视台\n长寿电视台在这里。
+ＧＬＯＢＡＬ ＴＲＡＤＥ ＳＴＡＴＩＯＮ\n简称ＧＴＳ在这里。
+能够学到很多关于精灵的知识的\n训练师学校在这里。
+被运河分成两个部分,\n洋溢着异国风情的港口城市。
+运动头脑的图书馆。\n锻炼肌体的是道馆。
+港口处的码头处一直\n停着巨大的轮船。
+天然资源丰富的\n充满能量的炭矿城市。
+在炭矿工作的人们\n在心爱工作的空闲时\n作为休闲的道馆在这里。
+展示与炭矿相关的物品的\n博物馆在这里。
+现在仍然沉睡着巨大炭矿的\n黑金炭矿的入口处在这里。
+仍然模糊地残留着被\n渐渐遗忘的历史的遗迹的城市。
+可疑氛围的大厦,\n中药店在这里。
+以前的被祭祀的\n精灵的石像在这里。
+人来人往的城市中\n不可缺少的道馆当然也在这里。
+聚集了人类和精灵,\n与商业发展共同建造的\n友好的城市。
+可以和精灵一起悠闲地散步的\n散步广场的入口在这里。
+追求精灵华丽的话前往\n华丽大赛会场。\n追求强大的话前往道馆。
+这个城市拥有特殊的文化\n有着象征性的建筑,\n那里是人人都想去的场所。
+喷泉呀,长椅呀,精灵俱乐部等等\n有很多供休息的设施。
+原本这里的土地非常宽广\n为了保护大湿原\n按照大自然建造的城市。
+水源丰富的这片土地上\n果然有着和那一样的道馆。
+既有可以眺望大湿原的展望台\n也有进行狩猎的小游戏。
+险要的山脊崩塌\n形成的这片土地\n的确不是兴旺的城市。
+保存了各种各样的物品\n所以这里并不孤立。\n要买东西的话可以去商店。
+在最高的地方建造的是\n银河团总部。
+虽然对游戏设施投入很大\n这个城市当然也有口袋道馆的。
+在游戏中心旁边的\n奖品兑换处也是非常完善的。
+利用海岬复杂的地形\n建造的港口城市。\n立体的街道是这里的特征。
+口袋道馆在高台上面。\n沙滩那边是热闹的市场。
+指示灯台向整个神奥地区\n放出明亮的光。
+并排的树木和建筑\n覆盖着厚厚的积雪\n一片银白世界的城市。
+口袋道馆建立在城市的中心\n金岬神殿建立在这里。
+目标是训练师顶点的人\n越过又长又险的地方\n在这里聚集的场所。
+精灵联盟。\n全部的道馆挑战完成后\n才能够进入的场所。
+通向精灵联盟最后的关卡\n冠军之路在这里。
+比起食物更喜欢\n口袋对战的人们来挑战的\n很小的港口城市。
+在桥附近停着\n开往金岬市的船。
+通向战斗公园的大门在这里。
+象征着神奥地区\n水之恩惠的湖之一。\n据说隐藏着神秘的传说。
+从中央的小岛\n可以进入到\n湖内部的洞穴。
+象征着神奥地区\n水之恩惠的湖之一。\n据说隐藏着神秘的传说。
+从中央的小岛\n可以进入到\n湖内部的洞穴。
+湖畔的高台上\n建立有高级餐厅。
+象征着神奥地区\n水之恩惠的湖之一。\n据说隐藏着神秘的传说。
+从中央的小岛\n可以进入到\n湖内部的洞穴。
+隐藏的第４之湖。
+湖的对面\n空间扭曲的洞穴。
+发电厂的周边\n竖立着很多风车。
+利用从山谷中吹来的风\n使风车转动,\n利用那个能量来发电。
+冰冷的空气包含的\n森林中并排的树木\n形成了天然的迷宫。
+森林里建立着\n失去主人的荒废的洋馆。
+在森里的后面建造着\n很大的造铁厂。
+这个造铁厂\n对从殿元山挖掘出的铁矿石精炼\n加工成机械制品。
+山顶总是覆盖着积雪\n广阔的内部是\n巨大的迷宫的神圣之山。
+被称为枪之柱的\n古代遗迹在这里。
+封闭的森林中浮现出\n小小的新月的水洼。
+喷出的火山灰\n厚厚地积累起来的\n坚固的岩山。
+山的内部是喷发时流出的\n溶岩的间隙\n形成的巨大的洞穴。
+盛开的鲜花铺盖着\n地面的小岛。
+白岱市的湖心中漂浮的\n高山之小岛。
+岛的内部是\n挖出的矿石的滚木的痕迹。
+封闭的森林中浮现的是\n平静的小小的水洼。
+执着于口袋对战的人们\n相互比试实力的场所\n战斗塔就在这里。

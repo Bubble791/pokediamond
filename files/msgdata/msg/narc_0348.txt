@@ -1,8 +1,8 @@
-ITEMS
-MEDICINE
-POKé BALLS
-TMs & HMs
-BERRIES
-MAIL
-BATTLE ITEMS
-KEY ITEMS
+道具
+回复类
+精灵球
+技能训练机
+树果
+信件
+战斗道具
+重要物品

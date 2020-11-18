@@ -1,5 +1,5 @@
-Isn’t my Pokétch quite fetching?\rA Trainer would be simply lost without\na Pokétch, after all.
-PIKACHU: Piika pi!
-PACHIRISU: Pachipachii?
-Oh, your Pokémon is quite adorable!\rHere, try making it hold this\n{STRVAR 8, 0}.\r
-A Pokémon holding that Quick Claw can\nsometimes attack first, even if it\fis normally a little bit slow.\rThere are other items that are only\nuseful when given to a Pokémon.\rTry finding other items that you can\nmake your Pokémon hold.\r...I sound like I’m a teacher or\nsomething.
+哦呵呵\n我的口袋手表很不错吧？\r果然作为口袋训练师\n就不能没有口袋手表呢！
+皮卡丘『皮~卡~丘！
+电松鼠『哈唔？
+啊,好可爱的精灵！\n让它带着这个{STRVAR 8,0}的话\f会更好哦！\r
+有先制之爪的话,\n即使是速度慢的精灵\f也能偶尔抢先发动攻击。\r还有其他很多只有精灵\n才能使用的道具,\r去寻找许多各种各样的道具\n冒险也会变得更有趣。\r我怎么觉得\n自己好像老师啊……

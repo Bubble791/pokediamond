@@ -1,10 +1,10 @@
-Hello.\nMay I help you with anything?
-Hello, {STRVAR 3, 0}.\nMay I help you with anything?
-Please enjoy yourself.
-False Swipe makes wild Pokémon easier\nto catch.\rMany customers have confided that to\nme recently.
-For Fire-type Pokémon, may I suggest\nFire Blast?
-The move Protect is the perfect\nsolution for dodging attacks.\rPlease be aware that overuse can\nresult in failure.
-When it is raining, the accuracy\nof Thunder becomes precise.\rPlease do be careful about\nthe weather.
-A friend traded me a MACHOKE using\nDS Wireless Communications.\rBut instead of a MACHOKE, I got\na different Pokémon!
-I wrote some secrets in my Mail\nas a reminder...\rIf someone reads it...\nI’m in deep trouble.
-1F: Trainers’ Zone\r2F: Battle Collection\r3F: TM Corner\r4F: Poké Dolls & Goods\r5F: Rooftop Plaza
+您好,\n请问您需要些什么？
+{STRVAR 3,0}\n请问您需要什么？
+请慢慢享受
+使用刀背打的话\n比较容易抓到野生的精灵\r似乎最近很多客人\n都这么说
+火系的精灵的话一定要学大火字！\n是这么说的吧。
+要想完全防御对方攻击的话\n就可以使用技能保护\r但是请注意,\n不要连续使用
+下雨时容易被闪电命中,\n要注意哦
+之前想要通过通信交换\n从朋友那里要一只豪力,\r但是传到我这里却\n变成别的了！
+不小心在邮件里\n写了一些秘密,\r如果给其他人看到了\n可就麻烦了啊……
+１层 …… 训练师区域\r２层 …… 战斗用品\r３层 …… 技能训练机\r４层 …… 家具\r５层 …… 休息广场

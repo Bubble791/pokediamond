@@ -1,12 +1,12 @@
-MAILBOX
-READ
-ERASE
-GIVE
-CANCEL
-     
-What would you like to do with\n{STRVAR 3, 0}’s Mail?
-The message will be lost.\nIs that OK?
-The message was erased.\rLet a Pokémon hold this Mail?
-The Mail’s message was erased,\nand it was put in the Bag.
-Your Bag is full...\nThe Mail was discarded.
-Stopped making the Pokémon\nhold Mail.
+邮箱
+读取邮件
+删除邮件
+让精灵携带
+取消
+no id
+怎样处理\n{STRVAR 3,0}的邮件？
+内容会消失,\n可以吗？
+内容删除了,\n要让精灵带着吗？
+把删除内容的邮件\n放入背包
+背包满了…\n邮件扔掉了
+让精灵携带邮件\n取消了

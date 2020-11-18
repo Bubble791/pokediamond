@@ -1,13 +1,13 @@
-Howdy, there!\rLet me examine your Pokémon to see\nif it’s worthy of a scarf!\r
-Hmhm...\nI see...\r
-This isn’t what I had hoped to see...\rI can’t lie to you, so I’ll just have\nto tell it to you straight.\rThis Pokémon’s not bad, but it’s not\ngood, either. It’s just so-so.\rIf you want to improve this one’s\ncondition, feed it some more Poffins!
-Your Pokémon is growing up really\ngood. My hat’s off to you.\rI was going to give you a scarf,\nbut your Bag’s full.
-Your {STRVAR 0, 0}’s looking good!\nI’d say it’s pretty impressive!\rI’ll tell you what, I’ll give you\nthis {STRVAR 8, 1}!\r
-The Red Scarf stands for passion!\rLet a Pokémon hold it to give it\nan edge in Cool Contests.
-The Blue Scarf represents the\nvastness of the sea!\rLet a Pokémon hold it to give it\nan edge in Beauty Contests.
-The Pink Scarf represents charm!\rLet a Pokémon hold it to give it\nan edge in Cute Contests.
-The Green Scarf represents the\nspring breeze!\rLet a Pokémon hold it to give it\nan edge in Smart Contests.
-The Yellow Scarf stands for\ntoughness!\rLet a Pokémon hold it to give it\nan edge in Tough Contests.
-I’m out of scarves to give you!\nI’m out of things to say, too!
-My brother’s girlfriend is the\nMassage Girl in Veilstone City.\rThey stay in touch by having Pokémon\nhold Mail for each other.
-PACHIRISU: Suuu pasuu!
+啊！你的精灵\n带上印花手帕真是太合适了\f过来让我看看！\r
+嗯嗯……\n原来如此……\r
+不妙啊……\n我是不会说谎的,\f不过老实说,\r既不好也不坏……\n也就是说有点那啥啦！\r要把精灵的选美度\n不断提高的话,\f不让它吃松饼是不行啊！
+你的精灵\n成长得很不错啊,\r应该是你给它戴了印花手帕吧！\n印花手帕的种类还真多啊！
+你的{STRVAR 0,0}\n真不错啊！\f快接近完美了！\r好！这个{STRVAR 8,1}\n作为礼物送你了！\r
+红色印花手帕象征热情！\n给精灵佩戴上的话\f能在华丽大赛中更帅气！
+蓝色印花手帕象征海洋的广阔！\n给精灵佩戴上的话\f能在华丽大赛中更漂亮！
+粉色印花手帕象征魅力！\n给精灵佩戴上的话\f能在华丽大赛中更可爱！
+绿色印花手帕象征春天的微风！\n给精灵佩戴上的话\f能在华丽大赛中更聪明！
+黄色印花手帕象征坚毅！\n给精灵佩戴上的话\f能在华丽大赛中更强壮！
+没有可以给你的印花手帕了,\n另外,也没有东西可以教你了！
+哥哥和野濑市的\n美容姐姐是恋人,\r他俩让精灵携带邮件\n进行通信！
+电栗鼠『啾啾！

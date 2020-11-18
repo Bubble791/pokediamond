@@ -1,19 +1,19 @@
-Your quest for power has brought\nyou here...\r...Very well.\rLet me reward your passion with some\nabsolutely astounding moves.\rThey’re the ultimate moves!\nShall I teach them to your Pokémon?
-The ultimate moves!\nShall I teach them to your Pokémon?
-To which Pokémon should I teach\na move?\r
-Hmm... Well, that is fine, as well.\nVisit if you have a change of heart.
-To which Pokémon should I teach\na move?
-That Pokémon can’t learn a move!\nRead the poster! Keh!
-Teach a move to an Egg?\nImpossible even for me! Keh!
-You’ve not bonded strongly enough\nwith your Pokémon! Keh!
-That Pokémon already knows the move\nI’ve offered to teach! Keh!
-I should teach Blast Burn to\nyour {STRVAR 0, 0}?
-I should teach Hydro Cannon to\nyour {STRVAR 0, 0}?
-I should teach Frenzy Plant to\nyour {STRVAR 0, 0}?
-{STRVAR 0, 0} learned\n{STRVAR 6, 1}!
-{STRVAR 0, 0} is trying to learn\n{STRVAR 6, 1}.\rBut {STRVAR 0, 0} can’t learn more\nthan four moves.\rDelete an older move to make\nroom for {STRVAR 6, 1}?
-Is it OK to forget the\nmove {STRVAR 6, 1}?
-1, 2, and... ... ... Poof!\r{STRVAR 0, 0} forgot how to\nuse {STRVAR 6, 1}.\rAnd...\n{STRVAR 0, 0} learned {STRVAR 6, 2}.
-Stop trying to teach {STRVAR 6, 1}?
-{STRVAR 0, 0} did not learn\nthe move {STRVAR 6, 1}.
-To the Pokémon listed here,\nthe ultimate moves may be taught!\rThe blazing fire Pokémon\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rThe restless water Pokémon\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rThe quiet grass Pokémon\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA
+你为了寻求强大的力量,\n一直来到了这里啊！\f……好吧\f就以这个回报你的热情吧！\r想要学习技能吗？\n究级的技能！\r要教给你的精灵吗？
+究级的技能！\n教给你的精灵吗？
+让哪只精灵学习技能？\r
+嗯,这样也好……\n只要精神在,我就会等你的。
+要让哪只精灵学习技能？
+要教给那只精灵吗！\n它学不会的！哈！！
+教给蛋技能\n就是我也不可能啊！哈！！
+主人与精灵之间的感情不够！\n哈！！
+那只精灵已经习得了\n要教给它的技能！哈！！
+要让{STRVAR 0,0}\n习得爆裂燃烧吗！哈！！
+要让{STRVAR 0,0}\n习得水柱加农炮吗！哈！！
+要让{STRVAR 0,0}\n习得硬化植物吗！哈！！
+{STRVAR 0,0}习得了新技能\n{STRVAR 6,1}！
+{STRVAR 0,0}想习得\n新技能{STRVAR 6,1}……！\r但是,{STRVAR 0,0}\n已经有四项技能了！\r要习得{STRVAR 6,1}的话\n要忘记其他的技能吗？
+把{STRVAR 6,1}\n忘记可以吗？
+１ ２ ……！\r{STRVAR 0,0}把\n{STRVAR 6,1}完全忘记了！\r接下来……！\r{STRVAR 0,0}把新技能\n{STRVAR 6,2}习得了！
+那么,要放弃习得\n{STRVAR 6,1}吗？
+{STRVAR 0,0}习得了\n{STRVAR 6,1}！
+在这里可以让精灵\n习得究级的技能！\r燃烧的火之精灵\n 喷火龙 爆炎兽\f 火鸡战士 豪火猴,\r飘荡的水之精灵\n 水箭龟 大力鳄\f 大水怪 钢帝企鹅,\r安静的草之精灵\n 妙蛙花 巨花龙\f 针叶王 巨树龟

@@ -1,10 +1,10 @@
-Hello, thank you for shopping\nwith us today.\rTo which floor may I take you?
-I look forward to serving you again.
-Certainly.\nElevator going up.\r
-Certainly.\nElevator going down.\r
-We are already on that floor?!
-Ground floor: Medicine and items for\nall your adventure needs.
-Second floor: Useful items for all\nPokémon battles.
-Third floor: Technical Machines for\npowering up Pokémon.
-Fourth floor: Desirable decoration\ngoods and Pokémon Dolls.
-Fifth floor: The Rooftop Square for\na refreshing break from shopping.
+欢迎光临\n感谢今日来店购物！\r请问您要去第几层？
+期待您的\n再次光临
+明白了\n现在电梯上行\r
+明白了\n现在电梯下行\r
+您到了
+１层是冒险相关的\n道具商店
+２层是精灵对战\n相关的道具商店
+３层是提升精灵能力\n以及技能训练机的商店
+４层是装饰用\n家具和玩偶的商店
+５层是休息广场

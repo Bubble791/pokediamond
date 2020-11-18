@@ -1,124 +1,124 @@
- -
-The stench helps keep\nwild Pokémon away.
-The Pokémon makes it rain\nif it appears in battle.
-The Pokémon’s Speed stat\nis gradually boosted.
-The Pokémon is protected\nagainst critical hits.
-The Pokémon is protected\nagainst 1-hit KO attacks.
-Prevents combatants from\nself destructing.
-The Pokémon is protected\nfrom paralysis.
-Boosts the Pokémon’s\nevasion in a sandstorm.
-Contact with the Pokémon\nmay cause paralysis.
-Restores HP if hit by an\nElectric-type move.
-Restores HP if hit by a\nWater-type move.
-Prevents the Pokémon\nfrom becoming infatuated.
-Eliminates the effects of\nweather.
-The Pokémon’s accuracy is\nboosted.
-Prevents the Pokémon\nfrom falling asleep.
-Changes the Pokémon’s\ntype to the foe’s move.
-Prevents the Pokémon\nfrom getting poisoned.
-Powers up Fire-type moves\nif hit by a fire move.
-Blocks the added effects\nof attacks taken.
-Prevents the Pokémon\nfrom becoming confused.
-Negates moves that\nforce switching out.
-Lowers the foe’s Attack\nstat.
-Prevents the foe from\nescaping.
-Inflicts damage to the\nfoe on contact.
-Only supereffective\nmoves will hit.
-Gives full immunity to all\nGround-type moves.
-Contact may paralyze,\npoison, or cause sleep.
-Passes on a burn, poison,\nor paralysis to the foe.
-Prevents the Pokémon’s\nstats from being lowered.
-All status problems are\nhealed upon switching out.
-The Pokémon draws in all\nElectric-type moves.
-Boosts the likelihood of\nadded effects appearing.
-Boosts the Pokémon’s\nSpeed in rain.
-Boosts the Pokémon’s\nSpeed in sunshine.
-Raises the likelihood of\nmeeting wild Pokémon.
-The Pokémon copies the\nfoe’s ability.
-Raises the Pokémon’s\nAttack stat.
-Contact with the Pokémon\nmay poison the foe.
-The Pokémon is protected\nfrom flinching.
-Prevents the Pokémon\nfrom becoming frozen.
-Prevents the Pokémon\nfrom getting a burn.
-Prevents Steel-type\nPokémon from escaping.
-Gives full immunity to all\nsound-based moves.
-The Pokémon gradually\nrecovers HP in rain.
-The Pokémon summons a\nsandstorm in battle.
-The Pokémon raises the\nfoe’s PP usage.
-Raises resistance to Fire-\nand Ice-type moves.
-The Pokémon awakens\nquickly from sleep.
-Contact with the Pokémon\nmay burn the foe.
-Enables sure getaway from\nwild Pokémon.
-Prevents the Pokémon\nfrom losing accuracy.
-Prevents the Attack stat\nfrom being lowered.
-The Pokémon may pick up\nitems.
-The Pokémon can’t attack\non consecutive turns.
-Boosts the Attack stat,\nbut lowers accuracy.
-Contact with the Pokémon\nmay cause infatuation.
-Boosts Sp. Atk if another\nPokémon has Minus.
-Boosts Sp. Atk if another\nPokémon has Plus.
-CASTFORM transforms with\nthe weather.
-Protects the Pokémon\nfrom item theft.
-The Pokémon may heal its\nown status problems.
-Boosts Attack if there is\na status problem.
-Boosts Defense if there is\na status problem.
-Inflicts damage on foes\nusing any draining move.
-Powers up Grass-type\nmoves in a pinch.
-Powers up Fire-type\nmoves in a pinch.
-Powers up Water-type\nmoves in a pinch.
-Powers up Bug-type\nmoves in a pinch.
-Protects the Pokémon\nfrom recoil damage.
-The Pokémon makes it\nsunny if it is in battle.
-Prevents the foe from\nfleeing.
-Prevents the Pokémon\nfrom falling asleep.
-Prevents the Pokémon’s\nstats from being lowered.
-Boosts the power of\nphysical attacks.
-The Pokémon is protected\nagainst critical hits.
-Eliminates the effects of\nweather.
-Raises evasion if the\nPokémon is confused.
-Raises Speed if hit by an\nElectric-type move.
-Raises Attack if the foe\nis of the same gender.
-Raises Speed each time\nthe Pokémon flinches.
-Raises evasion in a\nhailstorm.
-Encourages the early use\nof a held Berry.
-Raises Attack upon taking\na critical hit.
-Raises Speed if a held\nitem is used.
-Weakens the power of\nFire-type moves.
-The Pokémon is prone to\nwild stat changes.
-Reduces HP if it is hot.\nWater restores HP.
-Adjusts power according\nto the foe’s ability.
-Boosts the power of\npunching moves.
-Restores HP if the\nPokémon is poisoned.
-Powers up moves of the\nsame type.
-Increases the frequency\nof multi-strike moves.
-Heals status problems if\nit is raining.
-Boosts Sp. Atk, but\nlowers HP in sunshine.
-Boosts Speed if there is a\nstatus problem.
-All the Pokémon’s moves\nbecome the Normal type.
-Powers up moves if they\nbecome critical hits.
-The Pokémon only takes\ndamage from attacks.
-Ensures the Pokémon and\nits foe’s attacks land.
-The Pokémon moves after\neven slower foes.
-Powers up the Pokémon’s\nweaker moves.
-Prevents status problems\nin sunny weather.
-The Pokémon can’t use\nany held items.
-Moves can be used\nregardless of abilities.
-Heightens the critical-hit\nratios of moves.
-Damages the foe landing\nthe finishing hit.
-Senses the foe’s\ndangerous moves.
-Determines what moves\nthe foe has.
-Ignores any change in\nability by the foe.
-Powers up “not very\neffective” moves.
-Powers down super-\neffective moves.
-Temporarily halves Attack\nand Speed.
-Enables moves to hit\nGhost-type foes.
-The Pokémon draws in all\nWater-type moves.
-The Pokémon regains HP in\na hailstorm.
-Powers down super-\neffective moves.
-The Pokémon summons a\nhailstorm in battle.
-The Pokémon may gather\nHoney from somewhere.
-The Pokémon can check\nthe foe’s held item.
-Powers up moves that\nhave recoil damage.
-Changes type to match\nthe held Plate.
-Powers up party Pokémon\nwhen it is sunny.
-Reduces a sleeping foe’s\nHP.
+\n
+不容易遇到野生精灵
+战斗中出场时\n天气变为雨天
+每回合速度提升一级
+对手的攻击\n不会命中要害
+一击必杀无效
+在场精灵无法使用自爆
+不会陷入麻痹状态
+沙尘暴时回避率上升
+对手接触攻击时\n一定几率陷入麻痹
+受到电气攻击时\n回复体力
+受到水系攻击时\n回复体力
+不会陷入着迷状态
+天气的影响全部消失
+技能命中率上升
+不会陷入睡眠状态
+自身属性变化为\n受到攻击的技能属性
+不会陷入中毒状态
+受到火系攻击时\n火系技能威力变强
+不会受到技能追加效果
+不会陷入混乱状态
+强制换人的技能无效
+对手的攻击下降
+踩住对手的影子\n使其无法逃走
+对手接触攻击时\n一定几率被烧伤
+不会受到\n属性克制以外的攻击
+不会受到\n地面属性技能攻击
+对手接触攻击时\n陷入麻痹,烧伤或睡眠
+中毒,麻痹,烧伤状态\n转移给对手
+不会被对手降低能力
+换下场时回复异常状态
+吸引全部\n电气属性技能的攻击
+技能的追加效果\n更容易出现
+雨天时速度上升
+晴天时速度上升
+容易遇到野生精灵
+变成与对手相同的特性
+物理攻击威力上升
+对手接触攻击时\n一定几率中毒
+不会害怕
+不会陷入冰冻状态
+不会陷入烧伤状态
+钢属性精灵无法逃走
+不会受到声音技能影响
+雨天时\n每回合回复少量HP
+战斗中出场时\n天气变为沙尘暴
+对手使用技能的PP值\n减少更多
+对火属性和冰属性\n的攻击耐性增强
+睡眠时更块地醒过来
+对手接触攻击时\n一定几率被烧伤
+必定能从\n野生精灵战斗中逃走
+命中率不会被对手下降
+攻击不会被对手下降
+一定几率捡到道具
+不能连续行动
+攻击上升命中下降
+对手接触攻击时\n一定几率陷入着迷
+负极兔在场上时攻击特攻上升
+正极兔在场上时攻击特攻上升
+根据天气外形发生变化
+携带的道具不会被夺走
+一定几率回复异常状态
+异常状态时攻击上升
+异常状态时防御上升
+对手使用吸收技能时\n对手HP减少
+危急时\n草系技能威力上升
+危急时\n火系技能威力上升
+危急时\n水系技能威力上升
+危急时\n虫系技能威力上升
+不会受到\n技能反作用伤害
+战斗中出场时\n天气变为晴天
+战斗中使对手无法逃走
+不会陷入睡眠状态
+能力不会被对手下降
+物理攻击威力上升
+对手的攻击\n不会命中要害
+天气的影响全部消失
+陷入混乱时回避率上升
+受到电系攻击时\n速度上升
+对手性别与自身相同时\n攻击上升
+害怕时速度上升
+冰雹天气时回避率上升
+提前使用树果
+被命中要害时攻击上升
+持有道具失去时\n速度上升
+降低火系技能威力
+能力变化翻倍
+炎热时HP减少\n有水时HP回复
+根据对手的能力\n变化自身强度
+拳击类技能威力上升
+陷入毒状态时回复HP
+与自身属性相同的技能\n威力上升
+使用连续技能连击更多
+雨天时回复异常状态
+晴天时\nHP减少特攻上升
+异常状态下速度上升
+使用的技能\n全部变为普通属性
+命中要害时威力上升
+不会受到\n攻击以外的伤害
+双方的技能必定命中
+即使比对手速度快\n也会后行动
+威力不超过６０的技能\n威力上升
+晴天时\n不会陷入异常状态
+无法使用持有的道具
+无视对手特性\n使用技能攻击
+攻击容易命中对手要害
+被接触攻击击倒时\n给予对手以伤害
+可以预知对手拥有的\n对自己有威胁的技能
+可以预见对手拥有的技能
+无视对手能力变化
+技能属性被克制时\n威力上升
+被属性克制攻击时\n减少伤害
+出场５回合内\n攻击及速度减半
+使用任何技能\n都可以命中鬼系
+吸引全部水系技能攻击
+冰雹天气时回复HP
+被属性克制攻击时\n减少伤害
+战斗中出场时\n天气变为冰雹
+可以收集到蜂蜜
+可以预知\n对手携带的道具
+有反作用伤害的技能\n威力上升
+根据持有的石板\n改变自身属性
+晴天时\n我方全部精灵变强
+处于睡眠的对手\n每回合HP减少

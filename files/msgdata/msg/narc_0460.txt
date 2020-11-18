@@ -1,7 +1,7 @@
-Route 218 up ahead is a great fishing\nhole that’s almost unknown to people.
-Yes, sir!\nAn Old Rod is a good thing!\rYou think so too, am I right?
-Yes! Good answer!\nWe can be friends!\rHere you go.\nThat’s my {STRVAR 8, 0}!\r
-You should fish wherever there is\na body of water.\rOh, and by the way, did you need\nany tips on using that fishing rod?
-Oh, really?\nYou don’t like to fish?
-First, you face any body of water,\nthen you use your fishing rod.\rNext, you focus!\nIf a Pokémon bites, “!” appears.\fThat’s your cue to reel it in!
-When you’re fishing for Pokémon,\nthe first hurdle is getting a bite.\rWhen you reel the Pokémon in, you’ve\ngot to battle it.\rSo, fishing gives you twice the fun!
+这前面的２１８号道路\n有个很隐蔽的钓鱼胜地哦。
+嗯！\n破钓竿也相当不错嘛！\f你也这么觉得吧？
+嗯！\n你很让我满意！\r嗯！\n{STRVAR 8,0}给你吧！\r
+只要有水的地方\n都可以钓鱼！\r顺便问一下,钓鱼竿怎么用\n需要我说明吗？
+你讨厌钓鱼？
+首先,对着水面使用钓鱼竿！\n然后集中注意力！\r精灵一上钩\n就会出现「！」,\f这时迅速按Ａ提起钓竿！
+钓精灵就是一场战斗！\n钓到了还有一次战斗！\f加在一起是２次战斗！

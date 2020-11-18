@@ -1,2 +1,2 @@
-Your Pokémon has a \n{STRVAR 7, 0} nature?\rDid you know that a Pokémon’s nature\ndetermines how it will grow?
-This area had many Pokémon from\nthe olden days.\rThey say there were big Pokémon\nranches ’round these parts.
+你的精灵性格是\n「{STRVAR 7,0}」啊！\r你知道吗？\n性格与培育方法是两回事！
+这附近从以前\n就有很多精灵,\f有很多很多什么\f牧场之类的！

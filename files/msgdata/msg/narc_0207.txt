@@ -1,128 +1,128 @@
-Welcome to the Pokémon Communication\nClub Colosseum.\rYou may battle with your friends\nhere.\r
-Which Battle Mode would you like\nto play?
-There are four Battle Modes.\rSingle Battle is for two Trainers\nwith one or more Pokémon each.\rEach Trainer can have one Pokémon\nin battle at a time.\rDouble Battle is for two Trainers\nwith two or more Pokémon each.\rEach Trainer will send out two\nPokémon to battle at a time.\rMix Battle is for two Trainers\nwith three Pokémon each.\rEach Trainer chooses one of the\nopponent’s Pokémon, mixes them\rwith their own party, and then\nbattles the other Trainer.\rMulti Battle is for four Trainers\nwith one or more Pokémon each.\rEach Trainer can have one Pokémon\nin battle at a time.\r
-                                                                                                                                                                                                                                                                          
-                                         
-                                
-For a Double Battle, you must\nhave at least two Pokémon.
-                           
-                                   
-Would you like to save the game?
-                               
-                                   
-                         
-                
-                          
-Please do visit again.
-Communication error.\rPlease repeat the registration\nprocess from the beginning.
-            
-                 
-                         
-            
-           
-Please decide which of you two\nwill become the leader.\rThe other player must then choose\n“JOIN GROUP.”
-                        
-                   
-                          
-                      
-                             
-                                  
-                     
-             
-                         
-                         
-                          
-                             
-                            
-                             
-                             
-                            
-                             
-                                
-                 
-                 
-Please decide which of you four\nwill become the group leader.\rThe other players must then choose\n“JOIN GROUP.”
-Please choose the leader\nfor a Multi Battle.
-{STRVAR 3, 0} was asked to register\nyou as a member. Please wait.
-{STRVAR 3, 0} replied, “No...”
-{STRVAR 3, 0} OK’d your registration\nas a member.
-Multi Battle!\nAwaiting other members!
-Multi Battle! Awaiting\ncommunication from another player.
-Cancel the Multi Battle Mode\nwith these members?
-{STRVAR 3, 0} contacted you.
-The members have gathered.\nPlease enter the room.
-                                              
-                       
-                 
-             
-Welcome to the Pokémon Wireless\nClub Union Room.\rYou may interact directly with\nmany Trainers here.\rWould you like to enter the room?
-The Trainers in the Union Room\nwill be those players around you\fwho have also entered the room.\rYou may enter two Pokémon up to\nLv. 30 for a one-on-one battle.\rOr, you may trade your Pokémon here\nwith another Trainer.\rYou may also mix records or draw\nwith other players.\rYou may also chat with other\nplayers in the room.\r...Or find friends by touching\nthe spoken words.\rWould you like to enter the room?
-Would you like to save the game?
-There is already a saved file.\nIs it OK to overwrite it?
-Saving...\nDon’t turn off the power.
-{STRVAR 3, 0} saved the game.
-I hope you enjoy your time in\nthe Union Room.\r
-                                                                                            
-                                                                                                                   
-                              
-                               
-                                   
-                         
-                                                               
-                         
-                                 
-                            
-                              
-                        
-                
-                          
-                           
-                                                                                                
-                                                                                                                                                              
-                                                                                       
-                                                                                           
-                                                            
-                                                                                     
-                                                                                                         
-                                                                 
-                                                               
-                         
-                                                                           
-                          
-                                                                         
-     
-     
-    
-     
-    
-                      
-    
-    
-   
-    
-You may sign the back of your\nTrainer Card here.\r
-Would you like to sign your\nTrainer Card?
-Please do visit again.
-You may sign the back of your\nTrainer Card here.\rYou may show your signature to\nother players in the Union Room.\rIf you write a new signature, the\nold one will be deleted, however.\fPlease be aware of that.\r
-Which set of rules would you like\nto use?
-You need at least {STRVAR 50, 1} Pokémon that\nqualify under {STRVAR 26, 0} Cup\frules.
-        
-       
-      
-      
-      
-{STRVAR 26, 0} Cup
-CANCEL
-CONFIRM
-RULES
-                            
-                          
-                            
-                 
-It’s impossible to form a team of\nPokémon that qualify under the\r{STRVAR 26, 0} Cup rules with a\ntotal level limit of {STRVAR 52, 1}.
-                  
-NO RESTRICTIONS
-DS Wireless Communications will be\nlaunched.
-For a Multi Battle, you must have\nat least three Pokémon.
-For a Mix Battle, you must have\nat least three Pokémon.
-You have at least one Pokémon\nthat can’t be taken.
+精灵通信组\n欢迎来到通信对战！\r这里可以尽情享受\n与朋友和精灵对战的乐趣\r
+进行哪种对战？
+对战有\n４种模式,\r单人对战是\n每人使用１只精灵\f进行对战,\r双人对战是\n每人使用２只精灵\f进行对战,\r混合对战是\n互相选择３只精灵\f与自己的精灵\f进行混战,\r配合对战是\n４人\f各使用１只精灵\f进行２对２的对战。\r
+对战双方\n需要选择同样的模式,\r一般对战\r没有特别的规则,\n可以使用喜欢的精灵来对战。\r粉丝杯是\n可爱的精灵专用对战,\r金黄杯是\n黄色的精灵专用对战,\r珍珠杯是\r白色精灵和\n水系精灵专用对战,\r钻石杯是\r钢类型专用对战,\r也可以使用规则之书\n自己限定规则\f进行对战,\r但是\r对战双方\n必须要选择\f相同的规则。\r
+一般对战？\r或者制定规则的对战？
+使用规则之书中的\n什么规则进行对战？
+双人对战\n需要２只精灵
+混合对战\n需要６只精灵
+粉丝杯无法使用\n等级３０以上的精灵
+要记录到现在为止的\n游戏进度吗？
+覆盖上次的游戏记录,\n可以吗？
+记录中,\n请勿切断电源
+{STRVAR 3,0}\n记录完毕！
+请选择对战规则
+接下来请选择和对方\n相同的规则
+欢迎下次再来
+通信错误\n请重新进入
+通信状态很差…
+对方的信号\n很差…
+有的成员\n信号很差
+开除队员吗？
+队员被开除了
+选择两人中的一人\n作为组长,\r再选择另一人\n加入小组
+单人对战！\n请选择组长
+正在等待{STRVAR 3,0}\n的回应
+{STRVAR 3,0}\n回应ＮＧ…
+{STRVAR 3,0}\n回应ＯＫ！
+单人对战！\n正在等待朋友的回应
+{STRVAR 3,0}\n发来信号！\r进行单人对战吗？
+{STRVAR 3,0}\n回应ＯＫ！
+请进房间！
+请选择进行单人对战\n的朋友
+请选择进行双人对战\n的朋友
+请选择进行混合对战\n的朋友
+单人对战！\n正在等待朋友的回应
+双人对战！\n正在等待朋友的回应
+混合对战！\n正在等待朋友的回应
+{STRVAR 3,0}发来信号了！\n进行单人对战吗？
+{STRVAR 3,0}发来信号了！\n进行双人对战吗？
+{STRVAR 3,0}发来信号了！\n进行混合对战吗？
+请选择\n参战的精灵
+正在等待{STRVAR 3,0}\x0000の\n的选择
+对战取消
+请从4人中\n请选择一人作为组长,\r由组长选择\n加入小组的成员
+配合对战！\n请选择组长
+请选择成员加入{STRVAR 3,0},\n请稍候
+{STRVAR 3,0}\n回应ＮＧ
+{STRVAR 3,0}\n加入回应ＯＫ！
+配合对战！\n正在等待其他成员！
+配合对战！\n正在等待朋友的信号
+取消和这个成员\n进行配合对战吗？
+{STRVAR 3,0}\n发来信号了！
+成员到齐了！\n请进房间！
+成员到齐了！\r请选择参赛的精灵
+正在等待\n其他成员的选择！
+对战取消了
+请进房间！
+欢迎来到口袋无线俱乐部\n通信大厅！\r这里可以遇到很多的朋友,\n进入大厅吗？
+在通信大厅里能够显示在你附近\n正在使用无线通信大厅的人,\r在这里可以进行等级30以下\n精灵的1对1对战,\f交换携带着的精灵,\f查看大家的纪录,\f一起画画等等\f很多有趣的事情,\r还可以找朋友\n一起聊天,\r要进入大厅吗？
+要记录到目前为止的\n游戏记录吗？
+需要覆盖掉上次的记录,\n继续吗？
+记录中,\n请不要切断电源
+{STRVAR 3,0}\n记录完毕！
+请尽情享受\n无线通信大厅的乐趣！\r
+欢迎来到口袋通信俱乐部\n纪录处！\r在这里可以和朋友一起\n享受到很多\f在冒险之外更加有趣的事情,\r进入房间吗？
+在纪录处\n可以和朋友交换分享\f在冒险中碰到的\f各种各样的有趣的事情,\f更多地聚集在一起！\r支持２人至１６人一起游戏。
+到目前为止的游戏进度\n进行记录吗？
+覆盖掉上次的记录,\n可以吗？
+记录中,\n请不要切断电源
+{STRVAR 3,0}记录完毕！
+请选择一人作为\n纪录交换组群的组长,\r由组长选择加入组员
+欢迎来到纪录处！\n请选择组长
+{STRVAR 3,0}\n发送来的ＯＫ信号！
+欢迎来到纪录处！\n正在等待其他成员！
+欢迎来到纪录处！\n正在等待朋友的回应
+等待其他成员中,\n请稍候
+要终止\n纪录交换吗？
+１６人到齐了\n要开始吗？
+成员到齐了！\n请进房间！
+您好！\n您是第一次进行无线通信吧？\r我是为你带路的奥娜,\n请跟我前往精灵中心２楼,\f请走这边！\r
+在口袋中心２层有３个房间,\n左侧的房间是无线通信大厅！\f可以在通信大厅中遇到附近的\f使用无线通信大厅的其他玩家,\r在这里可以进行\n精灵交换或画画等等\f很多很多有趣的事情！\r接下来前往下一个房间！
+中间的房间是联机对战房间！\n可以和你的朋友进行精灵对战,\f请尽情享受战斗的乐趣！\r接下来请前往下一个房间！
+右侧的房间是游戏纪录处！\r和朋友一起分享\n游戏中经历的快乐吧！\r解说完毕,\r请尽情享受无线通信的乐趣吧！
+你好！{STRVAR 3,0}！\r我是精灵中心２楼\n为你带路的奥娜,\f在通信中有遇到什么麻烦吗？
+下面说明\n在口袋无线俱乐部的游戏方式！\r口袋中心２楼有３个房间,\n要听取哪个房间的说明呢？
+左侧的房间是通信大厅！\n可以与现在在玩家附近的\f正在使用通信大厅的其他玩家\f进行精灵交换或画画等等,\f可以进行很多很多的交流！
+中间的房间是联机对战房间！\r可以和朋友进行口袋对战！
+右侧的房间是游戏纪录处！\r和朋友一起分享\n游戏中经历的快乐吧！
+要听取其他房间的说明吗？
+如果接收不到朋友的信号,\n请把ＤＳ主机离朋友近一些,\r请尽情享受无线通信的乐趣吧！
+尽情享受\n口袋无线通信俱乐部的乐趣吧！
+欢迎来到华丽大赛通信接待处！\r在这里可以和朋友一起\n参加华丽大赛,\r参加哪种类型的华丽大赛？
+帅气
+美丽
+可爱
+强壮
+聪明
+参加什么级别的华丽大赛？
+普通
+超级
+困难
+大师
+这里您可以在\n训练师卡片的背面签名\r
+在训练师卡片上签名吗？
+欢迎下次光临
+在这里可以将你的签名\n写到训练师卡片的背面上。\r写好的签名\n可以在无线通信大厅\f向朋友们展示！\r另外,\n修改过后原来的签名会消失,\f请注意！\r
+请选择战斗规则
+满足{STRVAR 26,0}杯\n战斗规则的精灵\f至少需要{STRVAR 50,1}只以上！
+粉丝杯
+金黄杯
+飞鸟杯
+中级杯
+蛇眼杯
+{STRVAR 26,0}杯
+放弃
+确定
+查看规则
+双方所选择的规则不一样！
+请选择参赛的精灵
+请稍等\n……按Ｂ键取消
+对战取消了
+参加{STRVAR 26,0}杯的精灵\f队伍的等级总和\f不能超过{STRVAR 52,1}！
+请选择战斗规则
+没有限制
+ＤＳ无线通信启动
+进行配合对战\n需要持有３只以上的精灵
+进行混合对战\n需要持有３只以上的精灵
+持有无法进入的\n精灵

@@ -1,5 +1,5 @@
-Feel free to take a power nap in\nthat bed.\rAs you can see, this lodge is beat\nup. Do what you like here.
-I don’t have Thick Fat like some\nPokémon, so I have to bundle up\fin clothes to keep warm.
-It’s a bed...\nWant to take a rest?
-{STRVAR 3, 0} quickly fell asleep\nin the bed...\r
-{STRVAR 3, 0} and the Pokémon\nbecame fully healed from the rest!
+找家有床的店投宿！\r就和你看到的一样\n这里是能让我歇歇的小屋。
+我就像精灵一样,\n如果没有厚脂肪的话\f就要多穿点了。
+这里有床……！\n稍微休息一下吧？
+{STRVAR 3,0}一躺下\n就安稳的睡着了……\r
+{STRVAR 3,0}和精灵\n经过休息又精神十足了！

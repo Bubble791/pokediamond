@@ -1,8 +1,8 @@
-Thank you so much for participating!\rPlease wait while I save the game.\nDon’t turn off the power.
-We hope to see you again!
-Your Pokémon will be restored to\nfull health.
-Up next, opponent pair no. {STRVAR 50, 0}.\nAre you ready?
-Would you like to save and\nquit the game?
-Would you like to cancel your\nBattle Room challenge?
-You have chosen to retire from\nthis Battle Room challenge.
-Awaiting response from a friend...
+辛苦您了！\r游戏记录中,\n请不要切断电源
+那么,期待您的再次光临！
+现在为您的精灵\n回复体力
+接下来是第{STRVAR 50,0}个对手！\n准备好了吗？
+记录后\n要中断游戏吗？
+要中止挑战吗？
+选择了弃权,\n挑战中止。
+等待朋友的选择……

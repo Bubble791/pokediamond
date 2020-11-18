@@ -1,4 +1,4 @@
-CONFIRM
-CANCEL
-Please enter a phrase or word.
-Stop giving the Pokémon\nMail?
+决定
+取消
+请输入内容
+放弃让精灵\n携带邮件吗？

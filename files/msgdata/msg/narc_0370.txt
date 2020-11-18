@@ -1,79 +1,79 @@
-Welcome to Mystery Gift!
-Please choose how you want to\nreceive your gift.
-DS Wireless Communications will\nbe launched.
-Searching for a gift.\nPlease wait...
-Receive this gift?
-Search for a different gift?
-Your request has been sent.\nPlease wait a moment...
-Receiving your gift.\nDon’t turn off the power.
-The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.
-This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your friends.\rWill you accept this gift?
-                   
-Pokémon Ranger\nMANAPHY Egg Transfer
-RECEIVE GIFT
-CHECK CARD
-EXIT
-GET FROM A FRIEND
-GET VIA NINTENDO WFC
-CANCEL
-YES
-NO
-GET VIA WIRELESS
-Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.
-You’ve already received this gift.\nYou may not get another one.
-There were no gifts to be found.
-Your request was turned down.
-You are out of room for\nWonder Cards.\rYou may not accept another gift.
-There was a problem with\nreceiving the gift.\rPress the A Button to return to\nthe title screen.
-A gift has been found, but it cannot\nbe received using this version.\rPress the A Button to return to\nthe menu.
-The person sharing has\nbeen disconnected...
-                     
-Press the A Button.
-                          
-               
-                    
-Please touch Pokémon Ranger’s\ngame screen.
-                     
-Wonder Card
-Please pick up your gift from the\ndeliveryman in any Poké Mart.
-You have already received\nthis gift before.
-This card does not have\na gift attached.
-Date received
-This gift can be distributed {STRVAR 52, 0} time(s).
-INFO
-SHARE
-TRASH
-EXIT
-Would you like to share this gift?
-YES
-NO
-{STRVAR 74, 1} {STRVAR 51, 2}, {STRVAR 53, 0}
-               
-This gift can be shared with as\nmany friends as you like.
-Pal Distribution Registration
-{STRVAR 3, 0}
-IDNo.{STRVAR 54, 0}
-Current\nentries
-{COLOR 1}{STRVAR 50, 0}{COLOR 0}/4
-SEND
-CANCEL
-Gift distribution under way...\nDon’t turn off the power.
-Your gift distribution\nwas successful.
-Throw this card away?
-                                
-Discarding...\nDon’t turn off the power.
-YES
-NO
-{COLOR 3}{STRVAR 3, 0}{COLOR 2} {COLOR 0}IDNo.{STRVAR 54, 1}
-         
-Registration No.
-{STRVAR 53, 0}-{STRVAR 53, 1}
-Receiving a solicitation from\nPokémon Ranger.
-Awaiting transfer from Pokémon\nRanger.
-Receiving the MANAPHY Egg...\nDon’t turn off the power.
-The transfer has been completed.\nA Button: Title screen
-The connection with Pokémon Ranger\nhas been lost...
-                              
-        
-DS Wireless Communications\nwill be launched.
-Connect to Nintendo Wi-Fi Connection?
+欢迎接收神秘礼物！
+请选择\n由哪一位接受礼物
+开始ＤＳ无限通信
+正在寻找礼物\n请稍等……
+接受这份礼物吗？
+寻找其它的礼物吗？
+已提出申请\n请稍等……
+正在接收礼物\n请不要关闭电源……
+收到礼物了！\r去商店的邮递员处\n领取吧！
+这份礼物是其他人分送的,\n收下后不能分给朋友,\r要接受这份礼物吗？
+没有神秘卡片
+ＲＡＮＧＥＲ\n玛娜菲之蛋 接收
+接受礼物
+查看卡片
+放弃
+从朋友处接收
+通过ＷｉＦｉ接收
+返回
+是
+不是
+通过无线通信接受
+邮递员处有很多礼物！\r请去商店\n收取礼物
+这份礼物已经接受过,\n无法再次接受！
+没有找到礼物
+申请被拒绝了
+有太多神秘卡片了！\n无法接收礼物！
+接收礼物失败\r请按Ａ键\n返回标题
+找到礼物了\n但在这个版本里\f无法接收\f按Ａ键返回目录
+与进行分送的人的通信\n被切断了
+正在连接\nＲＡＮＧＥＲ
+请按Ａ键
+正在记录\n请稍等
+正在转送蛋
+接收蛋失败
+请触摸\nＲＡＮＧＥＲ的画面
+等待\nＲＡＮＧＥＲ的准备
+神秘卡片
+请去商店的邮递员处\n领取礼物
+这份礼物\n已被接受
+这张卡片里\n没有礼物
+接收日期
+这份礼物\n可以分给朋友{STRVAR 52,0}次
+阅读说明
+分送
+丢弃
+放弃
+要分送吗？
+是的
+不是
+{STRVAR 53,0}／{STRVAR 51,1}／{STRVAR 51,2}
+如何使用这张卡片？
+这份礼物可以\n无限次分给朋友
+朋友接受通信中
+{STRVAR 3,0}
+ＩＤＮｏ．{STRVAR 54,0}
+现在的报名申请
+{COLOR 1}{STRVAR 50,0}{COLOR 0}／４
+分配
+取消
+正在分送……\n请不要切断电源
+分送顺利完成！
+要丢弃这张卡片吗？
+还没有接收礼物\n要丢弃这张卡片吗？
+正在丢弃卡片……\n请不要切断电源
+是的
+不是
+{COLOR 3}{STRVAR 3,0}{COLOR 2} {COLOR 0}ＩＤＮｏ．{STRVAR 54,1}
+ＩＤＮｏ．{STRVAR 54,1}
+报名号
+{STRVAR 53,0}{STRVAR 53,1}
+正在接受\nＲＡＮＧＥＲ的申请
+正在等待\nＲＡＮＧＥＲ的转送
+正在接收玛娜菲之蛋\n请不要切断电源
+转送结束\n按Ａ键返回标题
+和ＲＡＮＧＥＲ的通信\n被切断了
+是从菲奥莱地区得到的\n玛娜菲之蛋！
+玛娜菲之蛋
+ＤＳ无线通信启动
+连接ＷｉＦｉ通信吗？

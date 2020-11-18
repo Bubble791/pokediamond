@@ -1,13 +1,13 @@
-Oh, hello!\nRight this way, please!\r
-Hello.\nI’m glad to meet you.\rMy name is Teala, and I’m your guide\nto the Pokémon Wi-Fi Club.\rFirst, I need to give you this.\r
-That’s your Pal Pad. You may register\nyour friends in it.\rOnce registered, you may link with\nthose friends over Nintendo WFC\rto trade Pokémon, battle,\nand so on.\rWould you like to know more?
-You may meet people on the second\nfloor of a Pokémon Center for trades\for Colosseum battles.\rYou may register such people as\nfriends in your Pal Pad.\rYou may also manually register friends\nby entering their Friend Codes into\fyour Pal Pad.\rWould you like me to repeat that?
-I hope you enjoy using Nintendo\nWFC!
-Welcome to the Pokémon Center Wi-Fi\nClub!\rMay I help you with anything?
-Let me explain how the Pokémon Wi-Fi\nClub is set up.\rFrom the center counter, you may\nuse Nintendo WFC.\rOver Nintendo WFC, you may\nconduct trades and battles with\rfriends that you have registered\nin your Pal Pad.
-Welcome to the Pokémon Wi-Fi Club!\rWould you like to use Nintendo WFC?
-Please come again.
-Would you like to launch\nNintendo WFC?
-Right this way, please.\r
-...Oh?\rI’m sorry, but you don’t have any\nfriends registered in your Pal Pad.\rThe Wi-Fi Club cannot be used if\nno friends are in your Pal Pad.\rWould you like to get your own\nFriend Code at least?
-...Oh?\rI’m sorry, but you don’t have any\nfriends registered in your Pal Pad.\rThe Wi-Fi Club cannot be used if\nno friends are in your Pal Pad.\rPlease register friends in your Pal\nPad, and then come back.
+请您到这边来！\r
+您好！\n我是口袋ＷｉＦｉ俱乐部\f的招待员奥娜。\r首先请收下这个！\r
+使用这个朋友手册\n可以与已经登录的朋友\r通过ＷｉＦｉ连接\n进行口袋对战,精灵交换等\f很多有意思的事情。\r需要详细说明吗？
+在口袋中心２Ｆ\n进行精灵交换,联机对战时,\r可以把对方登录在朋友手册上。\f或者也可以把获得的朋友号码\f直接登录在朋友手册上。\r需要再次进行说明吗？
+那么,请尽情享受\nＷｉＦｉ连接的乐趣！
+欢迎来到\n口袋ＷｉＦｉ俱乐部！\r有什么需要帮忙的？
+在口袋ＷｉＦｉ俱乐部的\n游戏方法进行说明！\r在中间的房间里\n可以进行ＷｉＦｉ连接！\r通过ＷｉＦｉ连接\n可以与已经在\f朋友手册里登录的朋友\f进行通信对战,通信交换等等\f很多有意思的事情！
+欢迎来到\n口袋ＷｉＦｉ俱乐部！\r要使用ＷｉＦｉ连接吗？
+欢迎下次再来。
+开始进行ＷｉＦｉ连接吗？
+那么请到这边！\r
+……哦呀？\r您还没有在朋友手册里\n登录任何朋友呢,\r如果在朋友手册里\n没有登录朋友的话,\f是不能够使用\fＷｉＦｉ俱乐部的。\r您的朋友号码\n一个也没有吗？
+……哦呀？\r您还没有在朋友手册里\n登录任何朋友呢,\r如果在朋友手册里\n没有登录朋友的话,\f是不能够使用\fＷｉＦｉ俱乐部的。\r请登录了朋友以后\n再来光临

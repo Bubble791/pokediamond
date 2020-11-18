@@ -1,8 +1,8 @@
-Look! These are Poké Balls!\nLet’s battle using these!\r
-{COLOR 3}Tiny Leaf Pokémon TURTWIG{COLOR 0}!\nWill you take this Pokémon?
-{COLOR 1}Chimp Pokémon CHIMCHAR{COLOR 0}!\nWill you take this Pokémon?
-{COLOR 2}Penguin Pokémon{COLOR 0} {COLOR 2}PIPLUP{COLOR 0}!\nWill you take this Pokémon?
-                        
-                       
-                         
-Eh...?\nWhich one do you want, then?
+是精灵球！！\n这样就可以战斗了！\r
+{COLOR 3}嫩叶精灵{COLOR 0} {COLOR 3}嫩苗龟{COLOR 0}\n选择这只精灵吗？
+{COLOR 1}小猴精灵{COLOR 0} {COLOR 1}小火猴{COLOR 0}\n选择这只精灵吗？
+{COLOR 2}企鹅精灵{COLOR 0} {COLOR 2}圆企鹅{COLOR 0}\n选择这只精灵吗？
+
+
+
+要……\n要使用哪只精灵？

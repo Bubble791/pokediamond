@@ -1,33 +1,33 @@
-Hello!\nI’m with Jubilife TV!\rMay I hit you up for a quick\ninterview?
-Oh, that’s too bad.\nI hope you can oblige another time!
-Thank you for sharing your thoughts\nwith us.\rWe’ll be featuring this interview in\nan upcoming TV program.\rPlease do tune in and see how you\nlook on TV!
-       
-Thank you very much!\nLet’s not waste any time...\rSo, may I hear about your Battle\nTower challenge?\rCan you tell me what you’re feeling\nnow?\r
-       
-Thank you very much!\nLet’s not waste any time...\rYour {STRVAR 0, 0} is quite appealing,\nisn’t it?\rMay I have your comment on your\n{STRVAR 0, 0}?\r
-       
-Thank you very much!\nLet’s not waste any time...\rMay I ask you which Pokétch app you\nuse the most?\r...The {STRVAR 24, 0}...\nI see!\rMay I have your comment on\nthe {STRVAR 24, 0}?\r
-Thank you very much!\nLet’s not waste any time...\rSo, may I hear about your Contest\nchallenge?\rCan you tell me what you’re feeling\nnow?\r
-       
-Thank you very much!\nLet’s not waste any time...\rMay I have your comment on\nthe finished photograph?\r
-Thank you very much!\nLet’s not waste any time...\rPlease select your favorite Pokémon\ntype from this list.\r
-Thank you very much!\nLet’s not waste any time...\rCan you describe your feelings\nabout preparing Poffins?\r
-       
-Thank you very much!\nLet’s not waste any time...\rI’d like to hear about your stroll\nwith your {STRVAR 0, 0}.\rCan you tell me what you’re feeling\nnow?\r
-Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
+您好！\n长寿电视台新闻采访！\r有什么想要说的吗？
+哎呀呀,那太遗憾了！\n下次的节目还要拜托了！
+非常感谢你！\r本次采访的内容\n在节目播放后一定会有\f很高的收视率！
+
+非常感谢！\r那么……\n挑战战斗塔辛苦了！\r请来说一说\n现在的心情吧！\r
+
+非常感谢！\r那么……\n那个{STRVAR 0,0} 感觉不错呢！\r使用{STRVAR 0,0} \n的感觉如何呢！\r
+
+非常感谢！\r那么……\n你现在使用的\f口袋手表功能是什么呢？\r……{STRVAR 24,0} 啊ー\n原来如此ー！\r那么,使用{STRVAR 24,0} \n的感觉如何呢！\r
+非常感谢！\r那么……\n挑战华丽大赛辛苦了！\r请来说一说\n现在的心情吧！\r
+
+非常感谢！\n那么……\r请来说一说\n已经获得的照片的感想吧！\r
+非常感谢！\n那么……\r请从这些中\n选择你所喜欢的精灵的属性！\r
+非常感谢！\n那么……\r已经制作了松饼,\n请来说一说现在的心情吧！\r
+
+非常感谢！\n那么……\r和{STRVAR 0,0} 散步之后\n请来说一说现在的心情吧！\r
+普通
+火
+水
+电
+草
+冰
+格斗
+毒
+地面
+飞行
+超能
+虫
+岩
+鬼
+龙
+恶
+钢

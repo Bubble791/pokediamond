@@ -1,9 +1,9 @@
 HP
-Attack
-Defense
-Speed
-Sp. Atk
-Sp. Def
-accuracy
-evasiveness
-Max. HP
+攻击
+防御
+速度
+特攻
+特防
+命中率
+回避率
+最大HP

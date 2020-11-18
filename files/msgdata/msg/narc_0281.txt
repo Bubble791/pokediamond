@@ -1,17 +1,17 @@
-{SIZE 200}Thud!!{SIZE 100}\r
-What the...\r
-Whoops, sorry about that!\nI was in a rush.\r
-Oh, wait a second...\nAren’t you...\rYou’re {STRVAR 3, 1} from Twinleaf!\nWow, that brings back memories!\rSo, if you’re here, he can’t be far\nbehind...\rThis should be fun.\nSee you!\r
-{SIZE 200}Thud!!{SIZE 100}\r
-{STRVAR 3, 0}: What the...\rOh, hey, {STRVAR 3, 1}!\rYou came to the Battle Tower too,\nhuh?\rI decided I’ll see how I measure up\nbefore going to Stark Mountain.\rBut that guy you were just talking\nto...\r...Nah, it’s all right!\nI got here on my own power.\fIt won’t take long before I see him.\rSee ya, {STRVAR 3, 1}!\nI’m going to toughen up here!\r
-{STRVAR 3, 0}: What the...\rOh, hey, {STRVAR 3, 1}!\rYou came to the Battle Tower too,\nhuh?\rI decided I’ll see how I measure up\nfor my quest to be the greatest!\rBut that guy you were just talking\nto...\r...Nah, it’s all right!\nI got here on my own power.\fIt won’t take long before I see him.\rSee ya, {STRVAR 3, 1}!\nI’m going to toughen up here!\r
-Exchange Service Corner\nA Cornucopia of Fabulous Prizes!
-Battle Tower\nGather, All Ye Greatest!
-In the Battle Rooms, the seventh\nTrainer you face is the room’s boss.\rYou’ll need to stay focused if you\nwant to win!
-If you get a big win streak at the\nBattle Tower, you get to battle\fsome real superstars.
-Mwahahaha! We earned a lot of BP\nat the Battle Tower.\rNow I can exchange them for\nloads of prizes!
-Aah.
-I’m a babysitting Trainer!\rI’m off to the Multi Battle Rooms\nwith my beloved son!
-I heard that the world’s best\ngather here for battles.\rThis is my chance to get global\nfame and recognition!
-The types of Pokémon!\rThe moves to be taught and used!\rThe items to be held!\rTo become number one here, there is \nno detail that can be overlooked!
-I’d love to hook up with a Beauty\nfor the Multi Battle Rooms.
+{SIZE 200}咚！！{SIZE 100}\r
+怎么了！\r
+啊,抱歉,\n我有急事！\r
+哎呀,你是……！？\r双叶镇的{STRVAR 3,1}对吧,\n真怀念啊！\f这么说来你也要去吗……？\n真是让人期待啊,再见了！\r
+{SIZE 200}咚！！{SIZE 100}\r
+{STRVAR 3,0}『谁啊！\r是{STRVAR 3,1}啊！\n你也来战斗塔吗？\n在没去坚硬火山之前,\f稍微在这里试炼一下！\r而且刚才那个人……\r……好！\n终于到了这里！\f好长时间没看到他了！\r再见！{STRVAR 3,1}！\n我会在这里变强的！！\r
+{STRVAR 3,0}『谁啊！\r咦,{STRVAR 3,1}！\n你也来战斗塔吗？\n我也要成为最强,\f先在这里试试分量！\r不过,刚才那个人……\r……好！\n终于到这里来啦！\f再过不久就能见到了！\r再见！{STRVAR 3,1}！\n我会在这里变强的！！\r
+这里是点数兑换中心\n有像山一样多的赠品
+在这战斗塔聚集！\n最强训练师！！
+战斗房间的第７人\n是那个房间的首领！\r不鼓足干劲可不行啊！
+在战斗房间里有很多一直战斗到\n取得最后的胜利的厉害的家伙,\f也有为了进行对战而来的人呢！
+哇哈哈哈哈！！\r得到了大笔大笔的ＢＰ了！\n不管什么都能兑换了啊！
+啊
+我是带着小孩的训练师,\r和我心爱的孩子一起\n在配合对战房间对战。\f走吧！
+听说在这里\n可以和世界各地的高手们对决！\r这是让我名扬天下的好机会！
+精灵的类型！\r习得的技能！\r携带的道具！\r以第一名为目标的话\n所有的因素都不能大意！
+我和姐姐想进行配合对战！

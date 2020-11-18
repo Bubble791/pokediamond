@@ -1,10 +1,10 @@
-Oh, hello! It’s been a while since\nour last customer!
-Putting on a pair of glasses changes\nhow the world looks.\rTaking off a pair of glasses changes\nhow the world looks, too. Deep, man.\r
-So, would you like to change how\nthe world looks to your Pokémon?\r
-Morning is the start of a new day.\rPut on the Choice Specs and make\nthe right choices.\r
-The sunlight is bright in the day.\nHow about a pair of BlackGlasses?\r
-At night, reflect on what you’ve\nlearned with the Wise Glasses.\r
-Choice Specs make the Pokémon use\nonly one kind of move.\rBut they also raise the Pokémon’s\nSpecial Attack stat.
-BlackGlasses raise the power of\nDark-type moves.
-The Wise Glasses boost the power of\nspecial moves.
-Your Bag is full!
+哎呀,\n真是难得一见的稀客啊！
+戴上眼镜\n世界是一个样子,\r摘下眼镜\n世界是另一个样子。\r
+这么说回到你的\n精灵的世界吗？\r
+早晨是一天的开始\n专爱眼镜不错吧！\r
+白天阳光耀眼\n带上黑色眼镜怎么样？\r
+夜晚是学习的时间\n带上智慧眼镜学习吧！\r
+带上专爱眼镜的话,\n虽然只能用相同的技能,\f但是特殊攻击会很强！
+带上黑色眼镜的话,\n恶系技能的威力会加强！
+带上智慧眼镜的话,\n特殊攻击的威力会加强！
+你的包\n放满了！

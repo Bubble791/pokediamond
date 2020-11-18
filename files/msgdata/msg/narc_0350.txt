@@ -1,38 +1,35 @@
-It’s soft, earthy soil.\r
-{STRVAR 8, 0} has been laid down.\r
-FERTILIZE
-PLANT BERRY
-EXIT
-Put down some fertilizer?
-YES
-NO
-Want to plant a Berry?
-YES
-NO
-The {STRVAR 8, 0} was scattered\non the soil.\r
-The {STRVAR 8, 0} was planted\nin the soft, earthy soil.
-{STRVAR 8, 0} was planted\nhere.\r
-The {STRVAR 8, 0} Berry Plant\nhas sprouted.\r
-This {STRVAR 8, 0} Plant is growing\nbigger.\r
-This {STRVAR 8, 0} Plant is\nin bloom!\r
-Want to sprinkle some water?
-YES
-NO
-There! All happy!
-There are {STRVAR 51, 1} {STRVAR 8, 0}!\nWant to pick them?
-YES
-NO
-{STRVAR 3, 0} left the {STRVAR 8, 1}\nwhere they were.
-You picked the {STRVAR 51, 1} {STRVAR 8, 0}.\r
-Your Bag is full.\nThe {STRVAR 8, 0} couldn’t be taken.
-{STRVAR 3, 0} put away the {STRVAR 8, 1}\nin the Bag’s {STRVAR 18, 3} Pocket.\rThe soil returned to its soft and\nearthy state.
-It’s soft, earthy soil.
-{STRVAR 8, 0} has been laid down.
-The {STRVAR 8, 0} was scattered\non the soil.
-{STRVAR 8, 0} was planted\nhere.
-The {STRVAR 8, 0} Berry Plant\nhas sprouted.
-The {STRVAR 8, 0} Plant is growing\nbigger.
-This {STRVAR 8, 0} Plant is\nin bloom!
-There is {STRVAR 8, 0}!\nWant to pick it?
-{STRVAR 3, 0} left the {STRVAR 8, 1}\nwhere it was.
-You picked the {STRVAR 8, 0}.\r
+很软的土地\r
+施用了{STRVAR 8,0}\r
+施肥
+种树果
+取消
+施肥吗？
+是
+不是
+种树果吗？
+是
+不是
+把{STRVAR 8,0}\n施用在土里上了！\r
+把{STRVAR 8,0}\n埋进很软的土地里了！
+是种{STRVAR 8,0}的地方！\r
+{STRVAR 8,0}发芽了！\r
+{STRVAR 8,0}的树干变粗了！\r
+{STRVAR 8,0}开花了！\r
+用水壶浇水吗？
+是
+不是
+好像很高兴！
+{STRVAR 8,0}结了{STRVAR 51,1}个果实！\n要摘下树果吗？
+好的
+不要
+{STRVAR 3,0}\n没有动{STRVAR 8,1}
+得到{STRVAR 51,1}个{STRVAR 8,0}！\r
+包里已经装满了,\n放不进{STRVAR 8,0}了
+{STRVAR 3,0}把{STRVAR 8,1}\n{STRVAR 18,3}放进口袋里了！\r变回了很软的土地
+很软的土地
+施用了{STRVAR 8,0}
+把{STRVAR 8,0}\n施用在土里上了！
+是种{STRVAR 8,0}的地方！
+{STRVAR 8,0}发芽了！
+{STRVAR 8,0}的树干\n变粗了！
+{STRVAR 8,0}\n开花了！

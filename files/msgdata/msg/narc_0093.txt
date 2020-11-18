@@ -1,8 +1,8 @@
-You need a Bicycle to go out on\nCycling Road!
-You need a Bicycle to go out on\nCycling Road!\r
-Learn how to shift gears, and you’ll\nbe able to ride anywhere.
-{STRVAR 3, 0}, long time, no see!\rOh? You look puzzled.\nYou’re wondering who I am.\rI’m Professor Rowan’s assistant and\n{STRVAR 3, 1}’s father.\rI’ve come a long way to help you on\nyour adventure at the professor’s\fbehest.\r{STRVAR 3, 0}, let me ask you,\nhow many Pokémon have you met?\r
-{STRVAR 3, 0}, long time, no see!\rOh? You look puzzled.\nYou’re wondering who I am.\rI’m Professor Rowan’s assistant and\n{STRVAR 3, 1}’s father.\rI’ve come a long way to help you on\nyour adventure at the professor’s\fbehest.\r{STRVAR 3, 0}, let me ask you,\nhow many Pokémon have you met?\r
-Oh, my!\nYou’ve met {STRVAR 52, 1} Pokémon!\rWonderful! Yes, bravo!\nProfessor Rowan should be delighted!\rHere is something for you!\r
-A Pokémon holding an Exp. Share\nwill be given some of the Exp. Points\ffrom battle.\rIt will get Exp. Points even if it\ndidn’t actually battle.\rI would say an Exp. Share is quite\nuseful for raising weak Pokémon.\rAlso, a Pokémon you get in a trade\nmay disobey you if it is too high\fin level.\rDon’t worry, though. It will obey if\nyou have enough Gym Badges.
-You’ve met only {STRVAR 52, 1} Pokémon?\rHmm...\nYou’ve got to find at least 35.\rIf you can’t, it will be tough to\ncomplete the Sinnoh Pokédex.
+单车道是\n自行车的专用道路！\r请骑上自行车后再出发
+单车道是\n自行车的专用道路！\r请骑上自行车后再出发\r
+如果能熟练使用自行车类型转换的话\n不管什么样的路都可以顺利地通过了！
+{STRVAR 3,0}\n好久不见啊,\f怎么了？干吗那副表情？\r你问我是谁？\n我是山梨博士的助手\f{STRVAR 3,1}的爸爸呀！？\r博士拜托我来协助你的冒险\n我才跑到这里来的。\r那么,{STRVAR 3,0}！\n看看目前为止你已经\f见过多少种口袋妖怪了？\r
+{STRVAR 3,0}\n好久不见啊,\f怎么了？干吗那副表情？\r你问我是谁？\n我是山梨博士的助手\f{STRVAR 3,1}的爸爸呀！？\r博士拜托我来协助你的冒险\n我才跑到这里来的。\r那么,{STRVAR 3,0}！\n看看目前为止你已经\f见过多少种口袋妖怪了？\r
+居然有{STRVAR 52,1}只！\n非常好！太棒了！\f山梨博士知道了也会高兴的吧！\r把这个拿去吧！\r
+把那个学习装置给精灵带上,\n这样的话即使精灵不参加战斗\f也是可以获得经验的。\r要给弱小的精灵练级的话\n是很有用的！\r还有一点小小的提示！\n通过交换获得的精灵\f如果等级过高的话,\f是会无法控制的,\r要想让它们听话就要\n尽量地多获得口袋道馆徽章！
+居然才{STRVAR 52,1}只！\n嗯,好像有点……\f至少也得找到３５个才行吧！\r不然想得到神奥所有精灵的图鉴\n可会是很吃力的哟

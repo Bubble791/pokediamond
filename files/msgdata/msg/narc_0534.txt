@@ -1,8 +1,8 @@
-Buck: Yo, if it isn’t {STRVAR 3, 0}!\rDon’t tell me you’re going to Stark\nMountain, too?\rYou’re pretty wimpy...\nYou’re sure you’re going to be OK?\rHeh, why am I asking you that?\nIt’s not like I care.\rAnyways, if we see each other on\nStark Mountain, the race is on to\fsee who gets the Magma Stone first!\r
-Hey, traveling Trainer.\nIs your Bag full of items?\fOr is it full of dreams?
-Trainers who lose at the Battle\nTower come here to train.
-I’ve been exploring a long time,\nbut I know when I’m beaten.\rIt takes a better Trainer than me\nto explore the volcano thoroughly!
-I’m a Cameraman, obviously.\rHave you seen that TV program,\n“Search for the Red GYARADOS!”?\rYou know, “The mysterious\nappearance of a raging Pokémon in\fa lake”?\rYeah, that outstanding documentary!\nI filmed that!
-Oh man! Oh geez! Oh, this is bad!\nBut I’m a Cameraman, obviously!\rI have to stand firm and get this\non film for the world to see!
-I’m a Cameraman, obviously.\r“The Eruption of Stark Mountain?\nThe mystery of the fiery Pokémon\fasleep deep in the volcano!”\rI’ve had that documentary all mapped\nout in my head for a long time...\rBut I have nothing on film as of yet.\nSo much for that show.\rOh, well. The world’s a huge place.\nThere’re plenty of other mysteries!
-Survival Area\nStaging Point
+麦可『哦！{STRVAR 3,0}！\n什么？\f你也要去坚硬山脉？\f看上去弱弱的,没问题吧你？\f哎呀！反正跟我无关！\r要是在坚硬山脉遇到你的话,\n就比比谁先找到火山石,\f是比赛哦比赛！\r
+哟旅行的训练师,\n包里装满了道具？\f还是装满了梦想？
+这里是让在战斗塔被打败的\n训练师重新锻炼的场所！
+知道吗！\n那座火山不管是喷发还是平静\f都值得去冒险！
+我是如你所见的摄影师,\n你看过吗？\r「红色暴鲤龙！\n在湖里发现的愤怒的精灵！」\r那个很棒的电视节目\n是我摄影的！
+哇！\n我是如你所见的摄影师！\f不拍你这样的！
+我是如你所见的摄影师\r「坚硬山脉喷发？\n在火山里沉睡的火焰精灵！！」\r没法拍摄,\n转播也是不可能的……\r啊,好了,\n这宽广的世界上还有浪漫啊！
+这里是遗迹区域\n修行准备的地方

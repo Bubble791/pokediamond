@@ -1,7 +1,7 @@
-Whoa, whoa, whoa! What have we here?\nYou are so not Team Galactic!\fAnd you’re a little kid to boot!\rThose things we made with the energy\nwe took from the Valley Windworks\fare already in Pastoria City.\rHuh?\nThat’s not what this is about?
-Whoa, whoa, whoa! What have we here?\nYou are so not Team Galactic!\rAnd you’re a little kid!\nUmmm... Are you maybe a visitor?\rIf you’re a visitor, you can get to\nour HQ by taking those stairs.\rHuh?\nThat’s not what this is about?
-Whoa, whoa, whoa! Hold it there!\nDo you have the key?\rI don’t know if you do or not, but\na Storage Key is safe with our guard\fin front of the HQ.\rHuh?\nThat’s not what this is about?
-Whoa, whoa, whoa!\nWhat’s going on here?\rAll my fellow Team Galactic members\nhave disappeared!\rBut nobody relieved me from guarding\nthe warehouse, so I’m staying put!\rHuh?\nThat’s not what this is about?
-The rust-encrusted door is locked.\nIt appears to take a special key.\n
-The rust-encrusted door is locked.\nIt appears to take a special key.\rUse the Storage Key?
-{STRVAR 3, 0} inserted and turned the\nStorage Key.\rThe rusty door creaked open!\rThe Storage Key snapped off inside\nthe keyhole...
+喂喂！搞什么啊！\n怎么看你都不是银河团的啊！\f怎么把小孩放进来了！\r用发电厂抢来的能源\n做成的那玩意\f已经运到野濑市去了！\r哎？难道我搞错了？
+喂喂！搞什么啊！\n怎么看你都不是银河团的啊！\f怎么把小孩放进来了！\r唔,难道是客人吗？\n要是客人的话,从那边的楼梯就可以\f去银河团总部了\r哎？难道我搞错了？
+喂喂！搞什么啊！\n你问从哪儿能搞到钥匙？\r虽然不知道你要干嘛,\n不过仓库的钥匙应该在\f总部前面那家伙的手里！\r哎？难道我记错了？
+喂喂！搞什么啊！\n银河团的人\f怎么都不在！\r难道是我在这里看着仓库\n被他们忘记了,\f难道就剩我一个了！\r哎？难道我搞错了？
+有扇生了锈的门\n不用钥匙打开的话就没法前进了……
+有扇生了锈的门\n不用钥匙打开的话就没法前进了……\r要使用仓库的钥匙吗？
+{STRVAR 3,0}使用了\n仓库的钥匙！\r生锈的门被打开了！\r仓库的钥匙\n从根部断开了……

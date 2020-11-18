@@ -1,69 +1,69 @@
-CLOSE
-Move Trap ↑
-Move Trap →
-Move Trap ↓
-Move Trap ←
-Hurl Trap ↑
-Hurl Trap →
-Hurl Trap ↓
-Hurl Trap ←
-Warp Trap
-Hi-Warp Trap
-Hole Trap
-Pit Trap
-Reverse Trap
-Confuse Trap
-Run Trap
-Fade Trap
-Slow Trap
-Smoke Trap
-Big Smoke Trap
-Rock Trap
-Rockfall Trap
-Foam Trap
-Bubble Trap
-Alert Trap 1
-Alert Trap 2
-Alert Trap 3
-Alert Trap 4
-Leaf Trap
-Flower Trap
-Ember Trap
-Fire Trap
-Radar Trap
-Digger Drill
-CLOSE
-Stepping on this Trap sends the\nvictim flying upward.
-Stepping on this Trap sends the\nvictim flying to the right.
-Stepping on this Trap sends the\nvictim flying downward.
-Stepping on this Trap sends the\nvictim flying to the left.
-Stepping on this Trap sends the\nvictim flying far upward.
-Stepping on this Trap sends the\nvictim flying far to the right.
-Stepping on this Trap sends the\nvictim flying far downward.
-Stepping on this Trap sends the\nvictim flying far to the left.
-Stepping on this Trap warps the\nvictim far away.
-Stepping on this Trap warps the\nvictim far, far away.
-A pit opens up underneath the Trap\nto immobilize the victim.
-A huge pit opens up underneath the\nTrap to immobilize the victim.
-Stepping on this Trap reverses the\nvictim’s movements.
-Stepping on this Trap scrambles the\nvictim’s movements.
-Stepping on this Trap makes the\nvictim run.
-Stepping on this Trap makes the\nvictim invisible.
-Stepping on this Trap slows the\nvictim’s foot speed.
-A Trap that releases obscuring smoke.\nThe smoke can be rubbed away.
-A Trap that releases billowing smoke.\nThe smoke can be rubbed away.
-A Trap that makes blocking boulders.\nBreak the boulders to get free.
-A Trap that makes Big Boulders.\nBreak the boulders to get free.
-A Trap that releases bubbles.\nPop the bubbles to get free.
-A Trap that releases a mass of\nbubbles. Pop them to get free.
-Stepping on this Trap sends \ngreetings to everyone near you.
-Stepping on this Trap sends\nfarewells to everyone near you.
-Stepping on this Trap tells all nearby\nthat you are going to the Union Room.
-Stepping on this Trap alerts everyone\nto gather around you.
-This Trap releases immobilizing leaves.\nBlow the leaves away to get free.
-This Trap releases many flowers.\nBlow the flowers away to get free.
-This Trap releases immobilizing embers.\nBlow the embers away to get free.
-This Trap releases billowing flames.\nBlow the flames away to get free.
-Stepping on this renders the Radar\nuseless for a while.
-A single-use drill to drill a hole in\nthe wall for your Secret Base.
-Close the Bag.
+关闭
+移动陷阱↑
+移动陷阱→
+移动陷阱↓
+移动陷阱←
+吹飞陷阱↑
+吹飞陷阱→
+吹飞陷阱↓
+吹飞陷阱←
+弯曲陷阱
+瞬间移动陷阱
+洞穴陷阱
+大穴陷阱
+反转陷阱
+混乱陷阱
+跑步陷阱
+融化陷阱
+迟缓陷阱
+烟雾陷阱
+烟幕陷阱
+岩石陷阱
+落石陷阱
+气泡陷阱
+泡泡陷阱
+信号陷阱１
+信号陷阱２
+信号陷阱３
+信号陷阱４
+木叶陷阱
+花瓣陷阱
+火苗陷阱
+火焰陷阱
+雷达陷阱
+钻头
+关闭
+一旦踩上会向上方\n被吹飞的陷阱
+一旦踩上会向右方\n被吹飞的陷阱
+一旦踩上会向下方\n被吹飞的陷阱
+一旦踩上会向左方\n被吹飞的陷阱
+一旦踩上会向上方\n被吹飞得很远的陷阱
+一旦踩上会向右方\n被吹飞得很远的陷阱
+一旦踩上会向下方\n被吹飞得很远的陷阱
+一旦踩上会向左方\n被吹飞得很远的陷阱
+一旦踩上会向某个方向\n被吹飞得很远的陷阱
+一旦踩上会\n被传送到很远处的陷阱
+用大型洞穴\n阻止移动的陷阱
+用超大型的洞穴\n阻止移动的陷阱
+一旦踩上行动会变得\n和指令相反的陷阱
+一旦踩上行动会无法按照\n指令行动的陷阱
+一旦踩上就无法停下来\n一直奔跑的陷阱
+一旦踩上身体就会消失\n使谁都看不到自己的陷阱
+一旦踩上在短时间内\n行走速度会变慢的陷阱
+用烟雾使什么都看不到的陷阱\n擦一擦就能看见了
+用大量的烟遮挡视线的陷阱\n擦一擦就能看见了
+用岩石阻止行动的陷阱\n把岩石破坏掉就可以行动了
+用大型岩石阻止行动的陷阱\n把岩石破坏掉就可以行动了
+用气泡阻止行动的陷阱\n把气泡打破掉就可以行动了
+用很多气泡阻止行动的陷阱\n把气泡打破掉就可以行动了
+踏上去就会向附近的人发送\n打招呼的信号的陷阱
+踏上去就会向附近的人发送\n再见的信号的陷阱
+踏上去就会向附近的人发送\n到联机大厅去的信号的陷阱
+踏上去就会向附近的人发送\n到这里来的信号的陷阱
+用木叶阻止行动的陷阱\n吹散就可以行动了
+用很多的花瓣阻止行动的陷阱\n吹散就可以行动了
+用火苗阻止行动的陷阱\n吹散就可以行动了
+用大的火焰阻止行动的陷阱\n吹散就可以行动了
+一旦踩上在短时间内\n无法使用雷达的陷阱
+在墙上挖出洞穴\n制造秘密基地的钻头
+关闭袋子

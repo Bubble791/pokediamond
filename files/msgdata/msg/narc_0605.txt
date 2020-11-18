@@ -1,21 +1,21 @@
-None
-Abruzzo
-Basilicata
-Calabria
-Campania
-Emilia-Romagna
-Friuli-Venezia Giulia
-Lazio
-Liguria
-Lombardia
-Marche
-Molise
-Piemonte
-Puglia
-Sardegna
-Sicilia
-Toscana
-Trentino-Alto Adige
-Umbria
-Valle d’Aosta
-Veneto
+无
+阿布鲁索
+巴斯利卡塔
+卡拉布里亚
+坎帕尼亚
+艾米利亚-罗马涅
+弗留利-威尼斯-朱利亚
+拉齐奥
+利古里亚
+伦巴蒂
+马奇
+莫利塞
+皮埃蒙特
+普利亚
+撒丁岛
+西西里岛
+托斯卡娜
+特伦蒂诺-上阿迪杰
+安布里亚
+瓦莱达奥斯塔
+威尼托

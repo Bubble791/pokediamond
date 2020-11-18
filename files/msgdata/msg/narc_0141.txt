@@ -1,14 +1,14 @@
-Hello.\nMay I help you with anything?
-Hello, {STRVAR 3, 0}.\nMay I help you with anything?
-Please enjoy yourself.
-Would you care for a Protein?\nIt’s a drink that boosts Attack.
-May I suggest a Carbos? It’s a drink\nthat boosts the base Speed stat.
-When you need to make sure attacks hit\nthe target hard... Dire Hit is for you.
-If your Pokémon has trouble with aim,\ntry treating it to an X Accuracy.
-Where can I find matching dresses for\nmyself and my dear Pokémon?
-I’m going to give an HP Up to\nmy KRICKETOT.\rThis is going to raise its HP, huh?
-We’re giving away a Pokétch app for\nfree as a promotion.\rI can give you the Counter app\nover the counter. Would you like it?
-OK, here you go.\nGo forth and count!\r
-I hope that Counter app I gave you\nis useful.
-You’re not interested? I’ll be here\nif you change your mind.
-1F: Trainers’ Zone\r2F: Battle Collection\r3F: TM Corner\r4F: Poké Dolls & Goods\r5F: Rooftop Plaza
+您好,\n请问您需要什么？
+{STRVAR 3,0}\n您需要什么吗？
+请慢慢享受
+需要能够提升攻击力的\n蛋白药剂吗
+需要能够提升速度的\n补碳药剂吗
+快要把它打倒时……\n这时候可以用Ｘ会心
+一直没法用技能击中它……\n这时候可以用Ｘ准确
+没有适合精灵的衣服吗？
+对我们的精灵\n使用体力药剂！\r这样的话\n说不定就能增加体力了呢！
+这个口袋手表的功能\n最为礼物免费送你了,\r非常适合店员使用的\n计算器！怎么样？要吗？
+那么,这个送给你\n需要的时候计算一下吧！\r
+要使用计算器吗？
+不用吗？\n想要的话再来吧。
+１层 …… 训练师区域\r２层 …… 战斗用品\r３层 …… 技能训练机\r４层 …… 家具\r５层 …… 休息广场

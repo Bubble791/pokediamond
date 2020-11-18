@@ -1,271 +1,271 @@
-POISONED
-PARALYZED
-ASLEEP
-BURNED
-FROZEN
-EXIT
-SINGLE BATTLE
-DOUBLE BATTLE
-MIX BATTLE
-MULTI BATTLE
-INFO
-EXIT
-EXIT
-JOIN GROUP
-BECOME LEADER
-Current Floor
-{STRVAR 50, 0}F
-COOL
-BEAUTY
-CUTE
-TOUGH
-SMART
-TRADE
-CANCEL
-FANCY CUP
-YELLOW CUP
-LITTLE CUP
-MIDDLE CUP
-HEAVY CUP
-{STRVAR 26, 0} CUP
-{STRVAR 26, 1} CUP
-{STRVAR 26, 2} CUP
-{STRVAR 26, 3} CUP
-{STRVAR 26, 4} CUP
-        
-HALL OF FAME
-SWITCH OFF
-         
-          
-CONFIRM
-RULES
-YES
-NO
-EXIT
-CANCEL
-FIRE
-WATER
-GRASS
-   
-BATTLE
-{STRVAR 3, 0}
-{STRVAR 3, 1}
-{STRVAR 3, 2}
-{STRVAR 3, 3}
-FERTILIZE
-PLANT BERRY
-DRAW
- 
-SOMEONE’S PC
-BEBE’S PC
-{STRVAR 3, 0}’s PC
-HALL OF FAME
-OAK’S PC
-ROWAN’S PC
-SWITCH OFF
-DEPOSIT POKéMON
-WITHDRAW POKéMON
-MOVE POKéMON
-MOVE ITEMS
-COMPARE POKéMON
-SEE YA!
-MAILBOX
-BALL CAPSULES
-LOG OUT
-Pokémon in your party may be stored\nin the storage system’s Boxes.
-Pokémon stored in Boxes may be added\nto your party.
-You may sort the Pokémon in Boxes\nand in your party.
-You may sort the items held by your\nPokémon in Boxes and in your party.
-You may compare two Pokémon in Boxes\nor your party side by side.
-Log out of the Pokémon Storage\nSystem.
-Up to 20 pieces of Mail can be\nstored.
-You may set or edit capsules for\ndecorating Poké Balls.
-Log out of your PC.
-CANCEL
-        
-        
-          
-    
-    
-    
-    
-    
-     
-       
-CANCEL
-                 
-CONTEST BASICS
-TYPES OF CONTESTS
-CONTEST RANKS
-CANCEL
-        
-        
-      
-      
-   
-NORMAL RANK
-GREAT RANK
-ULTRA RANK
-MASTER RANK
-EXIT
-COOL CONTEST
-BEAUTY CONTEST
-CUTE CONTEST
-SMART CONTEST
-TOUGH CONTEST
-EXIT
-1F
-2F
-3F
-4F
-5F
-B1F
-B2F
-LOOKOUT
-EXIT
-50 Coins{CURSOR_X 60}$1,000
-500 Coins{CURSOR_X 60}$10,000
-NO THANKS
-INFO
-TRADE
-EXIT
-OFFER POKéMON?
-SEEK POKéMON?
-UNDERSTOOD!
-{STRVAR 0, 0}{STRVAR 2, 2}{CURSOR_X 90}Lv. {STRVAR 52, 1}
-{STRVAR 0, 0}{STRVAR 2, 2}{CURSOR_X 90}Lv. {STRVAR 52, 1}
-CANCEL
-RIGHT
-LEFT
-    
-RECORDS
-CHALLENGE
-INFO
-EXIT
-SINGLE
-DOUBLE
-KEEP GOING
-REST
-RETIRE
-BECOME LEADER
-JOIN GROUP
-CHECK LEADERS
-CHALLENGE EARLIER ROOM
-REGISTER A FRIEND?
-UNDERSTOOD!
-TELL ME AGAIN
-OLD AMBER
-HELIX FOSSIL
-DOME FOSSIL
-ROOT FOSSIL
-CLAW FOSSIL
-ARMOR FOSSIL
-SKULL FOSSIL
-BATTLES FOR TWO
-BATTLES FOR FOUR
-GREET
-CONVERSE
-CHAT
+中毒
+麻痹
+睡眠
+烧伤
+冰冻
+取消
+单人对战
+双人对战
+混合对战
+配合对战
+听取说明
+取消
+返回
+加入组群
+成为组长
+现在层数
+{STRVAR 50,0}层
+帅气
+美丽
+可爱
+强壮
+聪明
+交换
+取消
+幻想杯
+黄色杯
+小型杯
+中型杯
+困难杯
+{STRVAR 26,0}杯
+{STRVAR 26,1}杯
+{STRVAR 26,2}杯
+{STRVAR 26,3}杯
+{STRVAR 26,4}杯
+寄存系统
+进入殿堂
+关闭开关
+一般对战
+使用规则之书
+决定
+查看规则
+是
+不是
+取消
+取消
+火
+水
+草
+卡片
+对战
+{STRVAR 3,0}
+{STRVAR 3,1}
+{STRVAR 3,2}
+{STRVAR 3,3}
+施肥料
+埋下树果
+绘画
+
+我的电脑
+水木的电脑
+{STRVAR 3,0}的电脑
+进入殿堂
+大木博士的电脑
+山梨博士的电脑
+关闭开关
+存放精灵
+取出精灵
+整理精灵盒
+整理持有物
+比较强度
+放生
+信箱
+精灵球贴纸
+连接中止
+可将手上持有的精灵\n寄存到电脑中
+可将寄存的精灵\n取出携带在身上
+可整理电脑中寄存或\n手上持有的精灵
+可整理精灵\n持有的道具
+可比较手上持有或电脑中\n存放的精灵的状态
+与精灵寄存系统\n通信结束
+信件最多\n可保存２０封
+可改变精灵球贴纸\n及设置
+与电脑通信结束
+取消
+读取内容
+放入背包
+让精灵携带
+存放
+取出
+区域１
+区域２
+区域３
+参加
+听取说明
+取消
+欢迎再次光临
+华丽大赛基本
+华丽大赛种类
+关于级别
+返回
+华丽大赛是？
+视觉方面
+舞蹈方面
+演技方面
+返回
+普通级别
+高级级别
+究级级别
+大师级别
+取消
+帅气华丽大赛
+美丽华丽大赛
+可爱华丽大赛
+聪明华丽大赛
+强壮华丽大赛
+取消
+１层
+２层
+３层
+４层
+５层
+地下１层
+地下２层
+展望室
+取消
+５０枚{CURSOR_X 60}１０００元
+５００枚{CURSOR_X 60}１００００元
+不需要
+听取说明
+交换
+取消
+放上精灵？
+取下精灵？
+已经知道了！
+{STRVAR 0,0}{STRVAR 2,2}{CURSOR_X 90}Ｌｖ．{STRVAR 52,1}
+{STRVAR 0,0}{STRVAR 2,2}{CURSOR_X 90}Ｌｖ．{STRVAR 52,1}
+取消
+右
+左
+蛋蛋交换
+记录
+挑战
+听取说明
+取消
+单人
+双人
+继续
+休息
+放弃
+成为组长
+加入组群
+查看历代首领
+挑战下一房间
+登录朋友是指？
+已经知道了！
+再说一遍！
+神秘琥珀
+贝之化石
+甲之化石
+根之化石
+爪之化石
+盾之化石
+骨之化石
+双人对战
+４人对战
+问候
+交谈
+谈话
 {STRVAR 8, 0}{CURSOR_X 96}{STRVAR 54, 1}
-NO THANKS
-                 
-                 
-                 
-    
-RIGHT
-LEFT
-VISUAL
-DANCE
-ACTING
-PRACTICE
-FLAGS
-SPHERES
-TRAPS
-GOODS
-TREASURES
-CHALLENGE EARLIER ROOM
-AREA 1
-AREA 2
-AREA 3
-AREA 4
-AREA 5
-AREA 6
-EXIT
-RED SHARD
-BLUE SHARD
-YELLOW SHARD
-GREEN SHARD
-{STRVAR 54, 0} Coins
-BASIC RULES
-CATCHING SHOW
-STOCKING POKéMON
-STOCKING 2
-UNDERSTOOD!
-ENTER
-INFO
-EXIT
-        
-    
-   
-RED SHARD
-BLUE SHARD
-YELLOW SHARD
-GREEN SHARD
-IRON ISLAND
-FULLMOON ISLAND
-NEWMOON ISLAND
-FIGHT AREA
-SNOWPOINT CITY
-EXIT
-FRESH WATER{CURSOR_X 80}$200
-SODA POP{CURSOR_X 80}$300
-LEMONADE{CURSOR_X 80}$350
-NO THANKS
-GROWTH MULCH{CURSOR_X 90}$200
-DAMP MULCH{CURSOR_X 90}$200
-STABLE MULCH{CURSOR_X 90}$200
-GOOEY MULCH{CURSOR_X 90}$200
-EXIT
-Nothing, thanks.
-What’s recommended?
-{STRVAR 53, 0}BP
+不需要
+技能训练机２４   ４０００枚
+技能训练机３０   ４５００枚
+技能训练机３５   ４０００枚
+不需要
+右
+左
+视觉
+舞蹈
+演技
+练习吗？
+旗
+玉
+陷阱
+道具
+宝物
+挑战下一房间
+区域１
+区域２
+区域３
+区域４
+区域５
+区域６
+取消
+红色碎片
+蓝色碎片
+黄色碎片
+绿色碎片
+{STRVAR 54,0}枚
+基本规则
+捕获地点
+寄存方
+寄存方２
+已经知道了！
+参加
+听取说明
+取消
+选择精灵
+说明
+取消
+红色碎片
+蓝色碎片
+黄色碎片
+绿色碎片
+钢铁岛
+满月岛
+新月岛
+战斗区域
+金岬市
+取消
+美味的水２００元
+苏打饮料３００元
+混合饮料３５０元
+不需要
+加速肥料２００元
+潮湿肥料２００元
+延长肥料２００元
+发粘肥料２００元
+取消
+没什么
+推荐一下
+{STRVAR 53,0}ＢＰ
 {STRVAR 8, 0}{CURSOR_X 96}{STRVAR 52, 1}BP
-NO THANKS
-DIGITAL WATCH
-STOPWATCH
-CALCULATOR
-MEMO PAD
-ANALOG WATCH
-DOT ARTIST
-POKéMON LIST
-FRIENDSHIP CHECKER
-DOWSING MACHINE
-COUNTER
-PEDOMETER
-DAY-CARE CHECKER
-ROULETTE
-COIN TOSS
-MOVE TESTER
-MATCHUP CHECKER
-ALARM CLOCK
-KITCHEN TIMER
-MARKING MAP
-BERRY SEARCHER
-COLOR CHANGER
-CALENDAR
-LINK SEARCHER
-TRAINER COUNTER
-POKéMON HISTORY
-EXIT
-PART 1
-PART 2
-PART 3
-EXIT
-DUSK BALL
-HEAL BALL
-QUICK BALL
-EXIT
-THE CREATION OF SPACE
-MYTHICAL POKéMON
-RED CHAIN
-EXIT
+没有
+电子表
+秒表
+计算器
+涂鸦板
+石英钟
+点线艺术
+精灵列表
+亲密度测试
+探测仪
+计数器
+计步器
+计数器
+幸运转盘
+鲤鱼硬币
+技能效果查询
+爱心查看器
+闹钟
+倒计时器
+标记地图
+树果地图
+背景变色
+日历
+通信探测
+精灵探测计数器
+精灵捕获历史
+取消
+之１
+之２
+之３
+取消
+黑暗球
+回复球
+快速球
+取消
+宇宙的开始
+神话精灵
+赤色锁
+取消

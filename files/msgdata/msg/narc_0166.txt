@@ -1,8 +1,8 @@
-That glaringly bright and cool thing\nyou have!\rIt’s undoubtedly a Pokétch!\nThey’re awesome, yeah?\rI got OK’d by the Pokétch Company\nto develop original Pokétch apps.\rHey, you’re a Trainer, right?\nCan you do me a favor?\rYou’ve got Pokémon with different\nnatures, right? May I see them?
-What am I in the mood to see now...\rI’d like to see a Pokémon with\na Serious nature.
-What am I in the mood to see now...\rI’d like to see a Pokémon with\na Naive nature.
-What am I in the mood to see now...\rI’d like to see a Pokémon with\na Quirky nature.
-Wow! Your {STRVAR 0, 0} has\na Serious nature all right!\rThanks! I’ll give you this\nCalendar app for your Pokétch.
-Wow! Your {STRVAR 0, 0} has\na Naive nature all right!\rThanks! I’ll give you this\nDot Artist app for your Pokétch.
-Wow! Your {STRVAR 0, 0} has\na Quirky nature all right!\rThanks! I’ll give you this\nRoulette app for your Pokétch.
-Some day, Pokétch apps may outnumber\nall the species of Pokémon.
+你手上发光耀眼的那个！\n是货真价实的口袋手表！\f口袋手表真不错呢！\r我得到口袋手表公司的允许,\n可以制造口袋手表的功能,\r你是口袋训练师,\n一定有各种各样性格的精灵吧,\f带来让我看看吧！
+嗯……\r现在想看认真性格的精灵\n心情真好啊！
+嗯……\r现在想看天真性格的精灵\n感觉真好啊！
+嗯……\r现在想看浮躁性格的精灵\n是该结婚的时候啦！
+哦！这个{STRVAR 0,0}\n是认真性格的精灵！\r那样的话,\n这个日历的功能给你了！
+嘿！这个{STRVAR 0,0}\n是天真性格的精灵！\r那样的话,\n这个点线艺术的功能给你了！
+啊！这个{STRVAR 0,0}\n是浮躁性格的精灵！\r那样的话,\n这个幸运转盘的功能给你了！
+没准哪天口袋手表功能的种类\n会超过口袋妖怪的种类！

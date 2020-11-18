@@ -1,5 +1,5 @@
-                                                                                                                                   
-                                                                                                       
-                                                                                                           
-{STRVAR 3, 0} scurried to\na Pokémon Center, protecting\nthe exhausted and fainted\nPokémon from further harm...
-{STRVAR 3, 0} scurried back\nhome, protecting the exhausted\nand fainted Pokémon from further\nharm...
+{STRVAR 0,0}被打倒了！\r{STRVAR 3,1}已经没有\n可以继续战斗的精灵了！\r{STRVAR 3,2}\n这场战斗输了……\r{STRVAR 3,1}付出了\n{STRVAR 55,3}元的金钱\r…… …… …… ……\r{STRVAR 3,1}的眼前\n一片黑暗！
+{STRVAR 0,0}被打倒了！\r{STRVAR 3,1}已经没有\n可以继续战斗的精灵了！\r{STRVAR 3,1}失去了\n{STRVAR 55,3}元的金钱……\r…… …… …… ……\r{STRVAR 3,1}的眼前\n一片黑暗！
+{STRVAR 0,0}\n已经没有力气了…\r{STRVAR 3,1}已经没有\n可以继续战斗的精灵了！\r{STRVAR 3,1}失去了\n{STRVAR 55,3}元的金钱……\r…… …… …… ……\r{STRVAR 3,1}的眼前\n一片黑暗！
+为了治疗已经濒死的\n无法行动的精灵们,\n{STRVAR 3,0}匆匆地\n返回了精灵中心。
+为了治疗已经濒死的\n无法行动的精灵们,\n{STRVAR 3,0}匆匆地\n返回了自己家中。

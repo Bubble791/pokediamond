@@ -1,7 +1,7 @@
-Despite the exploration team’s best\nefforts, the rare, oddly colored\nPokémon eluded detection.\nThe rumored red GYARADOS failed to\nappear to the dispirited team...
-That concludes our special report,\n“Search for the Red GYARADOS!”\rBrought to you by Jubilife TV on\nNationwide Net!\r
-See you next week, same time,\nsame channel!
-The TV is showing the title screen\nof a video game.
-The X Button\nopens the menu!
-It’s a Wii!\nIt’s controlled by a Wii Remote!
-{STRVAR 3, 0} checked the PC.\rPokémon Basics...\rPeople live alongside Pokémon in\nthis world.\rThe people that battle Pokémon are\ncalled Pokémon Trainers.
+搜索队在最后的地方\n仍然一无所获,\n有人在这里目击到\n珍稀的闪光精灵\n红色暴鲤龙的传言\n仍然无法证实……
+以上是特别节目\n「搜寻红色暴鲤龙」,\r正在由长寿电视台\n进行全国网络范围直播\r
+各位观众,下周同一频道再会！
+电视里播放着游戏画面
+按Ｘ键可以打开菜单！
+有Ｗｉｉ！\n无线手柄！
+{STRVAR 3,0}\n打开了电脑！\r基础知识\r在这个世界,\n精灵和人一起生存,\f用精灵进行战斗的人\f被叫作口袋训练师

@@ -1,13 +1,13 @@
-Everyone seems to call me the Berry\nMaster.\rI hand out Berries daily because\nI want people to learn how wonderful\fthey are.\rYou’re deserving of one!\r
-Berries are gifts of nature.\rI encourage you to feed Berries to\nPokémon.\rThat will make Pokémon happy.\rSeeing that, people will be motivated\nto plant more Berries.\rAnd that will make Sinnoh a greener,\nmore natural place.
-Are you the forgetful type who\nforgets where Berries are planted?
-Yes, yes, I thought so!\nI’m the same way!\rI feel a sort of kinship with you!\nYou can have this Pokétch app!\r
-Oh, is that so.\rThen you’re OK even if I don’t give\nyou this nice thing.
-The {STRVAR 24, 0} shows you\nwhere there are ripe Berries\fthat are ready to be picked.
-Certain kinds of Berries need lots\nand lots of water.
-Um... Would you like some Mulch?\rIf you’re going to grow Berries,\nMulch is a good fertilizer.
-That {STRVAR 8, 0}...\rI made it by mixing high-grade soil\nwith Pokémon...um...you know...\rIt will promote healthy Berry growth.
-Um...\nPlease come again.
-You bought some {STRVAR 8, 0}.\r
-I’m so sorry...\nYour Bag appears to be full...
-Um... You don’t appear to have\nenough money...
+大家都叫我\n果实名人,\r为了把果实的优点传递下去,\n每天都在努力,\f也给你一些果实吧！\r
+这是自然的恩惠！\n把果子给精灵的话,\f它们也会很高兴吧！\r人们种下种子,\n接着自己的心中\f也会变得绿油油的吧
+你是不是经常会忘记\n自己把树果种在哪里……
+就是！\n我也是！\f和我一直在一起的人\f把这个口袋手表功能给了我！\r
+是吗,\r不要好东西\n也应该没问题吧！
+{STRVAR 24,0}\n哪里有果实知道得很清楚啊！
+果实的周围\n不要浇太多的水哦！
+那个……肥料呢？\r培育果实的话\n准备些肥料比较好啊。
+那个{STRVAR 8,0}……\r优质的土地和\n精灵的便便混合在一起的话\f效果不错呢……
+那个……\n欢迎下次再买
+买了{STRVAR 8,0}\r
+那个……\n包装满了……
+那个……不好意思,\n钱不够了……

@@ -1,32 +1,32 @@
-{STRVAR 3, 0}: Hunh?\rOh, it’s you, {STRVAR 3, 1}!\nYou finally got here?\fYou’re slow like always.\rYou’re so slow, the Gym Leader’s\nlong gone now.\rHe said he had to go... Uh...\nOh, yeah, to Oreburgh Mine!\rI got my Badge already, so it’s no\nbig deal to me, but...
-{STRVAR 3, 0}: I told you, the Gym\nLeader isn’t here.\rIf you want to take the Gym\nchallenge, you’d better go down to\fthe mine and ask him.\rBut, boy, a Gym Leader is in a\ndifferent class of toughness.\rEven I’m feeling run down.
-{SIZE 200}Thud!!{SIZE 100}\r
-{STRVAR 3, 0}: Whoops! {STRVAR 3, 1}!\nYou got the Gym Badge, huh?\rEterna City is the next place with\na Gym that gives away Badges, right?\r
-So, yeah, I went to Route 207, but\nyou can’t go there without a Bicycle.\rI made my team battle and toughened\nthem up, so it wasn’t a waste.\r
-So, I’m going back to Jubilife City.\nNext stop, the Eterna Gym Badge!\rTen seconds before I dash!\rNine...\rBah! Who’s got time to count?!\r
-Howdy, Trainer!\rIf you don’t have a single Gym Badge,\nother Trainers will look down on\fyou like you’re a total noob, right?\rSo, I’ll show you where the town’s\nPokémon Gym is.\r
-Huh?\nThere’s someone there.
-Is that guy in front of the Gym\nyour friend?\rHe’s sort of twitchy and impatient.
-Oh, hi, you’re back!\nThe Gym Leader’s waiting for you.
-Can I see your Trainer Case?\rIt’s got the Gym Badge you just\nwon, right?
-                                                                                                                               
-                               
-                                                                                                                                           
-The Gym Leader went off to work in\nthe mine.
-The Gym Leader is young, but he’s\nthe mine’s safety supervisor.\rHe’s an expert in more than just one\nfield!
-Everyone’s proud of the mine.\rThey’re digging for coal under the\nsea as we speak...\rIt’s amazing how they do it!
-Up ahead there’s a huge mountain\nthat towers above everything.\rIt divides Sinnoh into two distinct\nhalves.
-Have you seen the vents?\nThey release steam from down below.
-                              
-These vents exchange the hot air\ndown below with the fresh air outside.\rLooking down them gives me the urge\nto start yelling into ’em! Hello!
-There’s no question. This is hard,\nhard work.\rBut working alongside Pokémon...\nIt gives me a boost somehow.\rHere, take one of these.\r
-Feeling hale and hearty puts a smile\non my face. And that makes me happy.
-This pile of dirty sand is called\na slag heap.\rIt’s the waste from sorting coal.
-Chop, chop, MACHOP!\nChop, chop away on rocks! ~♫
-TMs are single use only, but HMs\ncan be used over and over.\rIt’s tricky trying to decide which\nPokémon should learn what moves.
-When I run around with my Running\nShoes on, it feels like I’m the center\fof attention!
-MACHOP: Macho! Chopo!
-Oreburgh City\nCity of Energy
-Oreburgh Pokémon Gym\nLeader: Roark\f“Call me Roark the Rock!”
-Oreburgh Mining Museum\n“Coal Mining and You!”
-Oreburgh Coal Mine\nBeware of Busy Pokémon!
+{STRVAR 3,0}『？？\n{STRVAR 3,1}是你啊！\f现在才来？\f你太磨蹭了\r行了已经慢了就别罗嗦了,\n道馆馆主不在？\f搞什么嘛……对了！\f先去黑金炭矿吧！\r反正我已经拿到道馆徽章了,\n无所谓了。
+{STRVAR 3,0}『跟你说了,\n现在道馆馆主不在,\r想要挑战道馆的话,\n就先去炭矿吧,\f不过那儿还有很多其他的对手,\r……不管怎么说,\n道馆馆主果然很强呢,\f真是把我累坏了！
+{SIZE 200}咚!!{SIZE 100}\r
+{STRVAR 3,0}『喂！{STRVAR 3,1}！\n拿到道馆徽章了吗！\r下一个要拿徽章的\n就是白岱市的口袋道馆了吧？\r
+要到２０７号道路去的话\n没有自行车是过不去的,\r不过让精灵多战斗\n锻炼一下也不错,\r
+我先回长寿市去了！\n下个目标是白岱市的道馆徽章！\r发射倒计时１０秒！\r９……\r啊等不及了闪了闪了！\r
+喂！训练师！\n你一个道馆徽章都没有呢,\f已经看到过别的训练师\f得到的徽章了吗？\r我建议你跟我一起\n去口袋道馆挑战一下！\r
+哦呀？\n道馆前面好像有人？
+在道馆前面的人\n是你认识的人吗？\f真是个急性子的家伙呢
+哦,已经回来了！\n道馆馆主正等着你呢！
+又见到你了,\n已经拿到刚才说的\f道馆徽章了吧！
+啊哈！你的鞋子上\n沾了很多泥啊！\r哈哈嗯！一定去过炭矿了吧！\n穿普通的鞋子不行的吧！\r真是拿你没办法呢,\n还是换上这双鞋子吧,\f它的名字也叫加速鞋！\r没事没事！\r是你的话就没问题！\r
+
+太棒了！\n加速鞋的感觉太棒了！\r很合适呢！嗯……\n读一下说明书吧\r「加速鞋\n按住Ｂ键移动的时候\f能够快速移动！\r穿上加速鞋\n就想在外面奔跑！」\r赶快去吧！
+道馆馆主也去炭矿了,\n别耽误时间了！
+道馆馆主\n同时还负责炭矿的安全！\r岩石的裂纹之类的\n有很多需要注意的事情呢！
+炭矿是我们的骄傲,\n在海洋下面挖掘前进……\f大家都很兴奋呢！
+这前面的山非常大呢,\r把神奥地区分成了两个部分
+看到通气机了吗？\n地下冒出的蒸汽很热吧？
+从石头里出现的精灵\n会把我吓一跳呢！
+用这个通气机\n换入新鲜空气,\r一看到它就会觉得\n工作轻松了呢！
+的确是很艰难的工作呢,\n所以跟精灵们一起工作,\f这样一来也会变得轻松许多,\f人也会精神起来！\r
+如果有精神的话就要保持笑容！\n保持笑容就会变得幸福！
+这里堆的高高的砂山是\n开凿炭矿时留下来的土\f堆积在这里形成的,\f这是小常识了！\r在方圆地区有座相同的山\n被叫做宝塔山,\f到底为啥呢？
+培育的腕力\n就算是岩石也能破坏♪
+技能训练机用完就会消失,\n秘传训练机想用多少次都行,\r让哪只精灵学会什么样的技能\n真的很头疼呢
+你的加速鞋\n已经让大家看过了吗？\f太帅了！
+腕力『呼哈！呼哈！！
+这里是黑金市\n能源积累处
+黑金市精灵道馆\n馆主 平田\f被称为岩石的男人
+「黑金炭矿博物馆」\n炭矿里挖掘出的一切
+黑金炭矿出入口\n小心突然出现的精灵！

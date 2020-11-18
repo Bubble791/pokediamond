@@ -1,2 +1,2 @@
-Pokémon grow steadily stronger from\nbattling against other Pokémon.\rAt first, you should heal your\nPokémon regularly at Poké Centers\fwhile you’re leveling them up.
-A good Trainer is one that takes care\nnot to let their Pokémon faint from\flosing HP.
+精灵随着不断的战斗\n也会逐渐变强！\r一开始应该多去口袋中心\n回复精灵的体力\f这样比较好哦！
+精灵的体力没有了的话\n就要马上回复！\f那才是合格的训练师！

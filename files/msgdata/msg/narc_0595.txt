@@ -1,8 +1,8 @@
-None
-New South Wales
-North
-Queensland
-South Australia
-Tasmania
-Victoria
-Western Australia
+无
+新南威尔士州
+北部
+昆士兰
+南澳大利亚州
+塔斯马尼亚
+维多利亚
+西澳大利亚州

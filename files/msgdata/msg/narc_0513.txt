@@ -1,17 +1,17 @@
-Ah, you have a Pokétch?\nYou will find it indispensable.\rScience will become increasingly\nnecessary in the world of Pokémon.\r
-My name is Cyrus.\rI am but another human seeking to\nbecome Sinnoh’s greatest Trainer.\rIf you’re also a Trainer, then do\nyour best to gain power.\rBe all that you can become.
-                                                                                                                                                                                                
-                                                                                                                                                                                                
-                                                                                                                                                                                              
-Grunt 1: Aren’t we Team Galactic?\nAnd we’re assigned here?\rStanding around among flowers...\nThis doesn’t seem all that cool.\r
-Grunt 2: Hey now! Don’t complain.\nThis is a pretty decent assignment.\rBut Bug- and Grass-type\nPokémon so creep me out...\rI don’t like being here either.
-I wanted to get some flowers from\nthe Floaroma Meadow...\rBut some Team Galactic guys in\nsnazzy outfits came along...\r
-Those Galactic guys went to the\nmeadow past these flowers here...
-Being surrounded by flowers puts me\nin an oddly pleasant mood.
-I simply love it here...\nThe atmosphere is so uplifting.\rYou came to get emotionally healed\ntoo, didn’t you?
-Welcome to Floaroma, the town of\nflowers, flowers, and more flowers!\rYou should plant some flowers of\nyour own, too. Yay for flowers!
-The Berries you pick can be used as\nfood for Pokémon.\rYou can also exchange them at\nthe florist’s for Accessories to\fdress up your Pokémon.
-I got drawn here by the sweet scent\nof Honey...\rSeriously, what’s that? What am I?\nA Pokémon or something? Mmm... Honey.
-Floaroma Town\nVivid & Scented
-Pick a Peck of Colors Flower Shop\nFree Berries Available
-Floaroma Meadow Ahead\nHoney Available
+口袋手表吗,\n好东西啊,\r今后不管什么\n都需要科学\r
+我是赤木,\r目标是神奥地区\n最好的训练师！\r你也是训练师的话,\n也要为了自己不断变强啊！
+{STRVAR 3,0}\n好久不见了！\r咋了,那副表情？\n你问我是谁？\r我是山梨博士的助手\n{STRVAR 3,1}的爸爸啊！？\r受博士所托\n为了给图鉴升级\f特地跑到索诺镇来的！\r拜托下次见到我时\n别说不认识我……\r那么,{STRVAR 3,0},\n把图鉴给我一下！\r
+{STRVAR 3,0}\n好久不见了！\r咋了,那副表情？\n你问我是谁？\r我是山梨博士的助手\n{STRVAR 3,1}的爸爸啊！？\r受博士所托\n为了给图鉴升级\f特地跑到索诺镇来的！\r拜托下次见到我时\n别说不认识我……\r那么,{STRVAR 3,0},\n把图鉴给我一下！\r
+嗯,这个软件\n安在这里就行了……\r咔哧咔哧！\r好了！这样图鉴就\n升级完成了！\r那么接下来\n我说明一下,\f现在可以查看\f公母精灵的不同形态了！\r其实说起来也就是\n一部分的精灵才有区别了！\r博士交代的任务\n就拜托了！\r
+银河团『我们银河团\n在花海里工作……\f好像不太体面啊……\r
+银河团『不要这么说\n这也是工作\r……但是有很多虫系\n和草系的精灵,\f烦人,真不爽……
+好想住在花海里……\n银河团,听起来像是\f非常时尚的家伙啊……\r
+穿过这前面的花丛\n就到了花海……
+被花包围着\n的感觉真奇妙啊
+这里真不错啊…\n空气很不同,\f感觉被花治愈了,\r你也来试试吧？
+欢迎光临！\n索诺镇的花之路\r你也来栽培\n自己的花吧！
+采集到的树果\n不仅可以给精灵用,\f也可以在花店交换饰品打扮精灵
+被蜜汁的味道\n吸引至此的我……\f像精灵一样
+这里是索诺镇\n奇妙的花香之路
+「花店 绚丽多彩」\n果实采集
+现在花海\n正在采蜜

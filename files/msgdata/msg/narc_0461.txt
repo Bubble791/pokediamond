@@ -1,5 +1,5 @@
-Boy...\nI sure am thirsty...
-                                                     
-{STRVAR 3, 0}, long time, no see!\rOh? You look puzzled.\nYou’re wondering who I am.\rI’m Professor Rowan’s assistant\nand {STRVAR 3, 1}’s father.\rThe professor asked that I upgrade\nyour Pokédex, you see.\rSo I’d chosen this spot on a hunch\nthat you’d pass through.\r{STRVAR 3, 0}, may I have your\nPokédex for a moment?\r
-{STRVAR 3, 0}, long time, no see!\rOh? You look puzzled.\nYou’re wondering who I am.\rI’m Professor Rowan’s assistant\nand {STRVAR 3, 1}’s father.\rThe professor asked that I upgrade\nyour Pokédex, you see.\rSo I’d chosen this spot on a hunch\nthat you’d pass through.\r{STRVAR 3, 0}, may I have your\nPokédex for a moment?\r
-Let’s see... Was I supposed to put\nin the software here...?\rKa-chunk.\nKa-chunk!\rAll done!\nI’ve upgraded your Pokédex!\rI should explain how it’s been\nupgraded, shouldn’t I?\rIt can now display images of male\nand female Pokémon.\rOK, I’ll leave you to carry on with\nyour project for the professor...\r...May I also ask you to keep an\neye on Team Galactic?\rThe professor is concerned about\nwhat happened in Jubilife City...\rIt’s probably nothing to worry over!\nI’ll be on my way now.\r
+啊\n嗓子好渴啊……
+咕咕咕……\n赢不了美央市的馆主。\r对付钢系的精灵\n有利的精灵有哪些？
+{STRVAR 3,0}！\n好久不见,\r怎么了？那种表情,\n你问我是谁？难道又忘了……\f我是山梨博士的助手,\f{STRVAR 3,1}的爸爸啊！？\r受博士之托,\n为了强化图鉴一直在这里等你。\r{STRVAR 3,0},\n把口袋图鉴给我一下！\r
+{STRVAR 3,0}！\n好久不见,\r怎么了？那副表情,\n你问我是谁？难道又忘了……\f我是山梨博士的助手,\f{STRVAR 3,1}的爸爸啊！？\r受博士之托,\n为了强化图鉴一直在这里等你。\r{STRVAR 3,0},\n把口袋图鉴给我一下！\r
+嗯,把这个程序\n编写到这里……\r卡哧卡哧！\r好了！口袋图鉴\n已经强化完毕了！\f接下来和你说明一下\f强化的新内容吧,\r现在可以很直观的\n切换查看精灵雌雄形态了！\f这也是多亏了博士的帮忙……\r还要继续拜托你了！\n另外,银河团怎么样了？\f呀,这件事博士很在意啊……\r嗯,没其他事了,\n我先走了！\r

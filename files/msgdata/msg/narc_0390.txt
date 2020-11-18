@@ -1,107 +1,107 @@
-KONNICHIWA
-HELLO
-BONJOUR
-CIAO
-HALLO
-HOLA
-OH WELL
-AAH
-AHAHA
-HUH?
-THANKS
-NO PROBLEM
-NOPE
-YES
-HERE GOES
-LET’S GO
-HERE I COME
-YEAH
-WELCOME
-URGH
-LET ME THINK
-HMM
-WHOA
-WROOOAAR!
-WOW
-SNICKER
-CUTE LAUGH
-UNBELIEVABLE
-CRIES
-OK
-AGREE
-EH?
-BOO-HOO
-HEHEHE
-HEY
-OH, YEAH
-OH WOW!
-HEEEY
-GREETINGS
-OOPS
-WELL DONE
-OH MY
-EEK
-YAAAH
-GIGGLE
-GIVE ME
-GWAHAHAHA
-UGH
-SORRY
-FORGIVE ME
-I’M SORRY
-HEY!
-GOOD-BYE
-THANK YOU
-I’VE ARRIVED
-WEEP
-PARDON ME
-SO SORRY
-SEE YA
-EXCUSE ME
-OKAY THEN
-TUT
-BLUSH
-GO AHEAD
-CHEERS
-HEY?
-WHAT’S UP?
-HUH?
-NO
-SIGH
-HI
-YEP
-YEAH, YEAH
-BYE-BYE
-MEET YOU
-HAHAHA
-AIYEEH
-HIYAH
-MUHAHAHA
-LOL
-SNORT
-HUMPH
-HEY
-HE-HE-HE
-HEH
-HOHOHO
-THERE YOU GO
-OH, DEAR
-BYE FOR NOW
-ANGRY
-MUFUFU
-MMM
-HELLO?
-HI THERE
-NO WAY
-YAHOO
-YO
-WELCOME
-OK
-REGARDS
-LALALA
-YAY
-WAIL
-WOW
-BOO!
-WAHAHA
-...
+你好
+hello
+bonjour
+ciao
+hallo
+hola
+啊啊
+啊嗯
+啊哈哈
+哎呀
+谢谢
+可以啊
+嗯
+哦也
+去吧
+开始吧
+要去了
+呀
+欢迎
+嗯
+嗯嗯
+嗯
+哇奥
+哇呀
+唔哈
+嘻嘻
+噗哧
+哇
+哇嗯
+嗯
+哎
+哎
+哎嗯
+哎嘿嘿
+喂
+哦哦
+哦
+喂
+好啊
+哦哟
+恭喜了
+锵锵
+呀
+哇呀
+咕咕
+请
+唔呼呼
+月
+抱歉
+对不起
+抱歉啊
+好了
+再见
+谢了
+参见
+呜呜呜呜
+失敬
+失陪了
+拜拜了
+不好意思
+再见了
+切
+给
+请吧
+多谢
+呐
+什么嘛
+呢
+不
+哈
+好的
+是的
+好了好了
+拜拜
+初次见面
+哈哈哈
+嘶
+吓
+呼呼呼
+噗噗
+呼呼嗯
+呼嗯
+嘿
+嘿嘿嘿
+嘿嘿
+霍霍霍
+行了
+这个嘛
+下次见
+哎呀
+哦呼呼
+嗯嗯
+喂喂
+呀啊
+成功了
+呀呼
+哟
+欢迎你
+好的
+拜托了
+啦啦啦
+哇
+哇嗯
+哇奥
+哇
+哇哈哈哈
+……

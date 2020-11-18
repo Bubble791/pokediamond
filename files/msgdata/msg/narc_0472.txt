@@ -1,2 +1,2 @@
-Are you traveling to train?\nHere, have this refreshing drink.\r
-Water is the wellspring of life.\rHaving said that, no one knows where\nPokémon originated.
+修行旅行？\n累了的时候喝这个吧！\r
+水是生命之源！\n但是,精灵是哪里出生的\f我就不清楚了。

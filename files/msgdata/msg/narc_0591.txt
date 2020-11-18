@@ -1,149 +1,149 @@
-          
-                             
-{STRVAR 1, 0} was not traded.\r
-{STRVAR 1, 0} appears to have\nfled...\r
-Are you seeking or offering a Pokémon?
-Do what with this {STRVAR 1, 0}?
-Will you take this {STRVAR 1, 0}?
-Is it OK to disconnect from\nNintendo Wi-Fi Connection?
-What kind of Pokémon are you seeking?
-Please choose the Pokémon you want.
-Please choose its gender.
-Please choose the level.
-Please choose the Pokémon you want!
-Searching for the Pokémon you want...
-None were found!
-Stop searching?
-Trade for this Pokémon?
-Choose the Pokémon you are trading.
-Do what with this {STRVAR 1, 0}?
-                 
-                 
-Choose the Pokémon you want to offer.
-Offer {STRVAR 1, 0}?
-Are these conditions OK?
-Checking GTS’s status...
-The Ball Capsule will be detached.\nIs that OK?
-That Pokémon may not be offered\nfor trade!\r
-An Egg may not be offered\nfor trade!\r
-Your party is full.\nYou can’t receive a Pokémon!\r
-Your Storage Boxes are full.\nYou can’t receive a Pokémon!\r
-A trade partner has been found!
-Nintendo Wi-Fi Connection
-Touch to select your trade partner.
-Please change your conditions.
-Please wait a while.
-Your party is full.\rYou can’t receive a Pokémon that\nis holding Mail.\r
-There is no room in your party.
-It has a special Ribbon.\nIt can’t be offered for a trade.\r
-GTS check failed.
-GLOBAL TRADE SYSTEM
-SUMMARY
-SEEK POKéMON
-EXIT
-{STRVAR 1, 0}
-{STRVAR 0, 1}
-Lv. {STRVAR 52, 2}
-ITEM
-{STRVAR 8, 3}
-OFFERER
-{STRVAR 3, 4}
-POKéMON WANTED
-{STRVAR 0, 5}
-Lv. {STRVAR 52, 6} and up
-Any level
-TAKE BACK
-LEAVE AS IS
-Yes
-No
-SEARCH FOR POKéMON
-POKéMON
-{STRVAR 0, 0}
-GENDER
-{STRVAR 40, 0, 1}
-LEVEL
-{STRVAR 41, 0, 2}
-SEARCH
-BACK
-    
-    
-       
-ITEM
-    
-      
-    
-WANTED
-    
-     
-     
-OT’S LOCATION
-{STRVAR 36, 8}
-{STRVAR 37, 9}
-        
-   
-    
-SUMMARY
-TRADE
-CANCEL
-Yes
-No
-IN PARTY
-DEPOSIT POKéMON
-    
-        
-   
-SUMMARY
-OFFER
-CANCEL
-WANTED
-    
-     
-OFFER POKéMON
-    
-Lv. {STRVAR 52, 3}
-CANCEL
-ABC
-DEF
-GHI
-JKL
-MNO
-PQR
-STU
-VWX
-YZ
- 
-EITHER
+欢迎来到ＧＴＳ！
+寄放精灵的\n交换已经成立！
+{STRVAR 1,0}\n没有被交换\r
+{STRVAR 1,0}\n似乎逃跑了……\r
+想要查找？想要寄放？
+要对{STRVAR 1,0}\n做什么？
+要取出{STRVAR 1,0}吗？
+从ＷｉＦｉ连接\n中断可以吗？
+查找什么精灵？
+请选择想要的精灵
+请选择性别
+请决定精灵的等级
+请选择查找精灵！
+精灵查找中……
+没有找到！
+取消查找吗？
+和这只精灵交换吗？
+请选择交换精灵
+{STRVAR 1,0}要做什么？
+已经被交换……
+和要求精灵不同！
+请选择寄放精灵
+寄放{STRVAR 1,0}吗？
+这个条件可以吗？
+ＧＴＳ状态\n确认中……
+取掉精灵球贴纸\n可以吗？
+这只精灵\n不能被交换！\r
+精灵蛋\n不能被交换！\r
+持有精灵已满,\n无法接收精灵！\r
+电脑精灵盒已满,\n无法接收精灵！\r
+找到交换对方！
+ＷｉＦｉ连接接通
+请触摸选择对方
+请改变条件
+请放一段时间
+持有精灵已满,\n持有信件的精灵\f无法接收！\r
+持有精灵已满,没有接收
+具有特殊缎带的精灵\n无法交换！\r
+ＧＴＳ确认失败
+全球交易系统
+查看状态
+查找精灵
+结束
+{STRVAR 1,0}
+{STRVAR 0,1}
+Ｌｖ．{STRVAR 52,2}
+携带道具
+{STRVAR 8,3}
+所有者
+{STRVAR 3,4}
+想要的精灵
+{STRVAR 0,5}
+Ｌｖ.{STRVAR 52,6}以上
+任意等级
+取出
+继续
+是
+不是
+查找精灵
+精灵
+{STRVAR 0,0}
+性别
+{STRVAR 40,0}ぁ\x0000
+等级
+{STRVAR 41,0}ぁ\x0000
+查找
+返回
+{STRVAR 1,0}
+{STRVAR 0,1}
+Ｌｖ．{STRVAR 52,2}
+携带道具
+{STRVAR 8,3}
+寄放者
+{STRVAR 3,4}
+想要的精灵
+{STRVAR 0,5}
+{STRVAR 40,0}ぁ\x0000
+{STRVAR 41,0}ぁ\x0000
+所在地点
+{STRVAR 36,8}
+{STRVAR 37,9}
+持有\n精灵
+取消
+{STRVAR 11,0}
+查看状态
+交换
+取消
+是
+不是
+手持
+寄放精灵
+{STRVAR 11,0}
+持有\n精灵
+取消
+查看状态
+寄放
+取消
+想要的精灵
+{STRVAR 0,0}
+{STRVAR 41,0}ぁ\x0000
+寄放精灵
+{STRVAR 1,2}
+Ｌｖ．{STRVAR 52,3}
+返回
+ア
+カ
+サ
+タ
+ナ
+ハ
+マ
+ヤ
+ラ
+ワ
+无所谓
 ♂
 ♀
-CANCEL
-ANY
-Lv. 9 and under
-Lv. 10 and up
-Lv. 20 and up
-Lv. 30 and up
-Lv. 40 and up
-Lv. 50 and up
-Lv. 60 and up
-Lv. 70 and up
-Lv. 80 and up
-Lv. 90 and up
-LV. 100
-CANCEL
-                     
-                      
-                     
-                     
-                      
-                       
-Unfortunately, it was traded to\nanother Trainer.\r
-Saving...\nDo not turn off the power.
-                          
-The GTS is currently\nundergoing maintenance.\rPlease try again later.\r
-The GTS is very crowded now.\nPlease try again later.\r
-The search failed...
-Communication error...
-Communication error...\r
-Unable to connect to the GTS.\nReturning to the reception counter.\r
-You were disconnected from the GTS.\nReturning to the reception counter.\r
-You were disconnected from the GTS.
-Returning to the reception counter.
+返回
+无所谓
+Ｌｖ．１０以内
+Ｌｖ．１０以上
+Ｌｖ．２０以上
+Ｌｖ．３０以上
+Ｌｖ．４０以上
+Ｌｖ．５０以上
+Ｌｖ．６０以上
+Ｌｖ．７０以上
+Ｌｖ．８０以上
+Ｌｖ．９０以上
+Ｌｖ．１００
+返回
+精灵向ＧＴＳ传送中
+ＧＴＳ中精灵登录完毕！\r
+精灵从ＧＴＳ接收中
+从ＧＴＳ中取回精灵！\r
+和ＧＴＳ交换精灵中！
+精灵交换完毕！\r
+非常遗憾,\n已经与其他人交换完毕\r
+写入记录中\n请勿切断电源
+目前与ＧＴＳ的通信\n进行中……
+ＧＴＳ\n目前维护中,\f请稍后再来\r
+ＧＴＳ\n目前忙碌中,\f请稍候再来\r
+无法查找…
+发生通信错误
+发生通信错误\r
+无法接通ＧＴＳ\n返回接待处\r
+ＧＴＳ通信被中断\n返回接待处\r
+ＧＴＳ通信被中断
+返回接待处

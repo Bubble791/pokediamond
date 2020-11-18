@@ -1,8 +1,8 @@
-Oak: Ah, {STRVAR 3, 0}!\nIt’s good to see you!\rWithout any further ado, I’d like you\nto examine this stone tablet.\rSomething just like it was also\ndiscovered in the Kanto region.\rI want to ask for your help in\nsolving the mystery behind this.\r
-Oak: Ah, {STRVAR 3, 0}!\nIt’s good to see you!\rWithout any further ado, I’d like you\nto examine this stone tablet.\rSomething just like it was also\ndiscovered in the Kanto region.\rI want to ask for your help in\nsolving the mystery behind this.\r
-I tried deciphering the engravings on\nthe stone tablet.\rApparently, it is for a Trainer to\nengrave their thoughts after growing\fas a person through adventure.\rA Trainer fitting that description\nwould be you.\rThat’s why I’m asking you for your\nhelp.\rYou’ve met many people and Pokémon,\nand experienced many things that\fshaped you into the person you are.\rI want you to sincerely tell me who\naffected you the most.\rTell me, to whom do you most want\nto say your thanks?\r
-Hm...\rYou most want to express your\nthanks to {STRVAR 28, 1}?\rYou’re absolutely certain of it?
-Oak: ?!\nWhat was that Pokémon?\rIs it somehow connected to\nthe stone tablet?\rHmm... Where did that Pokémon go?\nIts destination is intriguing...
-Oak: What’s wrong? You’re not\nsuggesting there’s no one?\rTell me, to whom do you most want\nto say your thanks?\r
-The surface is unmarked.\nIt is polished like a mirror.
-{STRVAR 28, 1}, to whom I give\nmy thanks.
+大木『哦哦,\n{STRVAR 3,0}也来这里了啊！\r来晚了,\n看见这石碑了吗？\f关东地区也发现了相同的东西,\f我想需要借助你的力量！\r
+大木『哦哦,{STRVAR 3,0}\n也来这里了啊！\r来晚了,\n看见这石碑了吗？\f关东地区也发现了相同的东西,\f我想需要借助你的力量！\r
+我调查了石碑上的内容,\n上面好像刻着\f要对训练师表达感谢的记忆。\r这需要借助你的力量。\n许多的人和精灵相遇,\f彼此拥有了宝贵的回忆。\r就这样把你现在的感觉\n真实地表达出来吧！\r来！\n你想对谁表达这份谢意？\r
+嗯……\n你想对谁表达这份谢意？\f是{STRVAR 28,1}吗？\f真的可以啊？
+大木『！？\r刚才的精灵是？\n和这块石碑有什么关系吗？\r嗯……\n刚才的精灵出现前\f好像发生了什么,\f有些在意呢……
+大木『怎么了？\n没有想感谢的吗？\f你想对谁表达谢意？\r
+什么也没有发生……\n像镜子一样闪闪发光！
+{STRVAR 28,1}\n想要传达谢意的对象

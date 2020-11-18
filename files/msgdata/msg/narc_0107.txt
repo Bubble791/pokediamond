@@ -1,3 +1,3 @@
-I have something for your Pokémon\nto hold. Take this {STRVAR 8, 0}.\r
-The Pokémon that’s holding the\n{STRVAR 8, 0} will regain HP\fa little by inflicting damage.\rIt was given to me when I was on\nvacation, but I already had one.
-CLEFAIRY: Pippi!
+你最好给精灵带上{STRVAR 8,0}\r
+带着{STRVAR 8,0}的话,\n体力会一点点\f回复过来的,\r我是旅行时得到的,\n反正有两个,就给你一个吧！
+皮皮『皮皮！！

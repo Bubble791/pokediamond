@@ -1,13 +1,13 @@
-None
-East of England
-East Midlands
-Greater London
-North East England
-North West England
-Northern Ireland
-Scotland
-South East England
-South West England
-Wales
-West Midlands
-Yorkshire and the Humber
+无
+东英格兰
+东中部地区
+大伦敦
+东北英格兰
+西北英格兰
+北爱尔兰
+苏格兰
+东南英格兰
+西南英格兰
+威尔斯
+西米德兰兹
+约克郡与亨伯

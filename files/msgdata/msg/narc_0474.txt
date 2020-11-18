@@ -1,7 +1,7 @@
-Buck: Yo, if it isn’t {STRVAR 3, 0}!\rDon’t tell me you’re going to Stark\nMountain, too?\rYou’re pretty wimpy...\nYou’re sure you’re going to be OK?\rHeh, why am I asking you that?\nIt’s not like I care.\rAnyways, if we see each other on\nStark Mountain, the race is on to\fsee who gets the Magma Stone first!\r
-Wake: Oh, if it isn’t {STRVAR 3, 0}!\nIt’s been a while!\rYou’ve grown so tough that you’re\ntraining out here now...\rEveryone keeps getting tougher and\ntougher...\rAnd, in doing that, they develop\ncloser bonds with their Pokémon...\r
-{STRVAR 3, 1}: ...For someone born\noverseas, that tough dude doesn’t\fhave an accent or anything.\r
-{STRVAR 3, 0}, there’s a volcano\nahead of us called Stark Mountain.\rThat blowhard Buck guy is on his way\nthere, as well.\rI’m going to find the volcano’s\ntreasure before that guy does.\rIf I could do that, a 21-win streak\nat the Battle Tower’d be possible!\r
-Wake: ...You’re serious?\nYou’re going to Stark Mountain?\rEven the wild Pokémon there are\nvery, very tough...\rIf your Pokémon aren’t well trained,\nthey’ll have a miserable time...\rThen again, that kind of challenge\nis an exciting prospect...\rBut no matter what, you’d better\nbe fully prepared!\rI’ve got to get ready for another\ntournament. Farewell!\r
-Rt. 227\nStark Mountain
-                       
+麦可『哦！{STRVAR 3,0}！\n什么？\f你也要去坚硬山脉？\f看上去挺弱的,没事吧你？\f呀！反正跟我没关系,\r算了,要是在那儿见面的话,\n谁先找到火山石就算赢了！\r
+真树『哦哦！是{STRVAR 3,0}啊！\n好久不见了啊！\r是啊,为了变得更强\n我正在这里修行。\f大家不管到哪里都可以变强！\r而且,还有,\n我和精灵的友情也更深了……\r
+{STRVAR 3,1}『……\n大叔虽说是国外出生的\f可是很健谈啊。\r
+{STRVAR 3,0}！\n这前面是坚硬山脉的火山！\f那个叫麦可的家伙\f也去坚硬山脉了！\r先别管那家伙,\n还是先找火山的宝藏吧！\r另外战斗塔\n我已经２１连胜了！\r
+真树『……来了啊,\n要去坚硬山脉吗？\r那里有许多很强的精灵,\n不锻炼好你的精灵的话\f恐怕有点……\f不,是相当困难。\r嗯嗯！\n一定要打起精神做好准备！\r我还有点事,\n先告辞了！！\r
+这里是２２７号道路\n坚硬山脉
+这里是坚硬山脉\n有喷火的危险

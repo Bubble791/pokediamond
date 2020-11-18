@@ -1,7 +1,7 @@
-Hello.\nThis is the Canalave Library.\rPlease keep quiet while you’re on\nthe premises.
-H-hello!\nThis is the Canalave Library.\rPlease keep quiet while you’re on\nthe premises.\rIt certainly wasn’t me who screamed,\r{SIZE 200}“Gyaaah!!”{SIZE 100}\r{SIZE 200}{SIZE 100}or shouted,\r{SIZE 200}“Help meee!!”{SIZE 100}\r{SIZE 200}{SIZE 100}No, really, that wasn’t me\nscreaming!
+你好！\n这里是美央图书馆！\r在馆内阅览时\n请保持安静
+你,你好！\n这里是美央图书馆！\r在馆内阅览时\n请,请保持安静……\r我绝对\r{SIZE 200}“啊!!”{SIZE 100}\r{SIZE 200}{SIZE 100},\r{SIZE 200}“救命啊!!”{SIZE 100}\r{SIZE 200}{SIZE 100}!
 ...\r
-What is it? Please don’t disturb\nme when I’m reading.\r
-I’ve been asking people not to\ndisturb me while I’m reading...\rI shouldn’t even have bothered...\nI’m all agitated now!
-The ceiling-high bookshelves are\ncrammed with books.
-The shelves are lined with books\nworn from being read by many people.
+什么？\n别妨碍我看书\r
+都说了不要晃来晃去\n妨碍我看书！
+高得都快碰到天花板的\n书架里塞满了书
+被很多人读过的书\n大量得排列在架子上！

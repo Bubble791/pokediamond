@@ -1,67 +1,67 @@
-Oh, thank goodness that you happened\nto be there!\rIf it weren’t for you, who knows how\nfar away my BUNEARY could have run...\r
-Baby BUNEARY, back into the Poké\nBall you go!\r
-I’m Keira!\nI’m a Pokémon Contest Judge.\rPlease drop by the Contest Hall\nso I can thank you properly!\r
-Oh, I’m so sorry!\nPlease excuse me.\rAre you entering a Contest?\nTehehe... Enjoy yourself, please!\rIncidentally, Fantina, the Hearthome\nGym Leader, also happens to be\fa Contest expert.\rAnd you may ask yourself, how do\nI know this? Well, I am Fantina!\rYou may challenge me, but not yet!\nYou must become much stronger.\fThen, you may challenge me!\r
-{STRVAR 3, 0}: Ta-daah!\nKept me waiting again, {STRVAR 3, 1}!\rLet’s see how much tougher you and\nI have gotten, right here and now!\rHey, you’re a Trainer now. You’re\nexpected to be ready for a battle.\rNo whining! No waiting!\nLet’s get the show started!\r
-{STRVAR 3, 0}: Waaaagh!\nYou KO’d my team again?!\rThis messes up my dream of becoming\nthe greatest Trainer ever...\rNo! I just need to get tougher and\nkeep winning. One day...\rThat’s it! I’m going to challenge\nthe Veilstone Gym next!\rSee you around, {STRVAR 3, 1}!\rYou’ll be blown away by how much\ntougher I’ll be next time we meet!\r
-You’re kidding! They found an Egg at\nthe Day Care in Solaceon Town?
-I hear they found Eggs in the Johto\nregion, too.
-Cynthia: I’m so glad to see you!\nYou’re not very easy to track down.\rMy grandma told me about what took\nplace in Celestic Town.\rThanks for what you did in the ruins!\r
-But that Team Galactic...\rI thought they were just an\neccentric bunch of freaks...\rYou know, talking about how they’re\ngoing to make a new universe and all.\rAnd that weird way they dress, too.\nI thought they were harmless.\rIt appears as if they’re a lot more\ntrouble than I thought...\rI mean, stealing and hoarding\nPokémon... That’s just plain wrong.\r
-By the way, did you find the ruins\ninteresting at all?\rIf you did, you may want to visit the\nlibrary in Canalave City.\rThey have some ancient books that\nyou might find interesting.\rIt may also be of help to the\ncompletion of your Pokédex.\rI think you ought to go there.\nOK, bye-bye for now!\r
-You’re a Trainer, are you?\rYou’ve got two choices of challenges,\neither the Gym or a Contest, right?
-I was given the HM Strength at\nthe Lost Tower.\rThe Lost Tower is on Route 209 on\nthe way to Solaceon Town.
-                                                     
-There are just so many Accessories\nto dress up Pokémon with.\rI can’t decide what I should use.
-I get to see Pokémon all day long,\nbut there sure are many kinds.\rHow many are there now?
-I used a Water Stone on my Pokémon,\nand it evolved!
-I’m visiting here all the way from\nthe Hoenn region.\rI had been hoping to find the Contest\nHall, but being new, I lost my way.\rFortunately, the local people very\nkindly led me to my destination.\rI was impressed by their kindness and\ngenerosity to a complete stranger.\rNow, may I offer you the courtesy\nof showing you to the Contest Hall?
-Ah.\nPlease follow me.\r
-This is the Contest Hall.\nPlease, do go inside.
-It makes me happy knowing I’ve\nhelped another person.
-Oh, I do apologize.\nI should mind my own business.
-When I take my baby out in his stroller,\nI see the town in a different way.\rI notice things like stairs and bumps\nin the sidewalk.
-Apapapu!
-I went for a stroll in Amity Square\nwith my PACHIRISU today.\rWe came across a Pokémon feather\nwhile we walked.\rDo you think it’d make my PACHIRISU\nlook any cuter?
-PACHIRISU: Kyukyuuh!
-Hi, hi.\nDo you want a Pokémon Egg?\rThey found this at the Day Care in\nSolaceon Town...\rWant to take it?
-Here you go!
-This is what I heard about Eggs.\rIf you take that Egg and travel\nwith energetic Pokémon, it’ll hatch.\rI remember someone announced that...\nProfessor Elm of Johto maybe?
-Hold up. You don’t seem to have\nenough room for the Egg.
-All right, then. I’ll just keep waiting\nfor someone to take care of this Egg.\rOh? Wait a minute. If I wait around,\nwill the Egg hatch for me?
-They call me Mr. Goods.\rNo one knows my real name.\nNo, not even I do...\rI dedicate myself to seeking rarities.\nIt’s what I live for.\r
-Hm!\nHmhmhmhm?!\r
-                   
-I was going to give you something,\nbut I just gave a rare thing away.\rI’ll find something else for you,\nso just talk to me some other time.
-            
-                      
-Oh? Your underground PC appears\nto be full.\rI’ll hold your gift until you make\nroom for it. Tell me when, OK?
-                                             
-I’ll find something rare for you,\nso talk to me some other time.
-Oh!\nHow impressive!\rYour adventure has gone global in\nscale, has it?\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve conquered all the Gyms,\nhave you?\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally conquered the Master\nRank of the Cute Contest!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally conquered the Master\nRank of the Cool Contest!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally conquered the Master\nRank of the Beauty Contest!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally conquered the Master\nRank of the Tough Contest!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally conquered the Master\nRank of the Smart Contest!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve met so very many people\nin the underground tunnels!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve given away many items to\npeople while underground!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve dug up so many Fossils in\nthe underground tunnels!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve set many Traps in the\nunderground tunnels!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally beaten 10 Trainers in\na row at the Battle Tower!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow impressive!\rYou’ve finally beaten 50 Trainers in\na row at the Battle Tower!\rFor a Trainer like you, I have just\nthe thing!\r
-Oh!\nHow incredible!\rYou’ve finally beaten 100 Trainers in\na row at the Battle Tower!\rFor a Trainer like you, I have just\nthe thing!\r
-I can feel the baby stroller getting\nheavier each and every day.\rI wonder what kind of Pokémon my\nchild will become friends with first?
-Papa! Mama!
-I lived in total seclusion up in\nthe mountains for thirty years!\rI’m going to clean up some Contests\nwith a dance move I came up with!
-I’d like to live in Hearthome when\nI get married.\rBut my boyfriend wants to live in\nVeilstone ’cause of its Game Corner...
-Hearthome City\nWarm & Kind
-Hearthome City Pokémon Gym\nLeader: Fantina\fThe Alluring, Soulful Dancer!
-Pokémon Contest Hall\nCalling All Enthusiasts!
-Pokémon Fan Club\nAll Trainers Welcome
-Rt. 208\nRt. 212
-Rt. 209\nSolaceon Town
-Amity Square West Gate\nStroll with Your Pokémon!
-Amity Square East Gate\nStroll with Your Pokémon!
-The Poffin House\nDelicious Poffins--Smiles for All
+太好了！\n幸好有你帮忙！\f要不然卷耳兔不知道\f会跑到哪儿去了……\r
+卷耳兔,回来！\r
+我是咪咪！\n现任华丽大赛的裁判！\r为了还礼给你,\n请一定要来华丽大赛哦！\r
+啊呀,不好意思！\n你是来看华丽大赛的？\f呵呵,请好好期待吧！\r你知道吗,\n绿缘市的道馆馆主梅利莎\f在华丽大赛上也是超ー强的！\r至于我嘛,\n嗯,期待你变得更强的那天！\f到那时再跟你对战吧！\r
+{STRVAR 3,0}『耶！！\n等着你呢！{STRVAR 3,1}！！\r咱们在这儿比比\n现在谁更强吧！\r只要是口袋训练师,\n不管啥时候都要做好战斗准备！\f时间到,战斗！！\r
+{STRVAR 3,0}『哇！\n怎么又输了！\r要是这么下去\n我最强训练师的梦想……\r不！我还会更强的,\n总有一天……\r好！然后是去找户张市的\n道馆馆主挑战！\r闪了,{STRVAR 3,1}！\n下次见面的时候\f我会让你被我的强大吓一跳的！\r
+什么！在花蕊镇的\n精灵饲育屋里发现了蛋！？
+在关东地区\n似乎也发现了蛋
+茜罗娜『见到你真高兴！\n找你好久了,\r我从老婆婆那里听说了\n冠凤镇发生的事情,\f非常感谢在遗址的帮助！\r
+话说回来……\n银河团……！！\r说什么创造宇宙,\n穿着奇怪的衣服,\f说着奇怪的话,\r反正我是这么认为的,\n真是让人头疼啊！\f想独霸世界可是不好的呢！\r
+对了,你对遗址那里感兴趣吗？\n那样的话我就放心了。\r在美央市有个图书馆,\n可以读到很久很久以前的书哦,\f对你完成图鉴应该会有帮助的！\r请一定去看看哦,\n再会啦！\r
+口袋训练师！？原来如此,\n口袋道馆和华丽大赛\f参加哪个好呢？
+我在精灵墓塔得到了\n怪力的秘传训练机０４,\r嗯,精灵墓塔在２０９号道路,\n从这里向着花蕊镇出发\f在途中你会看到的……
+好美啊！\n这里实在太美丽了！！\r精灵和人类\n还有大自然融为了一体！！
+让口袋妖怪们亲密度提高的道具\n有这么多,该怎么办呢？
+每天看着那么多的精灵,\n口袋妖怪的种类真的很多啊！\f到底有多少种呢？
+刚才对我的精灵使用水之石,\n它竟然进化了！
+我是从方圆地区来的,\n我找华丽大赛赛场\f找得晕头转向的时候\f有人把我带到了那里！\r好感动哦！\n所以让我也带你去吧？
+那么跟我走吧！\r
+这里就是大赛的赛场！\n快进去吧！
+热心帮助别人……\n这么做会使我自己感到莫名的高兴
+啊啊我真是没事找事！
+在四处转转的时候\n总觉得城市在不断变化,\r比如走楼梯的时候\n也会不自觉地注意脚下的落差！
+哇ー哇ー！
+和电栗鼠一起\n在散步广场谈心散步的时候\f捡到了口袋妖怪的羽毛！\r把这个给电栗鼠戴上后\n变得更可爱了呢！
+电栗鼠『啾啾！
+喂,\n你有精灵的蛋吗？\r这是在花蕊镇的饲育屋\n那里收到的……\r能不能替我送去？
+给,谢谢！
+有个听过无数遍的故事,\n让有精神的精灵\f带着蛋旅行的话,\f精灵就会从蛋里出生,\r关东地区的空木博士\n也是这么说的。
+哎呀！携带的精灵\n好像已经满了！
+这样啊,\n能够照看蛋的人\f首先要心平气和才行。\r嗯？光是等着会不会\n有精灵从蛋里出来呢？
+别人都叫我\n家具爱好者,\r至于真正的名字\n谁也不知道,\f就连我自己也忘了……\r寻找喜爱的东西！\n这才是生活啊！\r
+嗯！\n嗯嗯嗯嗯！？\r
+我就把这个给你吧！\r
+到底应该给你什么呢,\n很不巧刚把珍稀的\f家具给了别人,\r我再去找找,\n请下次再来找我吧！
+得到了{STRVAR 25,0}！
+{STRVAR 25,0}\n传送到地下世界的电脑里了！
+啊呀？\n地下电脑已经塞满了,\r我先替你保管着,\n请下次再来找我吧！
+竟然！\n竟然如此美丽！\r我要给你礼物,\n家具要多少有多少！
+对了！\n我要去找珍稀的家具了,\f请下次再来找我吧！
+哦！\n你终于达到世界级\f的活跃程度了！\r我就把这个\n送给你吧！\r
+哦！\n你终于打败了\f所有的道馆馆主了！\r我就把这个\n送给你吧！\r
+哦！\n你终于得到了华丽大赛\f可爱级别的大师级称号了！\r我就把这个\n送给你吧！\r
+哦！\n你终于得到了华丽大赛\f帅气级别的大师级称号了！\r我就把这个\n送给你吧！\r
+哦！\n你终于得到了华丽大赛\f美丽级别的大师级称号了！\r我就把这个\n送给你吧！\r
+哦！\n你终于得到了华丽大赛\f强壮级别的大师级称号了！\r我就把这个\n送给你吧！\r
+哦！\n你终于得到了华丽大赛\f聪明级别的大师级称号了！\r我就把这个\n送给你吧！\r
+哦！\n你在地下世界\f遇到过这么多人了呀！\r我就把这个\n送给你吧！\r
+哦！\n你在地下世界\f和许多人交换过道具了呀！\r我就把这个\n送给你吧！\r
+哦！\n你在地下世界\f挖到了这么多化石呀！\r我就把这个\n送给你吧！\r
+哦！\n你在地下世界\f设置了这么多机关呀！\r我就把这个\n送给你吧！\r
+哦！\n你终于在战斗塔\f达到１０连胜的成绩了呢！\r我就把这个\n送给你吧！\r
+哦！\n你终于在战斗塔\f达到５０连胜的成绩了呢！\r我就把这个\n送给你吧！\r
+哦！\n你终于在战斗塔\f达到１００连胜的成绩了呢！\r我就把这个\n送给你吧！\r
+蛋出生的那一刻\n感觉越来越近了！\r啊！\n这孩子是旅程最初的伙伴啊！
+爸ー爸,妈ー妈！
+我在这山里呆了３０年！\r终于在华丽大赛上\n靠自编的舞蹈获胜了！
+如果要结婚的话\n我想在绿缘市生活,\r但是男朋友却想住在\n有游戏中心的户张市……
+这里是绿缘市\n能够净化心灵的地方
+绿缘市的口袋道馆\n馆主 梅丽莎\f媚惑的华丽舞者
+「口袋妖怪华丽大赛赛场」\n聚集了精灵们的骄傲！
+「超喜欢口袋妖怪俱乐部」\n正如其名！
+２０８号道路\n２１２号道路
+２０９号道路\n通往花蕊镇
+「散步广场 西大门」\n和可爱的精灵愉快地散步
+「散步广场 东大门」\n和可爱的精灵愉快地散步
+「松饼料理屋」\n美味的松饼是欢乐之源

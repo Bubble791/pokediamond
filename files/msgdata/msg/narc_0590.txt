@@ -1,16 +1,16 @@
-Enter the Battle Room Number.\n...B Button: Cancel
-Downloading Rank {STRVAR 51, 1},\nRoom {STRVAR 52, 0} data...
-You may not challenge that Battle\nRoom until the next update.\r
-Data has been downloaded.\r
-Cancel your challenge?
-Enter the Rank of the Battle Room\nto check your records.
-Enter the Battle Room Number.
-Uploading your records...
-Data has been uploaded.\r
-Cancel downloading?
-Nintendo Wi-Fi Connection
-The Wi-Fi Battle Tower is currently\nundergoing maintenance.\rPlease try again later.\r
-The Wi-Fi Battle Tower is very\ncrowded.\rPlease try again later.\r
-Unable to connect to the Wi-Fi\nBattle Tower.\rReturning to the reception counter.\r
-You were disconnected from\nthe Wi-Fi Battle Tower.\rReturning to the reception counter.\r
-That number cannot be specified for\nthe Wi-Fi Battle Tower.\r
+请选择\n战斗房间号 Ｂ键=取消
+等级{STRVAR 51,1}房间{STRVAR 52,0}的数据\n下载中……
+该战斗房间在更新前\n无法挑战\r
+数据下载完毕！\r
+挑战中止吗？
+请选择想要查看成绩的\n战斗房间的等级
+请选择\n战斗房间号
+数据上传中……
+数据上传完毕！\r
+中止下载吗？
+ＷｉＦｉ连接接通
+ＷｉＦｉ战斗塔\n目前维护中,\f请稍后再来使用\r
+ＷｉＦｉ战斗塔\n目前忙碌中,\f请稍后再来使用\r
+ＷｉＦｉ战斗塔\n无法连接,\f返回接待处\r
+ＷｉＦｉ战斗塔\n通信中断,\f返回接待处\r
+ＷｉＦｉ战斗塔\n无法使用\r

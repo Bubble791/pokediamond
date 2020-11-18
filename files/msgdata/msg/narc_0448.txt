@@ -1,5 +1,5 @@
-Is that right? You’re a traveler?\nYes, it’s good to see other places!\r
-Do you know about Mt. Moon in\nthe Kanto region?\rCLEFAIRY dancing under the moon...\nIt’s something I must see in my life.
-Have you heard of the Tin Tower\nin the Johto region?\rThe rainbow-colored Pokémon...\nI must see that during my lifetime.
-Do you know about the Space Center\nin the Hoenn region?\rA rocket launching into space...\nI must see that during my lifetime.
-Have you heard of the Whirl Islands\nin the Johto region?\rThe silver-colored Pokémon...\nI must see that during my lifetime.
+哦！你也在旅行啊。\n是啊,真是一次愉快的旅行！\r
+关东地区的月见山\n你知道吗？\r皮皮的舞蹈啊……\n有生之年真想看一眼啊。
+城都地区的铃铛塔\n你知道吗？\r有七彩色的精灵……\n有生之年真想看一眼啊。
+方圆地区的宇宙中心\n你知道吗？\r飞行火箭啊……\n有生之年想看一眼啊。
+城都地区的漩涡岛\n你知道吗？\r银色的精灵啊……\n有生之年想看一眼啊。

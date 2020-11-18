@@ -1,21 +1,21 @@
-{STRVAR 3, 0}
-ID: {STRVAR 54, 0}
-When the group is ready:\nA Button: Proceed   B Button: Cancel
-Are these members OK?
-Cancel record mixing?
-Record mixing will be canceled.
-There is a member who can no\nlonger remain available.
-There are no members.\nRecord mixing will be canceled.
-Please wait.\n... ... B Button: Cancel
-A member is no longer available.\nRecord mixing will be canceled.
-Cancel record mixing?
-Record mixing will be canceled.
-Mixing records...\nDon’t turn off the power!
-Record mixing completed!\nReturning to the Union Room.
-If the leader quits, the group will\ndisband. Is that OK?
-{STRVAR 3, 0} has left.
-{STRVAR 1, 0} the leader has left.\nThe group will disband.
-Seeking record-mixing friends!
-Record mixing under way!
-Yes
-No
+{STRVAR 3,0}
+ＩＤ{STRVAR 54,0}
+成员确认\nＡ键…进入 Ｂ键…取消
+这个成员可以吗？
+中止\n记录通信吗？
+那么,\n记录通信中止
+通信失败\n成员仍在
+成员消失\n记录通信中止
+请稍候\nＢ键…取消
+无法通信\n记录通信中止
+取消记录通信吗？
+那么,\n记录通信中止
+混合记录中,\n请勿切断电源！
+记录通信结束！\n移动到联机大厅
+组长退出的话,全体解散,\n这样可以吗？
+{STRVAR 3,0}回来了
+组长{STRVAR 1,0}退出,\n全体解散
+记录通信等待中！
+记录通信中！
+是
+不是

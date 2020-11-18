@@ -1,96 +1,96 @@
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-Choose a Pokémon.
-Use on which Pokémon?
-{STRVAR 5, 0}
-{STRVAR 8, 0}
-    
-    
-    
-    
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+{STRVAR 1,0}
+请选择精灵
+使用哪只精灵？
+{STRVAR 5,0}
+{STRVAR 8,0}
+{STRVAR 6,0}
+{STRVAR 6,0}
+{STRVAR 6,0}
+{STRVAR 6,0}
 PP
-SHIFT
+替换
 ♂
 ♀
-SUMMARY
-CHECK MOVES
-No item held
-{STRVAR 1, 0}
-{STRVAR 1, 0}
-Lv.
-{STRVAR 52, 0}
-NEXT LV
-{STRVAR 55, 0}
-{STRVAR 5, 0}
+查看状态
+查看技能
+没有携带物品
+{STRVAR 1,0}
+{STRVAR 1,0}
+Ｌｖ．
+{STRVAR 52,0}
+升级经验
+{STRVAR 55,0}
+{STRVAR 5,0}
 HP
-{STRVAR 52, 0}
-{STRVAR 52, 0}
-/
-ATTACK
-{STRVAR 52, 0}
-DEFENSE
-{STRVAR 52, 0}
-SP. ATK
-{STRVAR 52, 0}
-SP. DEF
-{STRVAR 52, 0}
-SPEED
-{STRVAR 52, 0}
-{STRVAR 6, 0}
+{STRVAR 52,0}
+{STRVAR 52,0}
+／
+攻击
+{STRVAR 52,0}
+防御
+{STRVAR 52,0}
+特攻
+{STRVAR 52,0}
+特防
+{STRVAR 52,0}
+速度
+{STRVAR 52,0}
+{STRVAR 6,0}
 PP
-{STRVAR 51, 0}
-{STRVAR 51, 0}
-/
-  
-POWER
-{STRVAR 52, 0}
+{STRVAR 51,0}
+{STRVAR 51,0}
+／
+--
+威力
+{STRVAR 52,0}
 ---
-ACCURACY
-{STRVAR 52, 0}
-CATEGORY
-PHYSICAL
-STATUS
-SPECIAL
-APPEAL PTS
-FORGET
-CANCEL
-HM moves can’t be\nforgotten now.
-{STRVAR 6, 0}
-{STRVAR 51, 0}
-{STRVAR 51, 0}
-{STRVAR 6, 0}
-{STRVAR 51, 0}
-{STRVAR 51, 0}
-{STRVAR 6, 0}
-{STRVAR 51, 0}
-{STRVAR 51, 0}
-{STRVAR 6, 0}
-{STRVAR 51, 0}
-{STRVAR 51, 0}
-{STRVAR 6, 0}
-{STRVAR 51, 0}
-{STRVAR 51, 0}
-{STRVAR 1, 0} is already\nin battle!
-{STRVAR 1, 0} has no energy\nleft to battle!
-{STRVAR 1, 0} can’t be switched\nout!
-An Egg can’t battle!
-You can’t switch {STRVAR 3, 0}’s\nPokémon with one of yours!
-It won’t have any effect.
-{STRVAR 1, 0}’s HP was restored\nby {STRVAR 52, 1} point(s).
-{STRVAR 1, 0} was cured of its\npoisoning.
-{STRVAR 1, 0} was cured of\nparalysis.
-{STRVAR 1, 0}’s burn was healed.
-{STRVAR 1, 0} was thawed out.
-PP was restored.
-{STRVAR 1, 0} recovered from\nfainting!
-{STRVAR 1, 0} became healthy.
-{STRVAR 1, 0} snapped out of its\nconfusion.
-{STRVAR 1, 0} got over its\ninfatuation.
-{STRVAR 1, 0} woke up.
-{STRVAR 1, 0} has already been\nselected.
-Restore which move?
-{STRVAR 6, 1}’s effect prevents\nthe item’s use on {STRVAR 1, 0}!
+命中
+{STRVAR 52,0}
+分类
+物理
+变化
+特殊
+魅力点数
+忘记
+取消
+这是秘传训练机技能,\n不能忘掉！
+{STRVAR 6,0}
+{STRVAR 51,0}
+{STRVAR 51,0}
+{STRVAR 6,0}
+{STRVAR 51,0}
+{STRVAR 51,0}
+{STRVAR 6,0}
+{STRVAR 51,0}
+{STRVAR 51,0}
+{STRVAR 6,0}
+{STRVAR 51,0}
+{STRVAR 51,0}
+{STRVAR 6,0}
+{STRVAR 51,0}
+{STRVAR 51,0}
+{STRVAR 1,0}\n正在场上战斗！
+{STRVAR 1,0}\n无法战斗！
+{STRVAR 1,0}\n不能替换！
+蛋不能参加战斗
+{STRVAR 3,0}的精灵\n无法替换！
+使用无效
+{STRVAR 1,0}的体力\n回复了{STRVAR 52,1}！
+{STRVAR 1,0}的中毒\n清除了！
+{STRVAR 1,0}的麻痹\n消除了！
+{STRVAR 1,0}的烧伤\n治愈了！
+{STRVAR 1,0}的冰冻\n解除了！
+技能点恢复了！
+{STRVAR 1,0}\n恢复精神了！
+{STRVAR 1,0}\n恢复健康了！
+{STRVAR 1,0}的混乱\n解除了！
+{STRVAR 1,0}\n可以继续战斗了！
+{STRVAR 1,0}\n睡醒了！
+已经选择了\n{STRVAR 1,0}
+需要回复哪项技能？
+{STRVAR 6,1}的效果\n对{STRVAR 1,0}无法使用！

@@ -1,10 +1,10 @@
-Welcome!\nThis is the Oreburgh Pokémon Gym!\rI’m Roark, the Gym Leader!\rI’m but one Trainer who decided to\nwalk proudly with Rock-type Pokémon!\rAs the Gym Leader, I need to see\nyour potential as a Trainer.\rAnd, I’ll need to see the toughness\nof the Pokémon that battle with you!\r
-This is embarrassing...\rI went and lost to a Trainer who\ndidn’t have a single Gym Badge...\rBut that’s tough. You were strong,\nand I was weak. That’s all there is.\rAccording to Pokémon League rules,\nI have to give you our Gym Badge\fsince you’ve beaten me, the Leader.\rHere’s your official Pokémon League\nCoal Badge.\r
-{STRVAR 3, 0} received\nthe Coal Badge from Roark!
-Having that Coal Badge means your\nPokémon can now use the hidden move\fRock Smash outside of battle.\rYou should also take this, too.\r
-That {STRVAR 8, 0} contains\nthe move Stealth Rock.\rIt’s a move that inflicts damage on\nfoes that switch into battle.\rIncidentally, a TM will teach its move\nto a Pokémon instantly.\rBut a TM will break when you use it,\nso make certain you want a Pokémon\fto learn that move.
-In this region of Sinnoh, there are\nseven other Gym Leaders.\rI should warn you--they’re a lot\ntougher than I am!
-Howdy!\nHow’s it going, Champ-to-be?\rThat’s what I said to a really\nimpatient boy earlier, too.\rThe Gym Leader is a user of\nRock-type Pokémon.\rWell, listen. Rock-type Pokémon\nreally hate water, all right?\rThey’re also weak to Grass-type\nmoves.\rGee, they sure have weaknesses!\rBut don’t think it will be easy.\rYou don’t get to be a Gym Leader\nwithout covering for weaknesses.\rGoing after a Rock-type Pokémon\nwith a Fire-type Pokémon won’t be\feasy, either.\rThat’s all the advice I can give.\nThanks for listening!
-Oh! {STRVAR 3, 0}!\nYou’ve taken care of the Gym Leader!\rSo, did my advice come in handy\nor what?\rIf my advice was useful, it’d be\ngreat if you’d become my fan!
-Oreburgh Pokémon Gym\nLeader: Roark\rCertified Trainers:\n{STRVAR 3, 1}
-Oreburgh Pokémon Gym\nLeader: Roark\rCertified Trainers:\n{STRVAR 3, 0}\f{STRVAR 3, 1}
+欢迎来到\n黑金市口袋道馆！\r我是道馆馆主平田！\n我使用的是岩石属性的精灵,\f同它们一起不断成长！\r让我来检验一下\n你作为口袋训练师的实力,\r还有和你一起战斗的\n精灵的力量吧！\r
+输了啊……\n输给一个道馆徽章都\f还没获得的训练师了呢！\r看来不怎么走运呢！\n你很强,我很弱……\r不过呢,\n按照道馆馆主的规矩,\f要把徽章交给战胜馆主的训练师！\r哈,精灵联盟认证的\n煤炭徽章就交给你了！\r
+{STRVAR 3,0}从平田那里\n获得了煤炭徽章！
+带着这个煤炭徽章的话\n就可以随意使用\f秘传技能「碎岩」了！\r还有把这个也拿去吧！\r
+这个{STRVAR 8,0}里面是\n隐蔽岩砾！！\r能够给与交换出场的精灵\n以伤害的技能！\r不过,如果使用了这个\n技能训练机的话,\f能让精灵马上学会这项技能,\f但是就不能再次用了,\r所以使用之前要好好考虑！
+在神奥地区,\n还有另外的７个口袋道馆馆主,\r他们也都是实力非常强大的\n口袋训练师哟！
+你好！\n未来的冠军！\r刚才那个急性子的\n少年也说过,\f这里的馆主\f是使用岩石系的吧！\r岩石系的精灵\n很怕水系还有草系的攻击。\r总之弱点很多！\n但是绝对不能大意！\r毕竟是能够当上道馆馆主的人,\n会知道如何防御自己的弱点！\r但是如果是火系的话\n也许会有些困难吧！\r我的建议就是这些了！\n不客气！
+喂！{STRVAR 3,0}！\n战胜馆主了吗！\r我的建议有用吗？\n要是对你有帮助的话\f以后就做我的粉丝吧！
+黑金市口袋道馆\r馆主 平田\n认定训练师！\f{STRVAR 3,1}
+黑金市口袋道馆\r馆主 平田\n认定训练师！\f{STRVAR 3,0}\f{STRVAR 3,1}

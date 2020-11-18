@@ -1,38 +1,38 @@
-MATCH UP
-NO. 1
-PREPARATION
-WINS
-NO MATCH
-SPIRIT
-ACE CARD
-COME ON
-ATTACK
-SURRENDER
-COURAGE
-TALENT
-STRATEGY
-MATCH
-VICTORY
-SENSE
-VERSUS
-FIGHTS
-POWER
-CHALLENGE
-STRONG
-TAKE IT EASY
-FOE
-GENIUS
-LEGEND
-BATTLE
-FIGHT
-REVIVE
-POINTS
-SERIOUS
-LOSS
-PARTNER
-INVINCIBLE
-EASY
-WEAK
-EASY WIN
-MOVE
-TRAINER
+昵称
+最
+觉悟
+胜
+打不过
+气势
+王牌
+来吧！
+攻击
+投降
+斗志
+才能
+战术
+胜负
+胜利
+感觉
+对战
+对战
+力量
+挑战
+强大
+马虎
+敌人
+天才
+传说
+战斗
+打斗
+复活
+点数
+说实话
+失败
+看法
+无敌
+绰绰有余
+太弱了
+轻松取胜
+技能
+训练师

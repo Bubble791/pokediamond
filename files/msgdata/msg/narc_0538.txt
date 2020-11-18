@@ -1,2 +1,2 @@
-There’s a move that doubles in power\nif the Pokémon using it is poisoned,\fparalyzed, or burned.\rI’ve got the Technical Machine for\nit right here. You want it?\r
-Facade’s a good move for your\nPokémon to have.\rIt makes it tough for the opponent\nto use status-affecting moves.
+中毒,麻痹的时候\n技能的威力会加倍,\f那样的技能训练机想要吗？\r
+你的精灵使用空元气的话\n对手说不定也会麻痹和中毒！

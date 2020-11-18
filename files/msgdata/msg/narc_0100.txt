@@ -1,9 +1,9 @@
-Question: 3 plus 5 plus 7 is?\nAnswer: ←2 ↑16 →15
-Correct!\nCongratulations!
-Please answer the quiz!
-Hey, there!\nHow’s it going, Trainer?\rYou being here tells me you’re going\nto challenge the Gym Leader.\rWell... I hate to break it to\nyou, but that’s impossible.\rYou’re questioning why, and the\nanswer is: she’s not here.\rCome back another time, OK?\nI’ll be right here waiting.
-So, where’s the Gym Leader, you ask.\rI can’t precisely say, but I have a\nhunch that she’ll return one day...\rBut only after you visit other\nplaces, I think.\rHey, I’m sorry I’m not useful to you.\nMy advice giving needs work...
-Hey, there!\nHow’s it going, Champ-to-be?\rThe Gym Leader here is a user of\nGhost-type Pokémon.\rBeware, Normal-type moves have no\neffect at all on ghosts!\rIt’s as if they weren’t there!\nBut you’ll have to see for yourself.\rGo get ’em, challenger!\nI believe in you!
-Oh! {STRVAR 3, 0}!\nYou’ve beaten the Gym Leader!\rThere seems to be no end to how\ntough you are getting!\rAt least that’s how I see it!\r...You do realize I say that to\neveryone, right?
-Hearthome City Pokémon Gym\nLeader: Fantina\rCertified Trainers:\n{STRVAR 3, 1}
-Hearthome City Pokémon Gym\nLeader: Fantina\rCertified Trainers:\n{STRVAR 3, 0}\f{STRVAR 3, 1}
+问题「３＋５＋６=？\n答案「←２ ↑１６ →１５
+答对了！\n恭喜恭喜！
+请看问题！
+你好！口袋训练师！\n既然来到这里就意味着\f你要挑战这里的道馆馆主,\r但是非常抱歉\n目前这是不可能的,\r你一定会问为什么,\n那我就告诉你,\f因为馆主不在！\r下次再来吧,\n我等着你的再次到来！
+馆主在哪里呢……\n不能明确的告诉你,\f你到城市随便逛逛吧,\f说不定会突然回来的……\r非常抱歉！没能帮上你什么忙,\n我提建议的水准果然还差得远啊！
+你好！未来的冠军！\n这里的道馆馆主\f擅长的是鬼系！\r居然！竟然！\n鬼系的精灵不怕普通系的攻击！\r剩下的就靠你自己去摸索了！\n我相信你的实力！
+哦！{STRVAR 3,0}！\n你打赢馆主了呀！\r怎么说呢,\n你还会更加强大的！\r我有这种预感,\n虽然我对每个人\f都是这么夸奖的……
+绿缘市 口袋道馆\r馆主 梅丽莎\n认定训练师！\f{STRVAR 3,1}
+绿缘市 口袋道馆\r馆主 梅丽莎\n认定训练师！\f{STRVAR 3,0}\f{STRVAR 3,1}

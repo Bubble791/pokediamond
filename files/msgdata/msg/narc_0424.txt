@@ -1,5 +1,5 @@
-You need a Bicycle to go out on\nCycling Road!
-You need a Bicycle to go out on\nCycling Road!\r
-Learn how to shift gears, and you’ll\nbe able to ride anywhere.
-What’s a Bicycle without this?\rYou’ve got to have a Flag!\nIt’s a Pokémon Accessory!\r
-Go through Mt. Coronet from here,\nand you can get to Hearthome City.\rHearthome is where they hold Pokémon\nContests.\rYou should dress up your Pokémon for\nContests with your Accessories.
+单车道就是\n自行车专用道路的意思！\f请骑车通过
+单车道就是\n自行车专用道路的意思！\f请骑车通过
+合理使用变速器的话\n什么样的路都不在话下！
+说起自行车就要数这个！\n有精灵装饰的黑色自行车！\r
+从这里穿过殿元山\n到达绿缘市的话\f那里有口袋道馆呢！\r要用收集到的饰品\n好好打扮精灵！

@@ -1,2 +1,2 @@
-If you throw food at Pokémon, it\nmakes them easier to catch...\rBut they’re also more likely to\nbolt when they eat.\rIf you throw mud at them, they\nalso get easier to catch...\rBut they also get more likely to\nbolt out of anger.\rIt’s hard to decide what I should\nbe doing.
-Great Marsh Area 3
+丢给精灵食物的话\n会更容易捉到,\f但也容易让它吃了就跑,\r向精灵扔泥球的话\n会更容易捉到,\f但也容易生气地跑掉,\r呜,不知道怎么办啊……！
+这里是大湿原 区域３

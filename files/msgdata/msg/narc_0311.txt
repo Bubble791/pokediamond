@@ -1,6 +1,6 @@
-{STRVAR 0, 0} will be\nsent to {STRVAR 3, 2}.
-Bye-bye, {STRVAR 0, 0}!
-{STRVAR 3, 2} sent over\n{STRVAR 0, 1}.
-Take good care of {STRVAR 0, 1}!
-{STRVAR 0, 0} will be put on offer.
-{STRVAR 0, 1} was taken out.
+{STRVAR 0,0}传送到\n{STRVAR 3,2}了！
+拜拜！{STRVAR 0,0}！
+{STRVAR 0,1}\n从{STRVAR 3,2}传送来了！
+{STRVAR 0,1}\n太可爱了！
+放下了{STRVAR 0,0}
+取出了{STRVAR 0,1}！

@@ -1,3 +1,3 @@
-Question: 12 plus 28 is?\nAnswer: ←30 ↑40 →50
-Correct!\nCongratulations!
-Please answer the quiz!
+问题「１２＋２８=？\n答案「←３０ ↑４０ →５０
+答对了！\n恭喜恭喜！
+请看问题！

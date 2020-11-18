@@ -1,2 +1,2 @@
-You managed to come out here?\nThat takes focus!\rFor someone like you, this\n{STRVAR 8, 0} might be perfect.\rLet a Pokémon hold it, yah?\r
-There are items that are useful only\nwhen they’re held by Pokémon.\rTry finding other items like that\nand spice up your adventure!
+特地跑到这种地方来吗？\n精神可嘉啊！\r给这样的你的精灵\n带上这个{STRVAR 8,0}\f会更好的！\r
+去寻找各种各样的\n只有精灵才可以携带的道具,\f冒险也会变得更有趣！
